@@ -1,0 +1,10 @@
+baseURL = "https://dcs.linkea.org/"
+languageCode = "fr-fr"
+title = "DCS.linkea.org"
+
+theme = "hugo-theme-learn"
+
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+themeVariant = "blue"

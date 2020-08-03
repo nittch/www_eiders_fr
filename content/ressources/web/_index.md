@@ -1,0 +1,31 @@
++++
+title = "Sur le web..."
+pre = "<i class='fas fa-globe-europe'></i> "
+weight = 2
++++
+
+# Forums Eagle Dynamics
+- [SU-25T operation: A beginner's tip for beginners](https://forums.eagle.ru/showthread.php?t=110779) excellent !
+- [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
+- [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer
+- [SU-27 instruments fonctions](https://forums.eagle.ru/showthread.php?t=120007&page=2) le vrai hotas du SU-27 pour donner des idées
+
+# Escadrilles
+## 09th WTAC "Griffons"
+- Des [docs](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&category=14), en particulier :
+  - [Approche au break](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=500)
+  - [Utilisation des feux](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=498)
+- ...
+
+## FFW-01 "Mudmovers"
+- des [docs](https://ffw-01.fr/formation/documentation.html), en particulier :
+  - [Tactiques d'interception](https://www.ffw-01.fr/images/documentation/interne/air-air/tactiques_Interception.pdf)
+- ...
+
+## Académie de vol militaire
+- [Bibliothèque](http://avm-fr.com/documentations), en particulier :
+  - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out)
+  - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant)
+  - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator)
+- ...
+

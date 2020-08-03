@@ -6,10 +6,10 @@ pre = "<i class='fab fa-youtube'></i> "
 
 # Commander Steinsch
 D'excellentes playlists surtout orientées vol, en français et en anglais...
-- [DCS : Guides d'initiation French](https://www.youtube.com/watch?v=HeeD_PkN-tQ&list=PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1) excellents
+- [DCS : Guides d'initiation French](https://www.youtube.com/watch?v=HeeD_PkN-tQ&list=PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1) excellents.
 - [DCS: Tutorials English](https://www.youtube.com/watch?v=X3ghrMdzbfY&list=PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS)
-- [DCS Landing demo](https://www.youtube.com/watch?v=-erre9sfNLc&list=PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_) plusieurs atterrissages très propres, en particulier au break
-- [DCS Challenges](https://www.youtube.com/watch?v=T8y7EWhfaj4&list=PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M) fun
+- [DCS Landing demo](https://www.youtube.com/watch?v=-erre9sfNLc&list=PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_) plusieurs atterrissages très propres, en particulier au break.
+- [DCS Challenges](https://www.youtube.com/watch?v=T8y7EWhfaj4&list=PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M) fun.
 - [Airmanship](https://www.youtube.com/watch?v=IzIot8AByfg&list=PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE)
 - [SU-33 Flanker-D](https://www.youtube.com/watch?v=T8y7EWhfaj4&list=PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk)
 - [F-15C Eagle](https://www.youtube.com/watch?v=WxwtRTWfeE4&list=PL_uZ9_tQvzErU8tvCMyn5sy0ZNl5L0hnU)
@@ -21,7 +21,7 @@ D'excellentes playlists surtout orientées vol, en français et en anglais...
 
 # Photun
 D'excellents tutos, très complets et bien expliqués :
-- [F-15C tutoriel](https://www.youtube.com/watch?v=lC6DUoDdmFE&list=PLr1uSwrHettpyUaVNa3b-KHISLexmBfhW) très bien
+- [F-15C tutoriel](https://www.youtube.com/watch?v=lC6DUoDdmFE&list=PLr1uSwrHettpyUaVNa3b-KHISLexmBfhW) très bien.
 - [Mirage 2000 tutoriel](https://www.youtube.com/watch?v=x9Bt7Et8kqI&list=PLr1uSwrHettrmZEO55NBGHceYEClWu1UO)
 - ...
 
@@ -53,8 +53,8 @@ D'excellents tutos, très complets et bien expliqués :
 - ...
 
 # Wolf5
-  - [Atterrissage et décollage en SU-25T](https://www.youtube.com/watch?v=jhn0uUmkB6k) très clair
-  - [TUTO Décollage // Atterrissage en M2000C](https://www.youtube.com/watch?v=2yOkVYcX4dk)
+- [Atterrissage et décollage en SU-25T](https://www.youtube.com/watch?v=jhn0uUmkB6k) très clair.
+- [TUTO Décollage // Atterrissage en M2000C](https://www.youtube.com/watch?v=2yOkVYcX4dk)
 - ...
 
 # Ailes Virtuelles

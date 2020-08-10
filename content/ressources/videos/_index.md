@@ -87,3 +87,25 @@ D'excellents tutos, très complets et bien expliqués :
   - [SU-33 présentation, différences avec le SU-27](https://www.youtube.com/watch?v=F6Xu62_7oYA&t=2376s)
 - ...
 
+# WellerMan
+Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
+
+- [DCS: How to Fly](https://www.youtube.com/playlist?list=PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo)
+- ...
+
+# lankypilot77
+- [DCS mission editor tutorial](https://www.youtube.com/playlist?list=PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-)
+- ...
+
+# pickinthatbanjo
+- [DCS: Tutorials](https://www.youtube.com/playlist?list=PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt)
+- ...
+
+# Rakuzard
+- [DCS: Air Combat Maneuvering](https://www.youtube.com/playlist?list=PLgDdM7LcpPKMU7cwyNvqeIUsM1Zf-BT8S)
+- ...
+
+# Spudknocker
+- [DCS: "How to" Tutorial Playlist](https://www.youtube.com/playlist?list=PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly)
+- [Formation Flying in DCS! Tips & Tricks + Discussion](https://www.youtube.com/watch?v=syAGKbW5I54)
+- ...

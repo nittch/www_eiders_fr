@@ -4,7 +4,12 @@ pre = "<i class='fas fa-globe-europe'></i> "
 weight = 2
 +++
 
-# Forums Eagle Dynamics
+# Forums
+## Check-Six
+- [Check-Six Forums: DCS-Digital Combat Simulator](http://www.checksix-forums.com/viewforum.php?f=430)
+- [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
+
+## Eagle Dynamics
 - [SU-25T operation: A beginner's tip for beginners](https://forums.eagle.ru/showthread.php?t=110779) excellent !
 - [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
 - [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer

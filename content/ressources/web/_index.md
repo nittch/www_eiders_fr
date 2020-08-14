@@ -14,6 +14,7 @@ weight = 2
 - [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
 - [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer
 - [SU-27 instruments fonctions](https://forums.eagle.ru/showthread.php?t=120007&page=2) le vrai hotas du SU-27 pour donner des idées
+- [Su-25 T Weapons list with descriptions](https://forums.eagle.ru/showthread.php?t=248923) tableau récapitulatif des emports (aussi sur [SU-25T Loadout Quick Reference](https://www.digitalcombatsimulator.com/en/files/670535/?sphrase_id=2874759))
 
 # Escadrilles
 ## 09th WTAC "Griffons"
@@ -33,4 +34,9 @@ weight = 2
   - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant)
   - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator)
 - ...
+
+# Wikipédia
+- [Alphabet aéronautique](https://fr.vikidia.org/wiki/Alphabet_a%C3%A9ronautique)
+- [Code Q](https://fr.wikipedia.org/wiki/Code_Q)
+
 

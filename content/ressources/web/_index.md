@@ -28,6 +28,14 @@ weight = 2
   - [Tactiques d'interception](https://www.ffw-01.fr/images/documentation/interne/air-air/tactiques_Interception.pdf)
 - ...
 
+## 3rd-wing.net
+- [Se retrouver au MSI](https://www.3rd-wing.net/lofiversion/index.php?t11483.html) technique basée sur le Bullseye
+- [Ravitaillement en vol](http://wiki.3rd-wing.net/index.php?title=Ravitaillement_en_vol) liste des ravitailleurs et leur paramètres
+
+## EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums
+- [Principe brouillage IR](http://www.evac-fr.net/forums/lofiversion/index.php?t3047.html)
+- [Checklist SU-25T](http://evacfr.free.fr/PUBLIC/LOCKON/BIBLIO/C2/checklistSU25T.pdf)
+
 ## Académie de vol militaire
 - [Bibliothèque](http://avm-fr.com/documentations), en particulier :
   - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out)

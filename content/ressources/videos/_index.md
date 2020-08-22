@@ -110,3 +110,10 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 - [Formation Flying in DCS! Tips & Tricks + Discussion](https://www.youtube.com/watch?v=syAGKbW5I54)
 - [SRS Radio Tutorial and Demonstration!](https://www.youtube.com/watch?v=Q1nz7bLFQQ0)
 - ...
+
+# Banana Mayo
+- [DCS Tuto Mission Editor](https://www.youtube.com/playlist?list=PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6)
+- ...
+
+# DCS Debrief
+- [DCS Debrief](https://www.youtube.com/channel/UCERjcJzbzHmoBVPJpqn9RjQ/videos) des vidéos sur le combat

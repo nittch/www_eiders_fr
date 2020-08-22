@@ -34,17 +34,26 @@ weight = 2
 
 ## EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums
 - [Principe brouillage IR](http://www.evac-fr.net/forums/lofiversion/index.php?t3047.html)
-- [Checklist SU-25T](http://evacfr.free.fr/PUBLIC/LOCKON/BIBLIO/C2/checklistSU25T.pdf)
+- [Checklist SU-25T](http://evacfr.free.fr/PUBLIC/LOCKON/BIBLIO/C2/checklistSU25T.pdf) pour lock-on
 
 ## Académie de vol militaire
 - [Bibliothèque](http://avm-fr.com/documentations), en particulier :
   - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out)
   - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant)
   - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator)
+  - [Communications Ailier](http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf)
+  - [Vol en formation](http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf)
+  - [Utilisation du Bull's Eye](http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf)
 - ...
+
+# SRS - Simple Radio
+- [SRS Radio Overview](https://docs.google.com/spreadsheets/d/1tzd996zJ1t0heZ-t1PpL7vNUIZbXl7pI6De0GThN1Qw)
+
+# Divers, aéronautique
+- [Les unités aéronautiques](https://www.acriv.org/fichiers/pdf/BIA/04-Navigation-Reglementation-Aeromedecine/Fiche-400-Les_Unites_Aeronautiques.pdf)
+- [Advanced Formation Clinic Technique Notes](https://www.eapisfile.com/Docs/Formation/PPT/Advanced%20Formation%20Clinic%20Technique%20Notes.pdf)
 
 # Wikipédia
 - [Alphabet aéronautique](https://fr.vikidia.org/wiki/Alphabet_a%C3%A9ronautique)
 - [Code Q](https://fr.wikipedia.org/wiki/Code_Q)
-
 

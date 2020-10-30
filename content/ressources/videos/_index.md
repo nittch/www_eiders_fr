@@ -118,3 +118,29 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 
 # DCS Debrief
 - [DCS Debrief](https://www.youtube.com/channel/UCERjcJzbzHmoBVPJpqn9RjQ/videos) des vidéos sur le combat
+
+# Bunyap Sims
+- [Test Flight - DCS: AJS-37 Viggen](https://www.youtube.com/playlist?list=PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs)
+- ...
+
+# clubby37
+- [DCS Viggen - Comprehensive Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5YnST2SaCl5y90UD15_SHBc), d'excellents tutos sur le Viggen, à ne pas rater.
+- [Ka-50 Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0), une autre série de tutoriels, cette fois sur le Ka-50. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que la série sur le Viggen.
+- ...
+
+# TrakDah
+- [DCS AJS Viggen tutorials](https://www.youtube.com/playlist?list=PLWJWDpfZlqj7nke51THpmZPJdC-z8P1Zk) commencer par la 5e vidéo de la playlist [AJS37 Night Attack Mission with BK90](https://www.youtube.com/watch?v=guDS55EOye0&list=PLWJWDpfZlqj7nke51THpmZPJdC-z8P1Zk&index=5), puis voir les autres vidéos. À regarder pour débuter le Viggen.
+- ...
+
+# Badjoe117
+- [DCS: AJS-37 Viggen](https://www.youtube.com/playlist?list=PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh) : de nombreux tutos et vidéos de gameplay avec le Viggen, notamment :
+  - [Moscow takedown](https://www.youtube.com/watch?v=1riAGPyHwWg&list=PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh&index=20), [Frigate hunting](https://www.youtube.com/watch?v=ke93SP_jAZs&list=PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh&index=16) et [Attack on Mozdok](https://www.youtube.com/watch?v=Qo7keYwHCDo&list=PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh&index=18), des playthrough de missions
+  - [Precarious roadbase action](https://www.youtube.com/watch?v=OJZuFmVwXmk&list=PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh&index=36), une vidéo de gameplay multijoueur démontrant le mécanisme de "roadbase" du Viggen dans DCS
+- ...
+
+# xxJohnxx
+- [AJS-37 Viggen](https://www.youtube.com/playlist?list=PLs4yzB9MM2Sw3okBvFavzBugu-1UpkEPr)
+- ...
+
+# Chaosengine EDS
+- [Tutoriels sur l'AJS-37 Viggen](https://www.youtube.com/playlist?list=PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw), tutoriels en français et en musique.

@@ -57,3 +57,17 @@ weight = 2
 - [Alphabet aéronautique](https://fr.vikidia.org/wiki/Alphabet_a%C3%A9ronautique)
 - [Code Q](https://fr.wikipedia.org/wiki/Code_Q)
 
+# Divers (non triés encore)
+- [WEH Videos - The Turn Coordinator - Xplane](https://www.youtube.com/watch?v=CZDEfq1Tdro)
+- [Polar coordinates paper](https://mathalino.com/blog/polar-coordinates-paper-free-download)
+- https://basicsaboutaerodynamicsandavionics.wordpress.com/
+- https://www.ivao.fr/fr/pages/training/instruction
+
+- https://forums.eagle.ru/showthread.php?t=218487
+- http://wiki.3rd-wing.net/index.php?title=Mission:_SEAD#9K33_OSA
+
+- http://perso.numericable.fr/~jftricot/Reseau.htm#abr%C3%A9viations
+
+- https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/
+
+- https://www.reddit.com/r/hoggit/comments/7se6n0/what_is_the_mirage_ideal_landing_speed_i_keep/dt47th2/

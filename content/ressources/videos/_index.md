@@ -52,6 +52,7 @@ D'excellents tutos, très complets et bien expliqués :
 - [Tutorials: A-10A Warthog](https://www.youtube.com/watch?v=R7pwRz-avvI&list=PL3kOAM2N1YJcWgk72p2bBQWDb30vwezUE)
 - [Tutorials: Mirage 2000C](https://www.youtube.com/watch?v=5X2oY6tb-gM&list=PL3kOAM2N1YJeM3xb46KDsTJhU1KySaA50)
 - [Tutorials: Mission Editor](https://www.youtube.com/watch?v=TU-fVArAapk&list=PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS)
+- [Doc Buyers Guide](https://docs.google.com/spreadsheets/d/1B_lvJSAcTjajVuaS-KdlcjTZ70Uu2-ULb-O-MurpJiM/edit#gid=0)
 - ...
 
 # Wolf5

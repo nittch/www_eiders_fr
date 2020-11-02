@@ -119,6 +119,9 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 # DCS Debrief
 - [DCS Debrief](https://www.youtube.com/channel/UCERjcJzbzHmoBVPJpqn9RjQ/videos) des vidéos sur le combat
 
+# The Werewolf
+- [Five Days of Viggen](https://www.youtube.com/playlist?list=PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2), un mini-documentaire sur le Viggen, à l'occasion de la sortie du module dans DCS
+
 # Bunyap Sims
 - [Test Flight - DCS: AJS-37 Viggen](https://www.youtube.com/playlist?list=PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs)
 - ...
@@ -143,4 +146,7 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 - ...
 
 # Chaosengine EDS
-- [Tutoriels sur l'AJS-37 Viggen](https://www.youtube.com/playlist?list=PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw), tutoriels en français et en musique.
+- [Tutoriels sur l'AJS-37 Viggen](https://www.youtube.com/playlist?list=PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw), tutoriels en français et en musique. L'usage des armes dans différents cas de figure y est bien détaillé.
+
+# FlightSimFan
+- [AJS-37](https://www.youtube.com/playlist?list=PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh)

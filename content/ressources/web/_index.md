@@ -71,3 +71,5 @@ weight = 2
 - https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/
 
 - https://www.reddit.com/r/hoggit/comments/7se6n0/what_is_the_mirage_ideal_landing_speed_i_keep/dt47th2/
+
+- [AJS-37 Viggen](http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen)

@@ -150,3 +150,6 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 
 # FlightSimFan
 - [AJS-37](https://www.youtube.com/playlist?list=PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh)
+
+# EFPV (Doc)
+- [F/A-18C: Spécifités FCS & atterrissages](https://www.youtube.com/watch?v=NI4L8UgRrpc)

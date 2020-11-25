@@ -1,6 +1,6 @@
 +++
-title = "Périphériques pour simulateurs"
-weight = 1
+title = "Matériel"
+weight = 3
 +++
 
 # Fabriquants et fournisseurs

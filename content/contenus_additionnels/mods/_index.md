@@ -1,10 +1,8 @@
 +++
-title = "Mods... Modules..."
-weight = 3
-pre = "<i class='fas fa-fighter-jet'></i> "
+title = "Mods"
+weight = 1
 +++
 
-# Mods
 ## Civil Aircraft Mod
 - [CAM](https://cam.em-key.de/)
 
@@ -17,15 +15,3 @@ pre = "<i class='fas fa-fighter-jet'></i> "
 - [Forum Eagle](https://forums.eagle.ru/showthread.php?t=279974)
 - Vidéo de TheSkyline35 : [Armée française dans DCS : FrenchPack](https://www.youtube.com/watch?v=qnqmmsY1-Do)
 
-## SimpleRadio
-- Vidéo de TheSkyline35 : [Simple Radio](https://www.youtube.com/watch?v=XRI36163nGE&list=PL7qGpvHaenM_E5lkKIEhzY7QAcpEjy2_H&index=3)
-
-# Modules
-## Alphajet (Jet E Sons)
-- [jetesons.com](http://www.jetesons.com/telechargement.html)
-
-## MB-339
-- [Forum Eagle](https://forums.eagle.ru/showpost.php?p=3966249&postcount=1)
-
-## A-4E
-- [Forum Eagle](https://forums.eagle.ru/showthread.php?p=3930571)

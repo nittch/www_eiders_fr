@@ -13,6 +13,7 @@ Rangés en 3 tiers selon si le matériel est répendu chez les simmeurs.
 - [Honeycomb](https://flyhoneycomb.com/)
 - [VIRPIL Controls](https://virpil-controls.eu/)
 - [Milan Flight Gear](https://mfg-sim.com/en/)
+- [VKB FSC](https://flightsimcontrols.com/)
 - [MONSTERTECH](https://www.monstertech.de/fr/)
 - [Stream Deck](https://www.elgato.com/fr/gaming/stream-deck)
 - [Buddy-Fox Simulations](https://www.buddy-fox.com/)
@@ -24,10 +25,10 @@ Rangés en 3 tiers selon si le matériel est répendu chez les simmeurs.
 - [RealSimGear](https://realsimgear.com/)
 - [Virtual Fly](https://www.virtual-fly.com)
 - [GoFlight](https://goflightinc.com/)
+- [simparts](https://www.simparts.de/en/)
 
 # Revendeurs
 - [Aerosoft](https://aerosoft.com)
-- [simparts](https://www.simparts.de/en/)
 
 # Tracking
 - [Trackir](https://www.trackir.fr)

@@ -1,6 +1,6 @@
 +++
-title = "Ressources pour DCS"
-weight = 1
+title = "Contenus additionnels"
+weight = 2
 +++
 
 {{% children style="h3" depth="2" description="" %}}

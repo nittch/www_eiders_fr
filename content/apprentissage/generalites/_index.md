@@ -1,20 +1,32 @@
 +++
-title = "Sur le web..."
-pre = "<i class='fas fa-globe-europe'></i> "
-weight = 2
+title = "Généralités"
+weight = 1
 +++
+# Commander Steinsch
+- [DCS : Guides d'initiation French](https://www.youtube.com/watch?v=HeeD_PkN-tQ&list=PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1) excellents.
+- [DCS: Tutorials English](https://www.youtube.com/watch?v=X3ghrMdzbfY&list=PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS)
+- [DCS Landing demo](https://www.youtube.com/watch?v=-erre9sfNLc&list=PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_) plusieurs atterrissages très propres, en particulier au break.
+- [DCS Challenges](https://www.youtube.com/watch?v=T8y7EWhfaj4&list=PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M) fun.
+- [Airmanship](https://www.youtube.com/watch?v=IzIot8AByfg&list=PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE)
 
-# Forums
-## Check-Six
-- [Check-Six Forums: DCS-Digital Combat Simulator](http://www.checksix-forums.com/viewforum.php?f=430)
-- [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
+# Alias
+- [DCS World et utilitaire](https://www.youtube.com/watch?v=KAnFI-mwEos&list=PLbn9xVtwPNES0BUUKdHsMVnxnm0pOqdsz)
 
-## Eagle Dynamics
-- [SU-25T operation: A beginner's tip for beginners](https://forums.eagle.ru/showthread.php?t=110779) excellent !
-- [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
-- [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer
-- [SU-27 instruments fonctions](https://forums.eagle.ru/showthread.php?t=120007&page=2) le vrai hotas du SU-27 pour donner des idées
-- [Su-25 T Weapons list with descriptions](https://forums.eagle.ru/showthread.php?t=248923) tableau récapitulatif des emports (aussi sur [SU-25T Loadout Quick Reference](https://www.digitalcombatsimulator.com/en/files/670535/?sphrase_id=2874759))
+# pickinthatbanjo
+- [DCS: Tutorials](https://www.youtube.com/playlist?list=PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt)
+
+# Spudknocker
+- [DCS: "How to" Tutorial Playlist](https://www.youtube.com/playlist?list=PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly)
+- [Formation Flying in DCS! Tips & Tricks + Discussion](https://www.youtube.com/watch?v=syAGKbW5I54)
+
+# Grim Reapers
+- [Doc Buyers Guide](https://docs.google.com/spreadsheets/d/1B_lvJSAcTjajVuaS-KdlcjTZ70Uu2-ULb-O-MurpJiM/edit#gid=0)
+
+# TheSkyline35
+- [DCS World Tutoriels](https://www.youtube.com/watch?v=h6BflBFUliE&list=PL7qGpvHaenM_E5lkKIEhzY7QAcpEjy2_H), en particulier :
+
+# clubby37
+- [Ka-50 Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0), du même auteur que la série sur l'AJS-37 Viggen. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que celle-ci.
 
 # Escadrilles
 ## 09th WTAC "Griffons"
@@ -34,7 +46,6 @@ weight = 2
 
 ## EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums
 - [Principe brouillage IR](http://www.evac-fr.net/forums/lofiversion/index.php?t3047.html)
-- [Checklist SU-25T](http://evacfr.free.fr/PUBLIC/LOCKON/BIBLIO/C2/checklistSU25T.pdf) pour lock-on
 
 ## Académie de vol militaire
 - [Bibliothèque](http://avm-fr.com/documentations), en particulier :
@@ -45,9 +56,6 @@ weight = 2
   - [Vol en formation](http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf)
   - [Utilisation du Bull's Eye](http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf)
 - ...
-
-# SRS - Simple Radio
-- [SRS Radio Overview](https://docs.google.com/spreadsheets/d/1tzd996zJ1t0heZ-t1PpL7vNUIZbXl7pI6De0GThN1Qw)
 
 # Divers, aéronautique
 - [Les unités aéronautiques](https://www.acriv.org/fichiers/pdf/BIA/04-Navigation-Reglementation-Aeromedecine/Fiche-400-Les_Unites_Aeronautiques.pdf)
@@ -68,8 +76,10 @@ weight = 2
 
 - http://perso.numericable.fr/~jftricot/Reseau.htm#abr%C3%A9viations
 
-- https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/
+# Forums
+## Check-Six
+- [Check-Six Forums: DCS-Digital Combat Simulator](http://www.checksix-forums.com/viewforum.php?f=430)
 
-- https://www.reddit.com/r/hoggit/comments/7se6n0/what_is_the_mirage_ideal_landing_speed_i_keep/dt47th2/
-
-- [AJS-37 Viggen](http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen)
+## Eagle Dynamics
+- [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
+- [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer

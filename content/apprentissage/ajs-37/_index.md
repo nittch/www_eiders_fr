@@ -33,3 +33,5 @@ weight = 7
 
 # FlightSimFan
 - [AJS-37](https://www.youtube.com/playlist?list=PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh)
+
+- [AJS-37 Viggen](http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen)

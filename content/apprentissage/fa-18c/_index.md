@@ -3,5 +3,6 @@ title = "F/A-18C Hornet"
 weight = 8
 +++
 
-# EFPV (Doc)
-- [F/A-18C: Spécifités FCS & atterrissages](https://www.youtube.com/watch?v=NI4L8UgRrpc)
+source       | description
+------------ | -----------
+EFPV (Doc)   | {{< yt "NI4L8UgRrpc" "FA-18C - DCS WORLD - Atterrissage et spécificités des CDVE" >}}

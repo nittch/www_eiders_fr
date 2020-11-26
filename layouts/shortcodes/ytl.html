@@ -1,7 +1,6 @@
 <a href="https://www.youtube.com/playlist?list={{ .Get 0 }}" target=_blank>
-  <img src="https://img.youtube.com/vi/{{ .Get 0 }}/default.jpg" style="align:left; margin:0px; display: inline">
+  <img src="https://img.youtube.com/vi/{{ .Get 0 }}/default.jpg" style="align:left; margin:0px; display: inline"/>
  {{ with .Get 1 }}
    {{ . }}
  {{ end }}
-</img>
 </a>

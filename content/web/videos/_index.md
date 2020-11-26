@@ -20,13 +20,6 @@ D'excellentes playlists surtout orientées vol, en français et en anglais...
 - [SU-25 Frogfoot](https://www.youtube.com/watch?v=cE0UAH_7rdo&list=PL_uZ9_tQvzEoKqbggsaovILMmaMePeQj2)
 - ...
 
-# Photun
-D'excellents tutos, très complets et bien expliqués :
-
-- [F-15C tutoriel](https://www.youtube.com/watch?v=lC6DUoDdmFE&list=PLr1uSwrHettpyUaVNa3b-KHISLexmBfhW) très bien.
-- [Mirage 2000 tutoriel](https://www.youtube.com/watch?v=x9Bt7Et8kqI&list=PLr1uSwrHettrmZEO55NBGHceYEClWu1UO)
-- ...
-
 # TheSkyline35
 - [DCS World Tutoriels](https://www.youtube.com/watch?v=h6BflBFUliE&list=PL7qGpvHaenM_E5lkKIEhzY7QAcpEjy2_H), en particulier :
   - [SEAD en SU-25T - Pod Fantasmagoria, Kh-25/58](https://www.youtube.com/watch?v=YMbTgGdD_Go&list=PL7qGpvHaenM_E5lkKIEhzY7QAcpEjy2_H&index=7)
@@ -55,44 +48,9 @@ D'excellents tutos, très complets et bien expliqués :
 - [Doc Buyers Guide](https://docs.google.com/spreadsheets/d/1B_lvJSAcTjajVuaS-KdlcjTZ70Uu2-ULb-O-MurpJiM/edit#gid=0)
 - ...
 
-# Wolf5
-- [Atterrissage et décollage en SU-25T](https://www.youtube.com/watch?v=jhn0uUmkB6k) très clair.
-- [TUTO Décollage // Atterrissage en M2000C](https://www.youtube.com/watch?v=2yOkVYcX4dk)
-- ...
-
-# Ailes Virtuelles
-- [Tutos SU25T](https://www.youtube.com/watch?v=mCCPcRfgc2w&list=PLXUS5xgdov37N99wQoXV4yqcg2X1bDKJ4), trop répétitif, mais précis et complet
-  - complèment : [Armement SU-25T](http://www.ailesvirtuelles.com/assets/pdf-files/Armement-SU-25T.pdf?)
-- [Tutos SU33](https://www.youtube.com/watch?v=MIKePPFxQ8g&list=PLXUS5xgdov34hfUWYpV1GdSJV6VuZI5DH)
-- ...
-
 # Alias
 - [DCS World et utilitaire](https://www.youtube.com/watch?v=KAnFI-mwEos&list=PLbn9xVtwPNES0BUUKdHsMVnxnm0pOqdsz)
-- [Tuto éditeur de mission : 34 tutos](https://www.youtube.com/watch?v=_7d7zZJpik0&list=PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49)
-- ...
 
-# Empnicolas LzT
-- [DCS: editeur de mission](https://www.youtube.com/watch?v=gGpSHqqXCCI&list=PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip)
-- ...
-
-# Loulou de DCS World
-- [A-10A FR](https://www.youtube.com/watch?v=-zEgIioeeJg&list=PLDv3SYR9vGXn_VX-rrE4hUIqlKG8BIlGi)
-- [DCS World editeur de mission: trucs et astuces, tutos](https://www.youtube.com/watch?v=gM0oVKBqvWA&list=PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7)
-- Divers :
-  - [J-11A présentation, différences avec le SU-27](https://www.youtube.com/watch?v=Xz3DNBajMpY)
-  - [SU-25 présentation, différences avec le SU-25T](https://www.youtube.com/watch?v=Np4CwPMsNgA&t=1378s)
-  - [SU-33 présentation, différences avec le SU-27](https://www.youtube.com/watch?v=F6Xu62_7oYA&t=2376s)
-- ...
-
-# WellerMan
-Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
-
-- [DCS: How to Fly](https://www.youtube.com/playlist?list=PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo)
-- ...
-
-# lankypilot77
-- [DCS mission editor tutorial](https://www.youtube.com/playlist?list=PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-)
-- ...
 
 # pickinthatbanjo
 - [DCS: Tutorials](https://www.youtube.com/playlist?list=PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt)
@@ -102,10 +60,6 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 - [DCS: "How to" Tutorial Playlist](https://www.youtube.com/playlist?list=PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly)
 - [Formation Flying in DCS! Tips & Tricks + Discussion](https://www.youtube.com/watch?v=syAGKbW5I54)
 - [SRS Radio Tutorial and Demonstration!](https://www.youtube.com/watch?v=Q1nz7bLFQQ0)
-- ...
-
-# Banana Mayo
-- [DCS Tuto Mission Editor](https://www.youtube.com/playlist?list=PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6)
 - ...
 
 # DCS Debrief

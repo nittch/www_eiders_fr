@@ -111,3 +111,6 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 # DCS Debrief
 - [DCS Debrief](https://www.youtube.com/channel/UCERjcJzbzHmoBVPJpqn9RjQ/videos) des vidéos sur le combat
 
+
+# clubby37
+- [Ka-50 Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0), du même auteur que la série sur l'AJS-37 Viggen. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que celle-ci.

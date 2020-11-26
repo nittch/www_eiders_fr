@@ -10,14 +10,12 @@ weight = 3
 
 # Empnicolas LzT
 - [DCS: editeur de mission](https://www.youtube.com/watch?v=gGpSHqqXCCI&list=PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip)
-- ...
-
 
 # lankypilot77
 - [DCS mission editor tutorial](https://www.youtube.com/playlist?list=PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-)
-- ...
-
 
 # Banana Mayo
 - [DCS Tuto Mission Editor](https://www.youtube.com/playlist?list=PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6)
-- ...
+
+# Grim Reapers
+- [Tutorials: Mission Editor](https://www.youtube.com/watch?v=TU-fVArAapk&list=PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS)

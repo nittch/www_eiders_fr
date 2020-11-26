@@ -23,6 +23,7 @@ Des tutos très courts en anglais sur A-10A, F-15C, SU-25, SU-27, Mig-29...
 - [DCS: How to Fly](https://www.youtube.com/playlist?list=PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo)
 
 # Grim Reapers
+Grim Reapers | {{< ytl "PL3kOAM2N1YJco_M38M72jU2-vkQLYphF3" "Tutorials: Su-25 Frogfoot" >}}
 - [Tutorials: A-10A Warthog](https://www.youtube.com/watch?v=R7pwRz-avvI&list=PL3kOAM2N1YJcWgk72p2bBQWDb30vwezUE)
 - [Tutorials: SU-27, SU-33, Mig-29 & J-11A](https://www.youtube.com/watch?v=LbrSKsPQ6Oc&list=PL3kOAM2N1YJdwXKusowM9lsZWCIZFQSKA)
 - [Tutorials: F-15C Eagle](https://www.youtube.com/watch?v=feLF_P79q30&list=PL3kOAM2N1YJdTjHFMAQVAgV5iM_twDWuj)

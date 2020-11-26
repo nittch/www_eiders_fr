@@ -12,7 +12,6 @@ weight = 7
 
 # clubby37
 - [DCS Viggen - Comprehensive Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5YnST2SaCl5y90UD15_SHBc), d'excellents tutos sur le Viggen, à ne pas rater.
-- [Ka-50 Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0), une autre série de tutoriels, cette fois sur le Ka-50. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que la série sur le Viggen.
 - ...
 
 # TrakDah

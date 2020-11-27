@@ -10,16 +10,11 @@ WellerMan           | {{< ytl "PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo" "DCS: How To 
 # SU-27, J-11A, SU-33, Mig-29
 source              | description
 ------------------- | -----------
-Loulou de DCS World | {{< yt "Xz3DNBajMpY" "DCS World: J-11A présentation, différences avec le SU-27 (FR)" >}}
-Loulou de DCS World | {{< yt "F6Xu62_7oYA" "DCS World: SU-33 présentation, différences avec le SU-27 (FR)" >}}
+Loulou de DCS World | {{< yt "Xz3DNBajMpY" "DCS World: J-11A présentation, différences avec le SU-27 (FR)" >}}<br /> {{< yt "F6Xu62_7oYA" "DCS World: SU-33 présentation, différences avec le SU-27 (FR)" >}}
 Ailes Virtuelles    | {{< ytl "PLXUS5xgdov34hfUWYpV1GdSJV6VuZI5DH" "DCS -Tutos SU33" >}}
 Grim Reapers        | {{< ytl "PL3kOAM2N1YJdwXKusowM9lsZWCIZFQSKA" "Tutorials: Su-27, Su-33, Mig-29 & J11A" >}}
-TheSkyline35        | {{< yt "8LQv-dI9Q28" "[#3] A bord du Mig-29 "Fulcrum" - Le F-16 russe !" >}}
-TheSkyline35        | {{< yt "hXCe7vnPtAQ" "Le nouveau Shenyang J-11 - En mode French Touch - DCS World" >}}
-TheSkyline35        | {{< yt "EvoZhniAYhs" "DCS - Le Nouveau Su-33 ! Appontage/Ravitaillement/Évitement de terrain" >}}
-Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk" "SU-33 FLANKER-D" >}}
-Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEo7QRuzc0CLsmFSjkb7urQ2" "MIG-29 FULCRUM" >}}
-Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEoAwlWcwhpIkr4_fgfeLyes" "SU-27 / J-11 FLANKER" >}}
+TheSkyline35        | {{< yt "8LQv-dI9Q28" "[#3] A bord du Mig-29 "Fulcrum" - Le F-16 russe !" >}}<br /> {{< yt "hXCe7vnPtAQ" "Le nouveau Shenyang J-11 - En mode French Touch - DCS World" >}}<br /> {{< yt "EvoZhniAYhs" "DCS - Le Nouveau Su-33 ! Appontage/Ravitaillement/Évitement de terrain" >}}
+Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk" "SU-33 FLANKER-D" >}}<br /> {{< ytl "PL_uZ9_tQvzEo7QRuzc0CLsmFSjkb7urQ2" "MIG-29 FULCRUM" >}}<br /> {{< ytl "PL_uZ9_tQvzEoAwlWcwhpIkr4_fgfeLyes" "SU-27 / J-11 FLANKER" >}}
 Eagle Dynamics - Forums | [SU-27 instruments fonctions](https://forums.eagle.ru/showthread.php?t=120007&page=2) le vrai hotas du SU-27 pour donner des idées
 Check-Six - Forums | [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
 

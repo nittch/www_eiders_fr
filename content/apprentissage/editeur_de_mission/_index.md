@@ -2,20 +2,12 @@
 title = "Editeur de mission"
 weight = 3
 +++
-# Alias
-- [Tuto éditeur de mission : 34 tutos](https://www.youtube.com/watch?v=_7d7zZJpik0&list=PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49)
 
-# Loulou de DCS World
-- [DCS World editeur de mission: trucs et astuces, tutos](https://www.youtube.com/watch?v=gM0oVKBqvWA&list=PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7)
-
-# Empnicolas LzT
-- [DCS: editeur de mission](https://www.youtube.com/watch?v=gGpSHqqXCCI&list=PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip)
-
-# lankypilot77
-- [DCS mission editor tutorial](https://www.youtube.com/playlist?list=PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-)
-
-# Banana Mayo
-- [DCS Tuto Mission Editor](https://www.youtube.com/playlist?list=PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6)
-
-# Grim Reapers
-- [Tutorials: Mission Editor](https://www.youtube.com/watch?v=TU-fVArAapk&list=PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS)
+source       | description
+------------ | -----------
+Alias        | {{< ytl "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" "DCS World Tuto éditeur de mission : 34 tutos" >}}
+Loulou de DCS World | {{< ytl "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" "DCS World editeur de mission: trucs et astuces, tutos (FR)" >}}
+Empnicolas LzT | {{< ytl "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" "DCS: éditeur de mission" >}}
+lankypilot77 | {{< ytl "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" "DCS mission editor tutorial" >}}
+Banana Mayo | {{< ytl "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" "DCS TUTO MISSION EDITOR" >}}
+Grim Reapers | {{< ytl "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" "Tutorials: Mission Editor" >}}

@@ -6,7 +6,6 @@ weight = 7
 source              | description
 ------------------- | -----------
 Mudspike - Chuck's guides | [Chuck’s Guides – DCS AJS 37 VIGGEN](https://www.mudspike.com/chucks-guides-dcs-ajs-37-viggen/)
-The Werewolf        | {{< ytl "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" "Five Days Of Viggen - Viggen Mini Documentary" >}}, un mini-documentaire sur le Viggen, à l'occasion de la sortie du module dans DCS
 Bunyap Sims         | {{< ytl "PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs" "Test Flight - DCS: AJS-37 Viggen" >}}
 clubby37            | {{< ytl "PL7pn4rQD0F5YnST2SaCl5y90UD15_SHBc" "DCS Viggen - Comprehensive Guide" >}}, d'excellents tutos sur le Viggen, à ne pas rater.
 TrakDah             | {{< ytl "PLWJWDpfZlqj7nke51THpmZPJdC-z8P1Zk" "DCS AJS 37 Viggen tutorials" >}}, commencer par la 5e vidéo de la playlist {{< yt "guDS55EOye0" "AJS37 Night Attack Mission with BK90" >}}, puis voir les autres vidéos. À regarder pour débuter le Viggen.
@@ -16,3 +15,8 @@ Chaosengine EDS     | {{< ytl "PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw" "Tutoriels su
 FlightSimFan        | {{< ytl "PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh" "AJS-37" >}}
 Zedroopy            | [AJS-37 Viggen](http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen)
 Grim Reapers        | {{< ytl "PL3kOAM2N1YJfPeEOqMWojQkLtBowjlt3r" "Tutorials: AJS37 Viggen" >}}
+
+# Fan Club
+source              | description
+------------------- | -----------
+The Werewolf        | {{< ytl "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" "Five Days Of Viggen - Viggen Mini Documentary" >}}, un mini-documentaire sur le Viggen, à l'occasion de la sortie du module dans DCS

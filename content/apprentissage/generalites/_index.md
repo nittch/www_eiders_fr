@@ -2,31 +2,21 @@
 title = "Généralités"
 weight = 1
 +++
-# Commander Steinsch
-- [DCS : Guides d'initiation French](https://www.youtube.com/watch?v=HeeD_PkN-tQ&list=PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1) excellents.
-- [DCS: Tutorials English](https://www.youtube.com/watch?v=X3ghrMdzbfY&list=PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS)
-- [DCS Landing demo](https://www.youtube.com/watch?v=-erre9sfNLc&list=PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_) plusieurs atterrissages très propres, en particulier au break.
-- [DCS Challenges](https://www.youtube.com/watch?v=T8y7EWhfaj4&list=PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M) fun.
-- [Airmanship](https://www.youtube.com/watch?v=IzIot8AByfg&list=PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE)
-
-# Alias
-- [DCS World et utilitaire](https://www.youtube.com/watch?v=KAnFI-mwEos&list=PLbn9xVtwPNES0BUUKdHsMVnxnm0pOqdsz)
-
-# pickinthatbanjo
-- [DCS: Tutorials](https://www.youtube.com/playlist?list=PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt)
-
-# Spudknocker
-- [DCS: "How to" Tutorial Playlist](https://www.youtube.com/playlist?list=PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly)
-- [Formation Flying in DCS! Tips & Tricks + Discussion](https://www.youtube.com/watch?v=syAGKbW5I54)
-
-# Grim Reapers
-- [Doc Buyers Guide](https://docs.google.com/spreadsheets/d/1B_lvJSAcTjajVuaS-KdlcjTZ70Uu2-ULb-O-MurpJiM/edit#gid=0)
-
-# TheSkyline35
-- [DCS World Tutoriels](https://www.youtube.com/watch?v=h6BflBFUliE&list=PL7qGpvHaenM_E5lkKIEhzY7QAcpEjy2_H), en particulier :
-
-# clubby37
-- [Ka-50 Guide](https://www.youtube.com/playlist?list=PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0), du même auteur que la série sur l'AJS-37 Viggen. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que celle-ci.
+source             | description
+------------------ | -----------
+Commander Steinsch | {{< ytl "PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1" "DCS : GUIDES D'INITIATION [FRENCH]">}}, excellents.
+Commander Steinsch | {{< ytl "PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS" "DCS: TUTORIALS [ENGLISH]" >}}
+Commander Steinsch | {{< ytl "PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_" "DCS LANDING DEMO" >}} plusieurs atterrissages très propres, en particulier au break.
+Commander Steinsch | {{< ytl "PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M" "DCS CHALLENGES" >}} fun.
+Commander Steinsch | {{< ytl "PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE" "AIRMANSHIP" >}}
+Alias              | {{< ytl "PLbn9xVtwPNES0BUUKdHsMVnxnm0pOqdsz" "Setup DCS World et utilitaire" >}}
+pickinthatbanjo    | {{< ytl "PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt" "DCS:World ⇨ Tutorials" >}}
+Spudknocker        | {{< ytl "PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly" "DCS: World - How To Tutorial Playlist" >}}
+Grim Reapers       | [Doc Buyers Guide](https://docs.google.com/spreadsheets/d/1B_lvJSAcTjajVuaS-KdlcjTZ70Uu2-ULb-O-MurpJiM/edit#gid=0)
+TheSkyline35       | {{< ytl "PL7qGpvHaenM_E5lkKIEhzY7QAcpEjy2_H" "DCS World Tutoriels" >}}
+clubby37           | {{< ytl "PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0" "Ka-50 Guide" >}}, du même auteur que la série sur l'AJS-37 Viggen. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que celle-ci.
+Eagle Dynamics - Forums | [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
+Eagle Dynamics - Forums | [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer
 
 # Escadrilles
 ## 09th WTAC "Griffons"
@@ -75,11 +65,3 @@ weight = 1
 - http://wiki.3rd-wing.net/index.php?title=Mission:_SEAD#9K33_OSA
 
 - http://perso.numericable.fr/~jftricot/Reseau.htm#abr%C3%A9viations
-
-# Forums
-## Check-Six
-- [Check-Six Forums: DCS-Digital Combat Simulator](http://www.checksix-forums.com/viewforum.php?f=430)
-
-## Eagle Dynamics
-- [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
-- [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer

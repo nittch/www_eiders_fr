@@ -1,5 +1,5 @@
 +++
-title = "F/A-18C Hornet"
+title = "F/A-18C Hornet + Supercarrier"
 weight = 8
 +++
 

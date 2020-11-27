@@ -21,3 +21,4 @@ Reddit              | [What is the Mirage ideal landing speed...](https://www.re
 source              | description
 ------------------- | -----------
 imineo Documentaires | {{< yt "jDCxWEynbu4" "Le Mirage 2000 - Documentaire sur l'aviation" >}}
+Sygchan | {{< yt "PCvXyetyVkg" "Crash Mirage 2000 Éjection A 80 Pieds" >}}

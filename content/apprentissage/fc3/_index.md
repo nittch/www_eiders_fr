@@ -38,3 +38,7 @@ Loulou de DCS World | {{< yt "Np4CwPMsNgA" "DCS World: SU-25 présentation, diff
 Grim Reapers | {{< ytl "PL3kOAM2N1YJco_M38M72jU2-vkQLYphF3" "Tutorials: Su-25 Frogfoot" >}}
 
 
+# Fan Club
+source              | description
+------------------- | -----------
+ColdWarWarrios      | {{< yt "2O9q6EJhssQ" "Su27 Cobra Manuevre" >}}

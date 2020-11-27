@@ -15,3 +15,4 @@ xxJohnxx            | {{< ytl "PLs4yzB9MM2Sw3okBvFavzBugu-1UpkEPr" "[DCS] AJS-37
 Chaosengine EDS     | {{< ytl "PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw" "Tutoriels sur DCS : AJS-37 Viggen, par Chaosengine EDS" >}}, tutoriels en français et en musique. L'usage des armes dans différents cas de figure y est bien détaillé.
 FlightSimFan        | {{< ytl "PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh" "AJS-37" >}}
 Zedroopy            | [AJS-37 Viggen](http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen)
+Grim Reapers        | {{< ytl "PL3kOAM2N1YJfPeEOqMWojQkLtBowjlt3r" "Tutorials: AJS37 Viggen" >}}

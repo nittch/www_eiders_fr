@@ -5,6 +5,9 @@ weight = 6
 
 source              | description
 ------------------- | -----------
+EFPV                | {{< ytl "PLxeAPpKC04wuORJOA5uMw10_2anCafz2i" "Campagne DCS - M2K" >}}<br />{{< yt "tcubXks00r8" "DCS WORLD - L1C1 - Mise en route du Mirage 2000-C" >}}
+JTFF Marco 79th FS  | {{< yt "0g6EwrEQl94" "DCS World : Ravitaillement en vol Mirage 2000C" >}}<br />{{< yt "V08KdPrGtQw" "DCS World PVP Online sur BlueFlag - Mirage 2000" >}}
+131st Death Vipers  | {{< yt "yloLS1DWlKw" "DCS - Mirage 2000 - Atterrissage au break" >}}
 Wolf5               | {{< yt "2yOkVYcX4dk" "[DCS World] TUTO Décollage // Atterrissage en M2000C" >}}
 Photun              | {{< ytl "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" "DCS Mirage 2000 tutoriel (FR)" >}}
 LESCARGO            | {{< ytl "PLtNAWSwZjDRnFiHXgcp2hmwP56BhqP8Gq" "MIRAGE 2000C - DCS" >}}

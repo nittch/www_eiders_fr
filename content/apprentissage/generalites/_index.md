@@ -4,11 +4,7 @@ weight = 1
 +++
 source             | description
 ------------------ | -----------
-Commander Steinsch | {{< ytl "PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1" "DCS : GUIDES D'INITIATION [FRENCH]">}}, excellents.
-Commander Steinsch | {{< ytl "PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS" "DCS: TUTORIALS [ENGLISH]" >}}
-Commander Steinsch | {{< ytl "PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_" "DCS LANDING DEMO" >}} plusieurs atterrissages très propres, en particulier au break.
-Commander Steinsch | {{< ytl "PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M" "DCS CHALLENGES" >}} fun.
-Commander Steinsch | {{< ytl "PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE" "AIRMANSHIP" >}}
+Commander Steinsch | {{< ytl "PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1" "DCS : GUIDES D'INITIATION [FRENCH]">}}, excellents.<br /> {{< ytl "PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS" "DCS: TUTORIALS [ENGLISH]" >}}<br /> {{< ytl "PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_" "DCS LANDING DEMO" >}} plusieurs atterrissages très propres, en particulier au break.<br /> {{< ytl "PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M" "DCS CHALLENGES" >}} fun.<br /> {{< ytl "PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE" "AIRMANSHIP" >}}
 Alias              | {{< ytl "PLbn9xVtwPNES0BUUKdHsMVnxnm0pOqdsz" "Setup DCS World et utilitaire" >}}
 pickinthatbanjo    | {{< ytl "PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt" "DCS:World ⇨ Tutorials" >}}
 Spudknocker        | {{< ytl "PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly" "DCS: World - How To Tutorial Playlist" >}}

@@ -42,3 +42,4 @@ Grim Reapers | {{< ytl "PL3kOAM2N1YJco_M38M72jU2-vkQLYphF3" "Tutorials: Su-25 Fr
 source              | description
 ------------------- | -----------
 ColdWarWarrios      | {{< yt "2O9q6EJhssQ" "Su27 Cobra Manuevre" >}}
+kazinos1            | {{< yt "wziB_Hi-pQY" "Su 27 The best fighter in the world" >}}

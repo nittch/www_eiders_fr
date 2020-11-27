@@ -5,6 +5,7 @@ weight = 7
 
 source              | description
 ------------------- | -----------
+Mudspike - Chuck's guides | [Chuck’s Guides – DCS AJS 37 VIGGEN](https://www.mudspike.com/chucks-guides-dcs-ajs-37-viggen/)
 The Werewolf        | {{< ytl "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" "Five Days Of Viggen - Viggen Mini Documentary" >}}, un mini-documentaire sur le Viggen, à l'occasion de la sortie du module dans DCS
 Bunyap Sims         | {{< ytl "PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs" "Test Flight - DCS: AJS-37 Viggen" >}}
 clubby37            | {{< ytl "PL7pn4rQD0F5YnST2SaCl5y90UD15_SHBc" "DCS Viggen - Comprehensive Guide" >}}, d'excellents tutos sur le Viggen, à ne pas rater.

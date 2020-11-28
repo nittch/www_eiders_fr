@@ -8,4 +8,4 @@ Ce site a pour vocation de regrouper des liens pour aider à se former à DCS Wo
 {{% /notice %}}
 
 ## Sommaire
-{{% children style="h3" depth="2" description="" %}}
+{{% children style="li" depth="2" description="" %}}

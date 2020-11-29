@@ -11,5 +11,5 @@ Découvrant DCS depuis juin 2020, d'abord sur SU-25T puis FC3, j'attaque le Mira
 <img src=/Screen_120sec_reparation.png width=50% />
 
 ## jmiven
-Découvrant DCS en même temps que nittch, je vole actuellement sur Mirage 2000C et Viggen.
+Découvrant DCS en même temps que nittch, je vole actuellement sur Mirage-2000C et Viggen.
 <img src=/vpm_blase2.png width=50% />

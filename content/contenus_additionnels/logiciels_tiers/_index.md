@@ -16,8 +16,7 @@ SRS Simple Radio | [DCS SimpleRadio Standalone - Radio Overview](https://docs.go
 TODO
 
 ## LotATC
-
-TODO
+(Voir Apprentissage/Rôles humains)
 
 ## Vaicom Pro
 

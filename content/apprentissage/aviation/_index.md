@@ -14,6 +14,7 @@ Wikipédia | [Alphabet aéronautique](https://fr.vikidia.org/wiki/Alphabet_a%C3%
 Eagle Dynamics - Forums | [Speed cheat sheet](https://forums.eagle.ru/showthread.php?t=133980) fiche de conversion de vitesses à imprimer
 IVAO.fr | https://www.ivao.fr/fr/pages/training/instruction
 jftricot | http://perso.numericable.fr/~jftricot/Reseau.htm#abr%C3%A9viations
+Wiki hoggitworld | [Brevity List](https://wiki.hoggitworld.com/view/Brevity_List)
 mathalino.com | [Polar coordinates paper](https://mathalino.com/blog/polar-coordinates-paper-free-download)
 basicsaboutaerodynamicsandavionics | https://basicsaboutaerodynamicsandavionics.wordpress.com/
 SIM2HEAVEN | {{< yt "v2oMRlpBj5o" "X plane 11[ Vol VFR commenté part1/2]" >}}<br />{{< yt "8bDP9cY64dI" "X Plane 11 [Vol VFR commenté Part 2/2]" >}}<br />{{< yt "-4ILeRdXU8c" "[X PLANE] VFR Partie 1" >}}<br />{{< yt "05ybx1MjYhc" "[X PLANE] VFR Partie 2 Organisme du contrôle aérien" >}}<br />{{< yt "7FR0BqNXh9g" "[X PLANE] VFR Partie 3 La piste et sa construction" >}}<br />{{< yt "KbhO1pLHvOo" "[X PLANE] VFR Partie 4 Le VFR" >}}<br />{{< yt "OYLlRvJm3rA" "[X PLANE] VFR Partie 5 Le VFR Les instruments de vol" >}}<br />{{< yt "0gb6Edu0VVY" "[X PLANE 11] VFR Partie 6 Le Tour de piste" >}}<br />{{< yt "ZSxL1bsJQOU" "[VFR] Vol VFR. Etude d'une carte VAC et vol VFR avec points de reports" >}}

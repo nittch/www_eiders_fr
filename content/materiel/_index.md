@@ -21,6 +21,7 @@ Rangés en 3 tiers selon si le matériel est répendu chez les simmeurs.
 ## Tiers 3
 - [Cubesim](http://www.cubesim.com.cn/)
 - [Vipergear](https://vipergear.eu/)
+- [Winwing](https://www.winwing.cn/en/JOYSTICK)
 - [VRinsight](http://www.vrinsight.com/)
 - [RealSimGear](https://realsimgear.com/)
 - [Virtual Fly](https://www.virtual-fly.com)

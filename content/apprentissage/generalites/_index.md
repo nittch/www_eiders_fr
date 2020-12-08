@@ -19,4 +19,4 @@ EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums | [Principe brouillage IR](
 Académie de vol militaire | [Bibliothèque](http://avm-fr.com/documentations), en particulier : <br /> - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out) <br /> - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant) <br /> - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator) <br /> - [Communications Ailier](http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf)<br /> - [Vol en formation](http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf)<br /> - [Utilisation du Bull's Eye](http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf)
 Eagle Dynamics - Forums | [SAM Groups And Templates.](https://forums.eagle.ru/showthread.php?t=218487)
 3rd-wing.net | [Mission - SEAD](http://wiki.3rd-wing.net/index.php?title=Mission:_SEAD#9K33_OSA)
-
+Wiki HoggitWorld | [DCS enum callsigns](https://wiki.hoggitworld.com/view/DCS_enum_callsigns)

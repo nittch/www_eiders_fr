@@ -20,3 +20,4 @@ Académie de vol militaire | [Bibliothèque](http://avm-fr.com/documentations), 
 Eagle Dynamics - Forums | [SAM Groups And Templates.](https://forums.eagle.ru/showthread.php?t=218487)
 3rd-wing.net | [Mission - SEAD](http://wiki.3rd-wing.net/index.php?title=Mission:_SEAD#9K33_OSA)
 Wiki HoggitWorld | [DCS enum callsigns](https://wiki.hoggitworld.com/view/DCS_enum_callsigns)
+Wikipedia        | [Multiservice tactical brevity code](https://en.wikipedia.org/wiki/Multiservice_tactical_brevity_code)

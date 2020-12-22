@@ -23,7 +23,13 @@ Préparation de l'attaque (9-line simplifiée) | Types de controle<br /><ul><li>
 Phase d'attaque                       | pas de changement (leaving IP charlie 8 -- tipping in delta 4, continue, in hot cap 220, cleared hot, off [dry] direction)
 BDA (Battle Damage Assessment)        | en type 1 et 2, le JTAC annonce ce qui a été détruit ou ce que fait l'ennemi
 
-## <strike>22 décembre 2020</strike> - exercices libres
+## 22 décembre 2020 - exercices libres
+
+Pas un entraînement à proprement parler.
+
+Nous avons décollé de Lar. Nous avions 3 waypoints et des cibles à détruire à la bombe à sous-munitions ou au canon à chaque waypoint. Nous étions deux : l'un attaquait pendant que l'autre orbitait à une altitude plus élevée pour surveiller d'éventuels départs de missiles.
+
+Au final, nous étions Winchester après les deux premiers waypoints et sommes rentrés à Shiraz.
 
 ## <strike>29 décembre 2020</strike> - pause
 

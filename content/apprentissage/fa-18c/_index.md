@@ -15,3 +15,7 @@ Olivier Gaming + Zanck' + Vital ferox | {{< ytl "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkf
 Olivier Gaming            | {{< yt "fTXZIUw99-U" "[DCS] F18C Utiliser les AGM154C" >}}
 Wags                      | {{< yt "A7bMjoLmxPs" "DCS: F/A-18C Hornet - AGM-154C JSOW Introduction" >}}
 
+## Fan Club
+source              | description
+------------------- | -----------
+FlightDeckLife      | {{< ytl "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" "Catwalk Views" >}}<br />{{< ytl "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" "FlightDeckLife Binge Marathon" >}}

@@ -16,6 +16,7 @@ Grim Reapers        | {{< ytl "PL3kOAM2N1YJeM3xb46KDsTJhU1KySaA50" "Tutorials: M
 Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEpHklcDDWXh96-Yfb7DZvnC" "MIRAGE 2000C" >}}
 TheSkyline35        | {{< yt "kF4Kj8kFZz0" "DCS - Entrainement au ravitaillement en Mirage 2000 !" >}}<br /> {{< ytl "PL7qGpvHaenM_4ppDC_anrjO3R16DgEzbc" "DCS Mirage 2000" >}}<br /> {{< yt "uRqHWYI9v24" "M2000 - Lutter contre les Hornet/Fox-3 ?" >}}<br /> {{< yt "VeuZy9dhjps" "Tuto DCS World - Régler vos commandes ! Exemple Mirage 2000" >}}
 Reddit              | [What is the Mirage ideal landing speed...](https://www.reddit.com/r/hoggit/comments/7se6n0/what_is_the_mirage_ideal_landing_speed_i_keep/dt47th2/)
+n8d0g               | {{< yt "u8NEh1wRqhc" "DCS Mirage 2000C CCIP/CCRP Bombing Guide (2019 Version)" >}}<br /> {{< yt "9NRG4HxzAZQ" "DCS Mirage 2000C: A-A Weapons guide Part 1 (Super530)" >}} {{< yt "0lZgD_thj9Y" "DCS Mirage 2000 AA Weapons and Radar Modes Part 2(Magic II)" >}}
 
 ## Fan Club
 source              | description

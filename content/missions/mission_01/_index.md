@@ -31,7 +31,12 @@ Nous avons décollé de Lar. Nous avions 3 waypoints et des cibles à détruire 
 
 Au final, nous étions Winchester après les deux premiers waypoints et sommes rentrés à Shiraz.
 
-## <strike>29 décembre 2020</strike> - pause
+## 29 décembre 2020 - révisions
+Suite à un crash d'hélicoptère, une équipe de secours est sur place (VBL médicaux + tanks alliés).
+Ils demandent un appui aérien.
+
+Des camions ennemis sons stationnés non loin du lieu, à attaquer aux roquettes après un guidage visuel (révisions du type 2 sur talk-on).
+En fin d'entrainement des renforts arrivent une colonne de camions sur une route, à attaquer au canon (révision du type 2 sur coordonnées).
 
 ## <strike>05 janvier 2021</strike> - exercices libres
 

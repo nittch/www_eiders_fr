@@ -20,6 +20,8 @@ source              | description
 WellerMan           | {{< ytl "PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo" "DCS: How To Fly" >}} (tous les modules FC3)
 
 ## SU-27, SU-33, J-11A, MiG-29A, MiG-29S, MiG-29G
+<img src=/apprentissage/su27_mer.png width=50% />
+
 source              | description
 ------------------- | -----------
 Loulou de DCS World | {{< yt "Xz3DNBajMpY" "DCS World: J-11A présentation, différences avec le SU-27 (FR)" >}}<br /> {{< yt "F6Xu62_7oYA" "DCS World: SU-33 présentation, différences avec le SU-27 (FR)" >}}

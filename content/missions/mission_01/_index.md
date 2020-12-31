@@ -24,7 +24,7 @@ Phase d'attaque                       | pas de changement (leaving IP charlie 8 
 BDA (Battle Damage Assessment)        | en type 1 et 2, le JTAC annonce ce qui a été détruit ou ce que fait l'ennemi
 
 ## 22 décembre 2020 - exercices libres
-<img src=/mission_01/session3_f18.png width=30% />
+<img src=/mission_01/session3_f18.png width=50% />
 Pas un entraînement à proprement parler.
 
 Nous avons décollé de Lar. Nous avions 3 waypoints et des cibles à détruire à la bombe à sous-munitions ou au canon à chaque waypoint. Nous étions deux : l'un attaquait pendant que l'autre orbitait à une altitude plus élevée pour surveiller d'éventuels départs de missiles.
@@ -32,7 +32,7 @@ Nous avons décollé de Lar. Nous avions 3 waypoints et des cibles à détruire 
 Au final, nous étions Winchester après les deux premiers waypoints et sommes rentrés à Shiraz.
 
 ## 29 décembre 2020 - révisions
-<img src=/mission_01/session3_roquette.png width=30% />
+<img src=/mission_01/session3_roquette.png width=50% />
 Suite à un crash d'hélicoptère, une équipe de secours est sur place (VBL médicaux + tanks alliés).
 Ils demandent un appui aérien.
 

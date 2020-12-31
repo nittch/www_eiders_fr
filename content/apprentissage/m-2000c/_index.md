@@ -23,7 +23,8 @@ n8d0g               | {{< yt "u8NEh1wRqhc" "DCS Mirage 2000C CCIP/CCRP Bombing G
 <img src=/apprentissage/m2k_pc.png width=50% />
 
 ## Fan Club
-source              | description
-------------------- | -----------
+source               | description
+-------------------- | -----------
 imineo Documentaires | {{< yt "jDCxWEynbu4" "Le Mirage 2000 - Documentaire sur l'aviation" >}}
-Sygchan | {{< yt "PCvXyetyVkg" "Crash Mirage 2000 Éjection A 80 Pieds" >}}
+Sygchan              | {{< yt "PCvXyetyVkg" "Crash Mirage 2000 Éjection A 80 Pieds" >}}
+Metal Drake          | {{< yt "XlaJJXkS3uo" "Mirage 2000: Funniest Crash Ever" >}}

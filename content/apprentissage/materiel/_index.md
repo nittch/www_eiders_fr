@@ -32,6 +32,10 @@ Rangés en 3 tiers selon si le matériel est répendu chez les simmeurs.
 # Revendeurs
 - [Aerosoft](https://aerosoft.com)
 
+# Écrans tactiles
+- [Helios](https://github.com/HeliosVirtualCockpit/Helios/releases) et les profils [Capt Zeen](http://www.captzeen.com/helios/index.asp)
+- [Ikarus](https://github.com/H-J-P/Ikarus)
+
 # Tracking
 - [Trackir](https://www.trackir.fr)
 - [DELANCLiP](https://delanengineering.com/)

@@ -1,6 +1,6 @@
 +++
-title = "Matériel"
-weight = 3
+title = "Choix du matériel"
+weight = 30
 +++
 
 # Fabriquants et fournisseurs

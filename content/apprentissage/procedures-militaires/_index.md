@@ -37,6 +37,7 @@ Wiki 3rd-wing         | [Le 9-LINE](http://wiki.3rd-wing.net/index.php?title=9-L
 # Unités au sol
 
 ## Utilisation des véhicules (avec Combined Arms)
+<img src=/apprentissage/ca_leclerc.png width=50% />
 Dans une autre thématique, il est également possible de diriger des unités au sol (ou en mer) pour apporter plus de cohérence dans les mouvements des unités (et plus de challenge).
 
 source                | description

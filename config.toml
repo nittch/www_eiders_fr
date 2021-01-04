@@ -1,6 +1,7 @@
 baseURL = "https://dcs.linkea.org/"
 languageCode = "fr-fr"
-title = "DCS.linkea.org"
+title = "Les Eiders Implacables"
+titleSeparator = "-"
 
 theme = "hugo-theme-learn"
 

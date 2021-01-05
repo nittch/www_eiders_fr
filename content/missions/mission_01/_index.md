@@ -39,10 +39,11 @@ Ils demandent un appui aérien.
 Des camions ennemis sons stationnés non loin du lieu, à attaquer aux roquettes après un guidage visuel (révisions du type 2 sur talk-on).
 En fin d'entrainement des renforts arrivent une colonne de camions sur une route, à attaquer au canon (révision du type 2 sur coordonnées).
 
-## 05 janvier 2021 - entraînement 3 - type 3, 9-LINE
+## 05 janvier 2021 - entraînement 3 - type 3, TOT, 9-LINE
 <img src=/mission_01/session4_f18.png width=50% />
+
 objectif                              | détails
-------------------------------------- | ----------
+------------------------------------- | -----------------------------------------------------------------------------
 type 3                                | <ul><li>le jtac autorise une attaque sur une période donnée au lieu de donner une clearance par passe (cleared to engage from time ... to ....)<li>l'avion indique "commencing engagement", "engagement complete"<li>le BDA est donné par l'avion au jtac à la toute fin</ul>
 9-line                                | 1-3 concernent l'IP, 4-6 concernent la target, 7-8 le marquage et les alliés, 9 l'egress<ul><li>Type 1/Type 2/Type 3 Bomb on Target, rappelez quand prêt à noter la 9-line<li>1.IP<li>2.Heading IP to Target<li>3.distance IP to Target<li>4.altitude Target<li> 5.description Target (nombre et type)<li>6.coordonnées Target<li> 7.type de marquage ou code laser<li> 8.position et distance de l'allié le plus proche<li>9.egress (point cardinal et point), exemple Sud-Mazda<li>Rappelez quand prêt à prendre les remarques<li>Remarques<ul><li> heading désiré<li> Push ASAP , ou TOT (Time on Target) + heure<li> (type 3) engagement time : plage d'engagement, exemple: 45-55 -- Peut être donné plus tard pour laisser du temps au JTAC<li> (type 3) engagement type : type d'engagement, exemple: tous les blindés<li>façon d'attaquer (armement, ordres divers...)</ul></ul><br /> on readback 4-6-8 + remarques<br /> correlation (talk-on) avant la 9-line (pour indiquer "talk-on" dans la ligne 6) ou après (pour confirmer)
 Phase d'attaque                       | <ul><li>Si on rejoint l'IP, On va préférer "IP Inbound" à "Typping In" qui semble plus utilisé<li>On garde "Leaving IP" si on y est déjà</ul>

@@ -15,6 +15,7 @@ Olivier Gaming + Zanck' + Vital ferox | {{< ytl "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkf
 Commander Steinsch                    | {{< ytl "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" "F/A-18C HORNET" >}}
 Grim Reapers                          | {{< ytl "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" "Tutorials: FA-18C Hornet" >}}<br />{{< ytl "PL3kOAM2N1YJdJMyrnTLKqIwQjE2W-ITEQ" "FA-18C Hornet: Testing/Learning" >}}
 Banana Mayo                           | {{< ytl "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" "DCS TUTO F18" >}}
+asherao                               | [F18 Hornet Fuzing and Armament Quicklook Kneeboard](https://www.digitalcombatsimulator.com/fr/files/3305134/)
 
 ## Fan Club
 source              | description

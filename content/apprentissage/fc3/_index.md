@@ -60,3 +60,5 @@ source              | description
 ------------------- | -----------
 ColdWarWarrios      | {{< yt "2O9q6EJhssQ" "Su27 Cobra Manuevre" >}}
 kazinos1            | {{< yt "wziB_Hi-pQY" "Su 27 The best fighter in the world" >}}
+Gung Ho Vids        | {{< yt "gEokB_9N0Aw" "A-10 Thunderbolt II Formation Flight • Aerial View" >}}
+MilitaryNotes       | {{< yt "N60WtGC4ejo" "M61 20mm vs GAU-8 30mm Cannon (A-10 THUNDERBOLT II Main Gun)" >}}

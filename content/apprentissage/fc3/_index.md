@@ -34,6 +34,7 @@ Check-Six - Forums | [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://w
 
 ## F-15C
 <img src=/apprentissage/f15c_feu.png width=50% />
+
 source              | description
 ------------------- | -----------
 Photun              | {{< ytl "PLr1uSwrHettpyUaVNa3b-KHISLexmBfhW" "DCS F-15C tutoriel" >}}

@@ -33,11 +33,13 @@ Eagle Dynamics - Forums | [SU-27 instruments fonctions](https://forums.eagle.ru/
 Check-Six - Forums | [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
 
 ## F-15C
+<img src=/apprentissage/f15c_feu.png width=50% />
 source              | description
 ------------------- | -----------
 Photun              | {{< ytl "PLr1uSwrHettpyUaVNa3b-KHISLexmBfhW" "DCS F-15C tutoriel" >}}
 Grim Reapers        | {{< ytl "PL3kOAM2N1YJdTjHFMAQVAgV5iM_twDWuj" "Tutorials: F-15C Eagle" >}}
 Commander Steinsch  | {{< ytl "PL_uZ9_tQvzErU8tvCMyn5sy0ZNl5L0hnU" "F-15C EAGLE" >}}
+TAW_AlephRo         | [F-15C A/A Radar tool](https://tawdcs.org/radar-f15/)
 
 ## A-10A
 source              | description

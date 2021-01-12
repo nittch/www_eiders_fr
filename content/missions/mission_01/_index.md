@@ -49,6 +49,8 @@ type 3                                | <ul><li>le jtac autorise une attaque sur
 Phase d'attaque                       | <ul><li>Si on rejoint l'IP, On va préférer "IP Inbound" à "Typping In" qui semble plus utilisé<li>On garde "Leaving IP" si on y est déjà</ul>
 
 ## 12 janvier 2021 - entraînement 4 - FENCE-IN, révisions 9-LINE
+<img src=/mission_01/session5_f18_m2k.png width=50% />
+
 
 objectif                              | détails
 ------------------------------------- | -----------------------------------------------------------------------------

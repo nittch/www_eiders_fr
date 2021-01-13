@@ -31,6 +31,7 @@ TheSkyline35        | {{< yt "8LQv-dI9Q28" "[#3] A bord du Mig-29 "Fulcrum" - Le
 Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk" "SU-33 FLANKER-D" >}}<br /> {{< ytl "PL_uZ9_tQvzEo7QRuzc0CLsmFSjkb7urQ2" "MIG-29 FULCRUM" >}}<br /> {{< ytl "PL_uZ9_tQvzEoAwlWcwhpIkr4_fgfeLyes" "SU-27 / J-11 FLANKER" >}}
 Eagle Dynamics - Forums | [SU-27 instruments fonctions](https://forums.eagle.ru/showthread.php?t=120007&page=2) le vrai hotas du SU-27 pour donner des idées
 Check-Six - Forums | [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
+Multisim Project   | [Checklists SU-27 / SU-25](https://memorial76-vols-virtuels.blogspot.com/p/documentation.html)
 
 ## F-15C
 <img src=/apprentissage/f15c_feu.png width=50% />

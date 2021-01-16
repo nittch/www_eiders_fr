@@ -10,7 +10,7 @@ EFPV (Doc)                            | {{< ytl "PLxeAPpKC04wtpEx-sMClxoum_t62ZN
 ChecksixTV (Ghostrider + Doc)         | {{< ytl "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" "AVM: Académie de Vol  Militaire" >}}
 Doc                                   | {{< ytl "PLjV7iPvvdDf6Zl5sG9Cc9T4kqjS4HVxQc" "Raven One" >}}
 Matt Wagner (Wags)                    | {{< ytl "PLer9oF4AanvFOfG4sSZSHJQZeMQx7YGr6" "Hornet Training Videos" >}}
-Spudknocker                           | {{< ytl "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" "DCS: F/A-18C Lot 20 Hornet by Eagle Dynamics" >}}
+Spudknocker                           | {{< ytl "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" "DCS: F/A-18C Lot 20 Hornet by Eagle Dynamics" >}}<br />{{< yt "rfdmWaSUrv8" "DCS F/A-18C Hornet Dumb Bomb & Landing Training" >}}
 Olivier Gaming + Zanck' + Vital ferox | {{< ytl "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" "Les Tutos d'Olivier // F/A 18-C Hornet" >}}
 Commander Steinsch                    | {{< ytl "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" "F/A-18C HORNET" >}}
 Grim Reapers                          | {{< ytl "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" "Tutorials: FA-18C Hornet" >}}<br />{{< ytl "PL3kOAM2N1YJdJMyrnTLKqIwQjE2W-ITEQ" "FA-18C Hornet: Testing/Learning" >}}

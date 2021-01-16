@@ -22,3 +22,4 @@ IceCat                                | [F/A-18C Printable A5 Normal Checklist b
 source              | description
 ------------------- | -----------
 FlightDeckLife      | {{< ytl "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" "Catwalk Views" >}}<br />{{< ytl "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" "FlightDeckLife Binge Marathon" >}}
+m171562             | {{< yt "JYUm5Nl6318" "F/A-18 Hornets - 30-40 knot Cross Wind Take-Off" >}}

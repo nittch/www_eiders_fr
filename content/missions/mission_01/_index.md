@@ -57,7 +57,21 @@ objectif                              | détails
 AWACS                                 | En arrivant en fréquence AWACS, s'annoncer... ("Overlord, Pontiac, nous sommes un mirage 2000 arrivant dans votre zone", "Pontiac, Overlord, identifié radar, indiquez mission", "Overlord, Pontiac, mission CAS en direction point Mazda")
 FENCE-IN                              | En arrivant en zone de combat, sur ordre nous allons FENCE-IN, il s'agit d'une check-list à dérouler en suivant l'acronyme FENCE :<ul><li>**Fuel**, on vérifie qu'à ce moment du vol on a bien une quantité prévue pour la mission, les différents niveaux des différents bidons, cross-feed, etc...<li>**Emitters**, on vérifie le statut de tout ce qui peut émettre en suivant l'acronyme TRAIL:<ul><li>**TACAN**, vérifier, passer en air-air<li>**Radar**, selon mission<li>**ALQ/ALR**, régler ECM (ont pour réf ALQ- sur avion américains) et RWR (ont pour réf ALR-)<li>**IFF**, code et mode selon mission<li>**Lights**, feux éteins</ul><li>**Navigation**: vérifier les waypoints importants, recalage GPS éventuel<li>**Chaff et flares**: programmes réglés et armés<li>**Employment**: préparation **ou vérification** de tous les systèmes d'armes et emports (**mode A/G**, **préchauffe POD**, préchauffe missiles, mode de délivrance des bombes, réglage des volumes, réglage codes laser...). **Master Arm ON**, bien que sujet à débat (normalement la sécurité reste jusqu'au dernier moment), nous passons Master Arm ON à cette étape on pour l'entraînement</ul>Une fois le FENCE-IN vérifié, vous êtes prêt à combattre. Le but est de ne pas louper d'occasion de tir, même avec le stress.<br />Pour l'entraînement et un peu artificiellement, nous procédons ainsi: l'AWACS ordonne: "Passez FENCE-IN", et l'avion réponds "FENCE-IN vérifié, prêt au combat"
 
-## 19 janvier 2021 - entraînement 5
+## 19 janvier 2021 - entraînement 5 - Ateliers tirs
+Nous avons travaillé les différentes emports possibles pour la mission :
+- Mk-83 (general bomb)
+- Mk-84 (general bomb, pour blindés)
+- Mk-20 RE (cluster, pour blindés)
+- Roquettes Zuni (pour blindés), en S (single)
+- Roquettes Hydra 70 (Launceur LAU-61 - 19 roquettes, tête M151 - High Explosive), en S (single)
+- Canon
+
+Pour maximiser l'utilisation de l'emport :
+- les bombes sont tirées en CCIP, une par une
+- les roquettes à l'unité
+- le canon en low
+
+Chaque atelier consistait à réviser le FENCE-IN et ensuite tirer au waypoint 2.
 
 ## 26 janvier 2021 - entraînement 6
 

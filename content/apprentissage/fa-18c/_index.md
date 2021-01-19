@@ -6,6 +6,7 @@ weight = 8
 source                                | description
 ------------------------------------- | -----------
 Mudspike - Chuck's guides             | [Chuck’s Guides – DCS F/A-18C HORNET](https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/)
+Hoggitworld                           | [F/A-18C DCS World Wiki](https://wiki.hoggitworld.com/view/F/A-18C)
 EFPV (Doc)                            | {{< ytl "PLxeAPpKC04wtpEx-sMClxoum_t62ZNcih" "FA-18C - DCS" >}}
 ChecksixTV (Ghostrider + Doc)         | {{< ytl "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" "AVM: Académie de Vol  Militaire" >}}
 Doc                                   | {{< ytl "PLjV7iPvvdDf6Zl5sG9Cc9T4kqjS4HVxQc" "Raven One" >}}

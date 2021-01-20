@@ -21,3 +21,10 @@ Eagle Dynamics - Forums | [SAM Groups And Templates.](https://forums.eagle.ru/sh
 Wiki HoggitWorld | [DCS enum callsigns](https://wiki.hoggitworld.com/view/DCS_enum_callsigns)
 Eagle Dynamics - Forums | [Overview of all weapons](https://forums.eagle.ru/showthread.php?t=158620) toutes les armes de DCS
 3rd-wing.net | [Ravitaillement en vol](http://wiki.3rd-wing.net/index.php?title=Ravitaillement_en_vol) liste des ravitailleurs et leur paramètres
+
+## Types de missions
+source       | description
+------------ | -----------
+3rd-wing     | [Evac_Types_Missions](http://server.3rd-wing.net/public/Miroo/doc/Evac_Types_Missions.pdf)
+Forum Eagle  | [Mission Editor TASK/ROLE Resource](https://forums.eagle.ru/topic/67142-mission-editor-taskrole-resource)
+Airgoons     | [Tasking](https://www.airgoons.com/w/Tasking)

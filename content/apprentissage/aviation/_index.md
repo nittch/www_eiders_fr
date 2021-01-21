@@ -17,6 +17,7 @@ Doc | {{< yt "0FPuipHdhNE" "La Navigation VFR "pour les nuls" - Microsoft Flight
 abvmcine | {{< yt "65kQhuYVTuI" "Règles de base de la Phraséologie Aéronautique" >}}
 EFPV | {{< yt "uW3Meabxz7A" "Les Tutos du simu - n°1 - Lecture de carte VFR By MaxWaldorf2011" >}}<br />{{< yt "nz8bJX_deaM" "Les Tutos du simu - n°2 - Les Procédures IFR By MaxWaldorf2011" >}}<br />{{< yt "fDcIQ7vMs0o" "Les Tutos du simu - n°3 - Utilisation du VOR By EFPV" >}}
 dr_bidine | {{< yt "6xorDSHmml8" "[FS2020] 🛫 Les bases du VFR avec un Cessna 152. Peut-on utiliser des procédures réélles avec MFS ?" >}}<br />{{< yt "g6Q9ovrbkKA" "[FS2020] 🛫 Comment gérer le mélange air/essence (mixture) ?" >}}<br />{{< yt "sbBiM71qpAQ" "[FS2020] 🛫 Tuto facile : utilisation du G1000 en VFR et pilote automatique" >}}<br />{{< yt "yLQg53ocURE" "[FS2020] 🛫 Tuto G1000 : navigation VOR à VOR (très facile)" >}}
+Cindy Hollman | {{< ytl "PLTaK2N2T1t_dobZ_zpl70mIm7CsR9NgCn" "Private Pilot Lessons" >}}
 Grim Reapers | {{< ytl "PL3kOAM2N1YJfRmA3l1qhL8SIqfFDXD87D" "Tutorials: Elementary Flight" >}}<br /> {{< ytl "PL3kOAM2N1YJckArrN5Vnmk1IegGfuC6dj" "Tutorials: Aircraft Basics" >}}
 
 ## Aviation militaire

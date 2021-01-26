@@ -73,7 +73,18 @@ Pour maximiser l'utilisation de l'emport :
 
 Chaque atelier consistait à réviser le FENCE-IN et ensuite tirer au waypoint 2. (fichier de mission : <a href=/mission_01/lei-cas-6.miz>lei-cas-6.miz</a>)
 
-## 26 janvier 2021 - entraînement 6
+## 26 janvier 2021 - entraînement 6 - Vol en formation
+
+objectif                              | détails
+------------------------------------- | -----------------------------------------------------------------------------
+Leader                                | <ul><li>Chef de patrouille<li>Communications radios (si patrouille non séparée)<li>Navigation et plan de vol<li>Gestion des attaques et armements (qui tire et quand)</ul>
+Ailier                                | <ul><li>Tient la formation<li>Surveille le ciel et le radar<li>Le premier ailier collationne normalement, les autres par leur numéro<li>Procède aux readback et confirmations visuelles</ul>
+PS (Patrouille serrée)                | Très difficile à tenir, utilisée en faible visibilité (météo difficile) ou manœuvre autour de l'aéroport<ul><li>à 2 mètres l'un de l'autre<li>vol dans le même plan (monter ou descendre en virage pour le rester)<li>Annoncer "perte visuel" et manœuvre anti-abordage immédiatement<li>Variante "PS lâche" moins serrée</ul>
+FMO (Formation Manœuvre offensive)    | La formation classique, très manœuvrante<ul><li>600 ft derrière<li>45° derrière, choix du côté: derrière le leader en fonction de la menace (voir le leader et d'où vient la menace)<li>en étagement négatif (sous le leader, sauf en très basse altitude ou c'est l'inverse)<li>on imite le leader, on garde exactement les mêmes RPM, en virage on prends l'intérieur pour se rapprocher, l'extérieur pour s'éloigner<li>en cas d'engagement, si l'équipier est indissociable (manque d'expérience ?), passer dans les 6h<li>Variante "Wedge" moins serrée pour le transit</ul>
+FMD (Formation Manoeuvre Défensive)   | Formation pour le transit, un point de départ très avantageux en cas d'attaque (nombreuses techniques de tenailles pour renverser l'attaque)<ul><li>Surveillance mutuelle des 6h<li>A l'opposition aux PS/FMO, le leader doit manoeuvrer pour tenir la position<li>virages difficiles mais des techniques existent</ul>
+CAS et 9-Lines                        | <ul><li>Le vol dans son ensemble note les 9-Lines<li>Soit la formation est maintenue (FMO avec un passage en trail pour l'engagement)<li>Soit la formation est séparée et rassemblée (rassemblement en ligne droite, en virage, baïonnette, technique autres - Radar, Datalink avec une stratégie d'interception...)</ul>
+
+Je me suis inspiré de [FFW-01 Formation à deux](https://www.ffw-01.fr/images/documentation/interne/divers/Formationa%20deux.pdf) et [C6 - Vol en formation](http://www.checksix-fr.com/files/F4AF/EDC/1-2-4%20Vol%20en%20formation.pdf)
 
 ## 2 février 2021 - entraînement 7
 

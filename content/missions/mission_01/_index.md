@@ -74,6 +74,7 @@ Pour maximiser l'utilisation de l'emport :
 Chaque atelier consistait à réviser le FENCE-IN et ensuite tirer au waypoint 2. (fichier de mission : <a href=/mission_01/lei-cas-6.miz>lei-cas-6.miz</a>)
 
 ## 26 janvier 2021 - entraînement 6 - Vol en formation
+<img src=/mission_01/session7_desert.png width=50% />
 
 objectif                              | détails
 ------------------------------------- | -----------------------------------------------------------------------------

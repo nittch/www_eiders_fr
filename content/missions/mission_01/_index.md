@@ -87,7 +87,16 @@ CAS et 9-Lines                        | <ul><li>Le vol dans son ensemble note le
 
 Je me suis inspiré de [FFW-01 Formation à deux](https://www.ffw-01.fr/images/documentation/interne/divers/Formationa%20deux.pdf) et [C6 - Vol en formation](http://www.checksix-fr.com/files/F4AF/EDC/1-2-4%20Vol%20en%20formation.pdf)
 
-## 2 février 2021 - entraînement 7
+## 2 février 2021 - entraînement 7 - Révisions
+<img src=/mission_01/session8_ps.png width=50% />
+
+objectif                              | détails
+------------------------------------- | -----------------------------------------------------------------------------
+PS                                    | <ul><li>Régulation aux gaz<li>Plan des ailes</ul>
+FMO                                   | <ul><li>600 ft, 45°<li>étagement<li>RPM fixes et imitation</ul>
+FMD                                   | <ul><li>parallèles<li>surveillance mutuelle</ul>
+
+Révisions générales (radio, plan de vol, décollage en patrouille, contact jtac, 9-line et tir, rtb)
 
 ## 9 février 2021 - mission
 

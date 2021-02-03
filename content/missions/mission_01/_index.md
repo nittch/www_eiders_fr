@@ -96,7 +96,9 @@ PS                                    | <ul><li>Régulation aux gaz<li>Plan des 
 FMO                                   | <ul><li>600 ft, 45°<li>étagement<li>RPM fixes et imitation</ul>
 FMD                                   | <ul><li>parallèles<li>surveillance mutuelle</ul>
 
-Révisions générales (radio, plan de vol, décollage en patrouille, contact jtac, 9-line et tir, rtb)
+<img src=/mission_01/Screen_210203_222548.png width=50% />
+
+Révisions générales (radio, plan de vol, décollage en patrouille, contact jtac, 9-LINE et tir, RTB). Type 2 et 3, TOT...
 
 ## 9 février 2021 - mission
 

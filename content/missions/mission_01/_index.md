@@ -87,7 +87,7 @@ CAS et 9-Lines                        | <ul><li>Le vol dans son ensemble note le
 
 Je me suis inspiré de [FFW-01 Formation à deux](https://www.ffw-01.fr/images/documentation/interne/divers/Formationa%20deux.pdf) et [C6 - Vol en formation](http://www.checksix-fr.com/files/F4AF/EDC/1-2-4%20Vol%20en%20formation.pdf)
 
-## 2 février 2021 - entraînement 7 - Révisions
+## 2 et 3 février 2021 - entraînement 7 - Révisions
 <img src=/mission_01/session8_ps.png width=50% />
 
 objectif                              | détails

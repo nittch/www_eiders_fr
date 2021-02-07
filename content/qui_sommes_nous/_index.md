@@ -6,7 +6,7 @@ weight = 4
 # L'équipe
 
 ## nittch
-Découvrant DCS depuis juin 2020, d'abord sur SU-25T puis FC3, j'attaque le Mirage-2000C à présent.
+Découvrant DCS depuis juin 2020, j'ai fait mes premières armes sur FC3 (SU-25T, SU-27), puis le Mirage-2000C et enfin le F/A-18C.
 <img src=/Screen_120sec_reparation.png width=50% />
 
 ## jmiven

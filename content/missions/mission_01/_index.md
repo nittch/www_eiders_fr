@@ -101,6 +101,55 @@ FMD                                   | <ul><li>parallèles<li>surveillance mutu
 Révisions générales (radio, plan de vol, décollage en patrouille, contact jtac, 9-LINE et tir, RTB). Type 2 et 3, TOT...
 
 ## 9 février 2021 - mission
+Cela fait maintenant 6 ans que la guerre civile a débuté en Syrie, si bien que les journalistes n'en parlent presque plus.
+Le conflit est toutefois revenu sur le devant de la scène brutalement quand la presse occidentale, Mediapart et El Pais en tête ont obtenus des preuves concrètes et crédibles qu'un génocide était en passe d'être organisé sur le sol Syrien. L'article était formel, des centaines de millions de doses d'aérosols provoquant la fièvre de Malte étaient produits. L'opinion public des pays occidentaux, très sensibilité après une pandémie mondiale éprouvante, et redoutant plus que tout une nouvelle contagion, bascula immédiatement en faveur d'une intervention militaire et l'affaire fut discutée à l'ONU. Alors que tous attendaient un véto de la Russie, l'allié historique de la Syrie s'est retournée et a approuvé l'attaque. Peut-être que cette position était t elle trop dure à tenir alors que le pouvoir est de plus en plus contesté au Kremlin ? C'est donc à un mandat OTAN-Russie que fut confié le mandat d'attaquer le sol Syrien, pour :
+- détruire les sites de production
+- instaurer une force d'interposition dans la région
+
+Narguant l'occident, la Turquie a interdit le survol de son territoire et déployé sa marine près de la zone.
+Craignant pour sa sécurité face au voisin devenant de plus en plus gênant, le Liban vient d'annoncer son soutien logistique à l'opération.
+
+Les forces en présences sont les suivantes :
+- contrôle maritime et espace aérien: USA
+- support aérien à l'ouest: France, Espagne, Grande-Bretagne
+- support aérien à l'est et interdiction aérienne: Russie
+- troupes au sol: USA, France, Pays-bas, Portugal
+
+<img src=/mission_01/mission_briefing.png width=50% />
+
+La mission:
+- Callsigns Uzi et Dodge
+- pilote de FA-18C espagnol, vous êtes déployé à Wujah Al Hajar au Liban pour une mission CAS
+- l'attaque du sol Syrien vient de démarrer cette nuit, des commandos et véhicules légers auraient passé la frontière
+- CAP assuré par les russes en SU-27, les Mig-21 syriens seront interdits de vol
+- les britaniques ont pour mission le SEAD, qui a débuté cette nuit
+- vous avez entendu parler d'un strike sur Damas qui vient d'échouer, des hélicoptères de recherchent viendraient de partir de l'aéroport
+- les relations entre l'OTAN et la Russie sont très tendues
+
+Plan de vol
+- départ prévu 5h30 (2h30 Z) de Wujah Al Hajar
+- waypoint 0, piste courte: décollage full-afterburner
+- avant waypoint 1 : passage sur contrôle Overlord
+- waypoint 1, survol de Beirut niveau de vol 150 minimum
+- avant waypoint 2, FENCE-IN
+- waypoint 2 & 3 en station, (paramètres endurance conseillés : niveau 260, mach 0.58), mise à disposition de l'appareil
+- atterrissage waypoint 4 à Rayak (régler home fuel sur wp 4)
+- alternate : Beirut
+
+Radios:
+- Wujay Al Hajar : 242.3 (wp 0)
+- Overlord : 253
+- Rayak : 247 (wp 4)
+- Beirut : 245.7 (VOR-DME 112.6)
+
+Emports:
+- Cibles anticipées : char ennemis lourds
+- 1x Mk-84
+- 16x roquettes Zuni
+- 2x Fox2 (AIM-9x)
+- 2x bidons (éviter de jettison)
+- Au FENCE-IN garder Radar et IFF
+- Bingo conseillé : 3000
 
 ## 16 février 2021 - débrief
 

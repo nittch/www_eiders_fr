@@ -36,6 +36,7 @@ FFW-01 "Mudmovers"        | des [docs](https://ffw-01.fr/formation/documentation
 3rd-wing.net              | - [Se retrouver au MSI](https://www.3rd-wing.net/lofiversion/index.php?t11483.html) technique basée sur le Bullseye <br />
 EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums | [Principe brouillage IR](http://www.evac-fr.net/forums/lofiversion/index.php?t3047.html)
 Académie de vol militaire | [Bibliothèque](http://avm-fr.com/documentations), en particulier : <br /> - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out) <br /> - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant) <br /> - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator) <br /> - [Communications Ailier](http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf)<br /> - [Vol en formation](http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf)<br /> - [Utilisation du Bull's Eye](http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf)
+Iain Christie             | {{< ytl "PL0jjGRFQGC0qBEFiQXgEfduvjFzsNPKYs" "Iron Bomber's Guide to The DCS Galaxy"  >}} : comment tirer de la bombe non-guidée
 Wikipédia                 | [Military Grid Reference System](https://en.m.wikipedia.org/wiki/Military_Grid_Reference_System)
 fas.org                   | [F16 Combat Aircraft Fundamentals](https://fas.org/man/dod-101/sys/ac/docs/16v5.pdf), FENCE décrit page 125
 

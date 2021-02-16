@@ -18,6 +18,7 @@ Photun                                | {{< ytl "PLr1uSwrHettrzHixsNiwDfxGTgjoRf
 Commander Steinsch                    | {{< ytl "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" "F/A-18C HORNET" >}}
 Grim Reapers                          | {{< ytl "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" "Tutorials: FA-18C Hornet" >}}<br />{{< ytl "PL3kOAM2N1YJdJMyrnTLKqIwQjE2W-ITEQ" "FA-18C Hornet: Testing/Learning" >}}
 Banana Mayo                           | {{< ytl "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" "DCS TUTO F18" >}}
+Boyington                             | [F/A-18C Weapons and Loadout](https://www.digitalcombatsimulator.com/fr/files/3315085/)
 asherao                               | [F18 Hornet Fuzing and Armament Quicklook Kneeboard](https://www.digitalcombatsimulator.com/fr/files/3305134/)
 IceCat                                | [F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2](https://www.digitalcombatsimulator.com/fr/files/3300721/)
 kengou                                | [Hornet weight/balance/trim/takeoff calculator spreadsheet](https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/)

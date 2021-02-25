@@ -5,6 +5,7 @@ weight = 1
 
 Seconde mission organisée par furiml.
 
+<img src=/mission_02/commodore.png width=50% />
 ## 23 février 2021 - entraînement 1
 objectif                              | détails
 ------------------------------------- | ----------

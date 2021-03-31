@@ -44,9 +44,24 @@ CASE 1                                | Procédure CASE 1 réaliste décomposée
 Phraséologie                          | Dans un CASE 1, les avions ne sont pas identifiés par leur callsign mais par leur immatriculation. Celle-ci figure sur l'empennage et le nez des appareils. Ici, 025 pour exemple. Le porte avion porte le callsign Shamrock.<img src=/mission_02/lsophone.jpeg width=30% style="float: right; margin: 50 0 0 0"/><ul><li>Phase d'approche :<ul><li>A(vion) : Shamrock, 025, en approche dans vos 191° pour 56 nautiques. En patrouille avec 026 et 027, pétrole 6.2<br/><dd><i>On annonce le pétrole le plus bas du vol, en milliers de galons.</i></dd><li>Ap(proche) : 025, visibilité excellente. Quelques nuage épars à 12000 pieds. QNH 29.93, case 1, BRC prévu 091. Avisez en vue à 10</ul><li>Phase de contact visuel :<ul><li>A : Shamrock, 025, en vue à 10<li>Ap : 025, actualisez statut et passez avec la tour<li>A : 025, 5.7</ul><li>Phase de marshall :<ul><li>A : Tour, 025, overhead angels 5, en patrouille avec 026 et 027. Pétrole 5.5<br/><dd><i>Overhead signifie point n°1, mais on peut rejoindre le marshall depuis la direction que l'on préfère, tant qu'elle est tangeante au marshall.</i></dd><li>T(our) : Tour, reçu. BRC 091, signal Charlie</ul><li>Phase Charlie, communication interactive avec le LSO.</ul>
 
 ## 23 mars 2021 - entraînement 5
+<img src=/mission_02/magnum.png width=50% />
+
+<b>Mission abort en raison d'un shortage d'avions.</b>
+
+
+objectif                              | détails
+------------------------------------- | ----------
+Plan de vol                           | Un vol de deux F-18 (Chevy-4) est en transit sur le tarmac de Ramat David et doivent se rendre sur le porte avion Theodore Roosevelt situé à environ 30 nautiques de la côte. En raison de difficultés techniques, il n'a pas été possible de ravitailler les avions en carburant. La ville d'Haifa se trouvant dans la trajectoire, le vol devra suivre le plan de vol balisé par les waypoints 1 et 2 en respectant ces niveaux de vol :<ul><li>Waypoint 1 : 80 et plus<li>Waypoint 2 : 120 et plus</ul>Après avoir apponté en CASE 1, les avions pourront ravitailler et réarmer pour l'exercice.<br/>Le vol adoptera une formation d'attaque après avoir décollé, réalisera un fence-in puis se dirigera vers la zone d'exercice. Durant tout l'exercice, le vol restera sous contrôle du Theodore Roosevelt.<ul><li>Spécificité fence-in : feux de position et de formation allumés, interdiction de jettison</ul>Une fois l'exercice terminé, le vol effectuera un retour sur le Theodore Roosevelt, un avion ravitailleur étant disponible si besoin. En cas d'urgence, les avions pourront être dispatchés par l'approche de Beirut.
+RWR et menaces SAM                    | L'exercice du jour comprend la qualification d'un lot de missiles AGM-88C (HARM) reçus sur le Theodore Roosevelt, ainsi que la destruction de plusieurs antennes SAM volées sur le territoire syrien. Pour éviter les dommages collatéraux, ces antennes ont été déployées sur le mont Liban où se trouve également des équipes au sol opérant certaines antennes. Le vol pourra s'appuyer sur ces équipes pour obtenir des lorsqu'une confirmation visuelle ne sera pas possible.<br/>Les différentes antennes déployées :<ul><li>P19 "Flat Face B" : les équipes au sol tentent d'extraire de l'intelligence de ces antennes, il ne faudra par conséquent pas les engager.<li>2K12 "Kub" (SA6) : à détruire<li>SNR-75 "Fan Song" (SA2) : à détruire</ul>
+Emploi du HARM                        | <img src=/mission_02/chevy4.png width=14% style="float: right; margin: 0 0 0 0"/><ul><li>Master arm : ON<li>Mode A/G<li>Sélectionner HARM sur la page d'armement<li>Le HARM possède trois modes : <ul><li>SP (Self Protect)<li>TOO (Target Of Opportunity)<li>PB (Pre-Brief) (N.I.)</ul>On utilisera le mode SP pour sélectionner manuellement les menaces à engager<li>ALR-67 : ON<li>Placer la page EW (Electronic Warfare) sur un des DDI, boxer "HUD" pour voir apparaître les menaces sur le HUD<li>La menace sélectionnée est encadrée sur le HUD. Pour cycler sur les différentes menaces détectées, utiliser le switch FLIR FOV<li>Le HARM est propulsé dans les premières secondes du tir, puis il vole de manière passive : il est donc performant à haute altitude, et haute vitesse</ul>
 
 ## 30 mars 2021 - entraînement 6
 
-## 6 avril 2021 - mission
+L'entraînement de ce jour est une réédition de l'entraînement du 23 mars avec un seul avion. Le bilan est le suivant :
+<ul><li>Premier appontage : 3ème brin<li>3 cibles atteintes sur 4 missiles<li>2 cibles totalement détruites<li>Une cible rendue inopérante<li>Second appontage : 1er brin</ul>
 
-## 13 avril 2021 - debrief
+## 6 avril 2021 - révisions
+
+## 13 avril 2021 - mission
+
+## 20 avril 2021 - debrief

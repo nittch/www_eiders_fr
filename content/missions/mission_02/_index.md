@@ -62,6 +62,46 @@ L'entraînement de ce jour est une réédition de l'entraînement du 23 mars ave
 
 ## 6 avril 2021 - révisions
 
+Révision des acquis en solo.
+
 ## 13 avril 2021 - mission
 
+Opération Tamarae : <a href=/mission_02/ops_tamarae_briefing.pdf>télécharger le briefing</a>
+<style>
+	.col {
+		width: 33%;
+		float: left;
+		padding: 10px;
+	}
+	.row::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
+</style>
+<div class="row">
+	<div class="col">
+		<img src=/mission_02/magma.png>
+	</div>
+	<div class="col">
+		<img src=/mission_02/magma_liftoff.png>
+	</div>
+	<div class="col">
+		<img src=/mission_02/cobra_smoke.png>
+	</div>
+</div>
+<div class="row">
+	<div class="col">
+		<img src=/mission_02/speed.png>
+	</div>
+	<div class="col">
+		<img src=/mission_02/lobo.png>
+	</div>
+	<div class="col">
+		<img src=/mission_02/challenger.png>
+	</div>
+</div>
+
 ## 20 avril 2021 - debrief
+
+Débriefing de la mission en équipe, et discussion autour du prochain cycle.

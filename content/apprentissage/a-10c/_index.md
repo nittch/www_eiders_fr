@@ -16,5 +16,5 @@ source              | description
 Real Engineering    | {{< yt "wk6Qr6OO5Xo" "The Insane Engineering of the A-10 Warthog" >}}
 ErikJohnston        | {{< yt "EXgTrpPU9Rk" "A-10 Thunderbolt Walkaround" >}}
 Doc                 | {{< yt "_ENNn4eBjk8" "Urban Dragon - JTFF - DCS World" >}}
-TheSkyline35        | {{< yt "qCTxnhETvu4" "DCS A10-C - Mission à haut risque : spike 27 ! (feat Exocet)" >}}<br />{{< "CSSP9sDeqJk" "A-10C II - Le renouveau de la référence de DCS !" >}}
+TheSkyline35        | {{< yt "qCTxnhETvu4" "DCS A10-C - Mission à haut risque : spike 27 ! (feat Exocet)" >}}<br />{{< yt "CSSP9sDeqJk" "A-10C II - Le renouveau de la référence de DCS !" >}}
 

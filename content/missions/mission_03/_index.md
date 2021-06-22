@@ -32,14 +32,24 @@ Navigation aux instruments            | <img src=/mission_03/entr2_landing.png w
 
 ## ~~18 mai 2021 - session annulée~~
 
-## 25 mai 2021 - entraînement 3
+## ~~25 mai 2021 - session annulée~~
 
-## 1er juin 2021 - entraînement 4
+## 1er juin 2021 - entraînement 3
+- notion de push/egress
+- révisions SEAD
+- AAR de nuit
+- BDA au POD
 
-## 8 juin 2021 - entraînement 5
+## 8 et 15 juin 2021 - entraînement 4
+- plan de vol, ground speed et timing
+- gagner du temps (accélérer, couper les virages, rolex), perdre du temps (ralentir, trajectoires, triangles, hippodromes)
 
-## 15 juin 2021 - entraînement 6
+## 22 juin 2021 - entraînement 5
+- révisions
+- plan de vol avec différentes altitudes
 
-## 25 juin 2021 - mission
+## 29 juin 2021 - entraînement 6
 
-## 1er juillet 2021 - debrief
+## 1er juillet 2011 - mission
+
+## 8 juillet 2021 - debrief

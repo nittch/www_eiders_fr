@@ -50,6 +50,7 @@ Navigation aux instruments            | <img src=/mission_03/entr2_landing.png w
 
 ## 29 juin 2021 - entraînement 6
 
-## 1er juillet 2011 - mission
+## 6 juillet 2011 - mission
 
-## 8 juillet 2021 - debrief
+## 13 juillet 2021 - debrief
+

@@ -34,19 +34,30 @@ Navigation aux instruments            | <img src=/mission_03/entr2_landing.png w
 
 ## ~~25 mai 2021 - session annulée~~
 
-## 1er juin 2021 - entraînement 3
-- notion de push/egress
-- révisions SEAD
-- AAR de nuit
-- BDA au POD
+## 1er juin 2021 - entraînement 3 - Vol de nuit, révisions
+objectif                              | détails
+------------------------------------- | ----------
+Push/Egress                           | Notions de Push/Egress, deux points dans le plan de vol marquants l'entrée en zone ennemie/le FENCE-IN et le début de l'attaque. Pour l'exercice un silence radio était demandé en zone ennemie.
+Gestion du carburant                  | <img src=/mission_03/entr3_aar.png width=30% style="float: right; margin: 0 0 0 0;"/>Révisions sur le mode Range/Climb, AAR de nuit (interception radar, prise de repères avec les feux)
+SEAD                                  | Tirs SEAD en Self-Protect, en pallier haute altitude.
+Strike                                | Largage JDAM en pallier haute altitude sur coordonnées PP. BDA au pod sur un waypoint.
 
-## 8 et 15 juin 2021 - entraînement 4
-- plan de vol, ground speed et timing
-- gagner du temps (accélérer, couper les virages, rolex), perdre du temps (ralentir, trajectoires, triangles, hippodromes)
+## 8 et 15 juin 2021 - entraînement 4 - Plan de vol
+<img src=/mission_03/entr4_hip2.png width=50% />
 
-## 22 juin 2021 - entraînement 5
-- révisions
-- plan de vol avec différentes altitudes
+objectif                              | détails
+------------------------------------- | ----------
+Suivre un plan de vol                 | A partir du point de push, suivre une vitesse sol recommandée. La vitesse sol permet de s'abstraire du vent et de l'altitude pour synchroniser un vol avec de nombreux appareils.
+Gérer le temps : en gagner            | Il est très difficile (presque impossible) de rattraper un retard. On peut néanmoins chercher à augmenter l'efficacité (vitesse plus proche du Range, altitude plus optimale...) ou couper les virages... A ne réserver qu'en territoire ami (avant Push) sous peine de se mettre en danger. Souvent le plus réaliste est de retarder tout le vol (négocier un ROLEX avec le commandement)
+Gérer le temps : en perdre            | <img src=/mission_03/entr4_hip.png width=30% style="float: right; margin: 0 0 0 0;"/>Il est plus facile d'en perdre. On peut bien sûr ralentir (et pourquoi pas chercher le mode Endurance), mais attention à ne pas se mettre en danger en cas d'attaque surprise, la lenteur empêchant toute manœuvre. Souvent le plus raisonnable et de conserver une vitesse efficace et d'effectuer des figures (serpentins, triangles équilatéraux, tour complet, hippodromes). Un tour complet en taux standard dure 2 minutes. Un hippodrome standard est de 4 minutes : 1 minute par demi tour en taux standard, et 1 minute par arrête.
+
+## 22 juin 2021 - entraînement 5 - Plan de vol, révisions
+<img src=/mission_03/entr5_turquie.png width=50% />
+
+objectif                              | détails
+------------------------------------- | ----------
+Révisions                             | Suivre le FPAS (Range, Endurance, Climb), plan de vols avec des timings et des vitesses sol à suivre, estimer un plan de descente (diviser distance par 3...)
+Différentes altitudes                 | Le plan de vol comportait différentes altitudes, l'attention était portée sur la consommation calculée par le FPAS durant le vol.
 
 ## 29 juin 2021 - entraînement 6
 

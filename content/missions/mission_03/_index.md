@@ -48,7 +48,7 @@ Strike                                | Largage JDAM en pallier haute altitude s
 objectif                              | détails
 ------------------------------------- | ----------
 Suivre un plan de vol                 | A partir du point de push, suivre une vitesse sol recommandée. La vitesse sol permet de s'abstraire du vent et de l'altitude pour synchroniser un vol avec de nombreux appareils.
-Gérer le temps : en gagner            | Il est très difficile (presque impossible) de rattraper un retard. On peut néanmoins chercher à augmenter l'efficacité (vitesse plus proche du Range, altitude plus optimale...) ou couper les virages... A ne réserver qu'en territoire ami (avant Push) sous peine de se mettre en danger. Souvent le plus réaliste est de retarder tout le vol (négocier un ROLEX avec le commandement)
+Gérer le temps : en gagner            | Il est très difficile (presque impossible) de rattraper un retard. On peut néanmoins chercher à augmenter l'efficacité (vitesse plus proche du Range, altitude plus optimale...) ou couper les virages... A ne réserver qu'en territoire ami (avant Push) sous peine de se mettre en danger. Souvent le plus réaliste est de retarder tout le vol (négocier un ROLEX, pour demander à tous de retarder tous les temps prévus, avec le commandement)
 Gérer le temps : en perdre            | <img src=/mission_03/entr4_hip.png width=30% style="float: right; margin: 0 0 0 0;"/>Il est plus facile d'en perdre. On peut bien sûr ralentir (et pourquoi pas chercher le mode Endurance), mais attention à ne pas se mettre en danger en cas d'attaque surprise, la lenteur empêchant toute manœuvre. Souvent le plus raisonnable et de conserver une vitesse efficace et d'effectuer des figures (serpentins, triangles équilatéraux, tour complet, hippodromes). Un tour complet en taux standard dure 2 minutes. Un hippodrome standard est de 4 minutes : 1 minute par demi tour en taux standard, et 1 minute par arrête.
 
 ## 22 juin 2021 - entraînement 5 - Plan de vol, révisions
@@ -60,6 +60,11 @@ Révisions                             | Suivre le FPAS (Range, Endurance, Climb
 Différentes altitudes                 | Le plan de vol comportait différentes altitudes, l'attention était portée sur la consommation calculée par le FPAS durant le vol.
 
 ## 29 juin 2021 - entraînement 6
+<img src=/mission_03/entr6_chypre.png width=50% />
+
+objectif                              | détails
+------------------------------------- | ----------
+Suivre un plan de vol                 | Utilisation de l'ordinateur de bord pour s'aider du mode TGT/TOT
 
 ## 6 juillet 2011 - mission
 

@@ -18,9 +18,9 @@ E-3A NATO Skins | - [DCS](https://www.digitalcombatsimulator.com/fr/files/331313
 source       | description
 ------------ | -----------
 Alphajet (Jet E Sons) | [jetesons.com](http://www.jetesons.com/telechargement.html)
-MB-339 | [Forum Eagle](https://forums.eagle.ru/showpost.php?p=3966249&postcount=1)
-A-4E | [Forum Eagle](https://forums.eagle.ru/showthread.php?p=3930571)
-Hercules C-130 by Anubis | TODO
+Community A-4E-C | [Forum Eagle](https://forums.eagle.ru/topic/207102-community-a-4e-c/)
+VNAO T-45 Goshawk | [Forum Eagle](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)
+DCS Super Hercules mod by Anubis | [Forum Eagle](https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/)
 
 # Logiciels Tiers
 

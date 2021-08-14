@@ -27,5 +27,7 @@ n8d0g               | {{< yt "u8NEh1wRqhc" "DCS Mirage 2000C CCIP/CCRP Bombing G
 source               | description
 -------------------- | -----------
 imineo Documentaires | {{< yt "jDCxWEynbu4" "Le Mirage 2000 - Documentaire sur l'aviation" >}}
+Motarizado           | {{< yt "k-SlLeYRGnE" "Mirage 2000 Fighter Jet Take Off French Air Force" >}}
 Sygchan              | {{< yt "PCvXyetyVkg" "Crash Mirage 2000 Éjection A 80 Pieds" >}}
 Metal Drake          | {{< yt "XlaJJXkS3uo" "Mirage 2000: Funniest Crash Ever" >}}
+Adryan Clerc         | {{< yt "QrQxJSRSZAU" "Evanouissement pilote Mirage 2000D" >}}

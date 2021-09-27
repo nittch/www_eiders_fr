@@ -17,4 +17,5 @@ Real Engineering    | {{< yt "wk6Qr6OO5Xo" "The Insane Engineering of the A-10 W
 ErikJohnston        | {{< yt "EXgTrpPU9Rk" "A-10 Thunderbolt Walkaround" >}}
 Doc                 | {{< yt "_ENNn4eBjk8" "Urban Dragon - JTFF - DCS World" >}}
 TheSkyline35        | {{< yt "qCTxnhETvu4" "DCS A10-C - Mission à haut risque : spike 27 ! (feat Exocet)" >}}<br />{{< yt "CSSP9sDeqJk" "A-10C II - Le renouveau de la référence de DCS !" >}}
-
+Gung Ho Vids        | {{< yt "gEokB_9N0Aw" "A-10 Thunderbolt II Formation Flight • Aerial View" >}}
+MilitaryNotes       | {{< yt "N60WtGC4ejo" "M61 20mm vs GAU-8 30mm Cannon (A-10 THUNDERBOLT II Main Gun)" >}}

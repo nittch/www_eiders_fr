@@ -17,3 +17,5 @@ source              | description
 Skyes9              | {{< yt "m06uWM_tABM" "Powerful F-16 Afterburner Takeoff" >}}
 Aleksander Ellefsen | {{< yt "tdczvix3EiE" "F-16 Full Afterburner - 11 litres fuel per second!" >}}
 Topfelya            | {{< yt "C-WgHooZ7-Y" "F-16 Performs Fantastic Touch-And-Go, With Two Rolls" >}}
+Documentaire Aviation | {{< yt "ztEONZIFNeQ" "Les guerriers du ciel : General Dynamics F-16 Fighting Falcon" >}}
+Anarkia DOCS Science/Quantique | {{< yt "W1ILwzgkCXk" "Fr 14 Les Ailes De Légende F 16 Fighting Falcon" >}}

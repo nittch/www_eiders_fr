@@ -22,6 +22,7 @@ P Gatcomb               | {{< ytl "PLumwWCWlwh3-ea1As9uiZf9FJA0aM_Dr7" "Flight S
 Azghaar                 | {{< ytl "PLDS-Dys8LzCVMphCTKLxn61KUAd5Y7wjG" "Flight Simulator | GUIDES FR" >}}
 Grim Reapers            | {{< ytl "PL3kOAM2N1YJfRmA3l1qhL8SIqfFDXD87D" "Tutorials: Elementary Flight" >}}<br /> {{< ytl "PL3kOAM2N1YJckArrN5Vnmk1IegGfuC6dj" "Tutorials: Aircraft Basics" >}}
 Aerogligli.fr           | [Fiche signaux Interception](https://www.aerogligli.fr/assets/img/docs/fiche_signaux_interception.pdf)
+Ministère de l'écologie | [Lexique des situations inhabituelles français/anglais](https://www.ecologie.gouv.fr/sites/default/files/LEXIQUE_final.pdf), une liste de termes à connaitre pour les pilotes, dans les deux langues
 
 ## Aviation militaire
 source                    | description

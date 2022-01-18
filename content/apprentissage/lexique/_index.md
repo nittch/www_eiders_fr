@@ -17,20 +17,14 @@ BRAA                    | (Bearing, Range, Altitude, Attitude) - information fou
 Buddy spike             | friendly target is active locking me
 Bulls(eye)              | common reference point, on the map / point de référence établi lors du briefing et connu des membres d’une même coalition, la position d’un point d’intérêt pouvant être indiquée depuis le Bullseye par un relèvement et une distance
 Buster                  | vitesse à la puissance militaire, sans PC
-Contact                 | <Relative point, either you or Bulllseye>, 
-<bearing> for <distance> at <altitude>,
-<hot/cold (Point their nose at you/away), 
-<flanking (moving such that their heading is +/- 45* to you>
+Contact                 | <Relative point, either you or Bulllseye>, <br /><bearing> for <distance> at <altitude>,<br /><hot/cold (Point their nose at you/away), <br /><flanking (moving such that their heading is +/- 45* to you>
 Crank                   | Break off your attack while keeping enemy on radar locked on (so that it tracks before going pitbull)
 Defensive               | <person> is maneuvering to avoid a threat (usually a missile)
 Delta                   | vitesse économique
 Feet wet/dry            | Over water/land
 FL                      | (ou niveau de vol) - altitude conventionnelle en centaines de pieds standard
-Fox #                   | I'm shooting a missile.
-1 is a semi active (27R/ER + AIM-7)
-2 is heat seeking (27T/ET + AIM-9 + R-73/66(?))
-3 is active, meaning the missile tracks to your radar to a certain distance, then it's internal radar activates (pitbull) (AIM-120/R-77)
-Fox Echo (ou QFE) : hauteur par rapport au sol.
+Fox #                   | I'm shooting a missile.<br />1 is a semi active (27R/ER + AIM-7)<br />2 is heat seeking (27T/ET + AIM-9 + R-73/66(?))<br />3 is active, meaning the missile tracks to your radar to a certain distance, then it's internal radar activates (pitbull) (AIM-120/R-77)
+Fox Echo (ou QFE)       | hauteur par rapport au sol.
 Gate                    | vitesse maximale, avec PC
 IFF                     | is he friendly or bandit (enemy)
 Magnum                  | Anti-radiaton missile launch

@@ -29,7 +29,7 @@ source                    | description
 ------------------------- | -----------
 Spudknocker               | {{< yt "syAGKbW5I54" "Formation Flying in DCS! Tips & Tricks + Discussion!" >}}<br /> {{< yt "Zrjm6UQUDi4" "DCS: Air to Air Refueling Guide | The Mental Game | Tips & Tricks" >}}<br />{{< yt "jOB-yVEm3Qg" "DCS World Low Level Penetration & Ridge Crossing Tutorial!" >}}<br />{{< yt "a2F91-RgREM" "SPEED IS LIFE! Tutorial on Surviving DCS World" >}}
 Rakuzard                  | {{< ytl "PLgDdM7LcpPKMU7cwyNvqeIUsM1Zf-BT8S" "DCS (World) - Air Combat Maneuvering" >}}
-DCS Debrief               | {{< ytl "PL8BtoYdF4sfMNRSr4jaXs6xbI0nfUPLjE" "BFM" >}}
+THE AIR WARFARE GROUP     | {{< ytl "PLroS5xjXW90smqJPDcIlPvXYUKxLM94bm" "DCS Debrief BFM Guides" >}}
 Doc                       | {{< yt "ASwPCCRoEBI" "Comment éviter un missile Fox 1" >}}
 Commander Steinsch        | {{< ytl "PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1" "DCS : GUIDES D'INITIATION [FRENCH]">}}, excellents.<br /> {{< ytl "PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS" "DCS: TUTORIALS [ENGLISH]" >}}<br /> {{< ytl "PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_" "DCS LANDING DEMO" >}} plusieurs atterrissages très propres, en particulier au break.<br /> {{< ytl "PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M" "DCS CHALLENGES" >}} fun.<br /> {{< ytl "PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE" "AIRMANSHIP" >}}
 09th WTAC "Griffons"      | des [docs](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&category=14), en particulier :<br />- [Approche au break](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=500)<br /> - [Utilisation des feux](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=498)

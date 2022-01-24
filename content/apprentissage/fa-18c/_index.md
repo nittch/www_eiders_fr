@@ -15,6 +15,7 @@ Spudknocker                           | {{< ytl "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTY
 Olivier Gaming + Zanck' + Vital ferox | {{< ytl "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" "Les Tutos d'Olivier // F/A 18-C Hornet" >}}
 RedKite                               | {{< ytl "PLml_c09ciuctIreNtpLoPg1DByY5upg6v" "DCS F/A-18C Hornet Tutorials" >}}
 Photun                                | {{< ytl "PLr1uSwrHettrzHixsNiwDfxGTgjoRfYv0" "DCS F/A-18C Hornet tutoriel (FR)" >}}
+Tricker                               | {{< ytl "PL4a4myRJ63XtQbgoCP25SzVWNOxkfDIkU" "DCS F/A-18C Tutorials" >}}
 Commander Steinsch                    | {{< ytl "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" "F/A-18C HORNET" >}}
 Grim Reapers                          | {{< ytl "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" "Tutorials: FA-18C Hornet" >}}<br />{{< ytl "PL3kOAM2N1YJdJMyrnTLKqIwQjE2W-ITEQ" "FA-18C Hornet: Testing/Learning" >}}
 Banana Mayo                           | {{< ytl "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" "DCS TUTO F18" >}}

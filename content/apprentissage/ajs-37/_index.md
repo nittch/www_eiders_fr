@@ -17,10 +17,5 @@ Chaosengine EDS     | {{< ytl "PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw" "Tutoriels su
 Badjoe117           | {{< ytl "PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh" "DCS: AJS-37 Viggen" >}}, de nombreux tutos et vidéos de gameplay avec le Viggen, notamment :<br />- {{< yt "1riAGPyHwWg" "Moscow takedown" >}}, {{< yt "ke93SP_jAZs" "frigate hunting." >}} et {{< yt "Qo7keYwHCDo" "Attack on Mozdok" >}}, des playthrough de missions<br />-{{< yt "OJZuFmVwXmk" "Precarious roadbase action." >}}, une vidéo de gameplay multijoueur démontrant le mécanisme de "roadbase" du Viggen dans DCS
 Bunyap Sims         | {{< ytl "PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs" "Test Flight - DCS: AJS-37 Viggen" >}}
 FlightSimFan        | {{< ytl "PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh" "AJS-37" >}}
-
-## Fan Club
-source              | description
-------------------- | -----------
-The Werewolf        | {{< ytl "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" "Five Days Of Viggen - Viggen Mini Documentary" >}}, un mini-documentaire sur le Viggen, à l'occasion de la sortie du module dans DCS
 renhanxue (forum DCS)  | [Rb 04E: the Viggen's signature weapon](https://forums.eagle.ru/topic/150023-rb-04e-the-viggens-signature-weapon/)
 Saker chez Spudknocker | {{< yt "Z8YhmaBAuGE" "Gimme Viggen!" >}} 3:36 pour se mettre dans l'ambiance

@@ -22,12 +22,3 @@ Reddit              | [What is the Mirage ideal landing speed...](https://www.re
 n8d0g               | {{< yt "u8NEh1wRqhc" "DCS Mirage 2000C CCIP/CCRP Bombing Guide (2019 Version)" >}}<br /> {{< yt "9NRG4HxzAZQ" "DCS Mirage 2000C: A-A Weapons guide Part 1 (Super530)" >}} {{< yt "0lZgD_thj9Y" "DCS Mirage 2000 AA Weapons and Radar Modes Part 2(Magic II)" >}}
 
 <img src=/apprentissage/m2k_pc.png width=50% />
-
-## Fan Club
-source               | description
--------------------- | -----------
-imineo Documentaires | {{< yt "jDCxWEynbu4" "Le Mirage 2000 - Documentaire sur l'aviation" >}}
-Motarizado           | {{< yt "k-SlLeYRGnE" "Mirage 2000 Fighter Jet Take Off French Air Force" >}}
-Sygchan              | {{< yt "PCvXyetyVkg" "Crash Mirage 2000 Éjection A 80 Pieds" >}}
-Metal Drake          | {{< yt "XlaJJXkS3uo" "Mirage 2000: Funniest Crash Ever" >}}
-Adryan Clerc         | {{< yt "QrQxJSRSZAU" "Evanouissement pilote Mirage 2000D" >}}

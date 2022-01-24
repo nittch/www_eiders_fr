@@ -24,10 +24,3 @@ asherao                               | [F18 Hornet Fuzing and Armament Quickloo
 IceCat                                | [F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2](https://www.digitalcombatsimulator.com/fr/files/3300721/)
 kengou                                | [Hornet weight/balance/trim/takeoff calculator spreadsheet](https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/)
 
-## Fan Club
-source              | description
-------------------- | -----------
-FlightDeckLife      | {{< ytl "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" "Catwalk Views" >}}<br />{{< ytl "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" "FlightDeckLife Binge Marathon" >}}
-m171562             | {{< yt "JYUm5Nl6318" "F/A-18 Hornets - 30-40 knot Cross Wind Take-Off" >}}
-Hornet Vids         | [Youtube](https://www.youtube.com/c/HornetVids/videos)
-Anarkia DOCS Science/Quantique | {{< yt "F61h1Fee9Zw" "Fr 25 Les ailes De Légende McDonnell Douglas F18 Hornet" >}}, parle duel F16/YF17 pour l'Air Force et du choix FA-18 pour la Navy et les Marines

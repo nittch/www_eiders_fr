@@ -17,9 +17,4 @@ Eagle Dynamics - Forum | [Su-25 T Weapons list with descriptions](https://forums
 
 <img src=/apprentissage/su25t_nuit_sur_piste.png width=50% />
 
-## Fan Club
-source              | description
-------------------- | -----------
-Zhigurs. The Aviators | {{< yt "fhNkAuhYI2k" "Su 25 - from the cockpit takeoff, flight, landing - Video Camera Go Pro" >}}
-
 <img src=/apprentissage/su25t_formation.png width=50% />

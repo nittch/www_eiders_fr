@@ -9,14 +9,5 @@ Doc                                   | {{< ytl "PLjV7iPvvdDf5-Q4gTUaS-MhxoW8OVZ
 ralfidude                             | {{< ytl "PLYA7v8u34qu89mbs4TGGEIhkwJ8kgFRWr" "A-10C Tutorials" >}}
 Mudspike - Chuck's guides             | [Chuck’s Guides – DCS A-10C Warthog](https://www.mudspike.com/chucks-guides-dcs-a-10c-warthog/)
 Hoggitworld                           | [A-10C](https://wiki.hoggitworld.com/view/A-10C)
-
-## Fan Club
-source              | description
-------------------- | -----------
-Real Engineering    | {{< yt "wk6Qr6OO5Xo" "The Insane Engineering of the A-10 Warthog" >}}
-ErikJohnston        | {{< yt "EXgTrpPU9Rk" "A-10 Thunderbolt Walkaround" >}}
-Doc                 | {{< yt "_ENNn4eBjk8" "Urban Dragon - JTFF - DCS World" >}}
-TheSkyline35        | {{< yt "qCTxnhETvu4" "DCS A10-C - Mission à haut risque : spike 27 ! (feat Exocet)" >}}<br />{{< yt "CSSP9sDeqJk" "A-10C II - Le renouveau de la référence de DCS !" >}}
-Gung Ho Vids        | {{< yt "gEokB_9N0Aw" "A-10 Thunderbolt II Formation Flight • Aerial View" >}}
-MilitaryNotes       | {{< yt "N60WtGC4ejo" "M61 20mm vs GAU-8 30mm Cannon (A-10 THUNDERBOLT II Main Gun)" >}}
-helary marc         | {{< yt "gHsxwaPDza8" "A 10 Fairchild Thunderbolt 2 Warthog 1991 Ailes De Legende" >}}
+Doc                                   | {{< yt "_ENNn4eBjk8" "Urban Dragon - JTFF - DCS World" >}}
+TheSkyline35                          | {{< yt "qCTxnhETvu4" "DCS A10-C - Mission à haut risque : spike 27 ! (feat Exocet)" >}}<br />{{< yt "CSSP9sDeqJk" "A-10C II - Le renouveau de la référence de DCS !" >}}

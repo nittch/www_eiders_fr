@@ -55,10 +55,3 @@ source              | description
 Loulou de DCS World | {{< yt "Np4CwPMsNgA" "DCS World: SU-25 présentation, différences avec le SU-25T (FR)" >}}
 Grim Reapers | {{< ytl "PL3kOAM2N1YJco_M38M72jU2-vkQLYphF3" "Tutorials: Su-25 Frogfoot" >}}
 
-
-## Fan Club
-source              | description
-------------------- | -----------
-Anarkia DOCS Science/Quantique | {{< yt "0DmjlubOn1g" "Fr 17 Les Ailes De Légende Mcdonnell Douglas f15 Eagle" >}}, parle du F15/F15E
-Helio junior        | {{< yt "yZvMljUNCeU" "Building the SU 27 - The Best Fighter Jet in the World" >}}, parle du SU-27, SU-27UB, SU-33, SU-34, SU-30, SU-37, SU-35
-Imineo Documentaires | {{< yt "NYsYL1n2xzI" "Mig 29 avions de combat russe" >}}

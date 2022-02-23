@@ -50,7 +50,7 @@ prévue en 2025
 aéronef         | reportages | images
 --------------- | ---------- | --------------
 SU-25, SU-25T   |            | {{< yt "fhNkAuhYI2k" "Su 25 - from the cockpit takeoff, flight, landing - Video Camera Go Pro" >}}
-A-10C, A-10C II | {{< yt "wk6Qr6OO5Xo" "The Insane Engineering of the A-10 Warthog" >}} <br />{{< yt "EXgTrpPU9Rk" "A-10 Thunderbolt Walkaround" >}}<br />{{< yt "gHsxwaPDza8" "A 10 Fairchild Thunderbolt 2 Warthog 1991 Ailes De Legende" >}} | {{< yt "gEokB_9N0Aw" "A-10 Thunderbolt II Formation Flight • Aerial View" >}}<br />{{< yt "N60WtGC4ejo" "M61 20mm vs GAU-8 30mm Cannon (A-10 THUNDERBOLT II Main Gun)" >}}
+A-10C, A-10C II | {{< yt "wk6Qr6OO5Xo" "The Insane Engineering of the A-10 Warthog" >}} <br />{{< yt "EXgTrpPU9Rk" "A-10 Thunderbolt Walkaround" >}}<br />{{< yt "gHsxwaPDza8" "A 10 Fairchild Thunderbolt 2 Warthog 1991 Ailes De Legende" >}}<br/> {{< yt "PSwNVJYUXtw" "Grunts in the Sky - A short documentary of the A-10 in action" >}} | {{< yt "gEokB_9N0Aw" "A-10 Thunderbolt II Formation Flight • Aerial View" >}}<br />{{< yt "N60WtGC4ejo" "M61 20mm vs GAU-8 30mm Cannon (A-10 THUNDERBOLT II Main Gun)" >}}
 
 # Bombardiers
 

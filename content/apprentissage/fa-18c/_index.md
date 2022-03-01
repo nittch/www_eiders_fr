@@ -14,6 +14,7 @@ Matt Wagner (Wags)                    | {{< ytl "PLer9oF4AanvFOfG4sSZSHJQZeMQx7Y
 Spudknocker                           | {{< ytl "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" "DCS: F/A-18C Lot 20 Hornet by Eagle Dynamics" >}}<br />{{< yt "rfdmWaSUrv8" "DCS F/A-18C Hornet Dumb Bomb & Landing Training" >}}
 Olivier Gaming + Zanck' + Vital ferox | {{< ytl "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" "Les Tutos d'Olivier // F/A 18-C Hornet" >}}
 RedKite                               | {{< ytl "PLml_c09ciuctIreNtpLoPg1DByY5upg6v" "DCS F/A-18C Hornet Tutorials" >}}
+Tigrou                                | {{< yt "xyLS_XBLJd4" "Rassemblement en virage et PS sur DCS" >}}
 Photun                                | {{< ytl "PLr1uSwrHettrzHixsNiwDfxGTgjoRfYv0" "DCS F/A-18C Hornet tutoriel (FR)" >}}
 Tricker                               | {{< ytl "PL4a4myRJ63XtQbgoCP25SzVWNOxkfDIkU" "DCS F/A-18C Tutorials" >}}
 Commander Steinsch                    | {{< ytl "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" "F/A-18C HORNET" >}}

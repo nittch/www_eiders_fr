@@ -4,22 +4,23 @@ weight = 2
 +++
 
 # Avions de chasse jets
+Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat), ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).
 
 ## Première génération
-1942-1950
+1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).
 
 ## Seconde génération
-1950-1960
+1950-1960 : supersonique en palier, radar, premiers missiles air-air.
 
 ## Troisième génération
-1960-1975
+1960-1975 : chasseurs-bombardiers multi-rôle.
 
 aéronef                                           | reportages                                                                        | images
 ------------------------------------------------- | --------------------------------------------------------------------------------- | --------------
 Saab 37 Viggen                                    | {{< ytl "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" "Five Days Of Viggen - Viggen Mini Documentary" >}} |
 
 ## Quatrième génération
-1975-2005
+1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse
 
 aéronef                                           | reportages                                                                        | images
 ------------------------------------------------- | --------------------------------------------------------------------------------- | --------------
@@ -31,19 +32,18 @@ F/A-18C Hornet                                    | {{< yt "F61h1Fee9Zw" "Fr 25 
 F-16C Fighting Falcon                             | {{< yt "ztEONZIFNeQ" "Les guerriers du ciel : General Dynamics F-16 Fighting Falcon" >}}<br />{{< yt "W1ILwzgkCXk" "Fr 14 Les Ailes De Légende F 16 Fighting Falcon" >}} | {{< yt "m06uWM_tABM" "Powerful F-16 Afterburner Takeoff" >}}<br />{{< yt "tdczvix3EiE" "F-16 Full Afterburner - 11 litres fuel per second!" >}}<br />{{< yt "C-WgHooZ7-Y" "F-16 Performs Fantastic Touch-And-Go, With Two Rolls" >}}
 
 ## Génération 4.5/4+/4++
+Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.
+
 aéronef             | reportages | images
 ------------------- | ---------- | --------------
 Eurofighter Typhoon |            | {{< yt "U45UyriEtZI" "Incredible Eurofighter Typhoon Performance Takeoff" >}}
 
 ## Cinquième génération
-depuis 2005
+depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.
 
 aéronef             | reportages | images
 ------------------- | ---------- | --------------
 SU-57               |            | {{< yt "yNaeKHfnHHM" "Ultra-short landing Su-57" >}}
-
-## Sixième génération
-prévue en 2025
 
 # Avions d'attaque au sol
 

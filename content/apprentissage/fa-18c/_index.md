@@ -5,6 +5,7 @@ weight = 8
 
 source                                | description
 ------------------------------------- | -----------
+Le hangar de Sklang                   | {{< yt "G0h2gdFPzYQ" "DCS F/A-18C | On en parle avec Zanck" >}}
 Mudspike - Chuck's guides             | [Chuck’s Guides – DCS F/A-18C HORNET](https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/)
 Hoggitworld                           | [F/A-18C DCS World Wiki](https://wiki.hoggitworld.com/view/F/A-18C)
 EFPV (Doc)                            | {{< ytl "PLxeAPpKC04wtpEx-sMClxoum_t62ZNcih" "FA-18C - DCS" >}}

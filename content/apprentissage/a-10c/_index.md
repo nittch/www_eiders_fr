@@ -5,6 +5,8 @@ weight = 8
 
 source                                | description
 ------------------------------------- | -----------
+Le hangar de Sklang                   | {{< yt "ZXYKJjeXLzE" "DCS | A-10 On en parle avec Doc" >}}
+Mudspike - Chuck's guides             | [Chuck’s Guides – DCS A-10C Warthog](https://www.mudspike.com/chucks-guides-dcs-a-10c-warthog/)
 Doc                                   | {{< ytl "PLjV7iPvvdDf5-Q4gTUaS-MhxoW8OVZpYc" "Tuto A10C II" >}}
 ralfidude                             | {{< ytl "PLYA7v8u34qu89mbs4TGGEIhkwJ8kgFRWr" "A-10C Tutorials" >}}
 Mudspike - Chuck's guides             | [Chuck’s Guides – DCS A-10C Warthog](https://www.mudspike.com/chucks-guides-dcs-a-10c-warthog/)

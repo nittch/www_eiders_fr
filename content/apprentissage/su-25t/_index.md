@@ -6,6 +6,7 @@ weight = 4
 
 source       | description
 ------------ | -----------
+Le hangar de Sklang | {{< yt "CJFvlYNIPuQ" "On en parle SU-25T avec Switchback" >}}
 TheSkyline35 | {{< yt "YMbTgGdD_Go" "Tutoriel DCS World - SEAD en Su-25T (Pod Fantasmagoria, Kh-25/58)" >}}<br /> {{< yt "Pmw6mBHRnrs" "Tutoriel DCS World - Bien commencer sur Su-25T - [1/2]" >}} <br /> {{< yt "3w9u_CWnQeM" "Tutoriel DCS World - Bien commencer sur Su-25T - [2/2]" >}}
 Ailes Virtuelles | {{< ytl "PLXUS5xgdov37N99wQoXV4yqcg2X1bDKJ4" "Tutos SU25T" >}}<br /> [[PDF]Armement SU-25T](http://www.ailesvirtuelles.com/assets/pdf-files/Armement-SU-25T.pdf?)
 Wolf5 | {{< yt jhn0uUmkB6k "[DCS World] Atterrissage et décollage en Su-25T">}}

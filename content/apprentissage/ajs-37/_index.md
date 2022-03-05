@@ -7,6 +7,7 @@ N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen
 
 source              | description
 ------------------- | -----------
+Le Hangar de Sklang | {{< yt "GAmMMTbmqXI" "DCS AJS-37 Viggen, on en parle avec Dirt" >}}
 Mudspike - Chuck's guides | [Chuck’s Guides – DCS AJS 37 VIGGEN](https://www.mudspike.com/chucks-guides-dcs-ajs-37-viggen/)
 Zedroopy            | [AJS-37 Viggen](http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen), une documentation en français.
 TrakDah             | {{< ytl "PLWJWDpfZlqj7nke51THpmZPJdC-z8P1Zk" "DCS AJS 37 Viggen tutorials" >}}, commencer par la 5e vidéo de la playlist {{< yt "guDS55EOye0" "AJS37 Night Attack Mission with BK90" >}}, puis voir les autres vidéos. À regarder pour débuter le Viggen.

@@ -7,6 +7,7 @@ weight = 6
 
 source              | description
 ------------------- | -----------
+Le hangar de Sklang | {{< yt "k5zCa26pjtY" "DCS M2000C | On en parle avec Dilixo" >}}<br />{{< yt "y5Jjcr1s9fo" "DCS M2000-C | On en parle avec Helljumper & Dilixo | Hors-série" >}}
 Mudspike - Chuck's guides | [Chuck’s Guides – DCS Mirage 2000C](https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/)
 EFPV                | {{< ytl "PLxeAPpKC04wuORJOA5uMw10_2anCafz2i" "Campagne DCS - M2K" >}}<br />{{< yt "tcubXks00r8" "DCS WORLD - L1C1 - Mise en route du Mirage 2000-C" >}}
 JTFF Marco 79th FS  | {{< yt "0g6EwrEQl94" "DCS World : Ravitaillement en vol Mirage 2000C" >}}<br />{{< yt "V08KdPrGtQw" "DCS World PVP Online sur BlueFlag - Mirage 2000" >}}

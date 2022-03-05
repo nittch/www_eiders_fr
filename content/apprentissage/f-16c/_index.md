@@ -4,6 +4,7 @@ weight = 9
 +++
 source                    | description
 ------------------------- | -----------
+Le hangar de Sklang       | {{< yt "s86HcDXsg8M" "DCS F-16C | On en parle avec Marco" >}}
 Mudspike - Chuck's guides | [Chuck’s Guides – DCS F-16C VIPER](https://www.mudspike.com/chucks-guides-dcs-f-16c-viper/)
 JTFF I Marco I 79th FS    | {{< ytl "PLEwJiAWHYbriCO0RJ5x4QxtUdDrKx5hwC" "DCS World - Tuto" >}} Principalement sur le F-16C
 Commander Steinsch        | {{< ytl "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" "F-16C VIPER / FIGHTING FALCON" >}}
@@ -15,4 +16,5 @@ Spudknocker               | {{< ytl "PLZ8X4p18pdblNAFn4chmZmnRPINvWWItT" "DCS: F
 ## Sur BMS
 source                    | description
 ------------------------- | -----------
+Le hangar de Sklang       | {{< yt "OKL7tjM8uac" "BMS | F-16 | On en parle avec Mav-JP | Hors-série" >}}
 Doc                       | {{< ytl "PLjV7iPvvdDf711w1WhEJl7I_lQuSqwfUd" "Tuto Falcon BMS" >}}

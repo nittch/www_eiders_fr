@@ -42,7 +42,7 @@ Dans une autre thématique, il est également possible de diriger des unités au
 
 source                | description
 --------------------- | -----------
-131st Death Vipers    | {{< yt "bdzX7hsukDU" "Test du minotaure (Hotas leclerc :p)" >}}, d'avantage une vidéo sur Combined Arms, très instructif
+131st Death Vipers (Dimitriov) | {{< yt "bdzX7hsukDU" "Test du minotaure (Hotas leclerc :p)" >}}, d'avantage une vidéo sur Combined Arms, très instructif<br />{{< ytl "PLHX49UqNq5KVQPo9iLWA1rGUlhkjpYl5m" "De la reconnaissance" >}}, parlant des unités soviétiques et russes et comment les reconnaitre.
 Grim Reapers          | {{< ytl "PL3kOAM2N1YJfs5272P1a-PN_gtergxxu4" "Tutorials: Combined Arms" >}}, Sans doute la seule source d'information sur toutes les unités jouables sur internet :)
 Olivier Gaming        | {{< yt "BdFAbaGB7W8" "[DCS] Combined Arms Initiation" >}}
 SUNTSAG ANCIENT GAMER | {{< yt "darzgfQpy6s" "COMBINED ARMS - THE BASICS" >}}

@@ -1,5 +1,5 @@
 +++
-title = "Mirage-2000C"
+title = "Mirage 2000C"
 weight = 6
 +++
 
@@ -11,7 +11,7 @@ Le hangar de Sklang | {{< yt "k5zCa26pjtY" "DCS M2000C | On en parle avec Dilixo
 Mudspike - Chuck's guides | [Chuck’s Guides – DCS Mirage 2000C](https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/)
 EFPV                | {{< ytl "PLxeAPpKC04wuORJOA5uMw10_2anCafz2i" "Campagne DCS - M2K" >}}<br />{{< yt "tcubXks00r8" "DCS WORLD - L1C1 - Mise en route du Mirage 2000-C" >}}
 JTFF Marco 79th FS  | {{< yt "0g6EwrEQl94" "DCS World : Ravitaillement en vol Mirage 2000C" >}}<br />{{< yt "V08KdPrGtQw" "DCS World PVP Online sur BlueFlag - Mirage 2000" >}}
-131st Death Vipers  | {{< yt "yloLS1DWlKw" "DCS - Mirage 2000 - Atterrissage au break" >}}
+131st Death Vipers (Dimitriov) | {{< yt "yloLS1DWlKw" "DCS - Mirage 2000 - Atterrissage au break" >}}
 VEAF Association    | {{< yt "b4XXENY8Y58" "VEAF - Tuto DCS - Mirage 2000-C - Atterrissage au Break" >}}
 Wolf5               | {{< yt "2yOkVYcX4dk" "[DCS World] TUTO Décollage // Atterrissage en M2000C" >}}
 Photun              | {{< ytl "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" "DCS Mirage 2000 tutoriel (FR)" >}}

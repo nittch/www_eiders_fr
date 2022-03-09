@@ -18,6 +18,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 aéronef                                           | reportages                                                                                       | images
 ------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------
 Saab 37 Viggen                                    | {{< ytl "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" "Five Days Of Viggen - Viggen Mini Documentary" >}} |
+Mirage F1                                         | {{< yt "mbBJ9qsi2MQ" "Mirage F1 - le chasseur polyvalent - documentaire aviation" >}}            |
 
 ## Quatrième génération
 1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse
@@ -37,6 +38,7 @@ Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussé
 aéronef             | reportages | images
 ------------------- | ---------- | --------------
 Eurofighter Typhoon |            | {{< yt "U45UyriEtZI" "Incredible Eurofighter Typhoon Performance Takeoff" >}}
+Rafale              |            | {{< ytl "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" "CHASSE EMBARQUEE - CHILLOUT SPIRIT" >}}
 
 ## Cinquième génération
 depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.
@@ -51,6 +53,7 @@ aéronef         | reportages                                                   
 --------------- | ----------------------------------------------------------------------- | --------------
 SU-25, SU-25T   |                                                                         | {{< yt "fhNkAuhYI2k" "Su 25 - from the cockpit takeoff, flight, landing - Video Camera Go Pro" >}}
 A-10C, A-10C II | {{< yt "wk6Qr6OO5Xo" "The Insane Engineering of the A-10 Warthog" >}} <br />{{< yt "EXgTrpPU9Rk" "A-10 Thunderbolt Walkaround" >}}<br />{{< yt "gHsxwaPDza8" "A 10 Fairchild Thunderbolt 2 Warthog 1991 Ailes De Legende" >}}<br/> {{< yt "PSwNVJYUXtw" "Grunts in the Sky - A short documentary of the A-10 in action" >}} | {{< yt "gEokB_9N0Aw" "A-10 Thunderbolt II Formation Flight • Aerial View" >}}<br />{{< yt "N60WtGC4ejo" "M61 20mm vs GAU-8 30mm Cannon (A-10 THUNDERBOLT II Main Gun)" >}}
+AV-8 Harrier    | {{< yt "-tZ5Plakf1E" "Avions de chasse : Le Harrier (documentaire)" >}} |
 
 # Bombardiers
 

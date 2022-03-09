@@ -9,12 +9,12 @@ source                         | description
 ------------------------------ | -----------
 Le hangar de Sklang            | {{< yt "k5zCa26pjtY" "DCS M2000C | On en parle avec Dilixo" >}}<br />{{< yt "y5Jjcr1s9fo" "DCS M2000-C | On en parle avec Helljumper & Dilixo | Hors-série" >}}
 Mudspike - Chuck's guides      | [Chuck’s Guides – DCS Mirage 2000C](https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/)
-EFPV                           | {{< ytl "PLxeAPpKC04wuORJOA5uMw10_2anCafz2i" "Campagne DCS - M2K" >}}<br />{{< yt "tcubXks00r8" "DCS WORLD - L1C1 - Mise en route du Mirage 2000-C" >}}
+{{< qlty "Dilixo" >}}          | {{< ytl "PL1k_s5S44l5vn9YB-gjPcvghXRfprpnus" "DCS - Tuto - Mirage 2000-C" >}}
+{{< qlty "EFPV (Doc)" >}}      | {{< ytl "PLxeAPpKC04wuORJOA5uMw10_2anCafz2i" "Campagne DCS - M2K" >}}
+{{< qlty "Photun" >}}          | {{< ytl "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" "DCS Mirage 2000 tutoriel (FR)" >}}
 JTFF Marco 79th FS             | {{< yt "0g6EwrEQl94" "DCS World : Ravitaillement en vol Mirage 2000C" >}}<br />{{< yt "V08KdPrGtQw" "DCS World PVP Online sur BlueFlag - Mirage 2000" >}}
 131st Death Vipers (Dimitriov) | {{< yt "yloLS1DWlKw" "DCS - Mirage 2000 - Atterrissage au break" >}}
-VEAF Association               | {{< yt "b4XXENY8Y58" "VEAF - Tuto DCS - Mirage 2000-C - Atterrissage au Break" >}}
 Wolf5                          | {{< yt "2yOkVYcX4dk" "[DCS World] TUTO Décollage // Atterrissage en M2000C" >}}
-Photun                         | {{< ytl "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" "DCS Mirage 2000 tutoriel (FR)" >}}
 LESCARGO                       | {{< ytl "PLtNAWSwZjDRnFiHXgcp2hmwP56BhqP8Gq" "MIRAGE 2000C - DCS" >}}
 Grim Reapers                   | {{< ytl "PL3kOAM2N1YJeM3xb46KDsTJhU1KySaA50" "Tutorials: Mirage 2000C" >}}
 Commander Steinsch             | {{< ytl "PL_uZ9_tQvzEpHklcDDWXh96-Yfb7DZvnC" "MIRAGE 2000C" >}}

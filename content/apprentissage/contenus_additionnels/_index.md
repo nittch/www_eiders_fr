@@ -7,11 +7,11 @@ weight = 25
 ## Community A-4E-C Skyhawk
 [Forum Eagle](https://forums.eagle.ru/topic/207102-community-a-4e-c/)
 
-source          | description
---------------- | -----------
-Iain Christie   | {{< ytl "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" "Community A-4E Version 2.0" >}}
-DCS Sport       | {{< ytl "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" "DCS A-4E Tutorial Series" >}}
-Marcel Glandier | {{< ytl "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" "DCS -A-4E-C" >}}
+source                       | description
+---------------------------- | -----------
+{{< qlty "Iain Christie" >}} | {{< ytl "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" "Community A-4E Version 2.0" >}}
+DCS Sport                    | {{< ytl "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" "DCS A-4E Tutorial Series" >}}
+Marcel Glandier              | {{< ytl "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" "DCS -A-4E-C" >}}
 
 ## VNAO T-45 Goshawk
 [Forum Eagle](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)

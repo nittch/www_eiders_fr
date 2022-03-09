@@ -6,6 +6,7 @@ titleSeparator = "-"
 theme = "hugo-theme-learn"
 
 home = [ "HTML", "RSS", "JSON" ]
+enableEmoji = true
 
 [params]
   themeVariant = "blue"

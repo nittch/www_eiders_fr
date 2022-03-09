@@ -3,8 +3,8 @@ title = "DCS"
 weight = 4
 +++
 
-source       | description
------------- | -----------
+source             | description
+------------------ | -----------
 Alias              | {{< ytl "PLbn9xVtwPNES0BUUKdHsMVnxnm0pOqdsz" "Setup DCS World et utilitaire" >}}
 pickinthatbanjo    | {{< ytl "PL-rNisMp5bxHpbyfImJDbibsVIdri7hnt" "DCS:World ⇨ Tutorials" >}}
 Spudknocker        | {{< ytl "PLZ8X4p18pdbl_V-f7t8pcjsDFr3p-r3ly" "DCS: World - How To Tutorial Playlist" >}}

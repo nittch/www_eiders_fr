@@ -27,20 +27,21 @@ Fox #                   | I'm shooting a missile.<br />1 is a semi active (27R/E
 Fox Echo (ou QFE)       | hauteur par rapport au sol.
 Gate                    | vitesse maximale, avec PC
 IFF                     | is he friendly or bandit (enemy)
-Magnum                  | Anti-radiaton missile launch
+Magnum                  | Tir de missile anti-radiation (suiveur de radar), en mission SEAD
 (In the) Mark/marking   | contrailing. Usually happens between 25,000 and 40,000 feet
 Nails                   | RWR contact. (There is a radar in search mode)
 No Joy                  | perte du contact visuel sur l’aéronef ennemi
 X o'clock               | General direction, relative to you. The aircraft's nose is 12, 6 is rear. 3/9 are right/left
+Pickle                  | Largage d'une bombe
 Picture                 | requête/information afin d’améliorer la Situation Awarness
 Pitbull                 | Any (Fox 3) missile that starts using the onboard radar for tracking
 Press                   | continuing to move towards an enemy (order given to wingmen, ex. FOX 3, cranking, #2 press says you shot a missile at the target, now you're starting to defend against any missile shot at you, and your wingman needs to finish the job if your missile misses.)
 QNE                     | (ou Standard) - altitude réglée par rapport au calage altimétrique sur la pression atmosphérique standard normale au niveau de la mer, soit 1013,25hPa
 QNH                     | pression barométrique corrigée et ramenéeau niveau moyen de la mer
 Raygun                  | Active locking a target to make a target IFF. (If person yells BUDDY SPIKE, that is whoever yelled)
-Rifle                   | AGM-65 Launch
+Rifle                   | Tir de missile air-sol (par exemple AGM-65 Maverick)
 RTB                     | (Return To Base) - retour à un aéroport ou un navire
-SEAD                    | (Suppression of Enemy Air Defense) - neutralisation ou destruction des moyens de défensesanti-aériennes disposant d’un radar d’acquisition, de poursuite ou de conduite de tir
+SEAD                    | (Suppression of Enemy Air Defense) - neutralisation ou destruction des moyens de défenses anti-aériennes disposant d’un radar d’acquisition, de poursuite ou de conduite de tir
 Shack                   | Weapons impact on ground unit
 (mud)Spike              | Radar is in lock mode, on you. Mud means it is a ground based radar.
 Splash                  | enemy aircraft destroyed

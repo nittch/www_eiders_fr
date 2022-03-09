@@ -7,11 +7,11 @@ weight = 5
 
 L'ensemble des modules est non-cliquable / simplifié. Il n'est pas possible d'acheter au détail le J-11A.
 
-rôle                | plutôt côté bleu                                                                                                              | plutôt côté rouge
-------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------
-Attaque air-sol     | **A-10A Warthog**: version de base ravitaillable en vol <br />(ne pas confondre avec l'[A-10C](/apprentissage/a-10c), bien plus moderne)    | **SU-25A Frogfoot**: version de base<br /> (le [SU-25T](/apprentissage/su-25t) est fourni de base avec DCS, avec un pod de désignation (TV) et roquettes guidées Vikhr)
-Chasseur lourd (supériorité air-air) | **F-15C Eagle**: ravitaillable en vol, avec des Fox 3                                                                         | **SU-27 Flanker-B**: premier avion capable de cobra<br /> **SU-33 Flanker-D**: modifications pour porte-avion, canards, ravitaillable en vol<br /> **Shenyang J-11A**: version chinoise avec des Fox 3
-Chasseur léger (intercepteur multirôle)        | **MiG-29G Fulcrum-G**: version allemande avec unités impériales<br />([F-16C Viper](/apprentissage/f-16c) et [FA-18C Hornet](/apprentissage/fa-18c) dans d'autres modules)                       | **MiG-29A Fulcrum-A**: version originale soviétique<br />**MiG-29S Fulcrum-S**: version modernisée, meilleur radar, avec Fox 3
+rôle                                           | plutôt côté bleu                                                                                                                                                           | plutôt côté rouge
+---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------
+Attaque air-sol                                | **A-10A Warthog**: version de base ravitaillable en vol <br />(ne pas confondre avec l'[A-10C](/apprentissage/a-10c), bien plus moderne)                                   | **SU-25A Frogfoot**: version de base<br /> (le [SU-25T](/apprentissage/su-25t) est fourni de base avec DCS, avec un pod de désignation (TV) et roquettes guidées Vikhr)
+Chasseur lourd (supériorité air-air)           | **F-15C Eagle**: ravitaillable en vol, avec des Fox 3                                                                                                                      | **SU-27 Flanker-B**: premier avion capable de cobra<br /> **SU-33 Flanker-D**: modifications pour porte-avion, canards, ravitaillable en vol<br /> **Shenyang J-11A**: version chinoise avec des Fox 3
+Chasseur léger (intercepteur multirôle)        | **MiG-29G Fulcrum-G**: version allemande avec unités impériales<br />([F-16C Viper](/apprentissage/f-16c) et [FA-18C Hornet](/apprentissage/fa-18c) dans d'autres modules) | **MiG-29A Fulcrum-A**: version originale soviétique<br />**MiG-29S Fulcrum-S**: version modernisée, meilleur radar, avec Fox 3
 
 Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_difference_between_the_mig29a_mig29g/), [Hoggitworld](https://wiki.hoggitworld.com/view/Flaming_Cliffs), [Forum Eagle](https://forums.eagle.ru/forum/english/digital-combat-simulator/dcs-flaming-cliffs-3/177396-mig-29s-v-mig-29a-v-mig-29g?p=4327701#post4327701)
 
@@ -22,16 +22,16 @@ WellerMan           | {{< ytl "PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo" "DCS: How To 
 ## SU-27, SU-33, J-11A, MiG-29A, MiG-29S, MiG-29G
 <img src=/apprentissage/su27_mer.png width=50% />
 
-source              | description
-------------------- | -----------
-Loulou de DCS World | {{< yt "Xz3DNBajMpY" "DCS World: J-11A présentation, différences avec le SU-27 (FR)" >}}<br /> {{< yt "F6Xu62_7oYA" "DCS World: SU-33 présentation, différences avec le SU-27 (FR)" >}}
-Ailes Virtuelles    | {{< ytl "PLXUS5xgdov34hfUWYpV1GdSJV6VuZI5DH" "DCS -Tutos SU33" >}}
-Grim Reapers        | {{< ytl "PL3kOAM2N1YJdwXKusowM9lsZWCIZFQSKA" "Tutorials: Su-27, Su-33, Mig-29 & J11A" >}}
-TheSkyline35        | {{< yt "8LQv-dI9Q28" "[#3] A bord du Mig-29 "Fulcrum" - Le F-16 russe !" >}}<br /> {{< yt "hXCe7vnPtAQ" "Le nouveau Shenyang J-11 - En mode French Touch - DCS World" >}}<br /> {{< yt "EvoZhniAYhs" "DCS - Le Nouveau Su-33 ! Appontage/Ravitaillement/Évitement de terrain" >}}
-Commander Steinsch  | {{< ytl "PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk" "SU-33 FLANKER-D" >}}<br /> {{< ytl "PL_uZ9_tQvzEo7QRuzc0CLsmFSjkb7urQ2" "MIG-29 FULCRUM" >}}<br /> {{< ytl "PL_uZ9_tQvzEoAwlWcwhpIkr4_fgfeLyes" "SU-27 / J-11 FLANKER" >}}
+source                  | description
+----------------------- | -----------
+Loulou de DCS World     | {{< yt "Xz3DNBajMpY" "DCS World: J-11A présentation, différences avec le SU-27 (FR)" >}}<br /> {{< yt "F6Xu62_7oYA" "DCS World: SU-33 présentation, différences avec le SU-27 (FR)" >}}
+Ailes Virtuelles        | {{< ytl "PLXUS5xgdov34hfUWYpV1GdSJV6VuZI5DH" "DCS -Tutos SU33" >}}
+Grim Reapers            | {{< ytl "PL3kOAM2N1YJdwXKusowM9lsZWCIZFQSKA" "Tutorials: Su-27, Su-33, Mig-29 & J11A" >}}
+TheSkyline35            | {{< yt "8LQv-dI9Q28" "[#3] A bord du Mig-29 "Fulcrum" - Le F-16 russe !" >}}<br /> {{< yt "hXCe7vnPtAQ" "Le nouveau Shenyang J-11 - En mode French Touch - DCS World" >}}<br /> {{< yt "EvoZhniAYhs" "DCS - Le Nouveau Su-33 ! Appontage/Ravitaillement/Évitement de terrain" >}}
+Commander Steinsch      | {{< ytl "PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk" "SU-33 FLANKER-D" >}}<br /> {{< ytl "PL_uZ9_tQvzEo7QRuzc0CLsmFSjkb7urQ2" "MIG-29 FULCRUM" >}}<br /> {{< ytl "PL_uZ9_tQvzEoAwlWcwhpIkr4_fgfeLyes" "SU-27 / J-11 FLANKER" >}}
 Eagle Dynamics - Forums | [SU-27 instruments fonctions](https://forums.eagle.ru/showthread.php?t=120007&page=2) le vrai hotas du SU-27 pour donner des idées
-Check-Six - Forums | [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
-Multisim Project   | [Checklists SU-27 / SU-25](https://memorial76-vols-virtuels.blogspot.com/p/documentation.html)
+Check-Six - Forums      | [Réglages avancés radar Mig 29A/G/S et SU-27/33](http://www.checksix-forums.com/viewtopic.php?t=200347)
+Multisim Project        | [Checklists SU-27 / SU-25](https://memorial76-vols-virtuels.blogspot.com/p/documentation.html)
 
 ## F-15C
 <img src=/apprentissage/f15c_feu.png width=50% />

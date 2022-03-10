@@ -9,16 +9,16 @@ weight = 25
 
 source                       | description
 ---------------------------- | -----------
-{{< qlty "Iain Christie" >}} | {{< ytl "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" "Community A-4E Version 2.0" >}}
-DCS Sport                    | {{< ytl "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" "DCS A-4E Tutorial Series" >}}
-Marcel Glandier              | {{< ytl "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" "DCS -A-4E-C" >}}
+{{< qlty "Iain Christie" >}} | {{< ytl "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
+DCS Sport                    | {{< ytl "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
+Marcel Glandier              | {{< ytl "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" >}}
 
 ## VNAO T-45 Goshawk
 [Forum Eagle](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)
 
 source       | description
 ------------ | -----------
-RedKite      | {{< yt "vgWFDP8s3Bw&t" "DCS: T-45c Goshawk Free Mod by VNAO" >}}
+RedKite      | {{< yt "vgWFDP8s3Bw" >}}
 
 ## Hercules C-130 by Anubis
 [Forum Eagle](https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/)
@@ -50,8 +50,8 @@ Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.co
 
 source           | description
 ---------------- | -----------
-TheSkyline35     | {{< yt XRI36163nGE "DCS Simple Radio : Réalisme et immersion (Tutoriel) !">}}
-Spudknocker      | {{< yt Q1nz7bLFQQ0 "DCS World | SRS Radio Tutorial and Demonstration!" >}}
+TheSkyline35     | {{< yt XRI36163nGE >}}
+Spudknocker      | {{< yt Q1nz7bLFQQ0 >}}
 SRS Simple Radio | [DCS SimpleRadio Standalone - Radio Overview](https://docs.google.com/spreadsheets/d/1tzd996zJ1t0heZ-t1PpL7vNUIZbXl7pI6De0GThN1Qw)
 
 ## Tacview

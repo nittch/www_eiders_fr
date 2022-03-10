@@ -4,18 +4,18 @@ weight = 9
 +++
 source                                  | description
 --------------------------------------- | -----------
-Le hangar de Sklang                     | {{< yt "s86HcDXsg8M" "DCS F-16C | On en parle avec Marco" >}}
+Le hangar de Sklang                     | {{< yt "s86HcDXsg8M" >}}
 Mudspike - Chuck's guides               | [Chuck’s Guides – DCS F-16C VIPER](https://www.mudspike.com/chucks-guides-dcs-f-16c-viper/)
-{{< qlty "JTFF I Marco I 79th FS" >}}   | {{< ytl "PLEwJiAWHYbriCO0RJ5x4QxtUdDrKx5hwC" "DCS World - Tuto" >}} Principalement sur le F-16C
-{{< qlty "Groupement de Chasse 22" >}}  | {{< ytl "PLIGR26sb4iVU0Zb3R-7Oee8jrqoVKNz7m" "DCS: F16C" >}}
-Spudknocker                             | {{< ytl "PLZ8X4p18pdblNAFn4chmZmnRPINvWWItT" "DCS: F-16C Viper by Eagle Dynamics" >}}
-Commander Steinsch                      | {{< ytl "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" "F-16C VIPER / FIGHTING FALCON" >}}
-EFPV (Doc)                              | {{< yt "sWHKJ20pjdk" "Review du module F-16C Viper - DCS World" >}}
-Grim Reapers                            | {{< ytl "PL3kOAM2N1YJf8pIMCKRmRnP2RWkrWkSyZ" "Tutorials: F-16C Viper" >}}<br />{{< ytl "PL3kOAM2N1YJcUsgahl1QCR0hUlWsr5XQ0" "F-16C Viper & JF-17 Thunder: Testing/Learning" >}}
-Banana Mayo                             | {{< ytl "PLmL0WZQili6AIkufnprW4yg8uzcUfz6iH" "DCS TUTO F16" >}}
+{{< qlty "JTFF I Marco I 79th FS" >}}   | {{< ytl "PLEwJiAWHYbriCO0RJ5x4QxtUdDrKx5hwC" >}} Principalement sur le F-16C
+{{< qlty "Groupement de Chasse 22" >}}  | {{< ytl "PLIGR26sb4iVU0Zb3R-7Oee8jrqoVKNz7m" >}}
+Spudknocker                             | {{< ytl "PLZ8X4p18pdblNAFn4chmZmnRPINvWWItT" >}}
+Commander Steinsch                      | {{< ytl "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" >}}
+EFPV (Doc)                              | {{< yt "sWHKJ20pjdk" >}}
+Grim Reapers                            | {{< ytl "PL3kOAM2N1YJf8pIMCKRmRnP2RWkrWkSyZ" >}} {{< ytl "PL3kOAM2N1YJcUsgahl1QCR0hUlWsr5XQ0" >}}
+Banana Mayo                             | {{< ytl "PLmL0WZQili6AIkufnprW4yg8uzcUfz6iH" >}}
 
 ## Sur BMS
 source                    | description
 ------------------------- | -----------
-Le hangar de Sklang       | {{< yt "OKL7tjM8uac" "BMS | F-16 | On en parle avec Mav-JP | Hors-série" >}}
-{{< qlty "Doc" >}}        | {{< ytl "PLjV7iPvvdDf711w1WhEJl7I_lQuSqwfUd" "Tuto Falcon BMS" >}}
+Le hangar de Sklang       | {{< yt "OKL7tjM8uac" >}}
+{{< qlty "Doc" >}}        | {{< ytl "PLjV7iPvvdDf711w1WhEJl7I_lQuSqwfUd" >}}

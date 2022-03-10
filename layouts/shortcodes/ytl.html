@@ -1,6 +1,23 @@
 <a href="https://www.youtube.com/playlist?list={{ .Get 0 }}" target=_blank>
-  <img height=40 src="https://img.youtube.com/vi/{{ .Get 0 }}/default.jpg" style="align:left; margin:0px; display: inline"/>
- {{ with .Get 1 }}
-   {{ . }}
- {{ end }}
+  <div id=playlist_{{ .Get 0 }} style="display: inline-block; border-style: dotted; width: 300px">MAUVAIS LIEN</div>
 </a>
+
+<script>
+$.get('https://www.googleapis.com/youtube/v3/playlists', {
+  key: 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc',
+  id: '{{ .Get 0 }}',
+  part: 'snippet, contentDetails'
+}, function(result) {
+
+$("#playlist_{{ .Get 0 }}").html(
+  "<center><img src=\"" + result.items[0].snippet.thumbnails.default.url + "\" style=\"align:left; margin:0px; display: block\"/>"
+  + result.items[0].contentDetails.itemCount
+  + " vidéos<br />"
+  + "<a href=https://www.youtube.com/playlist?list={{ .Get 0 }} target=_blank>"
+  + result.items[0].snippet.title
+  + "</a></center>"
+);
+
+}, 'jsonp');
+
+</script>

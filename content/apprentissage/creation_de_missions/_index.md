@@ -6,13 +6,14 @@ weight = 3
 ## Éditeur de mission
 source                         | description
 ------------------------------ | -----------
-Alias                          | {{< ytl "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" "DCS World Tuto éditeur de mission : 34 tutos" >}}
-Loulou de DCS World            | {{< ytl "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" "DCS World editeur de mission: trucs et astuces, tutos (FR)" >}}
-Empnicolas LzT                 | {{< ytl "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" "DCS: éditeur de mission" >}}
-lankypilot77                   | {{< ytl "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" "DCS mission editor tutorial" >}}
-Banana Mayo                    | {{< ytl "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" "DCS TUTO MISSION EDITOR" >}}
-Grim Reapers                   | {{< ytl "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" "Tutorials: Mission Editor" >}}
-131st Death Vipers (Dimitriov) | {{< ytl "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" "Tutos éditeur mission DCS" >}}
+Alias                          | {{< ytl "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}
+Loulou de DCS World            | {{< ytl "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" >}}
+Empnicolas LzT                 | {{< ytl "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" >}}
+lankypilot77                   | {{< ytl "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" >}}
+Banana Mayo                    | {{< ytl "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" >}}
+Grim Reapers                   | {{< ytl "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" >}}
+131st Death Vipers (Dimitriov) | {{< ytl "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" >}}
+JTFF Tracto VF84               | {{< yt "wEYU_-v3yQo" >}}
 
 ## Élements
 source                  | description

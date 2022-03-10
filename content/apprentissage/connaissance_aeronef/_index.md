@@ -30,7 +30,7 @@ SU-27 Flanker, SU-33                              | {{< yt "yZvMljUNCeU" >}}    
 Mig-29 Fulcrum                                    | {{< yt "NYsYL1n2xzI" >}}                          | {{< yt "iXRSyj_mNis" >}} {{< yt "VCWjByenDsM" >}} {{< yt "xzwL_6NuEls" >}}
 Mirage 2000                                       | {{< yt "jDCxWEynbu4" >}}                          | {{< yt "k-SlLeYRGnE" >}} {{< yt "PCvXyetyVkg" >}} {{< yt "XlaJJXkS3uo" >}} {{< yt "QrQxJSRSZAU" >}}
 F/A-18C Hornet                                    | {{< yt "F61h1Fee9Zw" >}}                          | {{< ytl "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}} {{< ytl "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" >}}{{< yt "JYUm5Nl6318" >}}<br />[Youtube HornetVids](https://www.youtube.com/c/HornetVids/videos)
-F-16C Fighting Falcon                             | {{< yt "ztEONZIFNeQ" >}} {{< yt "W1ILwzgkCXk" >}} | {{< yt "m06uWM_tABM" >}} {{< yt "tdczvix3EiE" >}} {{< yt >}}
+F-16C Fighting Falcon                             | {{< yt "ztEONZIFNeQ" >}} {{< yt "W1ILwzgkCXk" >}} | {{< yt "m06uWM_tABM" >}} {{< yt "tdczvix3EiE" >}} {{< yt "C-WgHooZ7-Y" >}}
 
 ## Génération 4.5
 Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.

@@ -26,21 +26,21 @@ Aerogligli.fr           | [Fiche signaux Interception](https://www.aerogligli.fr
 Ministère de l'écologie | [Lexique des situations inhabituelles français/anglais](https://www.ecologie.gouv.fr/sites/default/files/LEXIQUE_final.pdf), une liste de termes à connaitre pour les pilotes, dans les deux langues
 
 ## Aviation militaire
-source                    | description
-------------------------- | -----------
-Spudknocker               | {{< yt "syAGKbW5I54" >}} {{< yt "Zrjm6UQUDi4" >}} {{< yt "jOB-yVEm3Qg" >}} {{< yt "a2F91-RgREM" >}}
-Rakuzard                  | {{< ytl "PLgDdM7LcpPKMU7cwyNvqeIUsM1Zf-BT8S" >}}
-THE AIR WARFARE GROUP     | {{< ytl "PLroS5xjXW90smqJPDcIlPvXYUKxLM94bm" >}}
-Doc                       | {{< yt "ASwPCCRoEBI" >}}
-Commander Steinsch        | {{< ytl "PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1" >}}, excellents. {{< ytl "PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS" >}} {{< ytl "PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_" >}} plusieurs atterrissages très propres, en particulier au break. {{< ytl "PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M" >}} fun. {{< ytl "PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE" >}}
-09th WTAC "Griffons"      | des [docs](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&category=14), en particulier :<br />- [Approche au break](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=500)<br /> - [Utilisation des feux](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=498)
-FFW-01 "Mudmovers"        | des [docs](https://ffw-01.fr/formation/documentation.html), en particulier :<br /> - [Tactiques d'interception](https://www.ffw-01.fr/images/documentation/interne/air-air/tactiques_Interception.pdf)
-3rd-wing.net              | - [Se retrouver au MSI](https://www.3rd-wing.net/lofiversion/index.php?t11483.html) technique basée sur le Bullseye <br />
+source                         | description
+------------------------------ | -----------
+Spudknocker                    | {{< yt "syAGKbW5I54" >}} {{< yt "Zrjm6UQUDi4" >}} {{< yt "jOB-yVEm3Qg" >}} {{< yt "a2F91-RgREM" >}}
+Rakuzard                       | {{< ytl "PLgDdM7LcpPKMU7cwyNvqeIUsM1Zf-BT8S" >}}
+THE AIR WARFARE GROUP          | {{< ytl "PLroS5xjXW90smqJPDcIlPvXYUKxLM94bm" >}}
+Doc                            | {{< yt "ASwPCCRoEBI" >}}
+Commander Steinsch             | {{< ytl "PL_uZ9_tQvzEo9aSX1xN0WQLTkrIHxc2q1" >}}, excellents. {{< ytl "PL_uZ9_tQvzEqBee0OIGsfmjT9r6oCySNS" >}} {{< ytl "PL_uZ9_tQvzErg7WU32wkkngZ0xVSwkWi_" >}} plusieurs atterrissages très propres, en particulier au break. {{< ytl "PL_uZ9_tQvzEp4Tjh1JO_ANqnLjBOpzC2M" >}} fun. {{< ytl "PL_uZ9_tQvzEqy4Cts4UhHkBmiiz5CL0jE" >}}
+09th WTAC "Griffons"           | des [docs](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&category=14), en particulier :<br />- [Approche au break](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=500)<br /> - [Utilisation des feux](http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=498)
+FFW-01 "Mudmovers"             | des [docs](https://ffw-01.fr/formation/documentation.html), en particulier :<br /> - [Tactiques d'interception](https://www.ffw-01.fr/images/documentation/interne/air-air/tactiques_Interception.pdf)
+3rd-wing.net                   | - [Se retrouver au MSI](https://www.3rd-wing.net/lofiversion/index.php?t11483.html) technique basée sur le Bullseye <br />
 EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums | [Principe brouillage IR](http://www.evac-fr.net/forums/lofiversion/index.php?t3047.html)
-Académie de vol militaire | [Bibliothèque](http://avm-fr.com/documentations), en particulier : <br /> - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out) <br /> - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant) <br /> - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator) <br /> - [Communications Ailier](http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf)<br /> - [Vol en formation](http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf)<br /> - [Utilisation du Bull's Eye](http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf)
-Iain Christie             | {{< ytl "PL0jjGRFQGC0qBEFiQXgEfduvjFzsNPKYs" >}} : comment tirer de la bombe non-guidée
-Wikipédia                 | [Military Grid Reference System](https://en.m.wikipedia.org/wiki/Military_Grid_Reference_System)
-fas.org                   | [F16 Combat Aircraft Fundamentals](https://fas.org/man/dod-101/sys/ac/docs/16v5.pdf), FENCE décrit page 125
+Académie de vol militaire      | [Bibliothèque](http://avm-fr.com/documentations), en particulier : <br /> - [Fence in, Fence out](http://avm-fr.com/wiki/Fence+In+-+Fence+Out) <br /> - [Gestion carburant](http://avm-fr.com/wiki/Gestion+Carburant) <br /> - [Les feux dans DCS](http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator) <br /> - [Communications Ailier](http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf)<br /> - [Vol en formation](http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf)<br /> - [Utilisation du Bull's Eye](http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf)
+{{< qlty "Iain Christie" >}}   | {{< ytl "PL0jjGRFQGC0qBEFiQXgEfduvjFzsNPKYs" >}} : comment tirer de la bombe non-guidée
+Wikipédia                      | [Military Grid Reference System](https://en.m.wikipedia.org/wiki/Military_Grid_Reference_System)
+fas.org                        | [F16 Combat Aircraft Fundamentals](https://fas.org/man/dod-101/sys/ac/docs/16v5.pdf), FENCE décrit page 125
 
 ## Vol acrobatique
 source        | description

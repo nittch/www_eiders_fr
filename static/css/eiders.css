@@ -4,7 +4,7 @@
   display: inline-block;
   vertical-align: top;
 
-  min-width: 30%;
+  min-width: 45%;
 
   margin: 0.5em;
 }
@@ -22,7 +22,7 @@
 {
   float: left;
   padding: 0.5em;
-  min-width: 15em;
+  width: 15em;
 
   font-size: x-large;
   font-family: sans-serif;
@@ -49,8 +49,6 @@
 /* Ressources */
 .ressource
 {
-  float: right;
-
   border-style: dotted;
   border-width: 1px;
 

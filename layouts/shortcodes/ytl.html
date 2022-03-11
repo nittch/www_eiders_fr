@@ -13,9 +13,8 @@ $("#playlist_{{ .Get 0 }}").html(
   "<center><img src=\"" + result.items[0].snippet.thumbnails.default.url + "\" style=\"align:left; margin:0px; display: block\"/>"
   + result.items[0].contentDetails.itemCount
   + " vidéos<br />"
-  + "<a href=https://www.youtube.com/playlist?list={{ .Get 0 }} target=_blank>"
   + result.items[0].snippet.title
-  + "</a></center>"
+  + "</center>"
 );
 
 }, 'jsonp');

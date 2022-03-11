@@ -4,7 +4,7 @@
   display: inline-block;
   vertical-align: top;
 
-  min-width: 45%;
+  width: 49%;
 
   margin: 0.5em;
 }
@@ -49,6 +49,8 @@
 /* Ressources */
 .ressource
 {
+  float: left;
+
   border-style: dotted;
   border-width: 1px;
 

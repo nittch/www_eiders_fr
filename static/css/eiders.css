@@ -1,0 +1,89 @@
+/* Contenus : association canal + ressources */
+.contenu
+{
+  display: inline-block;
+  vertical-align: top;
+
+  min-width: 30%;
+
+  margin: 0.5em;
+}
+
+.de_qualite
+{
+  border-style: dotted;
+  border-color: green;
+  border-width: 2px;
+
+}
+
+/* Canaux */
+.canal
+{
+  float: left;
+  padding: 0.5em;
+  min-width: 15em;
+
+  font-size: x-large;
+  font-family: sans-serif;
+}
+
+.canal-youtube
+{
+  display: flex;
+  align-items: center;
+}
+
+/* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
+#body div .canal-youtube > img
+{
+  margin: 0px;
+  display: inline;
+  padding: 0.5em;
+}
+
+.canal-web
+{
+}
+
+/* Ressources */
+.ressource
+{
+  float: right;
+
+  border-style: dotted;
+  border-width: 1px;
+
+  width: 20em;
+}
+
+.ressource-video-youtube
+{
+  text-align: center;
+}
+
+/* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
+#body div .ressource-video-youtube > img
+{
+  margin: 0px;
+  display: inline;
+  padding: 0.2em;
+}
+
+.ressource-playlist-youtube
+{
+  text-align: center;
+}
+
+/* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
+#body div .ressource-playlist-youtube > img
+{
+  margin: 0px;
+  display: inline;
+  padding: 0.2em;
+}
+
+.ressource-web
+{
+  padding: 2em;
+}

@@ -3,26 +3,105 @@ title = "F/A-18C Hornet + Supercarrier"
 weight = 8
 +++
 
-source                                                                       | description
----------------------------------------------------------------------------- | -----------
-{{< ytc "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}                                  | {{< yt "G0h2gdFPzYQ" >}}
-Mudspike - Chuck's guides                                                    | [Chuck’s Guides – DCS F/A-18C HORNET](https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/)
-Hoggitworld                                               :white_check_mark: | [F/A-18C DCS World Wiki](https://wiki.hoggitworld.com/view/F/A-18C)
-{{< ytc "forUsername" "ecolepilotefrance" >}} (Doc)       :white_check_mark: | {{< ytl "PLxeAPpKC04wtpEx-sMClxoum_t62ZNcih" >}}
-{{< ytc "forUsername" "ChecksixTV" >}} (Ghostrider + Doc) :white_check_mark: | {{< ytl "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" >}}
-{{< ytc "id" "UCkNVbomjoHZom13dxjJWm3g" >}}               :white_check_mark: | {{< ytl "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" >}}
-{{< ytc "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}               :white_check_mark: | {{< ytl "PLr1uSwrHettrzHixsNiwDfxGTgjoRfYv0" >}}
-{{< ytc "id" "UCeRUIB2wmQQRTRrdwFTdIdQ" >}}               :white_check_mark: | {{< yt "xyLS_XBLJd4" >}}
-{{< ytc "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}                                  | {{< ytl "PLjV7iPvvdDf6Zl5sG9Cc9T4kqjS4HVxQc" >}}
-{{< ytc "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}                                  | {{< ytl "PLer9oF4AanvFOfG4sSZSHJQZeMQx7YGr6" >}}
-{{< ytc "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}                                  | {{< ytl "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}} {{< yt "rfdmWaSUrv8" >}}
-{{< ytc "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}                                  | {{< ytl "PLml_c09ciuctIreNtpLoPg1DByY5upg6v" >}}
-{{< ytc "id" "UCcSm9zitjaWrfJxfM-Q-djQ" >}}                                  | {{< ytl "PL4a4myRJ63XtQbgoCP25SzVWNOxkfDIkU" >}}
-{{< ytc "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}                                  | {{< ytl "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" >}}
-{{< ytc "id" "UCZuXjkFY00p1ga3UyCBbR2w" >}}                                  | {{< ytl "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" >}} {{< ytl "PL3kOAM2N1YJdJMyrnTLKqIwQjE2W-ITEQ" >}}
-{{< ytc "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}                                  | {{< ytl "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" >}}
-Boyington                                                                    | [F/A-18C Weapons and Loadout](https://www.digitalcombatsimulator.com/fr/files/3315085/)
-asherao                                                                      | [F18 Hornet Fuzing and Armament Quicklook Kneeboard](https://www.digitalcombatsimulator.com/fr/files/3305134/)
-IceCat                                                                       | [F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2](https://www.digitalcombatsimulator.com/fr/files/3300721/)
-kengou                                                                       | [Hornet weight/balance/trim/takeoff calculator spreadsheet](https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/)
+<div class="contenu"> <!-- le hangar de sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "G0h2gdFPzYQ" >}}
+</div>
+
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-web "Mudspike - Chuck's guides" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/" "Chuck’s Guides – DCS F/A-18C HORNET" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Hoggitworld //-->
+{{< canal-web "Hoggitworld" >}}
+{{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- EFPV //-->
+{{< canal-youtube "forUsername" "ecolepilotefrance" >}}
+{{< ressource-playlist-youtube "PLxeAPpKC04wtpEx-sMClxoum_t62ZNcih" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- CheckSix //-->
+{{< canal-youtube "forUsername" "ChecksixTV" >}}
+{{< ressource-playlist-youtube "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Zanck //-->
+{{< canal-youtube "id" "UCkNVbomjoHZom13dxjJWm3g" >}}
+{{< ressource-playlist-youtube "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Photun //-->
+{{< canal-youtube "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}
+{{< ressource-playlist-youtube "PLr1uSwrHettrzHixsNiwDfxGTgjoRfYv0" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Tigrou //-->
+{{< canal-youtube "id" "UCeRUIB2wmQQRTRrdwFTdIdQ" >}}
+{{< ressource-video-youtube "xyLS_XBLJd4" >}}
+</div>
+
+<div class="contenu"> <!-- Doc //-->
+{{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
+{{< ressource-playlist-youtube "PLjV7iPvvdDf6Zl5sG9Cc9T4kqjS4HVxQc" >}}
+</div>
+
+<div class="contenu"> <!-- Matt Waggner //-->
+{{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
+{{< ressource-playlist-youtube "PLer9oF4AanvFOfG4sSZSHJQZeMQx7YGr6" >}}
+</div>
+
+<div class="contenu"> <!-- Spudknocker //-->
+{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}}
+{{< ressource-video-youtube "rfdmWaSUrv8" >}}
+</div>
+
+<div class="contenu"> <!-- RedKite //-->
+{{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
+{{< ressource-playlist-youtube "PLml_c09ciuctIreNtpLoPg1DByY5upg6v" >}}
+</div>
+
+<div class="contenu"> <!-- Tricker //-->
+{{< canal-youtube "id" "UCcSm9zitjaWrfJxfM-Q-djQ" >}}
+{{< ressource-playlist-youtube "PL4a4myRJ63XtQbgoCP25SzVWNOxkfDIkU" >}}
+</div>
+
+<div class="contenu"> <!-- Commander Steinsch //-->
+{{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
+{{< ressource-playlist-youtube "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" >}}
+</div>
+
+<div class="contenu"> <!-- Grim Reapers //-->
+{{< canal-youtube "id" "UCZuXjkFY00p1ga3UyCBbR2w" >}}
+{{< ressource-playlist-youtube "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" >}}
+{{< ressource-playlist-youtube "PL3kOAM2N1YJdJMyrnTLKqIwQjE2W-ITEQ" >}}
+</div>
+
+<div class="contenu"> <!-- Banana Mayo //-->
+{{< canal-youtube "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}
+{{< ressource-playlist-youtube "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" >}}
+</div>
+
+<div class="contenu"> <!-- Boyington //-->
+{{< canal-web "Boyington" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3315085/" "F/A-18C Weapons and Loadout" >}}
+</div>
+
+<div class="contenu"> <!-- asherao //-->
+{{< canal-web "asherao" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3305134/" "F18 Hornet Fuzing and Armament Quicklook Kneeboard" >}}
+</div>
+
+<div class="contenu"> <!-- IceCat //-->
+{{< canal-web "IceCat" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3300721/" "F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2" >}}
+</div>
+
+<div class="contenu"> <!-- kengou //-->
+{{< canal-web "kengou" >}}
+{{< ressource-web "https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/" "Hornet weight/balance/trim/takeoff calculator spreadsheet" >}}
+</div>
 

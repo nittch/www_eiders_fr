@@ -1,14 +1,12 @@
 <a href="https://www.youtube.com/watch?v={{ .Get 0 }}" target=_blank>
-  <div
-    id="ressource-video-youtube-{{ .Get 0 }}"
-    class="ressource ressource-video-youtube">
-      {{ ":x:" | emojify }} Mauvaise vid&eacute;o
+  <div class="ressource ressource-video-youtube ressource-video-youtube-{{ .Get 0 }}">
+    {{ ":x:" | emojify }} Mauvaise vid&eacute;o
   </div>
 </a>
 
 <script>
   get_youtube_video("{{ .Get 0 }}", function(result) {
-    $("#ressource-video-youtube-{{ .Get 0 }}").html(
+    $(".ressource-video-youtube-{{ .Get 0 }}").html(
       "<img src=\"" + result.thumbnail + "\"/>" + "<br />"
       + iso8601_to_html(result.duration) + "<br />"
       + result.title

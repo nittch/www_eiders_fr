@@ -34,7 +34,7 @@ function get_cache(session_key)
 
 function set_cache(session_key, value)
 {
-  const storage_in_minutes = 10; // 10 min
+  const storage_in_minutes = 60 * 24; // 24h
 
   value.expirationDate = new Date(new Date().getTime() + storage_in_minutes * 60 * 1000).toISOString(); // en millisecondes ici
 

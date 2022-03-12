@@ -43,6 +43,7 @@ Wikipédia                      | [Military Grid Reference System](https://en.m.
 fas.org                        | [F16 Combat Aircraft Fundamentals](https://fas.org/man/dod-101/sys/ac/docs/16v5.pdf), FENCE décrit page 125
 
 ## Vol acrobatique
-source        | description
-------------- | -----------
-eapisfile.com |[Advanced Formation Clinic Technique Notes](https://www.eapisfile.com/Docs/Formation/PPT/Advanced%20Formation%20Clinic%20Technique%20Notes.pdf)
+<div class="contenu">
+{{< canal-web "eapisfile.com" >}}
+{{< ressource-web "https://www.eapisfile.com/Docs/Formation/PPT/Advanced%20Formation%20Clinic%20Technique%20Notes.pdf" "Advanced Formation Clinic Technique Notes" >}}
+</div>

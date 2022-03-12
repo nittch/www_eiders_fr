@@ -1,8 +1,9 @@
 +++
-title = "Lexique"
+title = "Phraséologie (Lexique) et contrôle"
 weight = 4
 +++
 
+# Phraséologie
 
 vocabulaire             | description
 ----------------------- | -----------
@@ -51,9 +52,49 @@ Uniform                 | radio UHF/AM
 Victor                  | radio VHF/AM
 Visual                  | "I see you/it" (friendly) / contact visuel sur un aéronef ou une troupe au sol alliée.
 
+<div class="contenu">
+{{< canal-hoggitworld >}}
+{{< ressource-web "https://wiki.hoggitworld.com/view/Brevity_List" "Brevity List" >}}
+</div>
 
+<div class="contenu">
+{{< canal-web "jftricot" >}}
+{{< ressource-web "http://perso.numericable.fr/~jftricot/Reseau.htm#abr%C3%A9viations" "Abréviations" >}}
+</div>
 
-Sources : 
-- [Helpful lingo for noobs](https://www.reddit.com/r/hoggit/comments/2mzt62/helpful_lingo_for_noobs/)
-- [Phraseology BFR](https://bullseye-francophone.fr/infos-server#phraseology)
+<div class="contenu">
+{{< canal-web "Wikipedia" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Multiservice_tactical_brevity_code" "Multiservice tactical brevity code" >}}
+</div>
+
+<div class="contenu">
+{{< canal-web "Reddit" >}}
+{{< ressource-web "https://www.reddit.com/r/hoggit/comments/2mzt62/helpful_lingo_for_noobs/" "Helpful lingo for noobs" >}}
+</div>
+
+<div class="contenu">
+{{< canal-web "Bullseye Francophone - BFR" >}}
+{{< ressource-web "https://bullseye-francophone.fr/infos-server#phraseology" "Phraseology BFR" >}}
+</div>
+
+# Contrôle (ATC, AWACS, JTAC...)
+
+<div class="contenu de_qualite"> <!-- Doc //-->
+{{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
+{{< ressource-video-youtube "P7rXt0xvCQM" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Majh //-->
+{{< canal-youtube "id" "UC8svA9g3l4aVea-e7S-nWgw" >}}
+{{< ressource-playlist-youtube "PLAxeoQ7uDhjJ_4LhT4JtqGjrmrWN0mzWV" >}}
+{{< ressource-playlist-youtube "PLAxeoQ7uDhjJLHL-Fj56vMcVkn239VeEN" >}}
+{{< ressource-playlist-youtube "PLAxeoQ7uDhjLAHcSXhD3RRo-8GyvGpVHF" >}}
+</div>
+
+<div class="contenu">
+{{< canal-web "Wiki 3rd-wing" >}}
+{{< ressource-web "http://wiki.3rd-wing.net/index.php?title=9-Line" "Le 9-LINE" >}}
+détaillée ici
+{{< ressource-web "https://www.3rd-wing.net/index.php?showtopic=15000&st=30" "Training JTAC" >}}
+</div>
 

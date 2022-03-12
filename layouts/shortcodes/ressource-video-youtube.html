@@ -1,5 +1,9 @@
 <a href="https://www.youtube.com/watch?v={{ .Get 0 }}" target=_blank>
-  <div id="ressource-video-youtube-{{ .Get 0 }}" class="ressource ressource-video-youtube">Mauvaise vid&eacute;o</div>
+  <div
+    id="ressource-video-youtube-{{ .Get 0 }}"
+    class="ressource ressource-video-youtube">
+      {{ ":x:" | emojify }} Mauvaise vid&eacute;o
+  </div>
 </a>
 
 <script>
@@ -11,7 +15,7 @@ $.get('https://www.googleapis.com/youtube/v3/videos', {
   $("#ressource-video-youtube-{{ .Get 0 }}").html(
     "<img src=\"" + result.items[0].snippet.thumbnails.default.url + "\"/>"
     + "<br />"
-    + result.items[0].contentDetails.duration.replace("PT","").replace("H","h ").replace("M","min ").replace("S","sec")
+    + iso8601_to_html(result.items[0].contentDetails.duration)
     + "<br />"
     + result.items[0].snippet.title
   );

@@ -1,4 +1,8 @@
-<div id=canal_youtube_{{ .Get 1 }} class="canal canal-youtube">Mauvais Canal</div>
+<div
+  id="canal_youtube_{{ .Get 1 }}"
+  class="canal canal-youtube">
+      {{ ":x:" | emojify }} Mauvais Canal
+</div>
 
 <script>
 $.get('https://www.googleapis.com/youtube/v3/channels', {

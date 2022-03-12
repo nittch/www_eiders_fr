@@ -11,10 +11,9 @@
 
 .de_qualite
 {
-  border-style: dotted;
-  border-color: green;
-  border-width: 2px;
-
+  border-width: 1px;
+  border-style: solid;
+  border-image: linear-gradient(to right, #00d204 0%, white 50%) 1;
 }
 
 /* Canaux */

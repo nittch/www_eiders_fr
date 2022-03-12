@@ -1,26 +1,80 @@
+/////////////
+// HELPERS //
+/////////////
 function iso8601_to_html(duration)
 {
   return duration.replace("PT","").replace("H"," h ").replace("M"," min ").replace("S"," sec")
 }
 
-const googleapi_key = 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc'
+///////////////////
+// MISE EN CACHE //
+///////////////////
+//
+// mise en cache dans le sessionCache (non persistent, mais tant que la fenêtre est ouverte dans le browser)
+//   note: dans firefox, utiliser F12, onglet storage, sessionCache pour les voir
+//
+
+// Retourne la clé si toujours valide, sinon null
+function get_cache(session_key)
+{
+  let stringValue = window.sessionStorage.getItem(session_key);
+
+  if (stringValue == null) {
+    return null;
+  }
+
+  let value = JSON.parse(stringValue);
+  let expirationDate = new Date(value.expirationDate);
+  if (expirationDate > new Date())
+    return value; // toujours OK
+
+  window.sessionStorage.removeItem(session_key)
+  return null;
+}
+
+function set_cache(session_key, value)
+{
+  const storage_in_minutes = 10; // 10 min
+
+  value.expirationDate = new Date(new Date().getTime() + storage_in_minutes * 60 * 1000).toISOString(); // en millisecondes ici
+
+  window.sessionStorage.setItem(session_key, JSON.stringify(formatted_result));
+}
+
+//////////////////////////////////
+// UTILISATION DE L'API YOUTUBE //
+//////////////////////////////////
+const k = 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc'
 
 // callback appelé de manière asynchrone avec le modèle suivant:
 //   {
-//     title: "titre de la video"
+//     title: "titre de la vidéo"
 //     thumbnail: "url de la thumbnail par défaut"
 //     duration: durée de la vidéo au format ISO8601
 //   }
 function get_youtube_video(videoid, callback)
 {
+  let session_key = "youtube_video_" + videoid;
+
+  previous_data = get_cache(session_key);
+  if (previous_data != null)
+  {
+    callback(previous_data);
+    return;
+  }
+
   $.get('https://www.googleapis.com/youtube/v3/videos',
-    { key: googleapi_key, id: videoid, part: 'snippet, contentDetails' },
+    { key: k, id: videoid, part: 'snippet, contentDetails' },
     function(result) {
-      callback({
+      formatted_result = {
         title: result.items[0].snippet.title,
         thumbnail: result.items[0].snippet.thumbnails.default.url,
-        duration: result.items[0].contentDetails.duration
-      });
+        duration: result.items[0].contentDetails.duration,
+      };
+
+      set_cache(session_key, formatted_result);
+
+      callback(formatted_result);
   }, 'jsonp');
 }
 
@@ -32,14 +86,27 @@ function get_youtube_video(videoid, callback)
 //   }
 function get_youtube_playlist(playlistid, callback)
 {
+  let session_key = "youtube_playlist_" + playlistid;
+
+  previous_data = get_cache(session_key);
+  if (previous_data != null)
+  {
+    callback(previous_data);
+    return;
+  }
+
   $.get('https://www.googleapis.com/youtube/v3/playlists',
-  { key: googleapi_key, id: playlistid, part: 'snippet, contentDetails' },
+  { key: k, id: playlistid, part: 'snippet, contentDetails' },
   function(result) {
-    callback({
+    formatted_result = {
       title: result.items[0].snippet.title,
       thumbnail: result.items[0].snippet.thumbnails.default.url,
       nbvideos: result.items[0].contentDetails.itemCount
-    });
+    };
+
+    set_cache(session_key, formatted_result);
+
+    callback(formatted_result);
   }, 'jsonp');
 }
 
@@ -56,8 +123,17 @@ function get_youtube_playlist(playlistid, callback)
 //   }
 function get_youtube_channel(selector, identifier, callback)
 {
+  let session_key = "youtube_channel_" + selector + "_" + identifier;
+
+  previous_data = get_cache(session_key);
+  if (previous_data != null)
+  {
+    callback(previous_data);
+    return;
+  }
+
   let request = {
-    key: googleapi_key,
+    key: k,
     part: 'snippet'
   }
   request[selector] = identifier
@@ -65,10 +141,14 @@ function get_youtube_channel(selector, identifier, callback)
   $.get('https://www.googleapis.com/youtube/v3/channels',
     request,
     function(result) {
-      callback({
+      formatted_result = {
         title: result.items[0].snippet.title,
         thumbnail: result.items[0].snippet.thumbnails.default.url
-      });
+      };
+
+      set_cache(session_key, formatted_result);
+
+      callback(formatted_result);
   }, 'jsonp');
 }
 

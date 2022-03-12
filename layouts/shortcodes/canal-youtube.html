@@ -1,19 +1,13 @@
 <div
-  id="canal_youtube_{{ .Get 1 }}"
+  id="canal-youtube-{{ .Get 1 }}"
   class="canal canal-youtube">
       {{ ":x:" | emojify }} Mauvais Canal
 </div>
 
 <script>
-$.get('https://www.googleapis.com/youtube/v3/channels', {
-  key: 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc',
-  {{ .Get 0 }}: '{{ .Get 1 }}',
-  part: 'snippet'
-}, function(result) {
-  $("#canal_youtube_{{ .Get 1 }}").html(
-    "<img src=\"" + result.items[0].snippet.thumbnails.default.url + "\"> "
-    + result.items[0].snippet.title
-  );
-}, 'jsonp');
-
+  get_youtube_channel("{{ .Get 0 }}", "{{ .Get 1 }}", function(result) {
+    $("#canal-youtube-{{ .Get 1 }}").html(
+      "<img src=\"" + result.thumbnail + "\"/> " + result.title
+    );
+  });
 </script>

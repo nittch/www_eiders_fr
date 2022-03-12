@@ -1,5 +1,9 @@
 <a href="https://www.youtube.com/playlist?list={{ .Get 0 }}" target=_blank>
-  <div id="ressource-playlist-youtube-{{ .Get 0 }}" class="ressource ressource-playlist-youtube">Mauvaise playlist</div>
+  <div
+    id="ressource-playlist-youtube-{{ .Get 0 }}"
+    class="ressource ressource-playlist-youtube">
+      {{ ":x:" | emojify }} Mauvaise playlist
+  </div>
 </a>
 
 <script>
@@ -11,7 +15,8 @@ $.get('https://www.googleapis.com/youtube/v3/playlists', {
   $("#ressource-playlist-youtube-{{ .Get 0 }}").html(
     "<img src=\"" + result.items[0].snippet.thumbnails.default.url + "\"/>"
     + "<br />"
-    + result.items[0].contentDetails.itemCount + " vidéos"
+    + result.items[0].contentDetails.itemCount + " vidéo"
+    + (result.items[0].contentDetails.itemCount > 1 ? "s": "")
     + "<br />"
     + result.items[0].snippet.title
   );

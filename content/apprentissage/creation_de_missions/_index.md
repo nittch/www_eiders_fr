@@ -6,14 +6,14 @@ weight = 3
 ## Éditeur de mission
 source                         | description
 ------------------------------ | -----------
-Alias                          | {{< ytl "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}
-Loulou de DCS World            | {{< ytl "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" >}}
-Empnicolas LzT                 | {{< ytl "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" >}}
-lankypilot77                   | {{< ytl "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" >}}
-Banana Mayo                    | {{< ytl "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" >}}
-Grim Reapers                   | {{< ytl "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" >}}
-131st Death Vipers (Dimitriov) | {{< ytl "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" >}}
-JTFF Tracto VF84               | {{< yt "wEYU_-v3yQo" >}}
+Alias                          | {{< ressource-playlist-youtube "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}
+Loulou de DCS World            | {{< ressource-playlist-youtube "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" >}}
+Empnicolas LzT                 | {{< ressource-playlist-youtube "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" >}}
+lankypilot77                   | {{< ressource-playlist-youtube "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" >}}
+Banana Mayo                    | {{< ressource-playlist-youtube "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" >}}
+Grim Reapers                   | {{< ressource-playlist-youtube "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" >}}
+131st Death Vipers (Dimitriov) | {{< ressource-playlist-youtube "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" >}}
+JTFF Tracto VF84               | {{< ressource-video-youtube "wEYU_-v3yQo" >}}
 
 ## Élements
 source                  | description

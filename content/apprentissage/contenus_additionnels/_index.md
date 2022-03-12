@@ -9,16 +9,16 @@ weight = 25
 
 source                       | description
 ---------------------------- | -----------
-{{< qlty "Iain Christie" >}} | {{< ytl "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
-DCS Sport                    | {{< ytl "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
-Marcel Glandier              | {{< ytl "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" >}}
+{{< qlty "Iain Christie" >}} | {{< ressource-playlist-youtube "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
+DCS Sport                    | {{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
+Marcel Glandier              | {{< ressource-playlist-youtube "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" >}}
 
 ## VNAO T-45 Goshawk
 [Forum Eagle](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)
 
 source       | description
 ------------ | -----------
-RedKite      | {{< yt "vgWFDP8s3Bw" >}}
+RedKite      | {{< ressource-video-youtube "vgWFDP8s3Bw" >}}
 
 ## Hercules C-130 by Anubis
 [Forum Eagle](https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/)
@@ -50,8 +50,8 @@ Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.co
 
 source           | description
 ---------------- | -----------
-TheSkyline35     | {{< yt XRI36163nGE >}}
-Spudknocker      | {{< yt Q1nz7bLFQQ0 >}}
+TheSkyline35     | {{< ressource-video-youtube XRI36163nGE >}}
+Spudknocker      | {{< ressource-video-youtube Q1nz7bLFQQ0 >}}
 SRS Simple Radio | [DCS SimpleRadio Standalone - Radio Overview](https://docs.google.com/spreadsheets/d/1tzd996zJ1t0heZ-t1PpL7vNUIZbXl7pI6De0GThN1Qw)
 
 ## Tacview

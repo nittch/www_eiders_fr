@@ -7,19 +7,11 @@
 </a>
 
 <script>
-$.get('https://www.googleapis.com/youtube/v3/playlists', {
-  key: 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc',
-  id: '{{ .Get 0 }}',
-  part: 'snippet, contentDetails'
-}, function(result) {
-  $("#ressource-playlist-youtube-{{ .Get 0 }}").html(
-    "<img src=\"" + result.items[0].snippet.thumbnails.default.url + "\"/>"
-    + "<br />"
-    + result.items[0].contentDetails.itemCount + " vidéo"
-    + (result.items[0].contentDetails.itemCount > 1 ? "s": "")
-    + "<br />"
-    + result.items[0].snippet.title
-  );
-}, 'jsonp');
-
+  get_youtube_playlist("{{ .Get 0 }}", function(result) {
+    $("#ressource-playlist-youtube-{{ .Get 0 }}").html(
+      "<img src=\"" + result.thumbnail + "\"/>" + "<br />"
+      + result.nbvideos + " vidéo" + (result.nbvideos > 1 ? "s": "") + "<br />"
+      + result.title
+    );
+  });
 </script>

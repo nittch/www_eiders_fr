@@ -46,6 +46,23 @@
 {
 }
 
+.canal-chucksguide
+{
+  display: flex;
+  align-items: center;
+}
+
+#body div .canal-chucksguide img
+{
+  margin: 0px;
+  display: inline;
+}
+
+.canal-chucksguide-text
+{
+  padding: 0.5em;
+}
+
 /* Ressources */
 .ressource
 {
@@ -87,4 +104,9 @@
 {
   padding: 2em;
   text-align: center;
+}
+
+.ressource-web-logo
+{
+  font-size: xx-large;
 }

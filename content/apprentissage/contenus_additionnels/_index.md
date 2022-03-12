@@ -1,5 +1,5 @@
 +++
-title = "Contenus additionnels"
+title = "Contenus additionnels (Mods)"
 weight = 25
 +++
 

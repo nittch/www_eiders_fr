@@ -13,9 +13,10 @@ weight = 9
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-16c-viper/" "Chuck’s Guides – DCS F-16C VIPER" >}}
 </div>
 
-<div class="contenu de_qualite"> <!-- Marco, principalement sur le F-16 //-->
+<div class="contenu de_qualite"> <!-- Marco //-->
 {{< canal-youtube "id" "UCMMg-l1qYhOk958PrqQdDkQ" >}}
 {{< ressource-playlist-youtube "PLEwJiAWHYbriCO0RJ5x4QxtUdDrKx5hwC" >}}
+Principalement sur le F-16.
 </div>
 
 <div class="contenu de_qualite"> <!-- Groupement de Chasse 22 //-->

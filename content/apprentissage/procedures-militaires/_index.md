@@ -1,38 +1,7 @@
 +++
-title = "Procédures militaires"
+title = "Au sol (unités et Combined Arms)"
 weight = 2
 +++
-
-# Phraséologie
-source                | description
---------------------- | -----------
-Wiki hoggitworld      | [Brevity List](https://wiki.hoggitworld.com/view/Brevity_List)
-jftricot              | http://perso.numericable.fr/~jftricot/Reseau.htm#abr%C3%A9viations
-Wikipedia             | [Multiservice tactical brevity code](https://en.wikipedia.org/wiki/Multiservice_tactical_brevity_code)
-
-# Contrôle
-## Air Traffic Control - Tour de contrôle (avec LotATC)
-Normalement il y a deux rôles, la tour à proprement parler (gérant les pistes et l'espace aérien immédiat) et le contrôle au sol (taxiway, parkings...). Dans DCS le rôle est adapté pour comprendre les deux parties (tour et sol) pour plusieurs aéroports.
-
-source                      | description
---------------------------- | -----------
-{{< qlty "Majh TRYDELL" >}} | {{< ressource-playlist-youtube "PLAxeoQ7uDhjJ_4LhT4JtqGjrmrWN0mzWV" >}}
-
-## AWACS - contrôle stratégique (avec LotATC)
-Une fois quitté l'espace aérien de l'aéroport, la mission a proprement parler est contrôlée par l'AWACS.
-
-source                      | description
---------------------------- | -----------
-{{< qlty "Majh TRYDELL" >}} | {{< ressource-playlist-youtube "PLAxeoQ7uDhjJLHL-Fj56vMcVkn239VeEN" >}}
-
-## J-TAC - contrôle pour appui aérien rapproché (CAS) (avec Combined Arms)
-S'il faut soutenir des troupes au sol, il faut contacter un J-TAC, directement sur zone.
-
-source                      | description
---------------------------- | -----------
-{{< qlty "Doc" >}}          | {{< ressource-video-youtube "P7rXt0xvCQM" >}}
-{{< qlty "Majh TRYDELL" >}} | {{< ressource-playlist-youtube "PLAxeoQ7uDhjLAHcSXhD3RRo-8GyvGpVHF" >}}, en particulier {{< ressource-video-youtube "fI4zyV_z5KA" >}}
-Wiki 3rd-wing               | [Le 9-LINE](http://wiki.3rd-wing.net/index.php?title=9-Line), détaillé ici [Training JTAC](https://www.3rd-wing.net/index.php?showtopic=15000&st=30)
 
 # Unités au sol
 

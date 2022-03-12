@@ -9,12 +9,12 @@ weight = 8
 </div>
 
 <div class="contenu"> <!-- Chuck's guide //-->
-{{< canal-web "Mudspike - Chuck's guides" >}}
+{{< canal-chucksguide >}}
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/" "Chuck’s Guides – DCS F/A-18C HORNET" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Hoggitworld //-->
-{{< canal-web "Hoggitworld" >}}
+{{< canal-hoggitworld >}}
 {{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" >}}
 </div>
 

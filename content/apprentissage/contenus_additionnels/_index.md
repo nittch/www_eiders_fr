@@ -5,32 +5,57 @@ weight = 25
 
 # Mods jouables
 ## Community A-4E-C Skyhawk
-[Forum Eagle](https://forums.eagle.ru/topic/207102-community-a-4e-c/)
+<div class="contenu">
+{{< canal-web "Forum ED" >}}
+{{< ressource-web "https://forums.eagle.ru/topic/207102-community-a-4e-c/" "Forum Eagle" >}}
+</div>
 
-source                       | description
----------------------------- | -----------
-{{< qlty "Iain Christie" >}} | {{< ressource-playlist-youtube "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
-DCS Sport                    | {{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
-Marcel Glandier              | {{< ressource-playlist-youtube "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" >}}
+<div class="contenu de_qualite"> <!-- Ian Christie //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-playlist-youtube "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
+</div>
+
+<div class="contenu"> <!-- DCS Sport //-->
+{{< canal-youtube "id" "UCgUBgZHmefvLvZnsbBKcjhg" >}}
+{{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
+</div>
+
+<div class="contenu"> <!-- Marcel Glandier //-->
+{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
+{{< ressource-playlist-youtube "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" >}}
+</div>
 
 ## VNAO T-45 Goshawk
-[Forum Eagle](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)
+<div class="contenu">
+{{< canal-web "Forum ED" >}}
+{{< ressource-web "https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/" "Forum Eagle" >}}
+</div>
 
-source       | description
------------- | -----------
-RedKite      | {{< ressource-video-youtube "vgWFDP8s3Bw" >}}
+<div class="contenu"> <!-- RedKite //-->
+{{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
+{{< ressource-video-youtube "vgWFDP8s3Bw" >}}
+</div>
 
 ## Hercules C-130 by Anubis
-[Forum Eagle](https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/)
+<div class="contenu">
+{{< canal-web "Forum ED" >}}
+{{< ressource-web "https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/" "Forum Eagle" >}}
+</div>
 
 ## UH-60L
 
 ## Codename Flanker SU-30
 
 ## French Pack (via Combined Arms)
-[Forum Eagle](https://forums.eagle.ru/topic/257437-frenchpack-v48-update-on-01102021/)
+<div class="contenu">
+{{< canal-web "Forum ED" >}}
+{{< ressource-web "https://forums.eagle.ru/topic/257437-frenchpack-v48-update-on-01102021/" "Forum Eagle" >}}
+</div>
 
-[TheSkyline35 : Armée française dans DCS : FrenchPack](https://www.youtube.com/watch?v=qnqmmsY1-Do)
+<div class="contenu"> <!-- TheSkyline35 //-->
+{{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
+{{< ressource-video-youtube "qnqmmsY1-Do" >}}
+</div>
 
 # Mods non jouables
 source                             | description
@@ -48,11 +73,20 @@ Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.co
 
 ## SimpleRadio (SRS)
 
-source           | description
----------------- | -----------
-TheSkyline35     | {{< ressource-video-youtube XRI36163nGE >}}
-Spudknocker      | {{< ressource-video-youtube Q1nz7bLFQQ0 >}}
-SRS Simple Radio | [DCS SimpleRadio Standalone - Radio Overview](https://docs.google.com/spreadsheets/d/1tzd996zJ1t0heZ-t1PpL7vNUIZbXl7pI6De0GThN1Qw)
+<div class="contenu"> <!-- TheSkyline35 //-->
+{{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
+{{< ressource-video-youtube "XRI36163nGE " >}}
+</div>
+
+<div class="contenu"> <!-- Spudknocker //-->
+{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-video-youtube "Q1nz7bLFQQ0 " >}}
+</div>
+
+<div class="contenu">
+{{< canal-web "" >}}
+{{< ressource-web "https://docs.google.com/spreadsheets/d/1tzd996zJ1t0heZ-t1PpL7vNUIZbXl7pI6De0GThN1Qw" "DCS SimpleRadio Standalone - Radio Overview" >}}
+</div>
 
 ## Tacview
 [Site tacview](https://www.tacview.net/)

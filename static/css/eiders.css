@@ -35,7 +35,7 @@
 }
 
 /* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
-#body div .canal-youtube > img
+#body div .canal-youtube img
 {
   margin: 0px;
   display: inline;
@@ -81,7 +81,7 @@
 }
 
 /* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
-#body div .ressource-video-youtube > img
+#body div .ressource-video-youtube img
 {
   margin: 0px;
   display: inline;
@@ -94,7 +94,7 @@
 }
 
 /* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
-#body div .ressource-playlist-youtube > img
+#body div .ressource-playlist-youtube img
 {
   margin: 0px;
   display: inline;

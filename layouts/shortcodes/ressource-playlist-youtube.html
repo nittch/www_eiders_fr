@@ -1,14 +1,12 @@
 <a href="https://www.youtube.com/playlist?list={{ .Get 0 }}" target=_blank>
-  <div
-    id="ressource-playlist-youtube-{{ .Get 0 }}"
-    class="ressource ressource-playlist-youtube">
-      {{ ":x:" | emojify }} Mauvaise playlist
+  <div class="ressource ressource-playlist-youtube ressource-playlist-youtube-{{ .Get 0 }}">
+    {{ ":x:" | emojify }} Mauvaise playlist
   </div>
 </a>
 
 <script>
   get_youtube_playlist("{{ .Get 0 }}", function(result) {
-    $("#ressource-playlist-youtube-{{ .Get 0 }}").html(
+    $(".ressource-playlist-youtube-{{ .Get 0 }}").html(
       "<img src=\"" + result.thumbnail + "\"/>" + "<br />"
       + result.nbvideos + " vidéo" + (result.nbvideos > 1 ? "s": "") + "<br />"
       + result.title

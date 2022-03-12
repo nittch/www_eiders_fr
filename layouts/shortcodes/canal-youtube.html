@@ -1,12 +1,12 @@
 <div
-  id="canal-youtube-{{ .Get 1 }}"
+  id="canal-youtube-{{ .Get 0 }}-{{ .Get 1 }}"
   class="canal canal-youtube">
       {{ ":x:" | emojify }} Mauvais Canal
 </div>
 
 <script>
   get_youtube_channel("{{ .Get 0 }}", "{{ .Get 1 }}", function(result) {
-    $("#canal-youtube-{{ .Get 1 }}").html(
+    $("#canal-youtube-{{ .Get 0 }}-{{ .Get 1 }}").html(
       "<img src=\"" + result.thumbnail + "\"/> " + result.title
     );
   });

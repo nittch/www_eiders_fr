@@ -4,16 +4,45 @@ weight = 3
 +++
 
 ## Éditeur de mission
-source                         | description
------------------------------- | -----------
-Alias                          | {{< ressource-playlist-youtube "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}
-Loulou de DCS World            | {{< ressource-playlist-youtube "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" >}}
-Empnicolas LzT                 | {{< ressource-playlist-youtube "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" >}}
-lankypilot77                   | {{< ressource-playlist-youtube "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" >}}
-Banana Mayo                    | {{< ressource-playlist-youtube "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" >}}
-Grim Reapers                   | {{< ressource-playlist-youtube "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" >}}
-131st Death Vipers (Dimitriov) | {{< ressource-playlist-youtube "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" >}}
-JTFF Tracto VF84               | {{< ressource-video-youtube "wEYU_-v3yQo" >}}
+<div class="contenu"> <!-- Alias //-->
+{{< canal-youtube "forUsername" "cedryx1" >}}
+{{< ressource-playlist-youtube "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}
+</div>
+
+<div class="contenu"> <!-- Loulou de DCS World //-->
+{{< canal-youtube "id" "UCbNRGPeNjUke5pIzBZGOrig" >}}
+{{< ressource-playlist-youtube "PLDv3SYR9vGXlYCuH_07DpJtAfDT128CZ7" >}}
+</div>
+
+<div class="contenu"> <!-- Empnicolas LzT //-->
+{{< canal-youtube "id" "UCdzYmqc6g789zNyXBcBpPeg" >}}
+{{< ressource-playlist-youtube "PLwWsAperJSsoyBqtVMVkRS4l1yQW5cfip" >}}
+</div>
+
+<div class="contenu"> <!-- lankypilot77 //-->
+{{< canal-youtube "id" "UCiGt5tClWjj-D2U2O33tD6w" >}}
+{{< ressource-playlist-youtube "PLryTouHAS-u5_4VMSdG6NKMS-HSlat5h-" >}}
+</div>
+
+<div class="contenu"> <!-- Banana Mayo //-->
+{{< canal-youtube "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}
+{{< ressource-playlist-youtube "PLmL0WZQili6CGM_rAc9-ECWkWv70a84T6" >}}
+</div>
+
+<div class="contenu"> <!-- Grim Reapers //-->
+{{< canal-youtube "id" "UCZuXjkFY00p1ga3UyCBbR2w" >}}
+{{< ressource-playlist-youtube "PL3kOAM2N1YJdFQl4vNo5CMcv7PrSHpreS" >}}
+</div>
+
+<div class="contenu"> <!-- 131st Death Vipers //-->
+{{< canal-youtube "forUsername" "whitesky545" >}}
+{{< ressource-playlist-youtube "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" >}}
+</div>
+
+<div class="contenu"> <!-- JTFF Tracto VF84//-->
+{{< canal-youtube "id" "UCmx85M6n5L0djSMfQAMBV8g" >}}
+{{< ressource-video-youtube "wEYU_-v3yQo" >}}
+</div>
 
 ## Élements
 source                  | description

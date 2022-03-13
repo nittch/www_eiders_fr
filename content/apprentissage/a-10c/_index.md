@@ -1,5 +1,5 @@
 +++
-title = "A-10C & A-10C II Tank Killer"
+title = "A-10C Warthog"
 weight = 8
 +++
 

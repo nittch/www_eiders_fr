@@ -29,6 +29,16 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLZ8X4p18pdblNAFn4chmZmnRPINvWWItT" >}}
 </div>
 
+<div class="contenu"> <!-- Matt Waggner //-->
+{{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
+{{< ressource-playlist-youtube "PLer9oF4AanvFoD2t2Aq3aYRYkJs6v9wG8" >}}
+</div>
+
+<div class="contenu"> <!-- Tricker //-->
+{{< canal-youtube "id" "UCcSm9zitjaWrfJxfM-Q-djQ" >}}
+{{< ressource-playlist-youtube "PL4a4myRJ63XtpEgvAjYlPru-kFjKquxCK" >}}
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" >}}

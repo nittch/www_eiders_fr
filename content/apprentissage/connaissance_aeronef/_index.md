@@ -80,14 +80,14 @@ Mirage F1
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
 
 <div class="aeronef">
-F-15 Eagle, F-15E Strike Eagle                    
+F-15 Eagle
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}}                
 </div>
 
 <div class="aeronef">
-SU-27 Flanker, SU-33
+Su-27 Flanker
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
@@ -122,7 +122,7 @@ Mirage 2000
 </div>
 
 <div class="aeronef">
-F/A-18C Hornet
+F/A-18 Hornet
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "F61h1Fee9Zw" >}}                          
@@ -135,7 +135,7 @@ F/A-18C Hornet
 </div>
 
 <div class="aeronef">
-F-16C Fighting Falcon                             
+F-16 Fighting Falcon                             
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ztEONZIFNeQ" >}}
@@ -173,7 +173,7 @@ Rafale
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
 
 <div class="aeronef">
-SU-57
+Su-57 Felon
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
@@ -184,7 +184,7 @@ SU-57
 </div>
 
 <div class="aeronef">
-SU-25, SU-25T
+Su-25 Frogfoot
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "raYB4TWh-W4" >}}
@@ -194,7 +194,7 @@ SU-25, SU-25T
 </div>
 
 <div class="aeronef">
-A-10C, A-10C II 
+A-10 Warthog
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}

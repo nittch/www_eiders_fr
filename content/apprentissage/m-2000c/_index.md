@@ -21,14 +21,14 @@ weight = 6
 {{< ressource-playlist-youtube "PL1k_s5S44l5vn9YB-gjPcvghXRfprpnus" >}}
 </div>
 
-<div class="contenu de_qualite"> <!-- DFPV Doc //-->
-{{< canal-youtube "forUsername" "ecolepilotefrance" >}}
-{{< ressource-playlist-youtube "PLxeAPpKC04wuORJOA5uMw10_2anCafz2i" >}}
-</div>
-
 <div class="contenu de_qualite"> <!-- Photun //-->
 {{< canal-youtube "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}
 {{< ressource-playlist-youtube "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" >}}
+</div>
+
+<div class="contenu"> <!-- Association VEAF //-->
+{{< canal-youtube "id" "UCEF1A_q8Cnw9JLW_Rlig3OQ" >}}
+{{< ressource-playlist-youtube "PLalR1_JFFm_79RbK-8seDMPBrP5IWFD6l" >}}
 </div>
 
 <div class="contenu"> <!-- Marco JTFF //-->

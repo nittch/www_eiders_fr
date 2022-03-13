@@ -40,10 +40,6 @@ weight = 2
 
 <div class="grille">
 
-<div class=aeronef><h1>Aéronef</h1></div>
-<div class=reportages><h1>Reportages</h1></div>
-<div class=images><h1>Images</h1></div>
-
 <div class="titre_generation">
 <h1>Avions de chasse jets</h1>
 </div>

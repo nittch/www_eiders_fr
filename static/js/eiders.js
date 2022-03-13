@@ -46,6 +46,16 @@ function set_cache(session_key, value)
 //////////////////////////////////
 const k = 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc'
 
+// pour délayer/grouper les requêtes
+let missing_youtube_videos = {};
+let missing_youtube_playlists = {};
+let missing_youtube_channels = {};
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+// première partie : on cherche dans le session cache, sinon on note pour process plus tard (groupé)     //
+// on peut ainsi réduire le nombre de requêtes vers youtube : améliorer la latence et sauver notre quota //
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 // callback appelé de manière asynchrone avec le modèle suivant:
 //   {
 //     title: "titre de la vidéo"
@@ -63,19 +73,11 @@ function get_youtube_video(videoid, callback)
     return;
   }
 
-  $.get('https://www.googleapis.com/youtube/v3/videos',
-    { key: k, id: videoid, part: 'snippet, contentDetails' },
-    function(result) {
-      formatted_result = {
-        title: result.items[0].snippet.title,
-        thumbnail: result.items[0].snippet.thumbnails.default.url,
-        duration: result.items[0].contentDetails.duration,
-      };
-
-      set_cache(session_key, formatted_result);
-
-      callback(formatted_result);
-  }, 'jsonp');
+  // on note videoid, session_key et le callback
+  missing_youtube_videos[videoid] = {
+    session_key: session_key,
+    callback: callback
+  };
 }
 
 // callback appelé de manière asynchrone avec le modèle suivant:
@@ -95,19 +97,11 @@ function get_youtube_playlist(playlistid, callback)
     return;
   }
 
-  $.get('https://www.googleapis.com/youtube/v3/playlists',
-  { key: k, id: playlistid, part: 'snippet, contentDetails' },
-  function(result) {
-    formatted_result = {
-      title: result.items[0].snippet.title,
-      thumbnail: result.items[0].snippet.thumbnails.default.url,
-      nbvideos: result.items[0].contentDetails.itemCount
-    };
-
-    set_cache(session_key, formatted_result);
-
-    callback(formatted_result);
-  }, 'jsonp');
+  // on note playlistid, session_key et le callback
+  missing_youtube_playlists[playlistid] = {
+    session_key: session_key,
+    callback: callback
+  };
 }
 
 // selector: soit 'id', soit 'forUsername'.
@@ -132,23 +126,145 @@ function get_youtube_channel(selector, identifier, callback)
     return;
   }
 
-  let request = {
-    key: k,
-    part: 'snippet'
+  // dans le cas "id" on peut délayer/grouper...
+  if (selector == "id")
+  {
+    // on note identifier, session_key et le callback
+    missing_youtube_channels[identifier] = {
+      session_key: session_key,
+      callback: callback
+    };
+
+    return;
   }
-  request[selector] = identifier
- 
+
+  // dans le cas "forUsername" on ne peut pas grouper... du coup on lance la requête de suite
+  console.log("channels(forUsername): requesting " + identifier);
+
   $.get('https://www.googleapis.com/youtube/v3/channels',
-    request,
+    { key: k, forUsername: identifier, part: 'snippet', fields: "items(snippet(title,thumbnails/default/url))" },
     function(result) {
+      if (result["items"] == null)
+      {
+        console.error("channels(forUsername): " + result.error.message);
+        return;
+      }
       formatted_result = {
         title: result.items[0].snippet.title,
         thumbnail: result.items[0].snippet.thumbnails.default.url
       };
 
       set_cache(session_key, formatted_result);
-
       callback(formatted_result);
+  }, 'jsonp');
+}
+
+////////////////////////////////////////////////////////////////////////////////////////
+// seconde partie, on process tout d'un coup et on rappelle les callbacks pour la vue //
+////////////////////////////////////////////////////////////////////////////////////////
+
+function get_youtube_videos_groupped()
+{
+  if (Object.entries(missing_youtube_videos).length == 0)
+    return;
+
+  console.log("videos: requesting " + Object.keys(missing_youtube_videos));
+
+  $.get('https://www.googleapis.com/youtube/v3/videos',
+    // on join les id
+    { key: k, id: Object.keys(missing_youtube_videos).join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/duration)" },
+    function(result) {
+      if (result["items"] == null)
+      {
+        console.error("videos: " + result.error.message);
+        return;
+      }
+      result.items.forEach(function(entry) {
+        // on retrouve la session_key et le callback originaux
+        let original_context = missing_youtube_videos[entry.id];
+        if (original_context != null)
+        {
+          formatted_result = {
+            title: entry.snippet.title,
+            thumbnail: entry.snippet.thumbnails.default.url,
+            duration: entry.contentDetails.duration,
+          };
+
+          set_cache(original_context.session_key, formatted_result);
+
+          original_context.callback(formatted_result);
+        }
+      });
+
+  }, 'jsonp');
+}
+
+function get_youtube_playlists_groupped()
+{
+  if (Object.entries(missing_youtube_playlists).length == 0)
+    return;
+
+  console.log("playlists: requesting " + Object.keys(missing_youtube_playlists));
+
+  $.get('https://www.googleapis.com/youtube/v3/playlists',
+    // on join les id
+    { key: k, id: Object.keys(missing_youtube_playlists).join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/itemCount)" },
+    function(result) {
+      if (result["items"] == null)
+      {
+        console.error("playlists: " + result.error.message);
+        return;
+      }
+      result.items.forEach(function(entry) {
+        // on retrouve la session_key et le callback originaux
+        let original_context = missing_youtube_playlists[entry.id];
+        if (original_context != null)
+        {
+          formatted_result = {
+            title: entry.snippet.title,
+            thumbnail: entry.snippet.thumbnails.default.url,
+            nbvideos: entry.contentDetails.itemCount
+          };
+
+          set_cache(original_context.session_key, formatted_result);
+          original_context.callback(formatted_result);
+        }
+      });
+
+    }, 'jsonp');
+}
+
+function get_youtube_channel_ids_groupped()
+{
+  if (Object.entries(missing_youtube_channels).length == 0)
+    return;
+
+  console.log("channels(id): requesting " + Object.keys(missing_youtube_channels));
+
+  $.get('https://www.googleapis.com/youtube/v3/channels',
+    // on join les id
+    { key: k, id: Object.keys(missing_youtube_channels).join(','), part: 'snippet', fields: "items(id,snippet(title,thumbnails/default/url))" },
+    function(result) {
+      if (result["items"] == null)
+      {
+        console.error("channels(id): " + result.error.message);
+        return;
+      }
+      result.items.forEach(function(entry) {
+        // on retrouve la session_key et le callback originaux
+        let original_context = missing_youtube_channels[entry.id];
+        if (original_context != null)
+        {
+          formatted_result = {
+            title: entry.snippet.title,
+            thumbnail: entry.snippet.thumbnails.default.url
+          };
+    
+          set_cache(original_context.session_key, formatted_result);
+          original_context.callback(formatted_result);
+        }
+      });
+
   }, 'jsonp');
 }
 

@@ -25,11 +25,11 @@ Dans une autre thématique, il est également possible de diriger des unités au
 
 <div class="contenu"> <!-- olivier gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
-{{< ressource-playlist-youtube "BdFAbaGB7W8" >}}
+{{< ressource-video-youtube "BdFAbaGB7W8" >}}
 </div>
 
 <div class="contenu"> <!-- SUNTSAG ANCIENT GAMER //-->
 {{< canal-youtube "id" "UCnMdglLzp7KBkLiaNiq9N-Q" >}}
-{{< ressource-playlist-youtube "darzgfQpy6s" >}}
+{{< ressource-video-youtube "darzgfQpy6s" >}}
 </div>
 

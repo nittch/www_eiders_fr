@@ -16,57 +16,51 @@ N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen
 </div>
 
 <div class="contenu de_qualite">
+Une documentation en français.
 {{< canal-web "Zedroopy" >}}
 {{< ressource-web "http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen" "AJS-37 Viggen" >}}
-, une documentation en français.
 </div>
 
 <div class="contenu de_qualite"> <!-- TrakDah //-->
+À regarder pour débuter avec l'avion. Commencer par la 5e vidéo de la playlist.
 {{< canal-youtube "id" "UC8HP-JseEuAxWsSXKV-kRCA" >}}
 {{< ressource-playlist-youtube "PLWJWDpfZlqj7nke51THpmZPJdC-z8P1Zk" >}}
-, commencer par la 5e vidéo de la playlist 
 {{< ressource-video-youtube "guDS55EOye0" >}}
-, puis voir les autres vidéos. À regarder pour débuter le Viggen.
 </div>
 
 <div class="contenu"> <!-- Saker chez Spudknocker //-->
+À voir pour débuter et se mettre dans l'ambiance.
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-video-youtube "2s95ZffnXV0" >}}
-, à voir pour débuter.
 {{< ressource-video-youtube "zo2do99MvpM" >}}
-, pour une démo rapide du Viggen.
 {{< ressource-video-youtube "Z8YhmaBAuGE" >}}
-3:36 pour se mettre dans l'ambiance
 </div>
 
 <div class="contenu de_qualite"> <!-- clubby37 //-->
+D'excellents tutos sur le Viggen, à ne pas rater.
 {{< canal-youtube "id" "UCbRpH2t1-IODmoE395IZjwg" >}}
 {{< ressource-playlist-youtube "PL7pn4rQD0F5YnST2SaCl5y90UD15_SHBc" >}}
-, d'excellents tutos sur le Viggen, à ne pas rater.
 </div>
 
 <div class="contenu de_qualite">
+De très bons tutoriels détaillés, principalement sur l'armement.
 {{< canal-web "Leadnap Gaming" >}}
 {{< ressource-playlist-youtube "PLcbf-Ja78Ce61RaPI3quSLgdJVOXszC1w" >}}
-, de très bons tutoriels détaillés, principalement sur l'armement.
 </div>
 
 <div class="contenu">
+Tutoriels en français et en musique. L'usage des armes dans différents cas de figure y est bien détaillé.
 {{< canal-web "Chaosengine EDS" >}}
 {{< ressource-playlist-youtube "PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw" >}}
-, tutoriels en français et en musique. L'usage des armes dans différents cas de figure y est bien détaillé.
 </div>
 
 <div class="contenu">
 {{< canal-youtube "forUsername" "Badjoe117" >}}
 {{< ressource-playlist-youtube "PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh" >}}
-, de nombreux tutos et vidéos de gameplay avec le Viggen, notamment :
-- {{< ressource-video-youtube "1riAGPyHwWg" >}}
-- {{< ressource-video-youtube "ke93SP_jAZs" >}}
-- {{< ressource-video-youtube "Qo7keYwHCDo" >}}
-, des playthrough de missions
+{{< ressource-video-youtube "1riAGPyHwWg" >}}
+{{< ressource-video-youtube "ke93SP_jAZs" >}}
+{{< ressource-video-youtube "Qo7keYwHCDo" >}}
 {{< ressource-video-youtube "OJZuFmVwXmk" >}}
-, une vidéo de gameplay multijoueur démontrant le mécanisme de "roadbase" du Viggen dans DCS
 </div>
 
 <div class="contenu"> <!-- Bunyap Sims //-->

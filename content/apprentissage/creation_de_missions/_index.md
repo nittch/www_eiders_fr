@@ -59,3 +59,6 @@ source       | description
 3rd-wing     | [Evac_Types_Missions](http://server.3rd-wing.net/public/Miroo/doc/Evac_Types_Missions.pdf)
 Forum Eagle  | [Mission Editor TASK/ROLE Resource](https://forums.eagle.ru/topic/67142-mission-editor-taskrole-resource)
 Airgoons     | [Tasking](https://www.airgoons.com/w/Tasking)
+
+## Scripts
+Il est possible d'utiliser des scripts lua pour simplifier la création de mission (MOOSE, MIST, CTLD, Skynet IADS)...

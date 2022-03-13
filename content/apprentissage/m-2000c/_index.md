@@ -26,7 +26,7 @@ weight = 6
 {{< ressource-playlist-youtube "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" >}}
 </div>
 
-<div class="contenu"> <!-- Association VEAF //-->
+<div class="contenu de_qualite"> <!-- Association VEAF //-->
 {{< canal-youtube "id" "UCEF1A_q8Cnw9JLW_Rlig3OQ" >}}
 {{< ressource-playlist-youtube "PLalR1_JFFm_79RbK-8seDMPBrP5IWFD6l" >}}
 </div>

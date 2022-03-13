@@ -8,32 +8,33 @@ weight = 2
     display: grid;
     grid-template-columns: 20% 40% 40%;
   }
+
   .titre_generation {
     grid-column: 1 / 4;
-
-    font-size: xx-large;
-    font-family: sans-serif;
-    font-style: bold;
-
-    text-align: center;
   }
 
   .aeronef {
     grid-column: 1;
 
-    font-size: xx-large;
+    font-size: x-large;
     font-family: sans-serif;
-    font-style: bold;
   }
 
   .reportages {
     grid-column: 2;
 
     background-color: #f9f9f9;
+
+
+    border-style: dotted;
+    border-width: 1px;
   }
 
   .images {
     grid-column: 3;
+
+    border-style: dotted;
+    border-width: 1px;
   }
 </style>
 
@@ -43,22 +44,22 @@ weight = 2
 <div class=reportages><h1>Reportages</h1></div>
 <div class=images><h1>Images</h1></div>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Avions de chasse jets</h1>
 </div>
 <p>Il est commun de classer les jets par <a href=https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat>génération</a>, ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).</p>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Première génération</h1>
 </div>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Seconde génération</h1>
 </div>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Troisième génération</h1>
 </div>
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
@@ -77,7 +78,7 @@ Mirage F1
 {{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
 </div>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Quatrième génération</h1>
 </div>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
@@ -150,7 +151,7 @@ F-16C Fighting Falcon
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
 </div>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Génération 4.5</h1>
 </div>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
@@ -170,7 +171,7 @@ Rafale
 </div>
 
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Cinquième génération</h1>
 </div>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
@@ -182,12 +183,15 @@ SU-57
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
 </div>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Avions d'attaque au sol</h1>
 </div>
 
 <div class="aeronef">
 SU-25, SU-25T
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "raYB4TWh-W4" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "fhNkAuhYI2k" >}}
@@ -214,7 +218,7 @@ AV-8 Harrier
 {{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
 </div>
 
-<div class=titre_generation>
+<div class="titre_generation">
 <h1>Bombardiers</h1>
 </div>
 

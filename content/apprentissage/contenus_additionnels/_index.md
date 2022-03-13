@@ -75,12 +75,12 @@ Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.co
 
 <div class="contenu"> <!-- TheSkyline35 //-->
 {{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
-{{< ressource-video-youtube "XRI36163nGE " >}}
+{{< ressource-video-youtube "XRI36163nGE" >}}
 </div>
 
 <div class="contenu"> <!-- Spudknocker //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
-{{< ressource-video-youtube "Q1nz7bLFQQ0 " >}}
+{{< ressource-video-youtube "Q1nz7bLFQQ0" >}}
 </div>
 
 <div class="contenu">

@@ -52,6 +52,8 @@ Uniform                 | radio UHF/AM
 Victor                  | radio VHF/AM
 Visual                  | "I see you/it" (friendly) / contact visuel sur un aéronef ou une troupe au sol alliée.
 
+## Sources
+
 <div class="contenu">
 {{< canal-hoggitworld >}}
 {{< ressource-web "https://wiki.hoggitworld.com/view/Brevity_List" "Brevity List" >}}

@@ -109,7 +109,7 @@ fiche de conversion de vitesses à imprimer
 <div class="contenu">
 {{< canal-web "Ministère de l'écologie" >}}
 {{< ressource-web "https://www.ecologie.gouv.fr/sites/default/files/LEXIQUE_final.pdf" "Lexique des situations inhabituelles français/anglais" >}}
-), une liste de termes à connaitre pour les pilotes, dans les deux langues
+, une liste de termes à connaitre pour les pilotes, dans les deux langues
 </div>
 
 ## Aviation militaire

@@ -23,7 +23,7 @@ Dans une autre thématique, il est également possible de diriger des unités au
 {{< ressource-playlist-youtube "PL3kOAM2N1YJfs5272P1a-PN_gtergxxu4" >}}
 </div>
 
-<div class="contenu"> <!-- olivier gaming //-->
+<div class="contenu"> <!-- Olivier Gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-video-youtube "BdFAbaGB7W8" >}}
 </div>

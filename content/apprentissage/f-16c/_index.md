@@ -3,7 +3,7 @@ title = "F-16C Viper"
 weight = 9
 +++
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "s86HcDXsg8M" >}}
 </div>
@@ -39,6 +39,11 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PL4a4myRJ63XtpEgvAjYlPru-kFjKquxCK" >}}
 </div>
 
+<div class="contenu"> <!-- Olivier Gaming //-->
+{{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
+{{< ressource-playlist-youtube "PLpbLV3TvMUKyQUWf4GtBKdTkgweZB27YS" >}}
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" >}}
@@ -62,7 +67,7 @@ Principalement sur le F-16.
 
 ## Sur BMS
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "OKL7tjM8uac" >}}
 </div>

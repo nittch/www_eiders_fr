@@ -3,7 +3,7 @@ title = "AV-8B Harrier II"
 weight = 11
 +++
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "FqjUGpGceeI" >}}
 </div>
@@ -13,7 +13,7 @@ weight = 11
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-av-8b-harrier-ii/" "Chuck’s Guides – DCS AV-8B Harrier II" >}}
 </div>
 
-<div class="contenu"> <!-- olivier gaming //-->
+<div class="contenu"> <!-- Olivier Gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKz0sjUDMfPf5Bxx1MQxtmKT" >}}
 </div>

@@ -3,7 +3,7 @@ title = "A-10C Warthog"
 weight = 8
 +++
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "ZXYKJjeXLzE" >}}
 </div>
@@ -13,7 +13,7 @@ weight = 8
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-a-10c-warthog/" "Chuck’s Guides – DCS A-10C Warthog" >}}
 </div>
 
-<div class="contenu"> <!-- hoggitworld //-->
+<div class="contenu"> <!-- Hoggitworld //-->
 {{< canal-hoggitworld >}}
 {{< ressource-web "https://wiki.hoggitworld.com/view/A-10C" "A-10C" >}}
 </div>

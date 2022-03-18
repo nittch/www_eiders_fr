@@ -4,7 +4,7 @@ weight = 4
 +++
 <img src=/apprentissage/su25t_formation2.png width=50% />
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "CJFvlYNIPuQ" >}}
 </div>

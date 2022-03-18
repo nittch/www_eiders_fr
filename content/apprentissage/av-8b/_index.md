@@ -17,3 +17,13 @@ weight = 11
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKz0sjUDMfPf5Bxx1MQxtmKT" >}}
 </div>
+
+<div class="contenu"> <!-- Spudknocker //-->
+{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdbkF8GMh5as36v70H_OnbMcI" >}}
+</div>
+
+<div class="contenu"> <!-- RedKite //-->
+{{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
+{{< ressource-playlist-youtube "PLml_c09ciucvv3CIsWImCEqY5XIdbfPxu" >}}
+</div>

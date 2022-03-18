@@ -3,7 +3,7 @@ title = "Ka-50 Black Shark"
 weight = 15
 +++
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "BYPdOPOV_vw" >}}
 </div>

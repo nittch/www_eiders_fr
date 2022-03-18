@@ -5,7 +5,7 @@ weight = 7
 
 N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen fin 2021. Attention donc aux éventuels changements.
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "GAmMMTbmqXI" >}}
 </div>

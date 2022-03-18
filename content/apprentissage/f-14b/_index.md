@@ -13,3 +13,7 @@ weight = 12
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-14b-tomcat/" "Chuck’s Guides – DCS F-14B Tomcat" >}}
 </div>
 
+<div class="contenu"> <!-- Olivier Gaming //-->
+{{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
+{{< ressource-playlist-youtube "PLpbLV3TvMUKweaNlfW8vZExcyKDl8BSM1" >}}
+</div>

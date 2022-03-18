@@ -3,7 +3,7 @@ title = "F-14 A/B Tomcat"
 weight = 12
 +++
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "K93xlWjBPao" >}}
 </div>

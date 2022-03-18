@@ -5,7 +5,7 @@ weight = 6
 
 <img src=/apprentissage/m2k_soleil.png width=50% />
 
-<div class="contenu"> <!-- le hangar de sklang //-->
+<div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "k5zCa26pjtY" >}}
 {{< ressource-video-youtube "y5Jjcr1s9fo" >}}

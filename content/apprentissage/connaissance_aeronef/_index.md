@@ -72,6 +72,7 @@ Mirage F1
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
+{{< ressource-video-youtube "UnycNFTXXco" >}}
 </div>
 
 <div class="titre_generation">
@@ -113,6 +114,7 @@ Mirage 2000
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "jDCxWEynbu4" >}}
+{{< ressource-video-youtube "bFHF9j_LvPk" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "k-SlLeYRGnE" >}}
@@ -226,3 +228,26 @@ Mirage IV
 </div>
 
 </div>
+
+# Sources
+
+<div class="contenu">
+{{< canal-youtube "id" "UCJ9tHJbCa8ZoMbapfJLy0ZQ" >}} <!-- imineo Documentaires //-->
+{{< ressource-playlist-youtube "PLC4siPTFsziQCo_C47HQhSenISgrXZC07" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCgbepK9hgwOnYiy74Ry2ftg" >}} <!-- Droles de machines //-->
+{{< ressource-playlist-youtube "PLTT3R9By38IvrFAPsdb62Lpy1pIlT7uNt" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCfpUiL59S-XE9Yzme2fiDHA" >}} <!-- Anarkia DOCS Science/Quantique //-->
+{{< ressource-playlist-youtube "PLoTC1KIBEvDk3Xngwc_NB8qhcuKosahAe" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCh8GNIWyTpl5FNNxCEr_aZw" >}} <!-- Meumeu //-->
+{{< ressource-playlist-youtube "PL-UqF43ZYqZSi-aDNte3BOmYll9naPgjU" >}}
+</div>
+

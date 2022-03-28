@@ -20,6 +20,10 @@ weight = 2
     font-family: sans-serif;
   }
 
+  .aeronef > p {
+    color: lightgrey;
+  }
+
   .reportages {
     grid-column: 2;
 
@@ -56,6 +60,22 @@ weight = 2
 </div>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
 
+<div class="aeronef">
+F-104 Starfighter
+<p>1954, mach 2</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "LgPcH0dk-pM" >}}
+</div>
+
+<div class="aeronef">
+F-8 Crusader
+<p>1955, embarqué, voilure à angle de calage variable</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "ExwU1lSUs7Q" >}}
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets troisième génération</h2>
 </div>
@@ -63,6 +83,7 @@ weight = 2
 
 <div class="aeronef">
 Saab 37 Viggen
+<p>1967, delta, canards, inversion de poussée</p>
 </div>
 <div class="reportages">
 {{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
@@ -70,6 +91,7 @@ Saab 37 Viggen
 
 <div class="aeronef">
 Mirage F1                                         
+<p>1966, reconnaissance et attaque</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
@@ -83,6 +105,7 @@ Mirage F1
 
 <div class="aeronef">
 F-15 Eagle
+<p>1972, supériorité aérienne</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}}                
@@ -90,6 +113,7 @@ F-15 Eagle
 
 <div class="aeronef">
 Su-27 Flanker
+<p>1977, supériorité aérienne</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
@@ -100,6 +124,7 @@ Su-27 Flanker
 
 <div class="aeronef">
 Mig-29 Fulcrum
+<p>1977</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "NYsYL1n2xzI" >}}
@@ -112,6 +137,7 @@ Mig-29 Fulcrum
 
 <div class="aeronef">
 Mirage 2000
+<p>1978, delta</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "jDCxWEynbu4" >}}
@@ -126,6 +152,7 @@ Mirage 2000
 
 <div class="aeronef">
 F/A-18 Hornet
+<p>1978, embarqué</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "F61h1Fee9Zw" >}}                          
@@ -139,6 +166,7 @@ F/A-18 Hornet
 
 <div class="aeronef">
 F-16 Fighting Falcon                             
+<p>1974</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ztEONZIFNeQ" >}}
@@ -157,6 +185,7 @@ F-16 Fighting Falcon
 
 <div class="aeronef">
 Eurofighter Typhoon 
+<p>1994</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -164,6 +193,7 @@ Eurofighter Typhoon
 
 <div class="aeronef">
 Rafale              
+<p>1991</p>
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
@@ -177,6 +207,7 @@ Rafale
 
 <div class="aeronef">
 Su-57 Felon
+<p>2010</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
@@ -188,6 +219,7 @@ Su-57 Felon
 
 <div class="aeronef">
 Su-25 Frogfoot
+<p>1975</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "raYB4TWh-W4" >}}
@@ -198,6 +230,7 @@ Su-25 Frogfoot
 
 <div class="aeronef">
 A-10 Warthog
+<p>1972</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
@@ -212,6 +245,7 @@ A-10 Warthog
 
 <div class="aeronef">
 AV-8 Harrier    
+<p>1966, décollage vertical</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
@@ -223,6 +257,7 @@ AV-8 Harrier
 
 <div class="aeronef">
 Mirage IV
+<p>1959, dissuasion nucléaire et renseignement</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "oVU7Ol3fg9c" >}}

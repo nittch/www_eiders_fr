@@ -82,6 +82,7 @@ Mirage III
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DueHCwa8uc8" >}}
+{{< ressource-video-youtube "Gg3Of12mJrU" >}}
 </div>
 
 <div class="titre_generation">
@@ -294,5 +295,10 @@ Mirage IV
 <div class="contenu">
 {{< canal-youtube "id" "UCh8GNIWyTpl5FNNxCEr_aZw" >}} <!-- Meumeu //-->
 {{< ressource-playlist-youtube "PL-UqF43ZYqZSi-aDNte3BOmYll9naPgjU" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UChyLWNeRxc06j_MtDgyFT0Q" >}} <!-- Yataka //-->
+{{< ressource-playlist-youtube "PL-LHjYKc6dyU3nj-aisKbTf5OBezzatLA" >}}
 </div>
 

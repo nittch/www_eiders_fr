@@ -75,7 +75,6 @@ MiG-15 Fagot
 {{< ressource-video-youtube "K9UTQs9GHcg" >}}
 </div>
 
-
 <div class="titre_generation">
 <h2>Chasseurs jets seconde génération</h2>
 </div>
@@ -101,6 +100,14 @@ F-104 Starfighter
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LgPcH0dk-pM" >}}
+</div>
+
+<div class="aeronef">
+F-106 Delta Dart
+<p>1959, intercepteur, mach 2.3</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "QDdD4KPAOR8" >}}
 </div>
 
 <div class="aeronef">

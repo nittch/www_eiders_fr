@@ -104,10 +104,18 @@ F-104 Starfighter
 
 <div class="aeronef">
 F-106 Delta Dart
-<p>1959, intercepteur, mach 2.3</p>
+<p>1959, intercepteur, delta, mach 2.3</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "QDdD4KPAOR8" >}}
+</div>
+
+<div class="aeronef">
+MiG-21 Fishbed
+<p>1960, delta, mach 2</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "FSdcJzgNFHM" >}}
 </div>
 
 <div class="aeronef">

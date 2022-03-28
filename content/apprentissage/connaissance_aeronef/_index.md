@@ -39,24 +39,25 @@ weight = 2
 </style>
 
 <div class="grille">
-
-<div class="titre_generation">
-<h1>Avions de chasse jets</h1>
-</div>
 <p>Il est commun de classer les jets par <a href=https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat>génération</a>, ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).</p>
 
 <div class="titre_generation">
-<h1>Première génération</h1>
+<h1>Vieux coucous (Warbirds)</h1>
+</div>
+<p>1935-1952 : avions militaires à hélices.</p>
+
+<div class="titre_generation">
+<h1>Chasseurs jets première génération</h1>
 </div>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
 
 <div class="titre_generation">
-<h1>Seconde génération</h1>
+<h1>Chasseurs jets seconde génération</h1>
 </div>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
 
 <div class="titre_generation">
-<h1>Troisième génération</h1>
+<h1>Chasseurs jets troisième génération</h1>
 </div>
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 
@@ -76,7 +77,7 @@ Mirage F1
 </div>
 
 <div class="titre_generation">
-<h1>Quatrième génération</h1>
+<h1>Chasseurs jets quatrième génération</h1>
 </div>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
 
@@ -150,7 +151,7 @@ F-16 Fighting Falcon
 </div>
 
 <div class="titre_generation">
-<h1>Génération 4.5</h1>
+<h1>Chasseurs jets génération 4.5</h1>
 </div>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
 
@@ -170,7 +171,7 @@ Rafale
 
 
 <div class="titre_generation">
-<h1>Cinquième génération</h1>
+<h1>Chasseurs jets cinquième génération</h1>
 </div>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
 

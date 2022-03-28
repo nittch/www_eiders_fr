@@ -83,8 +83,6 @@ MiG-15 Fagot
 <!-- MiG-19 //-->
 <!-- F-102 //-->
 <!-- F-105 //-->
-<!-- F-106 //-->
-<!-- MiG-21 //-->
 
 <div class="aeronef">
 F-8 Crusader
@@ -111,6 +109,14 @@ F-106 Delta Dart
 </div>
 
 <div class="aeronef">
+Su-9 Fishpof
+<p>1959, intercepteur, delta, mach 2</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "lQd684FwTRk" >}}
+</div>
+
+<div class="aeronef">
 MiG-21 Fishbed
 <p>1960, delta, mach 2</p>
 </div>
@@ -133,11 +139,25 @@ Mirage III
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 
 <!-- F4 //-->
-<!-- F5 //-->
-<!-- MiG-23 //-->
 
 <div class="aeronef">
-MiG-25
+F-5 Freedom Fighter
+<p>1964, chasse et attaque</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "2nWrScjSZ6g" >}}
+</div>
+
+<div class="aeronef">
+MiG-23 Flogger
+<p>1970, géométrie variable</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "zrLFrQsomAs" >}}
+</div>
+
+<div class="aeronef">
+MiG-25 Foxbat
 <p>1972, interception et reconnaissance, mach 3</p>
 </div>
 <div class="reportages">

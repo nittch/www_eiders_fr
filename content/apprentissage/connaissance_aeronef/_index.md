@@ -91,20 +91,20 @@ Mirage III
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 
 <div class="aeronef">
-Saab 37 Viggen
-<p>1967, delta, canards, inversion de poussée</p>
-</div>
-<div class="reportages">
-{{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
-</div>
-
-<div class="aeronef">
 Mirage F1                                         
 <p>1966, reconnaissance et attaque</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
 {{< ressource-video-youtube "UnycNFTXXco" >}}
+</div>
+
+<div class="aeronef">
+Saab 37 Viggen
+<p>1967, delta, canards, inversion de poussée</p>
+</div>
+<div class="reportages">
+{{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
 </div>
 
 <div class="titre_generation">
@@ -118,6 +118,20 @@ F-15 Eagle
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}}                
+</div>
+
+<div class="aeronef">
+F-16 Fighting Falcon                             
+<p>1974</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "ztEONZIFNeQ" >}}
+{{< ressource-video-youtube "W1ILwzgkCXk" >}} 
+</div>
+<div class="images">
+{{< ressource-video-youtube "m06uWM_tABM" >}}
+{{< ressource-video-youtube "tdczvix3EiE" >}}
+{{< ressource-video-youtube "C-WgHooZ7-Y" >}}
 </div>
 
 <div class="aeronef">
@@ -173,32 +187,10 @@ F/A-18 Hornet
 {{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
 </div>
 
-<div class="aeronef">
-F-16 Fighting Falcon                             
-<p>1974</p>
-</div>
-<div class="reportages">
-{{< ressource-video-youtube "ztEONZIFNeQ" >}}
-{{< ressource-video-youtube "W1ILwzgkCXk" >}} 
-</div>
-<div class="images">
-{{< ressource-video-youtube "m06uWM_tABM" >}}
-{{< ressource-video-youtube "tdczvix3EiE" >}}
-{{< ressource-video-youtube "C-WgHooZ7-Y" >}}
-</div>
-
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
 </div>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
-
-<div class="aeronef">
-Eurofighter Typhoon 
-<p>1994, delta, canards</p>
-</div>
-<div class="images">
-{{< ressource-video-youtube "U45UyriEtZI" >}}
-</div>
 
 <div class="aeronef">
 Rafale              
@@ -208,6 +200,13 @@ Rafale
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
 </div>
 
+<div class="aeronef">
+Eurofighter Typhoon 
+<p>1994, delta, canards</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "U45UyriEtZI" >}}
+</div>
 
 <div class="titre_generation">
 <h2>Chasseurs jets cinquième génération</h2>
@@ -227,14 +226,11 @@ Su-57 Felon
 </div>
 
 <div class="aeronef">
-Su-25 Frogfoot
-<p>1975</p>
+Harrier
+<p>1966, embarqué, décollage vertical</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "raYB4TWh-W4" >}}
-</div>
-<div class="images">
-{{< ressource-video-youtube "fhNkAuhYI2k" >}}
+{{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
 </div>
 
 <div class="aeronef">
@@ -253,11 +249,14 @@ A-10 Warthog
 </div>
 
 <div class="aeronef">
-Harrier
-<p>1966, embarqué, décollage vertical</p>
+Su-25 Frogfoot
+<p>1975</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
+{{< ressource-video-youtube "raYB4TWh-W4" >}}
+</div>
+<div class="images">
+{{< ressource-video-youtube "fhNkAuhYI2k" >}}
 </div>
 
 <div class="titre_generation">

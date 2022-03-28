@@ -49,36 +49,63 @@ weight = 2
 <h2>Vieux coucous (Warbirds)</h2>
 </div>
 <p>1935-1952 : avions militaires à hélices.</p>
+<!-- P47D Thunderbolt //-->
+<!-- P51D Mustang //-->
+<!-- Fw 190 //-->
+<!-- Spitfire //-->
+<!-- Bf 109 //-->
+<!-- F4U Corsair //-->
+<!-- Hawker Tempest //-->
 
 <div class="titre_generation">
 <h2>Chasseurs jets première génération</h2>
 </div>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
 
+<!-- Me 262 //-->
+<!-- F-84 //-->
+<!-- F-86 //-->
+<!-- Meteor //-->
+
+<div class="aeronef">
+MiG-15 Fagot
+<p>1948</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "K9UTQs9GHcg" >}}
+</div>
+
+
 <div class="titre_generation">
 <h2>Chasseurs jets seconde génération</h2>
 </div>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
 
-<div class="aeronef">
-F-104 Starfighter
-<p>1954, mach 2</p>
-</div>
-<div class="reportages">
-{{< ressource-video-youtube "LgPcH0dk-pM" >}}
-</div>
+<!-- MiG-19 //-->
+<!-- F-102 //-->
+<!-- F-105 //-->
+<!-- F-106 //-->
+<!-- MiG-21 //-->
 
 <div class="aeronef">
 F-8 Crusader
-<p>1955, embarqué, voilure à angle de calage variable</p>
+<p>1957, embarqué, voilure à angle de calage variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ExwU1lSUs7Q" >}}
 </div>
 
 <div class="aeronef">
+F-104 Starfighter
+<p>1958, mach 2</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "LgPcH0dk-pM" >}}
+</div>
+
+<div class="aeronef">
 Mirage III
-<p>1956, delta, mach 2</p>
+<p>1961, delta, mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DueHCwa8uc8" >}}
@@ -90,21 +117,36 @@ Mirage III
 </div>
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 
+<!-- F4 //-->
+<!-- F5 //-->
+<!-- MiG-23 //-->
+
 <div class="aeronef">
-Mirage F1                                         
-<p>1966, reconnaissance et attaque</p>
+MiG-25
+<p>1972, interception et reconnaissance, mach 3</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
-{{< ressource-video-youtube "UnycNFTXXco" >}}
+{{< ressource-video-youtube "CgAeLkgkZBE" >}}
+</div>
+<div class="videos">
+{{< ressource-video-youtube "fRjKKfzdRlo" >}}
 </div>
 
 <div class="aeronef">
 Saab 37 Viggen
-<p>1967, delta, canards, inversion de poussée</p>
+<p>1972, delta, canards, inversion de poussée</p>
 </div>
 <div class="reportages">
 {{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
+</div>
+
+<div class="aeronef">
+Mirage F1                                         
+<p>1973, reconnaissance et attaque</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
+{{< ressource-video-youtube "UnycNFTXXco" >}}
 </div>
 
 <div class="titre_generation">
@@ -112,9 +154,14 @@ Saab 37 Viggen
 </div>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
 
+<!-- F-14 //-->
+<!-- Panavia Tornado //-->
+<!-- F15E //-->
+<!-- Su-34 //-->
+
 <div class="aeronef">
 F-15 Eagle
-<p>1972, supériorité aérienne</p>
+<p>1976, supériorité aérienne</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}}                
@@ -122,7 +169,7 @@ F-15 Eagle
 
 <div class="aeronef">
 F-16 Fighting Falcon                             
-<p>1974</p>
+<p>1978</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ztEONZIFNeQ" >}}
@@ -135,19 +182,8 @@ F-16 Fighting Falcon
 </div>
 
 <div class="aeronef">
-Su-27 Flanker
-<p>1977, supériorité aérienne</p>
-</div>
-<div class="reportages">
-{{< ressource-video-youtube "yZvMljUNCeU" >}}
-</div>
-<div class="images">
-{{< ressource-video-youtube "fTzCnolXsnM" >}}
-</div>
-
-<div class="aeronef">
 Mig-29 Fulcrum
-<p>1977</p>
+<p>1983</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "NYsYL1n2xzI" >}}
@@ -159,8 +195,22 @@ Mig-29 Fulcrum
 </div>
 
 <div class="aeronef">
+F/A-18 Hornet
+<p>1983, embarqué</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "F61h1Fee9Zw" >}}                          
+</div>
+<div class="images">
+{{< ressource-playlist-youtube "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}}
+{{< ressource-playlist-youtube "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" >}}
+{{< ressource-video-youtube "JYUm5Nl6318" >}}
+{{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
+</div>
+
+<div class="aeronef">
 Mirage 2000
-<p>1978, delta</p>
+<p>1984, delta</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "jDCxWEynbu4" >}}
@@ -174,17 +224,14 @@ Mirage 2000
 </div>
 
 <div class="aeronef">
-F/A-18 Hornet
-<p>1978, embarqué</p>
+Su-27 Flanker
+<p>1985, supériorité aérienne</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "F61h1Fee9Zw" >}}                          
+{{< ressource-video-youtube "yZvMljUNCeU" >}}
 </div>
 <div class="images">
-{{< ressource-playlist-youtube "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}}
-{{< ressource-playlist-youtube "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" >}}
-{{< ressource-video-youtube "JYUm5Nl6318" >}}
-{{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
+{{< ressource-video-youtube "fTzCnolXsnM" >}}
 </div>
 
 <div class="titre_generation">
@@ -192,9 +239,15 @@ F/A-18 Hornet
 </div>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
 
+<!-- Su-30 //-->
+<!-- Saab Gripen //-->
+<!-- F/A-18E/F //-->
+<!-- Su-35 //-->
+<!-- MiG-35 //-->
+
 <div class="aeronef">
 Rafale              
-<p>1991, delta, canards</p>
+<p>2002, delta, canards</p>
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
@@ -202,7 +255,7 @@ Rafale
 
 <div class="aeronef">
 Eurofighter Typhoon 
-<p>1994, delta, canards</p>
+<p>2004, delta, canards</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -213,9 +266,12 @@ Eurofighter Typhoon
 </div>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
 
+<!-- F-22 //-->
+<!-- F-35 //-->
+
 <div class="aeronef">
 Su-57 Felon
-<p>2010</p>
+<p>2020</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
@@ -227,7 +283,7 @@ Su-57 Felon
 
 <div class="aeronef">
 Harrier
-<p>1966, embarqué, décollage vertical</p>
+<p>1969, embarqué, décollage vertical</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
@@ -235,7 +291,7 @@ Harrier
 
 <div class="aeronef">
 A-10 Warthog
-<p>1972</p>
+<p>1975</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
@@ -250,7 +306,7 @@ A-10 Warthog
 
 <div class="aeronef">
 Su-25 Frogfoot
-<p>1975</p>
+<p>1981</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "raYB4TWh-W4" >}}
@@ -265,7 +321,7 @@ Su-25 Frogfoot
 
 <div class="aeronef">
 Mirage IV
-<p>1959, dissuasion nucléaire et reconnaissance</p>
+<p>1964, dissuasion nucléaire et reconnaissance</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "oVU7Ol3fg9c" >}}
@@ -276,28 +332,23 @@ Mirage IV
 # Sources
 
 <div class="contenu">
-{{< canal-youtube "id" "UCJ9tHJbCa8ZoMbapfJLy0ZQ" >}} <!-- imineo Documentaires //-->
-{{< ressource-playlist-youtube "PLC4siPTFsziQCo_C47HQhSenISgrXZC07" >}}
-{{< ressource-playlist-youtube "PLs4hJjnTBQLo9eQFXL94h4voK9SzD4xNR" >}} <!-- Autre chaine (Documentaire Aviation), mais toujours Imineo... //-->
-</div>
-
-<div class="contenu">
 {{< canal-youtube "id" "UCgbepK9hgwOnYiy74Ry2ftg" >}} <!-- Droles de machines //-->
 {{< ressource-playlist-youtube "PLTT3R9By38IvrFAPsdb62Lpy1pIlT7uNt" >}}
 </div>
 
 <div class="contenu">
-{{< canal-youtube "id" "UCfpUiL59S-XE9Yzme2fiDHA" >}} <!-- Anarkia DOCS Science/Quantique //-->
-{{< ressource-playlist-youtube "PLoTC1KIBEvDk3Xngwc_NB8qhcuKosahAe" >}}
-</div>
-
-<div class="contenu">
-{{< canal-youtube "id" "UCh8GNIWyTpl5FNNxCEr_aZw" >}} <!-- Meumeu //-->
-{{< ressource-playlist-youtube "PL-UqF43ZYqZSi-aDNte3BOmYll9naPgjU" >}}
-</div>
-
-<div class="contenu">
 {{< canal-youtube "id" "UChyLWNeRxc06j_MtDgyFT0Q" >}} <!-- Yataka //-->
 {{< ressource-playlist-youtube "PL-LHjYKc6dyU3nj-aisKbTf5OBezzatLA" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCJ9tHJbCa8ZoMbapfJLy0ZQ" >}} <!-- imineo Documentaires //-->
+{{< ressource-playlist-youtube "PLs4hJjnTBQLo9eQFXL94h4voK9SzD4xNR" >}} <!-- Autre chaine (Documentaire Aviation), mais toujours Imineo... //-->
+{{< ressource-playlist-youtube "PLC4siPTFsziQCo_C47HQhSenISgrXZC07" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCfpUiL59S-XE9Yzme2fiDHA" >}} <!-- Anarkia DOCS Science/Quantique //-->
+{{< ressource-playlist-youtube "PLoTC1KIBEvDk3Xngwc_NB8qhcuKosahAe" >}}
 </div>
 

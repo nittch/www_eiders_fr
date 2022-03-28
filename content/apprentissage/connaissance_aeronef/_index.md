@@ -42,22 +42,22 @@ weight = 2
 <p>Il est commun de classer les jets par <a href=https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat>génération</a>, ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).</p>
 
 <div class="titre_generation">
-<h1>Vieux coucous (Warbirds)</h1>
+<h2>Vieux coucous (Warbirds)</h2>
 </div>
 <p>1935-1952 : avions militaires à hélices.</p>
 
 <div class="titre_generation">
-<h1>Chasseurs jets première génération</h1>
+<h2>Chasseurs jets première génération</h2>
 </div>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
 
 <div class="titre_generation">
-<h1>Chasseurs jets seconde génération</h1>
+<h2>Chasseurs jets seconde génération</h2>
 </div>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
 
 <div class="titre_generation">
-<h1>Chasseurs jets troisième génération</h1>
+<h2>Chasseurs jets troisième génération</h2>
 </div>
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 
@@ -77,7 +77,7 @@ Mirage F1
 </div>
 
 <div class="titre_generation">
-<h1>Chasseurs jets quatrième génération</h1>
+<h2>Chasseurs jets quatrième génération</h2>
 </div>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
 
@@ -151,7 +151,7 @@ F-16 Fighting Falcon
 </div>
 
 <div class="titre_generation">
-<h1>Chasseurs jets génération 4.5</h1>
+<h2>Chasseurs jets génération 4.5</h2>
 </div>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
 
@@ -171,7 +171,7 @@ Rafale
 
 
 <div class="titre_generation">
-<h1>Chasseurs jets cinquième génération</h1>
+<h2>Chasseurs jets cinquième génération</h2>
 </div>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
 
@@ -183,7 +183,7 @@ Su-57 Felon
 </div>
 
 <div class="titre_generation">
-<h1>Avions d'attaque au sol</h1>
+<h2>Avions d'attaque au sol</h2>
 </div>
 
 <div class="aeronef">
@@ -218,7 +218,7 @@ AV-8 Harrier
 </div>
 
 <div class="titre_generation">
-<h1>Bombardiers</h1>
+<h2>Bombardiers</h2>
 </div>
 
 <div class="aeronef">

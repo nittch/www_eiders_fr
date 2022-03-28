@@ -76,6 +76,14 @@ F-8 Crusader
 {{< ressource-video-youtube "ExwU1lSUs7Q" >}}
 </div>
 
+<div class="aeronef">
+Mirage III
+<p>1956, delta, mach 2</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "DueHCwa8uc8" >}}
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets troisième génération</h2>
 </div>
@@ -185,7 +193,7 @@ F-16 Fighting Falcon
 
 <div class="aeronef">
 Eurofighter Typhoon 
-<p>1994</p>
+<p>1994, delta, canards</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -193,7 +201,7 @@ Eurofighter Typhoon
 
 <div class="aeronef">
 Rafale              
-<p>1991</p>
+<p>1991, delta, canards</p>
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
@@ -244,8 +252,8 @@ A-10 Warthog
 </div>
 
 <div class="aeronef">
-AV-8 Harrier    
-<p>1966, décollage vertical</p>
+Harrier
+<p>1966, embarqué, décollage vertical</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
@@ -257,7 +265,7 @@ AV-8 Harrier
 
 <div class="aeronef">
 Mirage IV
-<p>1959, dissuasion nucléaire et renseignement</p>
+<p>1959, dissuasion nucléaire et reconnaissance</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "oVU7Ol3fg9c" >}}

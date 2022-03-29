@@ -233,7 +233,7 @@ Mirage F1
 
 <div class="aeronef">
 F-15 Eagle
-<p>1976, supériorité aérienne</p>
+<p>1976, chasseur lourd, supériorité aérienne</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}}                
@@ -254,8 +254,8 @@ F-16 Fighting Falcon
 </div>
 
 <div class="aeronef">
-Mig-29 Fulcrum
-<p>1983</p>
+MiG-29 Fulcrum
+<p>1983, super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "NYsYL1n2xzI" >}}
@@ -297,13 +297,15 @@ Mirage 2000
 
 <div class="aeronef">
 Su-27 Flanker
-<p>1985, supériorité aérienne, super-manoeuvrant</p>
+<p>1985, chasseur lourd, supériorité aérienne, super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "fTzCnolXsnM" >}}
+{{< ressource-video-youtube "daOPK07baBw" >}}
+{{< ressource-video-youtube "MtlLVexLfrQ" >}}
 </div>
 
 <div class="titre_generation">
@@ -311,15 +313,15 @@ Su-27 Flanker
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
 </div>
 
-<!-- Su-30 //-->
-<!-- Saab Gripen //-->
+<!-- Su-30, supermanoeuv //-->
+<!-- Saab Gripen , supermanoeuv//-->
 <!-- F/A-18E/F //-->
-<!-- Su-35 //-->
-<!-- MiG-35 //-->
+<!-- Su-35 , supermanoeuv//-->
+<!-- MiG-35 , supermanoeuv//-->
 
 <div class="aeronef">
 Rafale              
-<p>2002, embarqué, delta, canards</p>
+<p>2002, embarqué, delta, super-manœuvrabilité (canards)</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LAfdmC32Xk0" >}}
@@ -332,7 +334,7 @@ Rafale
 
 <div class="aeronef">
 Eurofighter Typhoon 
-<p>2004, intercepteur, delta, canards</p>
+<p>2004, intercepteur, delta, super-manœuvrabilité (canards)</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -347,7 +349,7 @@ Eurofighter Typhoon
 
 <div class="aeronef">
 F-22 Raptor
-<p>2005, furtif, supériorité aérienne</p>
+<p>2005, furtif, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
 </div>
 <div class="images">
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
@@ -355,7 +357,7 @@ F-22 Raptor
 
 <div class="aeronef">
 Su-57 Felon
-<p>2020, furtif, supériorité aérienne</p>
+<p>2020, furtif, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
@@ -460,4 +462,9 @@ Mirage IV
 <div class="contenu">
 {{< canal-youtube "id" "UC3MJVwoumJMTqCe9IaEhtiw" >}} <!-- La 2de Guerre Mondiale //-->
 {{< ressource-playlist-youtube "PLBqIsAkFb7pzJJ6hm7guONOoRfFL1txH4" >}}
+</div>
+
+<div class="contenu">
+{{< canal-web "Wikipedia" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" >}}
 </div>

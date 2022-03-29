@@ -24,6 +24,14 @@ weight = 2
     color: lightgrey;
   }
 
+  .avec_module_dcs {
+    border-style: dashed;
+    border-color: red;
+    border-width: 2px;
+
+    padding: 5px;
+  }
+
   .reportages {
     grid-column: 2;
 
@@ -61,7 +69,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Mosquito //-->
 <!-- gruman wildcat et hellcat //-->
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 Messerschmitt Bf 109
 <p>1937</p>
 </div>
@@ -85,7 +93,7 @@ P-38 Lightning
 {{< ressource-video-youtube "V3ZEiCpdxf8" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 P-47 Thunderbolt
 <p>1942, chasseur lourd</p>
 </div>
@@ -104,7 +112,7 @@ P-47 Thunderbolt
 <!-- Meteor //-->
 <!-- P80 //-->
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 MiG-15 Fagot
 <p>1948</p>
 </div>
@@ -153,7 +161,7 @@ Su-9 Fishpof
 {{< ressource-video-youtube "lQd684FwTRk" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 MiG-21 Fishbed
 <p>1960, delta, mach 2</p>
 </div>
@@ -177,7 +185,7 @@ Mirage III
 
 <!-- F4 //-->
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 F-5 Freedom Fighter
 <p>1964, chasse et attaque</p>
 </div>
@@ -204,7 +212,7 @@ MiG-25 Foxbat
 {{< ressource-video-youtube "fRjKKfzdRlo" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 Saab 37 Viggen
 <p>1972, delta, canards, inversion de poussée</p>
 </div>
@@ -231,7 +239,7 @@ Mirage F1
 <!-- F15E //-->
 <!-- Su-34 //-->
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 F-15 Eagle
 <p>1976, chasseur lourd, supériorité aérienne</p>
 </div>
@@ -239,7 +247,7 @@ F-15 Eagle
 {{< ressource-video-youtube "0DmjlubOn1g" >}}                
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 F-16 Fighting Falcon                             
 <p>1978</p>
 </div>
@@ -253,7 +261,7 @@ F-16 Fighting Falcon
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 MiG-29 Fulcrum
 <p>1983, super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
@@ -266,7 +274,7 @@ MiG-29 Fulcrum
 {{< ressource-video-youtube "xzwL_6NuEls" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 F/A-18 Hornet
 <p>1983, embarqué</p>
 </div>
@@ -280,7 +288,7 @@ F/A-18 Hornet
 {{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 Mirage 2000
 <p>1984, delta</p>
 </div>
@@ -295,7 +303,7 @@ Mirage 2000
 {{< ressource-video-youtube "QrQxJSRSZAU" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 Su-27 Flanker
 <p>1985, chasseur lourd, supériorité aérienne, super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
@@ -398,7 +406,7 @@ Ju 87 Stuka
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 Harrier
 <p>1969, embarqué, décollage vertical</p>
 </div>
@@ -406,7 +414,7 @@ Harrier
 {{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 A-10 Warthog
 <p>1975</p>
 </div>
@@ -422,7 +430,7 @@ A-10 Warthog
 {{< ressource-video-youtube "N60WtGC4ejo" >}}
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 Su-25 Frogfoot
 <p>1981</p>
 </div>

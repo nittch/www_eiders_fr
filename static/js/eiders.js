@@ -44,7 +44,8 @@ function set_cache(session_key, value)
 //////////////////////////////////
 // UTILISATION DE L'API YOUTUBE //
 //////////////////////////////////
-const k = 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc'
+const k = 'AIzaSyC5UT9H9iVrP1UHv7eEcISsqc-aqjvUBuc';
+const max_elt_by_request = 50;
 
 // pour délayer/grouper les requêtes
 let missing_youtube_videos = {};
@@ -168,35 +169,38 @@ function get_youtube_videos_groupped()
   if (Object.entries(missing_youtube_videos).length == 0)
     return;
 
-  console.log("videos: requesting " + Object.keys(missing_youtube_videos));
+  for (let step = 0; step < Object.entries(missing_youtube_videos).length; step += max_elt_by_request) {
+    var sub_request = Object.keys(missing_youtube_videos).slice(step, step + max_elt_by_request);
+    console.log("videos: requesting " + sub_request);
 
-  $.get('https://www.googleapis.com/youtube/v3/videos',
-    // on join les id
-    { key: k, id: Object.keys(missing_youtube_videos).join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/duration)" },
-    function(result) {
-      if (result["items"] == null)
-      {
-        console.error("videos: " + result.error.message);
-        return;
-      }
-      result.items.forEach(function(entry) {
-        // on retrouve la session_key et le callback originaux
-        let original_context = missing_youtube_videos[entry.id];
-        if (original_context != null)
+    $.get('https://www.googleapis.com/youtube/v3/videos',
+      // on join les id
+      { key: k, id: sub_request.join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/duration)" },
+      function(result) {
+        if (result["items"] == null)
         {
-          formatted_result = {
-            title: entry.snippet.title,
-            thumbnail: entry.snippet.thumbnails.default.url,
-            duration: entry.contentDetails.duration,
-          };
-
-          set_cache(original_context.session_key, formatted_result);
-
-          original_context.callback(formatted_result);
+          console.error("videos: " + result.error.message);
+          return;
         }
-      });
+        result.items.forEach(function(entry) {
+          // on retrouve la session_key et le callback originaux
+          let original_context = missing_youtube_videos[entry.id];
+          if (original_context != null)
+          {
+            formatted_result = {
+              title: entry.snippet.title,
+              thumbnail: entry.snippet.thumbnails.default.url,
+              duration: entry.contentDetails.duration,
+            };
 
-  }, 'jsonp');
+            set_cache(original_context.session_key, formatted_result);
+
+            original_context.callback(formatted_result);
+          }
+        });
+
+    }, 'jsonp');
+  }
 }
 
 function get_youtube_playlists_groupped()
@@ -204,34 +208,37 @@ function get_youtube_playlists_groupped()
   if (Object.entries(missing_youtube_playlists).length == 0)
     return;
 
-  console.log("playlists: requesting " + Object.keys(missing_youtube_playlists));
-
-  $.get('https://www.googleapis.com/youtube/v3/playlists',
-    // on join les id
-    { key: k, id: Object.keys(missing_youtube_playlists).join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/itemCount)" },
-    function(result) {
-      if (result["items"] == null)
-      {
-        console.error("playlists: " + result.error.message);
-        return;
-      }
-      result.items.forEach(function(entry) {
-        // on retrouve la session_key et le callback originaux
-        let original_context = missing_youtube_playlists[entry.id];
-        if (original_context != null)
+  for (let step = 0; step < Object.entries(missing_youtube_playlists).length; step += max_elt_by_request) {
+    var sub_request = Object.keys(missing_youtube_playlists).slice(step, step + max_elt_by_request);
+    console.log("playlists: requesting " + sub_request);
+  
+    $.get('https://www.googleapis.com/youtube/v3/playlists',
+      // on join les id
+      { key: k, id: sub_request.join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/itemCount)" },
+      function(result) {
+        if (result["items"] == null)
         {
-          formatted_result = {
-            title: entry.snippet.title,
-            thumbnail: entry.snippet.thumbnails.default.url,
-            nbvideos: entry.contentDetails.itemCount
-          };
-
-          set_cache(original_context.session_key, formatted_result);
-          original_context.callback(formatted_result);
+          console.error("playlists: " + result.error.message);
+          return;
         }
-      });
-
-    }, 'jsonp');
+        result.items.forEach(function(entry) {
+          // on retrouve la session_key et le callback originaux
+          let original_context = missing_youtube_playlists[entry.id];
+          if (original_context != null)
+          {
+            formatted_result = {
+              title: entry.snippet.title,
+              thumbnail: entry.snippet.thumbnails.default.url,
+              nbvideos: entry.contentDetails.itemCount
+            };
+  
+            set_cache(original_context.session_key, formatted_result);
+            original_context.callback(formatted_result);
+          }
+        });
+  
+      }, 'jsonp');
+    }
 }
 
 function get_youtube_channel_ids_groupped()
@@ -239,32 +246,35 @@ function get_youtube_channel_ids_groupped()
   if (Object.entries(missing_youtube_channels).length == 0)
     return;
 
-  console.log("channels(id): requesting " + Object.keys(missing_youtube_channels));
+  for (let step = 0; step < Object.entries(missing_youtube_channels).length; step += max_elt_by_request) {
+    var sub_request = Object.keys(missing_youtube_channels).slice(step, step + max_elt_by_request);
+    console.log("channels(id): requesting " + sub_request);
 
-  $.get('https://www.googleapis.com/youtube/v3/channels',
-    // on join les id
-    { key: k, id: Object.keys(missing_youtube_channels).join(','), part: 'snippet', fields: "items(id,snippet(title,thumbnails/default/url))" },
-    function(result) {
-      if (result["items"] == null)
-      {
-        console.error("channels(id): " + result.error.message);
-        return;
-      }
-      result.items.forEach(function(entry) {
-        // on retrouve la session_key et le callback originaux
-        let original_context = missing_youtube_channels[entry.id];
-        if (original_context != null)
+    $.get('https://www.googleapis.com/youtube/v3/channels',
+      // on join les id
+      { key: k, id: sub_request.join(','), part: 'snippet', fields: "items(id,snippet(title,thumbnails/default/url))" },
+      function(result) {
+        if (result["items"] == null)
         {
-          formatted_result = {
-            title: entry.snippet.title,
-            thumbnail: entry.snippet.thumbnails.default.url
-          };
-    
-          set_cache(original_context.session_key, formatted_result);
-          original_context.callback(formatted_result);
+          console.error("channels(id): " + result.error.message);
+          return;
         }
-      });
+        result.items.forEach(function(entry) {
+          // on retrouve la session_key et le callback originaux
+          let original_context = missing_youtube_channels[entry.id];
+          if (original_context != null)
+          {
+            formatted_result = {
+              title: entry.snippet.title,
+              thumbnail: entry.snippet.thumbnails.default.url
+            };
+      
+            set_cache(original_context.session_key, formatted_result);
+            original_context.callback(formatted_result);
+          }
+        });
 
-  }, 'jsonp');
+    }, 'jsonp');
+  }
 }
 

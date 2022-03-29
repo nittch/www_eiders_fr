@@ -16,7 +16,6 @@ weight = 2
   .aeronef {
     grid-column: 1;
 
-    font-size: x-large;
     font-family: sans-serif;
   }
 

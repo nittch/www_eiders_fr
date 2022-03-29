@@ -59,22 +59,25 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>1935-1952 : avions militaires à hélices.</p>
 </div>
 
-<!-- P51D Mustang //-->
-<!-- Fw 190 , lourd ?//-->
-<!-- Spitfire //-->
-<!-- F4U Corsair //-->
-<!-- Hawker Tempest //-->
-<!-- Hawker Typhoon //-->
-<!-- Hawker hurricane, lourd ? //-->
-<!-- Mosquito //-->
-<!-- gruman wildcat et hellcat //-->
-
 <div class="aeronef avec_module_dcs">
 Messerschmitt Bf 109
 <p>1937</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LfklgwVE0TA" >}}
+</div>
+
+<div class="aeronef">
+Hawker Hurricane
+<p>1937</p>
+</div>
+
+<div class="aeronef avec_module_dcs">
+Supermarine Spitfire
+<p>1938</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "hgI4Y8yTpds" >}}
 </div>
 
 <div class="aeronef">
@@ -86,11 +89,31 @@ Mitsubishi A6M Zéro
 </div>
 
 <div class="aeronef">
+Grumman F4F Wildcat
+<p>1940, embarqué</p>
+</div>
+
+<div class="aeronef">
 P-38 Lightning
 <p>1941, chasseur lourd, bimoteur bipoutre, long rayon d'action</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "V3ZEiCpdxf8" >}}
+</div>
+
+<div class="aeronef avec_module_dcs">
+Fw 190
+<p>1941, chasseur bombardier lourd</p>
+</div>
+
+<div class="aeronef avec_module_dcs">
+Mosquito
+<p>1941, furtif car en bois</p>
+</div>
+
+<div class="aeronef">
+Hawker Typhoon
+<p>1941</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -101,16 +124,53 @@ P-47 Thunderbolt
 {{< ressource-video-youtube "tsyOuQcjVmg" >}}
 </div>
 
+<div class="aeronef avec_module_dcs">
+P-51 Mustang
+<p>1942, très long rayon d'action</p>
+</div>
+
+<div class="aeronef">
+F4U Corsair
+<p>1942, embarqué</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "uiGvpu7WXhI" >}}
+</div>
+
+<div class="aeronef">
+Grumman F6F Hellcat
+<p>1943, embarqué</p>
+</div>
+
+<div class="aeronef">
+Hawker Tempest
+<p>1944, chasseur bombardier</p>
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets première génération</h2>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
 </div>
 
-<!-- Me 262 //-->
-<!-- F-84 //-->
-<!-- F-86 //-->
-<!-- Meteor //-->
-<!-- P80 //-->
+<div class="aeronef">
+Messerschmitt 262
+<p>1944</p>
+</div>
+
+<div class="aeronef">
+Gloster Meteor
+<p>1944</p>
+</div>
+
+<div class="aeronef">
+P-80 Shooting Star
+<p>1945</p>
+</div>
+
+<div class="aeronef">
+F-84 Thunderjet
+<p>1947</p>
+</div>
 
 <div class="aeronef avec_module_dcs">
 MiG-15 Fagot
@@ -120,14 +180,25 @@ MiG-15 Fagot
 {{< ressource-video-youtube "K9UTQs9GHcg" >}}
 </div>
 
+<div class="aeronef avec_module_dcs">
+F-86 Sabre
+<p>1949</p>
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets seconde génération</h2>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
 </div>
 
-<!-- MiG-19 //-->
-<!-- F-102 //-->
-<!-- F-105 //-->
+<div class="aeronef avec_module_dcs">
+MiG-19 Farmer
+<p>1955</p>
+</div>
+
+<div class="aeronef">
+F-102 Delta Dagger
+<p>1956</p>
+</div>
 
 <div class="aeronef">
 F-8 Crusader
@@ -146,6 +217,11 @@ F-104 Starfighter
 </div>
 
 <div class="aeronef">
+F-105 Thunderchief
+<p>1958, chasseur bombardier, mach 2</p>
+</div>
+
+<div class="aeronef">
 F-106 Delta Dart
 <p>1959, intercepteur, delta, mach 2.3</p>
 </div>
@@ -159,6 +235,11 @@ Su-9 Fishpof
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lQd684FwTRk" >}}
+</div>
+
+<div class="aeronef">
+Saab J35 Draken
+<p>1960, double delta, mach 2</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -183,14 +264,17 @@ Mirage III
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 </div>
 
-<!-- F4 //-->
-
 <div class="aeronef avec_module_dcs">
 F-5 Freedom Fighter
 <p>1964, chasse et attaque</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "2nWrScjSZ6g" >}}
+</div>
+
+<div class="aeronef">
+F-4 Phantom II
+<p>1960, embarqué</p>
 </div>
 
 <div class="aeronef">
@@ -234,10 +318,10 @@ Mirage F1
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
 </div>
 
-<!-- F-14 //-->
-<!-- Panavia Tornado //-->
-<!-- F15E //-->
-<!-- Su-34 //-->
+<div class="aeronef avec_module_dcs">
+F-14 Tomcat
+<p>1974, embarqué, géométrie variable</p>
+</div>
 
 <div class="aeronef avec_module_dcs">
 F-15 Eagle
@@ -259,6 +343,11 @@ F-16 Fighting Falcon
 {{< ressource-video-youtube "m06uWM_tABM" >}}
 {{< ressource-video-youtube "tdczvix3EiE" >}}
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
+</div>
+
+<div class="aeronef">
+Panavia Tornado
+<p>1982, géométrie variable</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -316,15 +405,30 @@ Su-27 Flanker
 {{< ressource-video-youtube "MtlLVexLfrQ" >}}
 </div>
 
+<div class="aeronef">
+F-15E Stike Eagle
+<p>1989, chasseur bombardier basé sur le F15</p>
+</div>
+
+<div class="aeronef">
+Su-34 Fullback
+<p>1990, chasseur bombardier basé sur le Su-27</p>
+</div>
+
+<div class="aeronef">
+F/A-18E/F Super Hornet
+<p>1995, embarqué</p>
+</div>
+
+<div class="aeronef avec_module_dcs">
+JF-17 Thunder
+<p>2010</p>
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
 </div>
-
-<!-- Su-30, supermanoeuv //-->
-<!-- F/A-18E/F //-->
-<!-- Su-35 , supermanoeuv//-->
-<!-- MiG-35 , supermanoeuv//-->
 
 <div class="aeronef">
 Saab JAS 39 Gripen
@@ -348,6 +452,11 @@ Rafale
 </div>
 
 <div class="aeronef">
+Su-30-MKI Flanker-H
+<p>2002, chasseur lourd, supériorité aérienne, super-manœuvrabilité (canards et poussée vectorielle)</p>
+</div>
+
+<div class="aeronef">
 Eurofighter Typhoon 
 <p>2004, intercepteur, delta, super-manœuvrabilité (canards)</p>
 </div>
@@ -355,12 +464,20 @@ Eurofighter Typhoon
 {{< ressource-video-youtube "U45UyriEtZI" >}}
 </div>
 
+<div class="aeronef">
+Su-35 Flanker-E
+<p>2012, chasseur lourd, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
+</div>
+
+<div class="aeronef">
+MiG-35 Fulcrum-F
+<p>2017, super-manœuvrabilité (poussée vectorielle)</p>
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets cinquième génération</h2>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
 </div>
-
-<!-- F-35 //-->
 
 <div class="aeronef">
 F-22 Raptor

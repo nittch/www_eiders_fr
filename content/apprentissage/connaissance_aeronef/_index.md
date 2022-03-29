@@ -356,11 +356,22 @@ F-22 Raptor
 </div>
 
 <div class="aeronef">
+F-35 Lightning II
+<p>2015, embarqué, furtif, décollage vertical</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "zW28Mb1YvwY" >}}
+{{< ressource-video-youtube "Eiop4hrBJO4" >}}
+</div>
+
+<div class="aeronef">
 Su-57 Felon
 <p>2020, furtif, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
+{{< ressource-video-youtube "B8OYE8r2u8Y" >}}
+{{< ressource-video-youtube "ctioYUO5flw" >}}
 </div>
 
 <div class="titre_generation">

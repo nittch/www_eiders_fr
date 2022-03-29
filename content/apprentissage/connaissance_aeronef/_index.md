@@ -263,6 +263,11 @@ Mirage III
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
 </div>
 
+<div class="aeronef">
+F-4 Phantom II
+<p>1960, embarqué</p>
+</div>
+
 <div class="aeronef avec_module_dcs">
 F-5 Freedom Fighter
 <p>1964, chasse et attaque</p>
@@ -272,8 +277,8 @@ F-5 Freedom Fighter
 </div>
 
 <div class="aeronef">
-F-4 Phantom II
-<p>1960, embarqué</p>
+Su-15 Flagon
+<p>1967, intercepteur, delta, mach 2.1</p>
 </div>
 
 <div class="aeronef">
@@ -416,7 +421,7 @@ Su-34 Fullback
 
 <div class="aeronef">
 F/A-18E/F Super Hornet
-<p>1995, embarqué</p>
+<p>1995, embarqué, basé sur le F/A-18</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -452,7 +457,7 @@ Rafale
 
 <div class="aeronef">
 Su-30-MKI Flanker-H
-<p>2002, chasseur lourd, supériorité aérienne, super-manœuvrabilité (canards et poussée vectorielle)</p>
+<p>2002, chasseur lourd, supériorité aérienne, super-manœuvrabilité (canards et poussée vectorielle), basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
@@ -465,12 +470,12 @@ Eurofighter Typhoon
 
 <div class="aeronef">
 Su-35 Flanker-E
-<p>2012, chasseur lourd, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
+<p>2012, chasseur lourd, supériorité aérienne, super-manœuvrabilité (poussée vectorielle), basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
 MiG-35 Fulcrum-F
-<p>2017, super-manœuvrabilité (poussée vectorielle)</p>
+<p>2017, super-manœuvrabilité (poussée vectorielle), basé sur le MiG-29</p>
 </div>
 
 <div class="titre_generation">

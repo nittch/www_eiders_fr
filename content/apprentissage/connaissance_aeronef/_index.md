@@ -68,7 +68,7 @@ Messerschmitt Bf 109
 
 <div class="aeronef">
 Hawker Hurricane
-<p>1937</p>
+<p>1937, chasseur bombardier</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -107,17 +107,17 @@ Fw 190
 
 <div class="aeronef avec_module_dcs">
 Mosquito
-<p>1941, furtif car en bois</p>
+<p>1941, furtif car en bois, chasseur bombardier</p>
 </div>
 
 <div class="aeronef">
 Hawker Typhoon
-<p>1941</p>
+<p>1941, chasseur bombardier</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
 P-47 Thunderbolt
-<p>1942, chasseur lourd</p>
+<p>1942, chasseur bombardier lourd</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "tsyOuQcjVmg" >}}
@@ -130,7 +130,7 @@ P-51 Mustang
 
 <div class="aeronef">
 F4U Corsair
-<p>1942, embarqué</p>
+<p>1942, embarqué, chasseur bombardier</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "uiGvpu7WXhI" >}}
@@ -213,11 +213,6 @@ F-104 Starfighter
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LgPcH0dk-pM" >}}
-</div>
-
-<div class="aeronef">
-F-105 Thunderchief
-<p>1958, chasseur bombardier, mach 2</p>
 </div>
 
 <div class="aeronef">
@@ -347,11 +342,6 @@ F-16 Fighting Falcon
 {{< ressource-video-youtube "m06uWM_tABM" >}}
 {{< ressource-video-youtube "tdczvix3EiE" >}}
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
-</div>
-
-<div class="aeronef">
-Panavia Tornado
-<p>1982, géométrie variable</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -511,17 +501,8 @@ Su-57 Felon
 </div>
 
 <div class="titre_generation">
-<h2>Avions d'attaque au sol</h2>
+<h2>Avions d'attaque au sol et d'interdiction (bombardiers tactiques)</h2>
 </div>
-<!-- IL2 //-->
-
-<!-- Jaguar //-->
-<!-- Super Etendard ? //-->
-<!-- ov 10 //-->
-<!-- a4 //-->
-<!-- a6 //-->
-<!-- a7 //-->
-<!-- su17 //-->
 
 <div class="aeronef">
 Ju 87 Stuka
@@ -534,12 +515,67 @@ Ju 87 Stuka
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
 </div>
 
+<div class="aeronef">
+Il-2
+<p>1941</p>
+</div>
+
+<div class="aeronef">
+A-1 Skyraider
+<p>1946, embarqué</p>
+</div>
+
+<div class="aeronef">
+F-105 Thunderchief
+<p>1958, chasseur bombardier, mach 2</p>
+</div>
+
+<div class="aeronef">
+Étendard IV
+<p>1962, embarqué</p>
+</div>
+
+<div class="aeronef">
+A-6 Intruder
+<p>1963, embarqué</p>
+</div>
+
+<div class="aeronef">
+F-111 Aardvark
+<p>1967, attaque, bombardement stratégique et reconnaissance</p>
+</div>
+
+<div class="aeronef">
+A-7 Corsair II
+<p>1967, embarqué</p>
+</div>
+
+<div class="aeronef">
+OV-10 Bronco
+<p>1967, reconnaissance et attaque</p>
+</div>
+
 <div class="aeronef avec_module_dcs">
 Harrier
 <p>1969, embarqué, décollage vertical</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
+</div>
+
+<div class="aeronef">
+Su-17 Fitter
+<p>1970, géométrie variable</p>
+</div>
+
+<div class="aeronef">
+SEPECAT Jaguar
+<p>1973</p>
+</div>
+
+<div class="aeronef">
+Su-24 Fencer
+<p>1974, géométrie variable</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -558,6 +594,11 @@ A-10 Warthog
 {{< ressource-video-youtube "N60WtGC4ejo" >}}
 </div>
 
+<div class="aeronef">
+Super Étendard
+<p>1978, embarqué</p>
+</div>
+
 <div class="aeronef avec_module_dcs">
 Su-25 Frogfoot
 <p>1981</p>
@@ -569,8 +610,43 @@ Su-25 Frogfoot
 {{< ressource-video-youtube "fhNkAuhYI2k" >}}
 </div>
 
+<div class="aeronef">
+Panavia Tornado
+<p>1982, géométrie variable</p>
+</div>
+
+<div class="aeronef">
+F-117 Nighthawk
+<p>1983, furtif</p>
+</div>
+
+<div class="aeronef">
+AMX
+<p>1989</p>
+</div>
+
 <div class="titre_generation">
-<h2>Bombardiers</h2>
+<h2>Bombardiers stratégiques</h2>
+</div>
+
+<div class="aeronef">
+B-52 Stratofortress
+<p>1952, bombardier lourd</p>
+</div>
+
+<div class="aeronef">
+A-3 Skywarrier
+<p>1956, embarqué, bombardier stratégique</p>
+</div>
+
+<div class="aeronef">
+Tu-95 Bear
+<p>1956, bombardier lourd</p>
+</div>
+
+<div class="aeronef">
+A-5 Skyraider
+<p>1961, embarqué, dissuasion nucléaire et reconnaissance</p>
 </div>
 
 <div class="aeronef">
@@ -579,6 +655,26 @@ Mirage IV
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "oVU7Ol3fg9c" >}}
+</div>
+
+<div class="aeronef">
+Tu-22M Backfire
+<p>1972, bombardier lourd, géométrie variable</p>
+</div>
+
+<div class="aeronef">
+B-1 Lancer
+<p>1986, géométrie variable, long rayon d'action</p>
+</div>
+
+<div class="aeronef">
+Tu-160 Blackjack
+<p>1987, bombardier lourd, mach 2.1</p>
+</div>
+
+<div class="aeronef">
+B-2 Spirit
+<p>1997, furtif, aile volante</p>
 </div>
 
 </div>
@@ -614,4 +710,5 @@ Mirage IV
 <div class="contenu">
 {{< canal-web "Wikipedia" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack Aircraft" >}}
 </div>

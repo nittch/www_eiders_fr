@@ -43,19 +43,28 @@ weight = 2
 </style>
 
 <div class="grille">
-<p>Il est commun de classer les jets par <a href=https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat>génération</a>, ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).</p>
+<p>Il est commun de classer les jets par <a href=https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat target=_blank>génération</a>, ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).</p>
 
 <div class="titre_generation">
 <h2>Vieux coucous (Warbirds)</h2>
 </div>
 <p>1935-1952 : avions militaires à hélices.</p>
-<!-- P47D Thunderbolt //-->
+
 <!-- P51D Mustang //-->
 <!-- Fw 190 //-->
 <!-- Spitfire //-->
 <!-- Bf 109 //-->
 <!-- F4U Corsair //-->
 <!-- Hawker Tempest //-->
+<!-- Mosquito //-->
+
+<div class="aeronef">
+P-47 Thunderbolt
+<p>1942</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "tsyOuQcjVmg" >}}
+</div>
 
 <div class="titre_generation">
 <h2>Chasseurs jets première génération</h2>
@@ -66,6 +75,7 @@ weight = 2
 <!-- F-84 //-->
 <!-- F-86 //-->
 <!-- Meteor //-->
+<!-- P80 //-->
 
 <div class="aeronef">
 MiG-15 Fagot
@@ -282,15 +292,20 @@ Su-27 Flanker
 
 <div class="aeronef">
 Rafale              
-<p>2002, delta, canards</p>
+<p>2002, embarqué, delta, canards</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "LAfdmC32Xk0" >}}
+{{< ressource-video-youtube "PQZZe1WbRQ8" >}}
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
+{{< ressource-video-youtube "vRVQw1vRgZY" >}}
 </div>
 
 <div class="aeronef">
 Eurofighter Typhoon 
-<p>2004, delta, canards</p>
+<p>2004, intercepteur, delta, canards</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -301,8 +316,15 @@ Eurofighter Typhoon
 </div>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
 
-<!-- F-22 //-->
 <!-- F-35 //-->
+
+<div class="aeronef">
+F-22 Raptor
+<p>2005</p>
+</div>
+<div class="images">
+{{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
+</div>
 
 <div class="aeronef">
 Su-57 Felon
@@ -315,6 +337,9 @@ Su-57 Felon
 <div class="titre_generation">
 <h2>Avions d'attaque au sol</h2>
 </div>
+<!-- IL2 //-->
+<!-- Jaguar //-->
+<!-- Super Etendard //-->
 
 <div class="aeronef">
 Harrier
@@ -329,6 +354,7 @@ A-10 Warthog
 <p>1975</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "_xaugfhbmp0" >}}
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
 {{< ressource-video-youtube "gHsxwaPDza8" >}}

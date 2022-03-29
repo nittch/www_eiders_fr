@@ -322,10 +322,17 @@ Su-27 Flanker
 </div>
 
 <!-- Su-30, supermanoeuv //-->
-<!-- Saab Gripen , supermanoeuv//-->
 <!-- F/A-18E/F //-->
 <!-- Su-35 , supermanoeuv//-->
 <!-- MiG-35 , supermanoeuv//-->
+
+<div class="aeronef">
+Saab JAS 39 Gripen
+<p>1996, intercepteur, delta, super-manœuvrabilité (canards)</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "BnOOxKD3uD4" >}}
+</div>
 
 <div class="aeronef">
 Rafale              

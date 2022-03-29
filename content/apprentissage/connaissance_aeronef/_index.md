@@ -42,25 +42,52 @@ weight = 2
   }
 </style>
 
+Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat), ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).
+
 <div class="grille">
-<p>Il est commun de classer les jets par <a href=https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat target=_blank>génération</a>, ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).</p>
 
 <div class="titre_generation">
 <h2>Vieux coucous (Warbirds)</h2>
-</div>
 <p>1935-1952 : avions militaires à hélices.</p>
+</div>
 
 <!-- P51D Mustang //-->
-<!-- Fw 190 //-->
+<!-- Fw 190 , lourd ?//-->
 <!-- Spitfire //-->
-<!-- Bf 109 //-->
 <!-- F4U Corsair //-->
 <!-- Hawker Tempest //-->
+<!-- Hawker Typhoon //-->
+<!-- Hawker hurricane, lourd ? //-->
 <!-- Mosquito //-->
+<!-- gruman wildcat et hellcat //-->
+
+<div class="aeronef">
+Messerschmitt Bf 109
+<p>1937</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "LfklgwVE0TA" >}}
+</div>
+
+<div class="aeronef">
+Mitsubishi A6M Zéro
+<p>1940, chasseur-bombardier léger, embarqué</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "Mal9vqxk7N4" >}}
+</div>
+
+<div class="aeronef">
+P-38 Lightning
+<p>1941, chasseur lourd, bimoteur bipoutre, long rayon d'action</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "V3ZEiCpdxf8" >}}
+</div>
 
 <div class="aeronef">
 P-47 Thunderbolt
-<p>1942</p>
+<p>1942, chasseur lourd</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "tsyOuQcjVmg" >}}
@@ -68,8 +95,8 @@ P-47 Thunderbolt
 
 <div class="titre_generation">
 <h2>Chasseurs jets première génération</h2>
-</div>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
+</div>
 
 <!-- Me 262 //-->
 <!-- F-84 //-->
@@ -87,8 +114,8 @@ MiG-15 Fagot
 
 <div class="titre_generation">
 <h2>Chasseurs jets seconde génération</h2>
-</div>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
+</div>
 
 <!-- MiG-19 //-->
 <!-- F-102 //-->
@@ -145,8 +172,8 @@ Mirage III
 
 <div class="titre_generation">
 <h2>Chasseurs jets troisième génération</h2>
-</div>
 <p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
+</div>
 
 <!-- F4 //-->
 
@@ -196,8 +223,8 @@ Mirage F1
 
 <div class="titre_generation">
 <h2>Chasseurs jets quatrième génération</h2>
-</div>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
+</div>
 
 <!-- F-14 //-->
 <!-- Panavia Tornado //-->
@@ -270,7 +297,7 @@ Mirage 2000
 
 <div class="aeronef">
 Su-27 Flanker
-<p>1985, supériorité aérienne</p>
+<p>1985, supériorité aérienne, super-manoeuvrant</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
@@ -281,8 +308,8 @@ Su-27 Flanker
 
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
-</div>
 <p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
+</div>
 
 <!-- Su-30 //-->
 <!-- Saab Gripen //-->
@@ -313,14 +340,14 @@ Eurofighter Typhoon
 
 <div class="titre_generation">
 <h2>Chasseurs jets cinquième génération</h2>
-</div>
 <p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
+</div>
 
 <!-- F-35 //-->
 
 <div class="aeronef">
 F-22 Raptor
-<p>2005</p>
+<p>2005, furtif, supériorité aérienne</p>
 </div>
 <div class="images">
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
@@ -328,7 +355,7 @@ F-22 Raptor
 
 <div class="aeronef">
 Su-57 Felon
-<p>2020</p>
+<p>2020, furtif, supériorité aérienne</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
@@ -338,8 +365,25 @@ Su-57 Felon
 <h2>Avions d'attaque au sol</h2>
 </div>
 <!-- IL2 //-->
+
 <!-- Jaguar //-->
-<!-- Super Etendard //-->
+<!-- Super Etendard ? //-->
+<!-- ov 10 //-->
+<!-- a4 //-->
+<!-- a6 //-->
+<!-- a7 //-->
+<!-- su17 //-->
+
+<div class="aeronef">
+Ju 87 Stuka
+<p>1936, bombardier en piqué, sirène</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "l8ox3PFd_qU" >}}                                                                            
+</div>
+<div class="images">
+{{< ressource-video-youtube "2JdcyGGby0Y" >}}
+</div>
 
 <div class="aeronef">
 Harrier
@@ -413,3 +457,7 @@ Mirage IV
 {{< ressource-playlist-youtube "PLoTC1KIBEvDk3Xngwc_NB8qhcuKosahAe" >}}
 </div>
 
+<div class="contenu">
+{{< canal-youtube "id" "UC3MJVwoumJMTqCe9IaEhtiw" >}} <!-- La 2de Guerre Mondiale //-->
+{{< ressource-playlist-youtube "PLBqIsAkFb7pzJJ6hm7guONOoRfFL1txH4" >}}
+</div>

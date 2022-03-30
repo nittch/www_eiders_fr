@@ -109,6 +109,9 @@ P-38 Lightning
 Fw 190
 <p>1941, chasseur bombardier lourd</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo //-->
+</div>
 
 <div class="aeronef avec_module_dcs">
 Mosquito
@@ -411,6 +414,7 @@ Su-27 Flanker
 <p>1985, chasseur lourd, supériorité aérienne, super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo //-->
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
 </div>
 <div class="images">
@@ -532,9 +536,18 @@ Ju 87 Stuka
 <div class="reportages">
 {{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation //-->
+{{< ressource-video-youtube "PpRfvKx2ouE" >}} <!-- Imineo //-->
 </div>
 <div class="images">
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
+</div>
+
+<div class="aeronef">
+Bristol Blenheim
+<p>1937, bombardier rapide</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo //-->
 </div>
 
 <div class="aeronef">
@@ -644,6 +657,9 @@ Su-25 Frogfoot
 Panavia Tornado
 <p>1982, géométrie variable</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "5Trez3StUWQ" >}} <!-- Imineo //-->
+</div>
 
 <div class="aeronef">
 F-117 Nighthawk
@@ -662,6 +678,14 @@ AMX
 <div class="aeronef">
 B-17 Flying Fortress
 <p>1938, bombardier lourd</p>
+</div>
+
+<div class="aeronef">
+Vickers Wellington
+<p>1938, bombardier moyen</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "e4EL0tuOm4o" >}} <!-- Imineo //-->
 </div>
 
 <div class="aeronef">

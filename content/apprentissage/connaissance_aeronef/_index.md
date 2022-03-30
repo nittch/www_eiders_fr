@@ -63,7 +63,7 @@ Messerschmitt Bf 109
 <p>1937</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "LfklgwVE0TA" >}}
+{{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef">
@@ -79,7 +79,7 @@ Supermarine Spitfire
 <p>1938</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "hgI4Y8yTpds" >}}
+{{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef">
@@ -87,7 +87,7 @@ Mitsubishi A6M Zéro
 <p>1940, chasseur-bombardier léger, embarqué</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "Mal9vqxk7N4" >}}
+{{< ressource-video-youtube "Mal9vqxk7N4" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef">
@@ -100,7 +100,7 @@ P-38 Lightning
 <p>1941, chasseur lourd, bimoteur bipoutre, long rayon d'action</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "V3ZEiCpdxf8" >}}
+{{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -123,7 +123,7 @@ P-47 Thunderbolt
 <p>1942, chasseur bombardier lourd</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "tsyOuQcjVmg" >}}
+{{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -136,7 +136,7 @@ F4U Corsair
 <p>1942, embarqué, chasseur bombardier</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "uiGvpu7WXhI" >}}
+{{< ressource-video-youtube "uiGvpu7WXhI" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine //-->
 </div>
 
@@ -267,6 +267,7 @@ Mirage III
 <div class="reportages">
 {{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine //-->
 {{< ressource-video-youtube "Gg3Of12mJrU" >}}
+{{< ressource-video-youtube "4uM81xdS3E8" >}} <!-- Yataka //-->
 </div>
 
 <div class="titre_generation">
@@ -453,7 +454,7 @@ Rafale
 <p>2002, embarqué, delta, super-manœuvrabilité (canards)</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "LAfdmC32Xk0" >}}
+{{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "PQZZe1WbRQ8" >}}
 </div>
 <div class="images">
@@ -525,7 +526,7 @@ Ju 87 Stuka
 <p>1936, bombardier en piqué, sirène</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "l8ox3PFd_qU" >}}                                                                            
+{{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation //-->
 </div>
 <div class="images">
@@ -605,7 +606,7 @@ A-10 Warthog
 <p>1975</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "_xaugfhbmp0" >}}
+{{< ressource-video-youtube "_xaugfhbmp0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
 {{< ressource-video-youtube "gHsxwaPDza8" >}}
@@ -699,10 +700,21 @@ A-3 Skywarrier
 Tu-95 Bear
 <p>1956, bombardier lourd</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka //-->
+</div>
 
 <div class="aeronef">
 A-5 Skyraider
 <p>1961, embarqué, dissuasion nucléaire et reconnaissance</p>
+</div>
+
+<div class="aeronef">
+Tu-22 Blinder
+<p>1962</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "IfRBbJCU-WQ" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef">

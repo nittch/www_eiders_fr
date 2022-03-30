@@ -70,6 +70,9 @@ Messerschmitt Bf 109
 Hawker Hurricane
 <p>1937, chasseur bombardier</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation //-->
+</div>
 
 <div class="aeronef avec_module_dcs">
 Supermarine Spitfire
@@ -140,6 +143,9 @@ F4U Corsair
 Grumman F6F Hellcat
 <p>1943, embarqué</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation //-->
+</div>
 
 <div class="aeronef">
 Hawker Tempest
@@ -177,6 +183,7 @@ MiG-15 Fagot
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "K9UTQs9GHcg" >}}
+{{< ressource-video-youtube "_LaaGkpVZ-k" >}} <!-- Cap Aviation //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -510,6 +517,7 @@ Ju 87 Stuka
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "l8ox3PFd_qU" >}}                                                                            
+{{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation //-->
 </div>
 <div class="images">
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
@@ -643,6 +651,9 @@ B-17 Flying Fortress
 B-24 Liberator
 <p>1941, bombardier lourd</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "dq7Wpq00NJc" >}} <!-- Cap Aviation //-->
+</div>
 
 <div class="aeronef">
 Avro Lancaster
@@ -725,6 +736,11 @@ B-2 Spirit
 <div class="contenu">
 {{< canal-youtube "id" "UC3MJVwoumJMTqCe9IaEhtiw" >}} <!-- La 2de Guerre Mondiale //-->
 {{< ressource-playlist-youtube "PLBqIsAkFb7pzJJ6hm7guONOoRfFL1txH4" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCwDFiUoWxCRZxVHzD22Kwrg" >}} <!-- Cap aviation //-->
+{{< ressource-playlist-youtube "PLZbKd2yQD8s7gYaPRlf4gSOVToODGvKlt" >}}
 </div>
 
 <div class="contenu">

@@ -64,6 +64,7 @@ Messerschmitt Bf 109
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "22tVIa2BPu8" >}} <!-- La 2nd Guerre Mondiale //-->
 </div>
 
 <div class="aeronef">
@@ -124,6 +125,7 @@ P-47 Thunderbolt
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "9WktioQKTzU" >}} <!-- La 2nd Guerre Mondiale //-->
 </div>
 
 <div class="aeronef avec_module_dcs">

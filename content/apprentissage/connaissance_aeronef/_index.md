@@ -404,6 +404,7 @@ F-16 Fighting Falcon
 <div class="reportages">
 {{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "W1ILwzgkCXk" >}} <!-- Les ailes de legende //-->
+{{< ressource-video-youtube "iX2oCqcvYzQ" >}} <!-- aeronewstv //-->
 </div>
 <div class="images">
 {{< ressource-video-youtube "m06uWM_tABM" >}}
@@ -486,6 +487,9 @@ F/A-18E/F Super Hornet
 JF-17 Thunder
 <p>2010</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv //-->
+</div>
 
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
@@ -508,6 +512,7 @@ Rafale
 {{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "PQZZe1WbRQ8" >}}
+{{< ressource-video-youtube "UxHbrs2f6Eo" >}} <!-- aeronewstv //-->
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
@@ -560,12 +565,24 @@ F-35 Lightning II
 </div>
 
 <div class="aeronef">
+J-20
+<p>2017</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv //-->
+</div>
+
+<div class="aeronef">
 Su-57 Felon
 <p>2020, furtif, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "p9133N8uaFY" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "Lnzz2NT5i-w" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "B8OYE8r2u8Y" >}} <!-- aeronewstv //-->
+</div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
-{{< ressource-video-youtube "B8OYE8r2u8Y" >}}
 {{< ressource-video-youtube "ctioYUO5flw" >}}
 </div>
 
@@ -704,6 +721,7 @@ A-10 Warthog
 <div class="reportages">
 {{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende //-->
 {{< ressource-video-youtube "_xaugfhbmp0" >}} <!-- Yataka -->
+{{< ressource-video-youtube "BVmiaNhxLHE" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
 {{< ressource-video-youtube "gHsxwaPDza8" >}}
@@ -741,6 +759,9 @@ Panavia Tornado
 <div class="aeronef">
 F-117 Nighthawk
 <p>1983, furtif</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "_h5JiIY8Exo" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
@@ -817,6 +838,9 @@ B-47 Stratojet
 B-52 Stratofortress
 <p>1952, bombardier lourd</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv //-->
+</div>
 
 <div class="aeronef">
 M-4 Bison
@@ -884,6 +908,7 @@ Tu-22M Backfire
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider //-->
+{{< ressource-video-youtube "Uq-aWGL7Dk4" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
@@ -893,6 +918,7 @@ B-1 Lancer
 <div class="reportages">
 {{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider //-->
 {{< ressource-video-youtube "CLMY1oJjuas" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "-puARA_M_I4" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
@@ -901,6 +927,7 @@ Tu-160 Blackjack
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider //-->
+{{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
@@ -909,6 +936,7 @@ B-2 Spirit
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider //-->
+{{< ressource-video-youtube "fzzOGg-ocdE" >}} <!-- aeronewstv //-->
 </div>
 
 </div>

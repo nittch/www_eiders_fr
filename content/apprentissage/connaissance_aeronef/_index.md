@@ -80,6 +80,7 @@ Supermarine Spitfire
 <p>1938</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka //-->
 </div>
 
@@ -327,7 +328,7 @@ Mirage F1
 <p>1973, reconnaissance et attaque</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "mbBJ9qsi2MQ" >}}
+{{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "UnycNFTXXco" >}}
 </div>
 
@@ -354,7 +355,7 @@ F-16 Fighting Falcon
 <p>1978</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "ztEONZIFNeQ" >}}
+{{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "W1ILwzgkCXk" >}} 
 </div>
 <div class="images">
@@ -368,7 +369,7 @@ MiG-29 Fulcrum
 <p>1983, super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "NYsYL1n2xzI" >}}
+{{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel //-->
 </div>
 <div class="images">
 {{< ressource-video-youtube "iXRSyj_mNis" >}}
@@ -395,7 +396,7 @@ Mirage 2000
 <p>1984, delta</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "jDCxWEynbu4" >}}
+{{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "bFHF9j_LvPk" >}}
 </div>
 <div class="images">
@@ -456,6 +457,7 @@ Rafale
 <p>2002, embarqué, delta, super-manœuvrabilité (canards)</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "PQZZe1WbRQ8" >}}
 </div>
@@ -585,7 +587,7 @@ Harrier
 <p>1969, embarqué, décollage vertical</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "-tZ5Plakf1E" >}}                                                                            
+{{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel //-->
 </div>
 
 <div class="aeronef">
@@ -596,6 +598,9 @@ Su-17 Fitter
 <div class="aeronef">
 SEPECAT Jaguar
 <p>1973</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel //-->
 </div>
 
 <div class="aeronef">
@@ -733,7 +738,7 @@ Mirage IV
 <p>1964, dissuasion nucléaire et reconnaissance</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "oVU7Ol3fg9c" >}}
+{{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel //-->
 </div>
 
 <div class="aeronef">

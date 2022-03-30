@@ -98,6 +98,22 @@ Grumman F4F Wildcat
 </div>
 
 <div class="aeronef">
+P-40 Warhawk
+<p>1940</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "F29Z9qh3U9I" >}} <!-- Les ailes de legende //-->
+</div>
+
+<div class="aeronef">
+P-39 Airacobra
+<p>1941</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "uuONOqGRL7M" >}} <!-- Les ailes de legende //-->
+</div>
+
+<div class="aeronef">
 P-38 Lightning
 <p>1941, chasseur lourd, bimoteur bipoutre, long rayon d'action</p>
 </div>
@@ -129,12 +145,16 @@ P-47 Thunderbolt
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "HJo7n54LhEA" >}} <!-- Les ailes de legende //-->
 {{< ressource-video-youtube "9WktioQKTzU" >}} <!-- La 2nd Guerre Mondiale //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
 P-51 Mustang
 <p>1942, très long rayon d'action</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
@@ -144,6 +164,7 @@ F4U Corsair
 <div class="reportages">
 {{< ressource-video-youtube "uiGvpu7WXhI" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "g3lwvONfKWA" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
@@ -152,6 +173,7 @@ Grumman F6F Hellcat
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation //-->
+{{< ressource-video-youtube "jBYl0WwIYLI" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
@@ -183,6 +205,9 @@ P-80 Shooting Star
 F-84 Thunderjet
 <p>1947</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende //-->                
+</div>
 
 <div class="aeronef avec_module_dcs">
 MiG-15 Fagot
@@ -197,6 +222,9 @@ MiG-15 Fagot
 F-86 Sabre
 <p>1949</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende //-->                
+</div>
 
 <div class="aeronef">
 CF-100 Canuck
@@ -209,6 +237,14 @@ CF-100 Canuck
 <div class="titre_generation">
 <h2>Chasseurs jets seconde génération</h2>
 <p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
+</div>
+
+<div class="aeronef">
+F-100 Super Sabre
+<p>1954</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -235,6 +271,7 @@ F-104 Starfighter
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef">
@@ -285,12 +322,16 @@ Mirage III
 F-4 Phantom II
 <p>1960, embarqué</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende //-->                
+</div>
 
 <div class="aeronef avec_module_dcs">
 F-5 Freedom Fighter
 <p>1964, chasse et attaque</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende //-->                
 {{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine //-->
 </div>
 
@@ -344,13 +385,16 @@ Mirage F1
 F-14 Tomcat
 <p>1974, embarqué, géométrie variable</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende //-->
+</div>
 
 <div class="aeronef avec_module_dcs">
 F-15 Eagle
 <p>1976, chasseur lourd, supériorité aérienne</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "0DmjlubOn1g" >}}                
+{{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -359,7 +403,7 @@ F-16 Fighting Falcon
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel //-->
-{{< ressource-video-youtube "W1ILwzgkCXk" >}} 
+{{< ressource-video-youtube "W1ILwzgkCXk" >}} <!-- Les ailes de legende //-->
 </div>
 <div class="images">
 {{< ressource-video-youtube "m06uWM_tABM" >}}
@@ -385,7 +429,7 @@ F/A-18 Hornet
 <p>1983, embarqué</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "F61h1Fee9Zw" >}}                          
+{{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende //-->
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}}
@@ -543,6 +587,15 @@ Ju 87 Stuka
 </div>
 
 <div class="aeronef">
+PBY Catalina
+<p>1936, hydravion de patrouille et de bombardement</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende //-->
+</div>
+
+
+<div class="aeronef">
 Bristol Blenheim
 <p>1937, bombardier rapide</p>
 </div>
@@ -556,18 +609,35 @@ Il-2 Chtourmovik
 </div>
 
 <div class="aeronef">
+A-26 Invader
+<p>1944</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "acX9bpPilkM" >}} <!-- Les ailes de legende //-->
+</div>
+
+<div class="aeronef">
 A-1 Skyraider
 <p>1946, embarqué</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
 A-4 Skyhawk
 <p>1956, embarqué</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende //-->                
+</div>
 
 <div class="aeronef">
 F-105 Thunderchief
 <p>1958, chasseur bombardier, mach 2</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende //-->
 </div>
 
 <div class="aeronef">
@@ -584,10 +654,16 @@ A-6 Intruder
 F-111 Aardvark
 <p>1967, attaque, bombardement stratégique et reconnaissance</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende //-->
+</div>
 
 <div class="aeronef">
 A-7 Corsair II
 <p>1967, embarqué</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "3DtRkAmKNTk" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
@@ -626,6 +702,7 @@ A-10 Warthog
 <p>1975</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende //-->
 {{< ressource-video-youtube "_xaugfhbmp0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
@@ -679,6 +756,9 @@ AMX
 B-17 Flying Fortress
 <p>1938, bombardier lourd</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "_ctKDdsJ774" >}} <!-- les ailes de legende //-->
+</div>
 
 <div class="aeronef">
 Vickers Wellington
@@ -697,6 +777,22 @@ B-24 Liberator
 </div>
 
 <div class="aeronef">
+B-25 Mitchell
+<p>1940, bombardier moyen</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende //-->
+</div>
+
+<div class="aeronef">
+B-26 Marauder
+<p>1941, bombardier moyen</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende //-->
+</div>
+
+<div class="aeronef">
 Avro Lancaster
 <p>1942, bombardier lourd</p>
 </div>
@@ -707,6 +803,14 @@ B-36 Peacemaker
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine //-->
+</div>
+
+<div class="aeronef">
+B-47 Stratojet
+<p>1952, bombardier moyen à long rayon d'action</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "Kk3GfN6lKtY" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
@@ -737,6 +841,14 @@ Tu-95 Bear
 </div>
 
 <div class="aeronef">
+B-58 Hustler
+<p>1960</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "dvtV0GVtQt8" >}} <!-- les ailes de legende //-->
+</div>
+
+<div class="aeronef">
 A-5 Skyraider
 <p>1961, embarqué, dissuasion nucléaire et reconnaissance</p>
 </div>
@@ -754,6 +866,7 @@ XB-70 Valkyrie
 <p>1964, prototype</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "lKRnehhZfFY" >}} <!-- les ailes de legende //-->
 {{< ressource-video-youtube "d5SKO_TAlsw" >}} <!-- Drole de machine //-->
 </div>
 
@@ -779,6 +892,7 @@ B-1 Lancer
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider //-->
+{{< ressource-video-youtube "CLMY1oJjuas" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">

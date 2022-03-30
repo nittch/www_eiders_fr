@@ -703,6 +703,7 @@ Tu-95 Bear
 <p>1956, bombardier lourd</p>
 </div>
 <div class="reportages">
+{{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider //-->
 {{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka //-->
 </div>
 
@@ -739,20 +740,32 @@ Mirage IV
 Tu-22M Backfire
 <p>1972, bombardier lourd, géométrie variable</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider //-->
+</div>
 
 <div class="aeronef">
 B-1 Lancer
 <p>1986, géométrie variable, long rayon d'action</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider //-->
 </div>
 
 <div class="aeronef">
 Tu-160 Blackjack
 <p>1987, bombardier lourd, mach 2.1</p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider //-->
+</div>
 
 <div class="aeronef">
 B-2 Spirit
 <p>1997, furtif, aile volante</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider //-->
 </div>
 
 </div>

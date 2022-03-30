@@ -137,6 +137,7 @@ F4U Corsair
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "uiGvpu7WXhI" >}}
+{{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -182,13 +183,21 @@ MiG-15 Fagot
 <p>1948</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "K9UTQs9GHcg" >}}
+{{< ressource-video-youtube "K9UTQs9GHcg" >}} <!-- Drole de machine //-->
 {{< ressource-video-youtube "_LaaGkpVZ-k" >}} <!-- Cap Aviation //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
 F-86 Sabre
 <p>1949</p>
+</div>
+
+<div class="aeronef">
+CF-100 Canuck
+<p>1953</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="titre_generation">
@@ -211,7 +220,7 @@ F-8 Crusader
 <p>1957, embarqué, voilure à angle de calage variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "ExwU1lSUs7Q" >}}
+{{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -219,7 +228,7 @@ F-104 Starfighter
 <p>1958, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "LgPcH0dk-pM" >}}
+{{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -227,7 +236,7 @@ F-106 Delta Dart
 <p>1959, intercepteur, delta, mach 2.3</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "QDdD4KPAOR8" >}}
+{{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -235,7 +244,7 @@ Su-9 Fishpof
 <p>1959, intercepteur, delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "lQd684FwTRk" >}}
+{{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -248,7 +257,7 @@ MiG-21 Fishbed
 <p>1960, delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "FSdcJzgNFHM" >}}
+{{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -256,7 +265,7 @@ Mirage III
 <p>1961, delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "DueHCwa8uc8" >}}
+{{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine //-->
 {{< ressource-video-youtube "Gg3Of12mJrU" >}}
 </div>
 
@@ -275,7 +284,7 @@ F-5 Freedom Fighter
 <p>1964, chasse et attaque</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "2nWrScjSZ6g" >}}
+{{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -288,7 +297,7 @@ MiG-23 Flogger
 <p>1970, géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "zrLFrQsomAs" >}}
+{{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -296,7 +305,7 @@ MiG-25 Foxbat
 <p>1972, interception et reconnaissance, mach 3</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "CgAeLkgkZBE" >}}
+{{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine //-->
 </div>
 <div class="videos">
 {{< ressource-video-youtube "fRjKKfzdRlo" >}}
@@ -661,8 +670,24 @@ Avro Lancaster
 </div>
 
 <div class="aeronef">
+B-36 Peacemaker
+<p>1949, bombardier stratégique lourd à long rayon d'action</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine //-->
+</div>
+
+<div class="aeronef">
 B-52 Stratofortress
 <p>1952, bombardier lourd</p>
+</div>
+
+<div class="aeronef">
+M-4 Bison
+<p>1953, bombardier lourd</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "t_rnMnEf0vc" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
@@ -678,6 +703,14 @@ Tu-95 Bear
 <div class="aeronef">
 A-5 Skyraider
 <p>1961, embarqué, dissuasion nucléaire et reconnaissance</p>
+</div>
+
+<div class="aeronef">
+XB-70 Valkyrie
+<p>1964, prototype</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "d5SKO_TAlsw" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">

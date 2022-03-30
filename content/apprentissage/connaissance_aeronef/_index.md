@@ -516,13 +516,18 @@ Ju 87 Stuka
 </div>
 
 <div class="aeronef">
-Il-2
+Il-2 Chtourmovik
 <p>1941</p>
 </div>
 
 <div class="aeronef">
 A-1 Skyraider
 <p>1946, embarqué</p>
+</div>
+
+<div class="aeronef">
+A-4 Skyhawk
+<p>1956, embarqué</p>
 </div>
 
 <div class="aeronef">
@@ -627,6 +632,21 @@ AMX
 
 <div class="titre_generation">
 <h2>Bombardiers stratégiques</h2>
+</div>
+
+<div class="aeronef">
+B-17 Flying Fortress
+<p>1938, bombardier lourd</p>
+</div>
+
+<div class="aeronef">
+B-24 Liberator
+<p>1941, bombardier lourd</p>
+</div>
+
+<div class="aeronef">
+Avro Lancaster
+<p>1942, bombardier lourd</p>
 </div>
 
 <div class="aeronef">

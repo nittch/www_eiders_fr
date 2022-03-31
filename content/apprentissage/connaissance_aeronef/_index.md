@@ -23,6 +23,14 @@ weight = 2
     color: lightgrey;
   }
 
+  .aeronef .exemplaires {
+    padding-right: 0.3em;
+    text-align: right;
+
+    color: lightgrey;
+    font-size: small;
+  }
+
   .avec_module_dcs {
     border-style: dashed;
     border-color: red;

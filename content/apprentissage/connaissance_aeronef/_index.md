@@ -88,12 +88,6 @@ Supermarine Spitfire
 </div>
 
 <div class="aeronef">
-Junkers Ju 88
-{{< exemplaires 15183 >}}
-<p>1939, chasseur de nuit, bombardier<p>
-</div>
-
-<div class="aeronef">
 Mitsubishi A6M Zéro
 {{< exemplaires 10939 >}}
 <p>1940, chasseur-bombardier léger, embarqué</p>
@@ -104,7 +98,14 @@ Mitsubishi A6M Zéro
 
 <div class="aeronef">
 Grumman F4F Wildcat
+{{< exemplaires 7885 >}}
 <p>1940, embarqué</p>
+</div>
+
+<div class="aeronef">
+Yakovlev Yak-1
+{{< exemplaires 8734 >}}
+<p>1940</p>
 </div>
 
 <div class="aeronef">
@@ -117,7 +118,14 @@ P-40 Warhawk
 </div>
 
 <div class="aeronef">
+Messerschmitt Bf 110
+{{< exemplaires 6150 >}}
+<p>1940, chasseur lourd et bombardier</p>
+</div>
+
+<div class="aeronef">
 P-39 Airacobra
+{{< exemplaires 9584 >}}
 <p>1941</p>
 </div>
 <div class="reportages">
@@ -143,7 +151,8 @@ Fw 190
 </div>
 
 <div class="aeronef avec_module_dcs">
-Mosquito
+de Havilland Mosquito
+{{< exemplaires 7781 >}}
 <p>1941, furtif car en bois, chasseur bombardier</p>
 </div>
 
@@ -152,10 +161,16 @@ Hawker Typhoon
 <p>1941, chasseur bombardier</p>
 </div>
 
+<div class="aeronef">
+Lavochkin-Gorbunov-Gudkov LaGG-3
+{{< exemplaires 6258 >}}
+<p>1941 </p>
+</div>
+
 <div class="aeronef avec_module_dcs">
 Republic P-47 Thunderbolt
 {{< exemplaires 15660 >}}
-<p>1942, chasseur bombardier lourd</p>
+<p>1942, chasseur lourd et bombardier</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka //-->
@@ -189,6 +204,11 @@ Yakovlev Yak-9
 <p>1942, chasseur</p>
 </div>
 
+<div class="aeronef">
+Lavotchkine La-5
+{{< exemplaires 9920 >}}
+<p>1942</p>
+</div>
 
 <div class="aeronef">
 Grumman F6F Hellcat
@@ -227,6 +247,7 @@ P-80 Shooting Star
 
 <div class="aeronef">
 F-84 Thunderjet
+{{< exemplaires 7524 >}}
 <p>1947</p>
 </div>
 <div class="reportages">
@@ -245,6 +266,7 @@ MiG-15 Fagot
 
 <div class="aeronef avec_module_dcs">
 F-86 Sabre
+{{< exemplaires 9860 >}}
 <p>1949</p>
 </div>
 <div class="reportages">
@@ -645,6 +667,7 @@ Su-57 Felon
 
 <div class="aeronef">
 Ju 87 Stuka
+{{< exemplaires 6000 >}}
 <p>1936, bombardier en piqué, sirène</p>
 </div>
 <div class="reportages">
@@ -679,6 +702,24 @@ Iliouchine Il-2 Chtourmovik
 </div>
 
 <div class="aeronef">
+Douglas A-20 Havoc
+{{< exemplaires 7476 >}}
+<p>1941, attaque au sol, bombardier léger, chasseur nocturne</p>
+</div>
+
+<div class="aeronef">
+Grumman TBF Avenger
+{{< exemplaires 9836 >}}
+<p>1942, bombardier torpilleur embarqué</p>
+</div>
+
+<div class="aeronef">
+Curtiss SB2C Helldiver
+{{< exemplaires 7140 >}}
+<p>1943, bombardier en piqué</p>
+</div>
+
+<div class="aeronef">
 A-26 Invader
 <p>1944</p>
 </div>
@@ -692,6 +733,12 @@ A-1 Skyraider
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende //-->
+</div>
+
+<div class="aeronef">
+Iliouchine Il-2B Beagle
+{{< exemplaires 6635 >}}
+<p>1950, bombardier</p>
 </div>
 
 <div class="aeronef">
@@ -831,6 +878,18 @@ AMX
 </div>
 
 <div class="aeronef">
+Tupolev SB
+{{< exemplaires 6656 >}}
+<p>1935, bombardier</p>
+</div>
+
+<div class="aeronef">
+Heinkel He 111
+{{< exemplaires 7300 >}}
+<p>1937, bombardier</p>
+</div>
+
+<div class="aeronef">
 B-17 Flying Fortress
 {{< exemplaires 12731 >}}
 <p>1938, bombardier lourd</p>
@@ -849,6 +908,12 @@ Vickers Wellington
 </div>
 
 <div class="aeronef">
+Junkers Ju 88
+{{< exemplaires 15183 >}}
+<p>1939, bombardier moyen</p>
+</div>
+
+<div class="aeronef">
 B-24 Liberator
 {{< exemplaires 18482 >}}
 <p>1941, bombardier lourd</p>
@@ -859,10 +924,17 @@ B-24 Liberator
 
 <div class="aeronef">
 B-25 Mitchell
+{{< exemplaires 9984 >}}
 <p>1940, bombardier moyen</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende //-->
+</div>
+
+<div class="aeronef">
+Handley Page Halifax
+{{< exemplaires 6176 >}}
+<p>1940, bombardier lourd</p>
 </div>
 
 <div class="aeronef">
@@ -881,6 +953,7 @@ Petlyakov Pe-2 Buck
 
 <div class="aeronef">
 Avro Lancaster
+{{< exemplaires 7377 >}}
 <p>1942, bombardier lourd</p>
 </div>
 

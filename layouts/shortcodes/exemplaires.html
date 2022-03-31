@@ -1,0 +1,14 @@
+<p>
+
+{{ if gt ( .Get 0 ) 10000}}
+{{ ":star:" | emojify }}
+{{ end }}
+{{ if gt ( .Get 0 ) 20000}}
+{{ ":star:" | emojify }}
+{{ end }}
+{{ if gt ( .Get 0 ) 30000}}
+{{ ":star:" | emojify }}
+{{ end }}
+
+construit à {{ .Get 0 }} exemplaires
+</p>

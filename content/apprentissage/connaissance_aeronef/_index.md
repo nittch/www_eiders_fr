@@ -19,7 +19,7 @@ weight = 2
     font-family: sans-serif;
   }
 
-  .aeronef > p {
+  .aeronef p {
     color: lightgrey;
   }
 
@@ -60,6 +60,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef avec_module_dcs">
 Messerschmitt Bf 109
+{{< exemplaires 34852 >}}
 <p>1937</p>
 </div>
 <div class="reportages">
@@ -69,6 +70,7 @@ Messerschmitt Bf 109
 
 <div class="aeronef">
 Hawker Hurricane
+{{< exemplaires 14583 >}}
 <p>1937, chasseur bombardier</p>
 </div>
 <div class="reportages">
@@ -77,6 +79,7 @@ Hawker Hurricane
 
 <div class="aeronef avec_module_dcs">
 Supermarine Spitfire
+{{< exemplaires 20351 >}}
 <p>1938</p>
 </div>
 <div class="reportages">
@@ -85,7 +88,14 @@ Supermarine Spitfire
 </div>
 
 <div class="aeronef">
+Junkers Ju 88
+{{< exemplaires 15183 >}}
+<p>1939, chasseur de nuit, bombardier<p>
+</div>
+
+<div class="aeronef">
 Mitsubishi A6M Zéro
+{{< exemplaires 10939 >}}
 <p>1940, chasseur-bombardier léger, embarqué</p>
 </div>
 <div class="reportages">
@@ -99,6 +109,7 @@ Grumman F4F Wildcat
 
 <div class="aeronef">
 P-40 Warhawk
+{{< exemplaires 13738 >}}
 <p>1940</p>
 </div>
 <div class="reportages">
@@ -115,6 +126,7 @@ P-39 Airacobra
 
 <div class="aeronef">
 P-38 Lightning
+{{< exemplaires 10037 >}}
 <p>1941, chasseur lourd, bimoteur bipoutre, long rayon d'action</p>
 </div>
 <div class="reportages">
@@ -123,6 +135,7 @@ P-38 Lightning
 
 <div class="aeronef avec_module_dcs">
 Fw 190
+{{< exemplaires 20051 >}}
 <p>1941, chasseur bombardier lourd</p>
 </div>
 <div class="reportages">
@@ -140,7 +153,8 @@ Hawker Typhoon
 </div>
 
 <div class="aeronef avec_module_dcs">
-P-47 Thunderbolt
+Republic P-47 Thunderbolt
+{{< exemplaires 15660 >}}
 <p>1942, chasseur bombardier lourd</p>
 </div>
 <div class="reportages">
@@ -150,7 +164,8 @@ P-47 Thunderbolt
 </div>
 
 <div class="aeronef avec_module_dcs">
-P-51 Mustang
+North American P-51 Mustang
+{{< exemplaires 15586 >}}
 <p>1942, très long rayon d'action</p>
 </div>
 <div class="reportages">
@@ -159,6 +174,7 @@ P-51 Mustang
 
 <div class="aeronef">
 F4U Corsair
+{{< exemplaires 12571 >}}
 <p>1942, embarqué, chasseur bombardier</p>
 </div>
 <div class="reportages">
@@ -168,7 +184,15 @@ F4U Corsair
 </div>
 
 <div class="aeronef">
+Yakovlev Yak-9
+{{< exemplaires 16769 >}}
+<p>1942, chasseur</p>
+</div>
+
+
+<div class="aeronef">
 Grumman F6F Hellcat
+{{< exemplaires 12275 >}}
 <p>1943, embarqué</p>
 </div>
 <div class="reportages">
@@ -211,6 +235,7 @@ F-84 Thunderjet
 
 <div class="aeronef avec_module_dcs">
 MiG-15 Fagot
+{{< exemplaires 18169 >}}
 <p>1948</p>
 </div>
 <div class="reportages">
@@ -224,6 +249,12 @@ F-86 Sabre
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende //-->                
+</div>
+
+<div class="aeronef">
+MiG-17 Fresco
+{{< exemplaires 10367 >}}
+<p>1952</p>
 </div>
 
 <div class="aeronef">
@@ -297,6 +328,7 @@ Saab J35 Draken
 
 <div class="aeronef avec_module_dcs">
 MiG-21 Fishbed
+{{< exemplaires 13996 >}}
 <p>1960, delta, mach 2</p>
 </div>
 <div class="reportages">
@@ -641,8 +673,9 @@ Bristol Blenheim
 </div>
 
 <div class="aeronef">
-Il-2 Chtourmovik
-<p>1941</p>
+Iliouchine Il-2 Chtourmovik
+{{< exemplaires 36183 >}}
+<p>1941, avion d'attaque ou bombardier torpilleur</p>
 </div>
 
 <div class="aeronef">
@@ -799,6 +832,7 @@ AMX
 
 <div class="aeronef">
 B-17 Flying Fortress
+{{< exemplaires 12731 >}}
 <p>1938, bombardier lourd</p>
 </div>
 <div class="reportages">
@@ -807,6 +841,7 @@ B-17 Flying Fortress
 
 <div class="aeronef">
 Vickers Wellington
+{{< exemplaires 11461 >}}
 <p>1938, bombardier moyen</p>
 </div>
 <div class="reportages">
@@ -815,6 +850,7 @@ Vickers Wellington
 
 <div class="aeronef">
 B-24 Liberator
+{{< exemplaires 18482 >}}
 <p>1941, bombardier lourd</p>
 </div>
 <div class="reportages">
@@ -835,6 +871,12 @@ B-26 Marauder
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende //-->
+</div>
+
+<div class="aeronef">
+Petlyakov Pe-2 Buck
+{{< exemplaires 11427 >}}
+<p>1941, bombardier</p>
 </div>
 
 <div class="aeronef">
@@ -1001,6 +1043,7 @@ B-2 Spirit
 <div class="contenu">
 {{< canal-youtube "byUserId" "higherweb" >}}
 {{< ressource-playlist-youtube "PL053B21B2F6371507" >}}
+{{< ressource-web "https://www.avionslegendaires.net/dossier/configuration-type-avion/aeronefs-militaires-produits-a-plus-de-10000-exemplaires/" "aeronefs militaires produits à plus de 10000 exemplaires" >}}
 </div>
 
 <div class="contenu">

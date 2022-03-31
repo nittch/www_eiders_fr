@@ -312,6 +312,9 @@ Mirage III
 {{< ressource-video-youtube "Gg3Of12mJrU" >}}
 {{< ressource-video-youtube "4uM81xdS3E8" >}} <!-- Yataka //-->
 </div>
+<div class="images">
+{{< ressource-video-youtube "h1jT8RZSM_I" >}}
+</div>
 
 <div class="titre_generation">
 <h2>Chasseurs jets troisième génération</h2>
@@ -374,6 +377,9 @@ Mirage F1
 <div class="reportages">
 {{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "UnycNFTXXco" >}}
+</div>
+<div class="images">
+{{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace //-->
 </div>
 
 <div class="titre_generation">
@@ -446,12 +452,16 @@ Mirage 2000
 <div class="reportages">
 {{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel //-->
 {{< ressource-video-youtube "bFHF9j_LvPk" >}}
+{{< ressource-video-youtube "qsbqV0rz87o" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "k-SlLeYRGnE" >}}
 {{< ressource-video-youtube "PCvXyetyVkg" >}}
 {{< ressource-video-youtube "XlaJJXkS3uo" >}}
 {{< ressource-video-youtube "QrQxJSRSZAU" >}}
+{{< ressource-video-youtube "lBJ01alfMjc" >}}
+{{< ressource-video-youtube "T5DrtgXX7qQ" >}} <!-- Armee de l'air et de l'espace //-->
+{{< ressource-video-youtube "JEPhz2E41pw" >}} <!-- Armee de l'air et de l'espace //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -481,6 +491,9 @@ Su-34 Fullback
 <div class="aeronef">
 F/A-18E/F Super Hornet
 <p>1995, embarqué, basé sur le F/A-18</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "0fM7SUSgFj8" >}}
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -513,9 +526,15 @@ Rafale
 {{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka //-->
 {{< ressource-video-youtube "PQZZe1WbRQ8" >}}
 {{< ressource-video-youtube "UxHbrs2f6Eo" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "Kaa90KtQZ5A" >}}
+{{< ressource-video-youtube "ykYkyN6nwzw" >}}
+{{< ressource-video-youtube "9v6ZGFlDY50" >}}
+{{< ressource-video-youtube "Acxj1DNBqe0" >}} <!-- armee de l'air et de l'espace //-->
 </div>
 <div class="images">
-{{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}}
+{{< ressource-video-youtube "AdhVCkHf0w0" >}} <!-- Chasse Embarquee //-->
+{{< ressource-video-youtube "DTQlsmkmFp4" >}} <!-- Chasse Embarquee //-->
+{{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}} <!-- Chasse Embarquee //-->
 {{< ressource-video-youtube "vRVQw1vRgZY" >}}
 </div>
 
@@ -553,6 +572,7 @@ F-22 Raptor
 </div>
 <div class="images">
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
+{{< ressource-video-youtube "GUlHhKvIX3w" >}}
 </div>
 
 <div class="aeronef">
@@ -562,6 +582,7 @@ F-35 Lightning II
 <div class="images">
 {{< ressource-video-youtube "zW28Mb1YvwY" >}}
 {{< ressource-video-youtube "Eiop4hrBJO4" >}}
+{{< ressource-video-youtube "KVMiscT8VqE" >}}
 </div>
 
 <div class="aeronef">
@@ -610,7 +631,6 @@ PBY Catalina
 <div class="reportages">
 {{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende //-->
 </div>
-
 
 <div class="aeronef">
 Bristol Blenheim
@@ -707,6 +727,7 @@ SEPECAT Jaguar
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "z-uqMUA7U-k" >}}
 </div>
 
 <div class="aeronef">
@@ -735,6 +756,9 @@ A-10 Warthog
 <div class="aeronef">
 Super Étendard
 <p>1978, embarqué</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -972,6 +996,17 @@ B-2 Spirit
 <div class="contenu">
 {{< canal-youtube "id" "UCwDFiUoWxCRZxVHzD22Kwrg" >}} <!-- Cap aviation //-->
 {{< ressource-playlist-youtube "PLZbKd2yQD8s7gYaPRlf4gSOVToODGvKlt" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "byUserId" "higherweb" >}}
+{{< ressource-playlist-youtube "PL053B21B2F6371507" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "byUserId" "fabgenius" >}}
+{{< ressource-playlist-youtube "PLE4C78820C58A36BA" >}}
+{{< ressource-playlist-youtube "PL1A7D6CE9E921D72F" >}}
 </div>
 
 <div class="contenu">

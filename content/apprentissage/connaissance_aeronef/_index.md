@@ -16,25 +16,45 @@ weight = 2
   .aeronef {
     grid-column: 1;
 
+  }
+
+  .aeronef .titre .drapeau{
+    font-size: large;
+  }
+
+  .aeronef .titre .marque {
+    color: grey;
     font-family: sans-serif;
   }
 
-  .aeronef p {
-    color: lightgrey;
+  .aeronef .titre .modele {
+    font-size: large;
+    font-family: sans-serif;
+  }
+
+  .aeronef .titre .date {
+    color: grey;
+  }
+
+  .aeronef .titre .type {
+    color: grey;
   }
 
   .aeronef .exemplaires {
-    padding-right: 0.3em;
+    padding-right: 0.2em;
     text-align: right;
 
-    color: lightgrey;
-    font-size: small;
+    color: grey;
+  }
+
+  .aeronef p {
+    padding-left: 2em;
   }
 
   .avec_module_dcs {
-    border-style: dashed;
-    border-color: red;
-    border-width: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-image: linear-gradient(to right, grey 0%, white 90%) 1;
 
     padding: 5px;
   }
@@ -42,18 +62,19 @@ weight = 2
   .reportages {
     grid-column: 2;
 
-    background-color: #f9f9f9;
-
-
-    border-style: dotted;
+    padding: 0.2em;
     border-width: 1px;
+    border-style: solid;
+    border-image: linear-gradient(to right, white 80%, grey 100%) 1;
   }
 
   .images {
     grid-column: 3;
 
-    border-style: dotted;
+    padding: 0.2em;
     border-width: 1px;
+    border-style: solid;
+    border-image: linear-gradient(to right, grey 0%, white 20%) 1;
   }
 </style>
 
@@ -67,9 +88,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef avec_module_dcs">
-Messerschmitt Bf 109
+{{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" >}}
 {{< exemplaires 34852 >}}
-<p>1937</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka //-->
@@ -77,18 +97,16 @@ Messerschmitt Bf 109
 </div>
 
 <div class="aeronef">
-Hawker Hurricane
+{{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur bombardier" >}}
 {{< exemplaires 14583 >}}
-<p>1937, chasseur bombardier</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
-Supermarine Spitfire
+{{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" >}}
 {{< exemplaires 20351 >}}
-<p>1938</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel //-->
@@ -96,89 +114,80 @@ Supermarine Spitfire
 </div>
 
 <div class="aeronef">
-Mitsubishi A6M Zéro
+{{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur-bombardier léger, embarqué" >}}
 {{< exemplaires 10939 >}}
-<p>1940, chasseur-bombardier léger, embarqué</p>
+<p>Très maniable, une grande puissance de feu mais aucun blindage.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "Mal9vqxk7N4" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef">
-Grumman F4F Wildcat
+{{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "embarqué" >}}
 {{< exemplaires 7885 >}}
-<p>1940, embarqué</p>
 </div>
 
 <div class="aeronef">
-Yakovlev Yak-1
+{{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" >}}
 {{< exemplaires 8734 >}}
-<p>1940</p>
 </div>
 
 <div class="aeronef">
-P-40 Warhawk
+{{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" >}}
 {{< exemplaires 13738 >}}
-<p>1940</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "F29Z9qh3U9I" >}} <!-- Les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Messerschmitt Bf 110
+{{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd et bombardier" >}}
 {{< exemplaires 6150 >}}
-<p>1940, chasseur lourd et bombardier</p>
 </div>
 
 <div class="aeronef">
-P-39 Airacobra
+{{< aeronef ":us:" "Bell" "P-39 Airacobra" "1941" >}}
 {{< exemplaires 9584 >}}
-<p>1941</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "uuONOqGRL7M" >}} <!-- Les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-P-38 Lightning
+{{< aeronef ":us:" "Lockheed" "P-38 Lightning" "1941" "chasseur lourd" >}}
 {{< exemplaires 10037 >}}
-<p>1941, chasseur lourd, bimoteur bipoutre, long rayon d'action</p>
+<p>bimoteur bipoutre, long rayon d'action</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
-Fw 190
+{{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur lourd et bombardier" >}}
 {{< exemplaires 20051 >}}
-<p>1941, chasseur bombardier lourd</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
-de Havilland Mosquito
+{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "chasseur bombardier" >}}
 {{< exemplaires 7781 >}}
-<p>1941, furtif car en bois, chasseur bombardier</p>
+<p>furtif car en bois</p>
 </div>
 
 <div class="aeronef">
-Hawker Typhoon
-<p>1941, chasseur bombardier</p>
+{{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur bombardier" >}}
 </div>
 
 <div class="aeronef">
-Lavochkin-Gorbunov-Gudkov LaGG-3
+{{< aeronef ":ru:" "Lavochkin-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
 {{< exemplaires 6258 >}}
-<p>1941 </p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-Republic P-47 Thunderbolt
+{{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur lourd et bombardier" >}}
 {{< exemplaires 15660 >}}
-<p>1942, chasseur lourd et bombardier</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka //-->
@@ -187,18 +196,17 @@ Republic P-47 Thunderbolt
 </div>
 
 <div class="aeronef avec_module_dcs">
-North American P-51 Mustang
+{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur" >}}
 {{< exemplaires 15586 >}}
-<p>1942, très long rayon d'action</p>
+<p>Souvent utilisé en escorteur grâce à son long rayon d'action.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-F4U Corsair
+{{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur bombardier embarqué" >}}
 {{< exemplaires 12571 >}}
-<p>1942, embarqué, chasseur bombardier</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "uiGvpu7WXhI" >}} <!-- Yataka //-->
@@ -207,21 +215,18 @@ F4U Corsair
 </div>
 
 <div class="aeronef">
-Yakovlev Yak-9
+{{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" >}}
 {{< exemplaires 16769 >}}
-<p>1942, chasseur</p>
 </div>
 
 <div class="aeronef">
-Lavotchkine La-5
+{{< aeronef ":ru:" "Lavotchkine" "La-5" "1942" >}}
 {{< exemplaires 9920 >}}
-<p>1942</p>
 </div>
 
 <div class="aeronef">
-Grumman F6F Hellcat
+{{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "embarqué" >}}
 {{< exemplaires 12275 >}}
-<p>1943, embarqué</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation //-->
@@ -229,8 +234,7 @@ Grumman F6F Hellcat
 </div>
 
 <div class="aeronef">
-Hawker Tempest
-<p>1944, chasseur bombardier</p>
+{{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
 </div>
 
 <div class="titre_generation">
@@ -239,33 +243,30 @@ Hawker Tempest
 </div>
 
 <div class="aeronef">
-Messerschmitt 262
-<p>1944</p>
+{{< aeronef ":de:" "Messerschmitt" "Me 262" "1944" "chasseur-bombardier">}}
+<p>Premier avion de chasse opérationnel à moteur à réaction de l'histoire. Utilisé à la fin de la seconde guerre mondiale.</p>
 </div>
 
 <div class="aeronef">
-Gloster Meteor
-<p>1944</p>
+{{< aeronef ":gb:" "Gloster" "Meteor" "1944" >}}
+<p>Seul avion à réaction utilisé par les alliés pendant la seconde guerre mondiale.</p>
 </div>
 
 <div class="aeronef">
-P-80 Shooting Star
-<p>1945</p>
+{{< aeronef ":us:" "Lockheed" "P-80 Shooting Star" "1945" >}}
 </div>
 
 <div class="aeronef">
-F-84 Thunderjet
+{{< aeronef ":us:" "Republic" "F-84 Thunderjet" "1947" >}}
 {{< exemplaires 7524 >}}
-<p>1947</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef avec_module_dcs">
-MiG-15 Fagot
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-15 Fagot" "1948" >}}
 {{< exemplaires 18169 >}}
-<p>1948</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "K9UTQs9GHcg" >}} <!-- Drole de machine //-->
@@ -273,23 +274,20 @@ MiG-15 Fagot
 </div>
 
 <div class="aeronef avec_module_dcs">
-F-86 Sabre
+{{< aeronef ":us:" "North American" "F-86 Sabre" "1949" >}}
 {{< exemplaires 9860 >}}
-<p>1949</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef">
-MiG-17 Fresco
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-17 Fresco" "1952" >}}
 {{< exemplaires 10367 >}}
-<p>1952</p>
 </div>
 
 <div class="aeronef">
-CF-100 Canuck
-<p>1953</p>
+{{< aeronef ":canada:" "Avro Canada" "CF-100 Canuck" "1953" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine //-->
@@ -301,34 +299,31 @@ CF-100 Canuck
 </div>
 
 <div class="aeronef">
-F-100 Super Sabre
-<p>1954</p>
+{{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef avec_module_dcs">
-MiG-19 Farmer
-<p>1955</p>
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-19 Farmer" "1955" >}}
 </div>
 
 <div class="aeronef">
-F-102 Delta Dagger
-<p>1956</p>
+{{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" >}}
 </div>
 
 <div class="aeronef">
-F-8 Crusader
-<p>1957, embarqué, voilure à angle de calage variable</p>
+{{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué" >}}
+<p>voilure à angle de calage variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-F-104 Starfighter
-<p>1958, mach 2</p>
+{{< aeronef ":us:" "Lockheed" "F-104 Starfighter" "1958" >}}
+<p>mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine //-->
@@ -336,38 +331,38 @@ F-104 Starfighter
 </div>
 
 <div class="aeronef">
-F-106 Delta Dart
-<p>1959, intercepteur, delta, mach 2.3</p>
+{{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
+<p>delta, mach 2.3</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-Su-9 Fishpof
-<p>1959, intercepteur, delta, mach 2</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-9 Fishpof" "1959" "intercepteur" >}}
+<p>delta, mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-Saab J35 Draken
-<p>1960, double delta, mach 2</p>
+{{< aeronef ":sweden:" "Saab" "J35 Draken" "1960" >}}
+<p>double delta, mach 2</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-MiG-21 Fishbed
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" >}}
 {{< exemplaires 13996 >}}
-<p>1960, delta, mach 2</p>
+<p>delta, mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-Mirage III
-<p>1961, delta, mach 2</p>
+{{< aeronef ":fr:" "Dassault" "Mirage III" "1961" >}}
+<p>delta, mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine //-->
@@ -384,16 +379,14 @@ Mirage III
 </div>
 
 <div class="aeronef">
-F-4 Phantom II
-<p>1960, embarqué</p>
+{{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef avec_module_dcs">
-F-5 Freedom Fighter
-<p>1964, chasse et attaque</p>
+{{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "chasse et attaque" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende //-->                
@@ -401,21 +394,21 @@ F-5 Freedom Fighter
 </div>
 
 <div class="aeronef">
-Su-15 Flagon
-<p>1967, intercepteur, delta, mach 2.1</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
+<p>delta, mach 2.1</p>
 </div>
 
 <div class="aeronef">
-MiG-23 Flogger
-<p>1970, géométrie variable</p>
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" >}}
+<p>géométrie variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-MiG-25 Foxbat
-<p>1972, interception et reconnaissance, mach 3</p>
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
+<p>mach 3</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine //-->
@@ -425,16 +418,15 @@ MiG-25 Foxbat
 </div>
 
 <div class="aeronef avec_module_dcs">
-Saab 37 Viggen
-<p>1972, delta, canards, inversion de poussée</p>
+{{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" >}}
+<p>delta, canards, inversion de poussée</p>
 </div>
 <div class="reportages">
 {{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
 </div>
 
 <div class="aeronef">
-Mirage F1                                         
-<p>1973, reconnaissance et attaque</p>
+{{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel //-->
@@ -444,30 +436,34 @@ Mirage F1
 {{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace //-->
 </div>
 
+<div class="aeronef">
+{{< aeronef ":israel:" "IAI" "Kfir" "1975" >}}
+<p>delta. Basé sur le Mirage 5.</p>
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets quatrième génération</h2>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-F-14 Tomcat
-<p>1974, embarqué, géométrie variable</p>
+{{< aeronef ":us:" "Grumman" "F-14 Tomcat" "1974" "embarqué" >}}
+<p>géométrie variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
-F-15 Eagle
-<p>1976, chasseur lourd, supériorité aérienne</p>
+{{< aeronef ":us:" "McDonnell Douglas" "F-15 Eagle" "1976" "chasseur lourd, supériorité aérienne" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef avec_module_dcs">
-F-16 Fighting Falcon                             
-<p>1978</p>
+{{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" >}}
+<p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel //-->
@@ -481,8 +477,8 @@ F-16 Fighting Falcon
 </div>
 
 <div class="aeronef avec_module_dcs">
-MiG-29 Fulcrum
-<p>1983, super-manœuvrabilité (comportement en post-décrochage)</p>
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" >}}
+<p>super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel //-->
@@ -494,8 +490,7 @@ MiG-29 Fulcrum
 </div>
 
 <div class="aeronef avec_module_dcs">
-F/A-18 Hornet
-<p>1983, embarqué</p>
+{{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende //-->
@@ -508,8 +503,8 @@ F/A-18 Hornet
 </div>
 
 <div class="aeronef avec_module_dcs">
-Mirage 2000
-<p>1984, delta</p>
+{{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" >}}
+<p>delta</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel //-->
@@ -527,8 +522,8 @@ Mirage 2000
 </div>
 
 <div class="aeronef avec_module_dcs">
-Su-27 Flanker
-<p>1985, chasseur lourd, supériorité aérienne, super-manœuvrabilité (comportement en post-décrochage)</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-27 Flanker" "1985" "chasseur lourd, supériorité aérienne" >}}
+<p>super-manœuvrabilité (comportement en post-décrochage)</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo //-->
@@ -541,26 +536,25 @@ Su-27 Flanker
 </div>
 
 <div class="aeronef">
-F-15E Stike Eagle
-<p>1989, chasseur bombardier basé sur le F15</p>
+{{< aeronef ":us:" "McDonnell Douglas" "F-15E Stike Eagle" "1989" "chasseur bombardier" >}}
+<p>Basé sur le F-15.</p>
 </div>
 
 <div class="aeronef">
-Su-34 Fullback
-<p>1990, chasseur bombardier basé sur le Su-27</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
+<p>Basé sur le Su-27.</p>
 </div>
 
 <div class="aeronef">
-F/A-18E/F Super Hornet
-<p>1995, embarqué, basé sur le F/A-18</p>
+{{< aeronef ":us:" "Boeing" "F/A-18E/F Super Hornet" "1995" "embarqué" >}}
+<p>Basé sur le F/A-18.</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "0fM7SUSgFj8" >}}
 </div>
 
 <div class="aeronef avec_module_dcs">
-JF-17 Thunder
-<p>2010</p>
+{{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv //-->
@@ -572,16 +566,16 @@ JF-17 Thunder
 </div>
 
 <div class="aeronef">
-Saab JAS 39 Gripen
-<p>1996, intercepteur, delta, super-manœuvrabilité (canards)</p>
+{{< aeronef ":sweden:" "Saab" "JAS 39 Gripen" "1996" "intercepteur" >}}
+<p>delta, super-manœuvrabilité (canards), supercroisière</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
 </div>
 
 <div class="aeronef">
-Rafale              
-<p>2002, embarqué, delta, super-manœuvrabilité (canards)</p>
+{{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
+<p>delta, super-manœuvrabilité (canards), supercroisière</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel //-->
@@ -601,26 +595,31 @@ Rafale
 </div>
 
 <div class="aeronef">
-Su-30-MKI Flanker-H
-<p>2002, chasseur lourd, supériorité aérienne, super-manœuvrabilité (canards et poussée vectorielle), basé sur le Su-27</p>
+{{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
+<p>super-manœuvrabilité (canards et poussée vectorielle), basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
-Eurofighter Typhoon 
-<p>2004, intercepteur, delta, super-manœuvrabilité (canards)</p>
+{{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "intercepteur" >}}
+<p>delta, super-manœuvrabilité (canards), supercroisière</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
 </div>
 
 <div class="aeronef">
-Su-35 Flanker-E
-<p>2012, chasseur lourd, supériorité aérienne, super-manœuvrabilité (poussée vectorielle), basé sur le Su-27</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-35 Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
+<p>super-manœuvrabilité (poussée vectorielle), basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
-MiG-35 Fulcrum-F
-<p>2017, super-manœuvrabilité (poussée vectorielle), basé sur le MiG-29</p>
+{{< aeronef ":india:" "HAL" "Tejas" "2015" >}}
+<p>très manœuvrant (double delta)</p>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
+<p>super-manœuvrabilité (poussée vectorielle), basé sur le MiG-29</p>
 </div>
 
 <div class="titre_generation">
@@ -629,8 +628,8 @@ MiG-35 Fulcrum-F
 </div>
 
 <div class="aeronef">
-F-22 Raptor
-<p>2005, furtif, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
+{{< aeronef ":us:" "Lockheed Martin" "F-22 Raptor" "2005" "supériorité aérienne" >}}
+<p>furtif, super-manœuvrabilité (poussée vectorielle), supercroisière</p>
 </div>
 <div class="images">
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
@@ -638,8 +637,8 @@ F-22 Raptor
 </div>
 
 <div class="aeronef">
-F-35 Lightning II
-<p>2015, embarqué, furtif, décollage vertical</p>
+{{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
+<p>furtif, décollage vertical</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "zW28Mb1YvwY" >}}
@@ -648,16 +647,16 @@ F-35 Lightning II
 </div>
 
 <div class="aeronef">
-J-20
-<p>2017</p>
+{{< aeronef ":cn:" "Chengdu" "J-20" "2017" >}}
+<p>furtif</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
-Su-57 Felon
-<p>2020, furtif, supériorité aérienne, super-manœuvrabilité (poussée vectorielle)</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-57 Felon" "2020" "supériorité aérienne" >}}
+<p>furtif, super-manœuvrabilité (poussée vectorielle), supercroisière</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "p9133N8uaFY" >}} <!-- aeronewstv //-->
@@ -674,9 +673,9 @@ Su-57 Felon
 </div>
 
 <div class="aeronef">
-Ju 87 Stuka
+{{< aeronef ":de:" "Junkers" "Ju 87 Stuka" "1936" "bombardier en piqué" >}}
 {{< exemplaires 6000 >}}
-<p>1936, bombardier en piqué, sirène</p>
+<p>sirène</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka //-->
@@ -688,130 +687,121 @@ Ju 87 Stuka
 </div>
 
 <div class="aeronef">
-PBY Catalina
-<p>1936, hydravion de patrouille et de bombardement</p>
+{{< aeronef ":gb:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Bristol Blenheim
-<p>1937, bombardier rapide</p>
+{{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo //-->
 </div>
 
 <div class="aeronef">
-Iliouchine Il-2 Chtourmovik
+{{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "avion d'attaque ou bombardier torpilleur" >}}
 {{< exemplaires 36183 >}}
-<p>1941, avion d'attaque ou bombardier torpilleur</p>
 </div>
 
 <div class="aeronef">
-Douglas A-20 Havoc
+{{< aeronef ":us:" "Douglas" "A-20 Havoc" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
-<p>1941, attaque au sol, bombardier léger, chasseur nocturne</p>
 </div>
 
 <div class="aeronef">
-Grumman TBF Avenger
+{{< aeronef ":us:" "Grumman" "TBF Avenger" "1942" "bombardier torpilleur embarqué" >}}
 {{< exemplaires 9836 >}}
-<p>1942, bombardier torpilleur embarqué</p>
 </div>
 
 <div class="aeronef">
-Curtiss SB2C Helldiver
+{{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué" >}}
 {{< exemplaires 7140 >}}
-<p>1943, bombardier en piqué</p>
 </div>
 
 <div class="aeronef">
-A-26 Invader
-<p>1944</p>
+{{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "acX9bpPilkM" >}} <!-- Les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-A-1 Skyraider
-<p>1946, embarqué</p>
+{{< aeronef ":us:" "Douglas" "A-1 Skyraider" "1946" "attaque au sol et appui tactique, embarqué" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Iliouchine Il-2B Beagle
+{{< aeronef ":ru:" "Iliouchine" "Il-2B Beagle" "1950" "bombardier" >}}
 {{< exemplaires 6635 >}}
-<p>1950, bombardier</p>
 </div>
 
 <div class="aeronef">
-A-4 Skyhawk
-<p>1956, embarqué</p>
+{{< aeronef ":us:" "Douglas" "A-4 Skyhawk" "1956" "embarqué" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende //-->                
 </div>
 
 <div class="aeronef">
-F-105 Thunderchief
-<p>1958, chasseur bombardier, mach 2</p>
+{{< aeronef ":us:" "Republic" "F-105 Thunderchief" "1958" "chasseur bombardier" >}}
+<p>mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Étendard IV
-<p>1962, embarqué</p>
+{{< aeronef ":fr:" "Dassault" "Étendard IV" "1962" "embarqué" >}}
 </div>
 
 <div class="aeronef">
-A-6 Intruder
-<p>1963, embarqué</p>
+{{< aeronef ":us:" "Douglas" "A-6 Intruder" "1963" "embarqué" >}}
 </div>
 
 <div class="aeronef">
-F-111 Aardvark
-<p>1967, attaque, bombardement stratégique et reconnaissance</p>
+{{< aeronef ":us:" "General Dynamics" "F-111 Aardvark" "1967" "bombardier tout-temps" >}}
+<p>géométrie variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-A-7 Corsair II
-<p>1967, embarqué</p>
+{{< aeronef ":us:" "Ling-Temco-Vought" "A-7 Corsair II" "1967" "embarqué" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "3DtRkAmKNTk" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-OV-10 Bronco
-<p>1967, reconnaissance et attaque</p>
+{{< aeronef ":us:" "North American" "OV-10 Bronco" "1967" "reconnaissance et attaque au sol" >}}
 </div>
 
-<div class="aeronef avec_module_dcs">
-Harrier
-<p>1969, embarqué, décollage vertical</p>
+<div class="aeronef">
+{{< aeronef ":us:" "Lockheed" "AC-130 Spectre" "1968" "gunship d'attaque au sol et appui aérien rapproché" >}}
+<p>variante du C-130 Hercules</p>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Hawker Siddeley" "Harrier" "1969" "embarqué" >}}
+<p>décollage vertical</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel //-->
 </div>
 
 <div class="aeronef">
-Su-17 Fitter
-<p>1970, géométrie variable</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-17 Fitter" "1970" >}}
+<p>géométrie variable</p>
 </div>
 
 <div class="aeronef">
-SEPECAT Jaguar
-<p>1973</p>
+{{< aeronef ":fr:/:gb:" "SEPECAT" "Jaguar" "1973" >}}
+<p>attaque au sol</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel //-->
@@ -819,13 +809,12 @@ SEPECAT Jaguar
 </div>
 
 <div class="aeronef">
-Su-24 Fencer
-<p>1974, géométrie variable</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-24 Fencer" "1974" "bombardier" >}}
+<p>géométrie variable</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-A-10 Warthog
-<p>1975</p>
+{{< aeronef ":us:" "Fairchild Republic" "A-10 Thunderbold II / Warthog" "1975" "attaque au sol et appui tactique" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende //-->
@@ -842,16 +831,14 @@ A-10 Warthog
 </div>
 
 <div class="aeronef">
-Super Étendard
-<p>1978, embarqué</p>
+{{< aeronef ":fr:" "Dassault" "Super Étendard" "1978" "embarqué" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee //-->
 </div>
 
 <div class="aeronef avec_module_dcs">
-Su-25 Frogfoot
-<p>1981</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-25 Frogfoot" "1981" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "raYB4TWh-W4" >}}
@@ -861,24 +848,28 @@ Su-25 Frogfoot
 </div>
 
 <div class="aeronef">
-Panavia Tornado
-<p>1982, géométrie variable</p>
+{{< aeronef ":de:/:it:/:gb:" "Panavia" "Tornado" "1982" >}}
+<p>géométrie variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "5Trez3StUWQ" >}} <!-- Imineo //-->
 </div>
 
+<div class="aeronef avec_module_dcs">
+{{< aeronef ":us:" "McDonnell Douglas" "AV-8B Harrier II" "1983" "embarqué" >}}
+<p>évolution du Hawker Siddeley Harrier</p>
+</div>
+
 <div class="aeronef">
-F-117 Nighthawk
-<p>1983, furtif</p>
+{{< aeronef ":us:" "Lockheed Martin" "F-117 Nighthawk" "1983" "attaque au sol" >}}
+<p>furtif</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "_h5JiIY8Exo" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
-AMX
-<p>1989</p>
+{{< aeronef ":it:/:brazil:" "AMX International" "AMX" "1988" >}}
 </div>
 
 <div class="titre_generation">
@@ -886,125 +877,113 @@ AMX
 </div>
 
 <div class="aeronef">
-Tupolev SB
+{{< aeronef ":ru:" "Tupolev" "ANT-40 / SB" "1935" "bombardier" >}}
 {{< exemplaires 6656 >}}
-<p>1935, bombardier</p>
 </div>
 
 <div class="aeronef">
-Heinkel He 111
+{{< aeronef ":de:" "Heinkel" "He 111" "1937" "bombardier" >}}
 {{< exemplaires 7300 >}}
-<p>1937, bombardier</p>
 </div>
 
 <div class="aeronef">
-B-17 Flying Fortress
+{{< aeronef ":us:" "Boeing" "B-17 Flying Fortress" "1938" "bombardier lourd" >}}
 {{< exemplaires 12731 >}}
-<p>1938, bombardier lourd</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "_ctKDdsJ774" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Vickers Wellington
+{{< aeronef ":gb:" "Vickers" "Wellington" "1938" "bombardier moyen, patrouilleur maritime" >}}
 {{< exemplaires 11461 >}}
-<p>1938, bombardier moyen</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "e4EL0tuOm4o" >}} <!-- Imineo //-->
 </div>
 
 <div class="aeronef">
-Junkers Ju 88
+{{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen" >}}
 {{< exemplaires 15183 >}}
-<p>1939, bombardier moyen</p>
 </div>
 
 <div class="aeronef">
-B-24 Liberator
+{{< aeronef ":us:" "Consolidated" "B-24 Liberator" "1941" "bombardier lourd, chasseur de sous marin" >}}
 {{< exemplaires 18482 >}}
-<p>1941, bombardier lourd</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "dq7Wpq00NJc" >}} <!-- Cap Aviation //-->
 </div>
 
 <div class="aeronef">
-B-25 Mitchell
+{{< aeronef ":us:" "North American" "B-25 Mitchell" "1941" "bombardier moyen" >}}
 {{< exemplaires 9984 >}}
-<p>1940, bombardier moyen</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Handley Page Halifax
-{{< exemplaires 6176 >}}
-<p>1940, bombardier lourd</p>
+{{< aeronef ":gb:" "Short" "Stirling" "1940" "bombardier lourd" >}}
+<p>Premier bombardier lourd quadrimoteur</p>
 </div>
 
 <div class="aeronef">
-B-26 Marauder
-<p>1941, bombardier moyen</p>
+{{< aeronef ":gb:" "Handley Page" "Halifax" "1940" "bombardier lourd" >}}
+{{< exemplaires 6176 >}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "Martin" "B-26 Marauder" "1941" "bombardier moyen" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-Petlyakov Pe-2 Buck
+{{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier" >}}
 {{< exemplaires 11427 >}}
-<p>1941, bombardier</p>
 </div>
 
 <div class="aeronef">
-Avro Lancaster
+{{< aeronef ":gb:" "Avro" "Lancaster" "1942" "bombardier lourd" >}}
 {{< exemplaires 7377 >}}
-<p>1942, bombardier lourd</p>
 </div>
 
 <div class="aeronef">
-B-36 Peacemaker
-<p>1949, bombardier stratégique lourd à long rayon d'action</p>
+{{< aeronef ":us:" "Convair" "B-36 Peacemaker" "1949" "bombardier stratégique lourd à long rayon d'action" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-B-47 Stratojet
-<p>1952, bombardier moyen à long rayon d'action</p>
+{{< aeronef ":us:" "Boeing" "B-47 Stratojet" "1952" "bombardier moyen à long rayon d'action" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "Kk3GfN6lKtY" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-B-52 Stratofortress
-<p>1952, bombardier lourd</p>
-</div>
-<div class="reportages">
-{{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv //-->
-</div>
-
-<div class="aeronef">
-M-4 Bison
-<p>1953, bombardier lourd</p>
+{{< aeronef ":ru:" "Miassichtchev" "M-4 Bison" "1953" "bombardier stratégique lourd" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "t_rnMnEf0vc" >}} <!-- Drole de machine //-->
 </div>
 
 <div class="aeronef">
-A-3 Skywarrier
-<p>1956, embarqué, bombardier stratégique</p>
+{{< aeronef ":us:" "Boeing" "B-52 Stratofortress" "1955" "bombardier stratégique lourd à long rayon d'action" >}}
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">
-Tu-95 Bear
-<p>1956, bombardier lourd</p>
+{{< aeronef ":us:" "Douglas" "A-3 Skywarrier" "1956" "bombardier stratégique embarqué" >}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Tupolev" "Tu-95 Bear" "1956" "bombardier lourd" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider //-->
@@ -1012,29 +991,27 @@ Tu-95 Bear
 </div>
 
 <div class="aeronef">
-B-58 Hustler
-<p>1960</p>
+{{< aeronef ":us:" "Convair" "B-58 Hustler" "1960" "bombardier stratégique supersonique" >}}
+<p>delta, mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "dvtV0GVtQt8" >}} <!-- les ailes de legende //-->
 </div>
 
 <div class="aeronef">
-A-5 Skyraider
-<p>1961, embarqué, dissuasion nucléaire et reconnaissance</p>
+{{< aeronef ":us:" "North American" "A-5 Vigilante" "1961" "embarqué, dissuasion nucléaire et reconnaissance" >}}
 </div>
 
 <div class="aeronef">
-Tu-22 Blinder
-<p>1962</p>
+{{< aeronef ":ru:" "Tupolev" "Tu-22 Blinder" "1962" "bombardier supersonique, reconnaissance" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "IfRBbJCU-WQ" >}} <!-- Yataka //-->
 </div>
 
 <div class="aeronef">
-XB-70 Valkyrie
-<p>1964, prototype</p>
+{{< aeronef ":us:" "North American" "XB-70 Valkyrie" "1964" "prototype de bombardier stratégique" >}}
+<p>mach 3</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lKRnehhZfFY" >}} <!-- les ailes de legende //-->
@@ -1042,16 +1019,15 @@ XB-70 Valkyrie
 </div>
 
 <div class="aeronef">
-Mirage IV
-<p>1964, dissuasion nucléaire et reconnaissance</p>
+{{< aeronef ":fr:" "Dassault" "Mirage IV" "1964" "dissuasion nucléaire et reconnaissance" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel //-->
 </div>
 
 <div class="aeronef">
-Tu-22M Backfire
-<p>1972, bombardier lourd, géométrie variable</p>
+{{< aeronef ":ru:" "Tupolev" "Tu-22M Backfire" "1972" "bombardier lourd supersonique à long rayon d'action" >}}
+<p>géométrie variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider //-->
@@ -1059,8 +1035,8 @@ Tu-22M Backfire
 </div>
 
 <div class="aeronef">
-B-1 Lancer
-<p>1986, géométrie variable, long rayon d'action</p>
+{{< aeronef ":us:" "Rockwell" "B-1 Lancer" "1986" "bombardier stratégique supersonique à long rayon d'action" >}}
+<p>géométrie variable</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider //-->
@@ -1069,8 +1045,8 @@ B-1 Lancer
 </div>
 
 <div class="aeronef">
-Tu-160 Blackjack
-<p>1987, bombardier lourd, mach 2.1</p>
+{{< aeronef ":ru:" "Tupolev" "Tu-160 Blackjack" "1987" "bombardier stratégique supersonique lourd" >}}
+<p>le plus gros et lourd avion de combat au monde, mach 2.1</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider //-->
@@ -1078,8 +1054,8 @@ Tu-160 Blackjack
 </div>
 
 <div class="aeronef">
-B-2 Spirit
-<p>1997, furtif, aile volante</p>
+{{< aeronef ":us:" "Northrop" "B-2 Spirit" "1997" "bombardier stratégique" >}}
+<p>furtif, aile volante, l'avion le plus cher au monde</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider //-->

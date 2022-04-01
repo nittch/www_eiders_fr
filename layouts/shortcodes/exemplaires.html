@@ -1,16 +1,6 @@
 <div class="exemplaires">
-{{ .Get 0 }} exemplaires
-
-{{ if gt ( .Get 0 ) 10000}}
-{{ ":star:" | emojify }}
-{{ end }}
-
-{{ if gt ( .Get 0 ) 20000}}
-{{ ":star:" | emojify }}
-{{ end }}
-
-{{ if gt ( .Get 0 ) 30000}}
-{{ ":star:" | emojify }}
-{{ end }}
-
+{{ div (.Get 0) 1000 }} {{ printf "%03d" (mod (.Get 0) 1000) }} exemplaires
+{{ if gt ( .Get 0 ) 10000}}{{ ":star:" | emojify }}{{ end }}
+{{ if gt ( .Get 0 ) 20000}}{{ ":star:" | emojify }}{{ end }}
+{{ if gt ( .Get 0 ) 30000}}{{ ":star:" | emojify }}{{ end }}
 </div>

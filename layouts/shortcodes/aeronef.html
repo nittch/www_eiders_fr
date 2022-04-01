@@ -1,0 +1,10 @@
+<div class="titre">
+<span class="drapeau">{{ .Get 0 | emojify }}</span>
+<span class="marque">{{ .Get 1 }}</span>
+<span class="modele">{{ .Get 2 }}</span>
+{{ if in ( .Get 4 ) "embarqué" }}{{ ":anchor:" | emojify }}{{ end }}
+{{ if in ( .Get 4 ) "prototype" }}{{ ":book:" | emojify }}{{ end }}
+<br />
+<span class="date">{{ .Get 3 }}</span>
+<span class="type">{{ if ne ( .Get 4 ) "" }} &mdash; {{ end }}{{ .Get 4 }}</span>
+</div>

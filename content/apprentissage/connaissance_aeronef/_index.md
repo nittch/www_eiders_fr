@@ -307,18 +307,25 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" "chasseur bombardier" >}}
+{{< mach 1.4 >}}
 <p>Premier avion de l'USAF à franchir le mur du son en pallier.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->
+{{< ressource-video-youtube "NnDKHfZsy8Q" >}} <!-- drole de machines -->
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-19 Farmer" "1955" >}}
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-19 Farmer" "1955" "chasseur" >}}
+{{< mach 1.35 >}}
+<p>
+Premier avion supersonique massivement produit.<br />
+Premier avion soviétique passant le mur du son en pallier.
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" "intercepteur" >}}
+{{< mach 1.25 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à suivre la loi des aires dans son design.</p>
@@ -326,6 +333,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" "chasseur bombardier, ou intercepteur" >}}
+{{< mach 1.72 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à franchir les 1000 mph (1600 km/h).</p>
@@ -333,6 +341,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué" >}}
+{{< mach 1.72 >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>Voilure à angle de calage variable.</p>
 </div>
@@ -342,6 +351,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "F-104 Starfighter" "1958" "intercepteur" >}}
+{{< mach 2.2 >}}
 <p>
 Premier avion de combat capable d'aller à mach 2.<br />
 Le seul avion de l'histoire à détenir simultanément le record de vitesse et d'altitude.
@@ -354,6 +364,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
+{{< mach 2.39 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
 {{< caracteristique "Datalink SAGE" >}}
@@ -365,7 +376,8 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-9 Fishpof" "1959" "intercepteur" >}}
-<p>delta, mach 2</p>
+{{< mach 1.8 >}}
+<p>Delta</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine -->
@@ -373,10 +385,9 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "J35 Draken" "1960" >}}
+{{< mach 2.0 >}}
 {{< caracteristique "super-manœvrabilité (double-delta, cobra = Kort Parad)" >}}
 {{< caracteristique "veille infrarouge" >}}
-
-<p>mach 2</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "jqiDEcfSnXs" >}}
@@ -385,16 +396,22 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" >}}
 {{< exemplaires 13996 >}}
+{{< mach 2.05 >}}
 {{< caracteristique "super-manœvrabilité (delta, cobra)" >}}
-<p>delta, mach 2</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
+{{< aeronef ":gb:" "English Electric" "Lightning" "1960" "intercepteur" >}}
+{{< mach 2.3 >}}
+</div>
+
+<div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage III" "1961" >}}
-<p>delta, mach 2</p>
+{{< mach 2.2 >}}
+<p>Delta</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine -->
@@ -420,15 +437,18 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur" >}}
+{{< mach 2.23 >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.</p>
+<p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.<br />
+Neuf points d'emports.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "chasse et attaque" >}}
+{{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "avion de chasse léger et attaque" >}}
+{{< mach 1.63 >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->
@@ -437,11 +457,13 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
-<p>delta, mach 2.1</p>
+{{< mach 2.1 >}}
+<p>delta</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" >}}
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" "chasseur bombardier" >}}
+{{< mach 2.35 >}}
 {{< caracteristique "veille infrarouge" >}}
 <p> Géométrie variable. <br /> Premier radar soviétique look-down/shoot-down.</p>
 </div>
@@ -451,8 +473,8 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
+{{< mach 3.2 >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>mach 3</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine -->
@@ -463,6 +485,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" "attaque, chasse, reconnaissance" >}}
+{{< mach 2.1 >}}
 {{< caracteristique "manœuvrabilité (delta, canards)" >}}
 {{< caracteristique "atterrissage court (inversion de poussée)" >}}
 </div>
@@ -476,6 +499,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
+{{< mach 2.2 >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel -->
@@ -487,7 +511,8 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":israel:" "IAI" "Kfir" "1975" >}}
-<p>delta. Basé sur le Mirage 5.</p>
+{{< mach 2.3 >}}
+<p>Delta. Basé sur le Mirage 5.</p>
 </div>
 
 <div class="titre_generation">
@@ -504,7 +529,8 @@ On peut citer différents aspects : <ul>
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "Grumman" "F-14 Tomcat" "1974" "embarqué" >}}
+{{< aeronef ":us:" "Grumman" "F-14 Tomcat" "1974" "embarqué, intercepteur, supériorité aérienne, multirôle" >}}
+{{< mach 2.4 >}}
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
@@ -513,6 +539,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15 Eagle" "1976" "chasseur lourd, supériorité aérienne" >}}
+{{< mach 2.5 >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende -->
@@ -520,6 +547,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" >}}
+{{< mach 2.05 >}}
 <p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
@@ -535,12 +563,14 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-31 Foxhound" "1981" "intercepteur et attaque" >}}
+{{< mach 2.83 >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>Basé sur le MiG-25. Radar PESA, Datalink.</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" >}}
+{{< mach 2.3 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
 {{< caracteristique "veille infrarouge" >}}
 </div>
@@ -555,6 +585,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué" >}}
+{{< mach 1.8 >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende -->
@@ -568,6 +599,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" >}}
+{{< mach 2.2 >}}
 {{< caracteristique "manœuvrabilité (delta)" >}}
 {{< caracteristique "veille infrarouge limitée" >}}
 </div>
@@ -588,8 +620,10 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-27 Flanker" "1985" "chasseur lourd, supériorité aérienne" >}}
+{{< mach 2.35 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
 {{< caracteristique "veille infrarouge" >}}
+<p>longue portée</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo -->
@@ -603,11 +637,13 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Stike Eagle" "1989" "chasseur bombardier" >}}
+{{< mach 2.15 >}}
 <p>Basé sur le F-15.</p>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
+{{< mach 1.8 >}}
 <p>Basé sur le Su-27.</p>
 </div>
 
@@ -627,6 +663,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "F/A-18E/F Super Hornet" "1995" "embarqué" >}}
+{{< mach 1.8 >}}
 <p>Basé sur le F/A-18.</p>
 </div>
 <div class="images">
@@ -635,6 +672,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "JAS 39 Gripen" "1996" "intercepteur" >}}
+{{< mach 2 >}}
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.1" >}}
 </div>
@@ -645,6 +683,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
+{{< mach 1.8 >}}
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.4" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
@@ -668,13 +707,15 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
+{{< mach 2.0 >}}
 {{< caracteristique "super-manœuvrabilité (canards, poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "intercepteur" >}}
+{{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "multirôle et supériorité aérienne" >}}
+{{< mach 2.0 >}}
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
@@ -685,6 +726,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
+{{< mach 1.8 >}}
 {{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
@@ -693,19 +735,22 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-35 Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
+{{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":india:" "HAL" "Tejas" "2015" >}}
+{{< aeronef ":india:" "HAL" "Tejas" "2015" "chasseur léger multirôle" >}}
+{{< mach 1.6 >}}
 {{< caracteristique "manœuvrabilité (double-delta)">}}
 {{< caracteristique "veille infrarouge" >}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
+{{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>basé sur le MiG-29</p>
@@ -727,6 +772,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-22 Raptor" "2005" "supériorité aérienne" >}}
+{{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "furtif" >}}
@@ -738,6 +784,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
+{{< mach 1.4 >}}
 {{< caracteristique "furtif" >}}
 {{< caracteristique "décollage vertical" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
@@ -749,7 +796,8 @@ On peut citer différents aspects : <ul>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":cn:" "Chengdu" "J-20" "2017" >}}
+{{< aeronef ":cn:" "Chengdu" "J-20" "2017" "supériorité aérienne" >}}
+{{< mach 2.5 >}}
 {{< caracteristique "furtif" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
@@ -759,6 +807,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-57 Felon" "2020" "supériorité aérienne" >}}
+{{< mach 2.1 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle), cobra, herbst, kulbit" >}}
 {{< caracteristique "supercroisière mach 1.6" >}}
 {{< caracteristique "furtif" >}}
@@ -870,6 +919,7 @@ On peut citer différents aspects : <ul>
 
 <div class="aeronef">
 {{< aeronef ":us:" "General Dynamics" "F-111 Aardvark" "1967" "bombardier tout-temps" >}}
+{{< mach 2.5 >}}
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
@@ -911,7 +961,8 @@ On peut citer différents aspects : <ul>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":fr:/:gb:" "SEPECAT" "Jaguar" "1973" >}}
+{{< aeronef ":fr:/:gb:" "SEPECAT" "Jaguar" "1973" "avion d'attaque" >}}
+{{< mach 1.6 >}}
 <p>attaque au sol</p>
 </div>
 <div class="reportages">

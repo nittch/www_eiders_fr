@@ -311,10 +311,17 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" >}}
+{{< caracteristique "veille infrarouge" >}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" >}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>voilure à angle de calage variable</p>
 </div>
 <div class="reportages">
@@ -332,6 +339,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>delta, mach 2.3</p>
 </div>
 <div class="reportages">
@@ -349,6 +357,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "J35 Draken" "1960" >}}
 {{< caracteristique "super-manœvrabilité (double-delta, cobra = Kort Parad)" >}}
+{{< caracteristique "veille infrarouge" >}}
+
 <p>mach 2</p>
 </div>
 <div class="images">
@@ -385,6 +395,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué" >}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->
@@ -405,6 +416,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
@@ -413,6 +425,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>mach 3</p>
 </div>
 <div class="reportages">
@@ -489,6 +502,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel -->
@@ -515,6 +529,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" >}}
 {{< caracteristique "manœuvrabilité (delta)" >}}
+{{< caracteristique "veille infrarouge limitée" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel -->
@@ -534,6 +549,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-27 Flanker" "1985" "chasseur lourd, supériorité aérienne" >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo -->
@@ -582,6 +598,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.4" >}}
+{{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel -->
@@ -603,6 +620,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
 {{< caracteristique "super-manœuvrabilité (canards, poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>basé sur le Su-27</p>
 </div>
 
@@ -610,6 +628,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "intercepteur" >}}
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
+{{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -617,6 +636,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv -->
@@ -625,17 +645,20 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-35 Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":india:" "HAL" "Tejas" "2015" >}}
 {{< caracteristique "manœuvrabilité (double-delta)">}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< caracteristique "veille infrarouge" >}}
 <p>basé sur le MiG-29</p>
 </div>
 
@@ -659,6 +682,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
 {{< caracteristique "furtif" >}}
 {{< caracteristique "décollage vertical" >}}
+{{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "zW28Mb1YvwY" >}}
@@ -669,6 +693,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":cn:" "Chengdu" "J-20" "2017" >}}
 {{< caracteristique "furtif" >}}
+{{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv -->
@@ -679,6 +704,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle), cobra, herbst, kulbit" >}}
 {{< caracteristique "supercroisière mach 1.6" >}}
 {{< caracteristique "furtif" >}}
+{{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "p9133N8uaFY" >}} <!-- aeronewstv -->
@@ -884,6 +910,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "AV-8B Harrier II" "1983" "embarqué" >}}
+{{< caracteristique "manœvrabilité (VIFFing = Vector in Forward Flight)" >}}
+{{< caracteristique "decollage vertical" >}}
+{{< caracteristique "FLIR" >}}
 <p>évolution du Hawker Siddeley Harrier</p>
 </div>
 

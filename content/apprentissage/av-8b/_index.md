@@ -27,3 +27,19 @@ weight = 11
 {{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
 {{< ressource-playlist-youtube "PLml_c09ciucvv3CIsWImCEqY5XIdbfPxu" >}}
 </div>
+
+<div class="contenu"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjXR5AgHPbQTs4ib30vyDQum" >}}
+</div>
+
+<div class="contenu"> <!-- Pukin Dog //-->
+{{< canal-youtube "id" "UCbRuGy5Hr4QbNNij8OMWDNw" >}}
+{{< ressource-playlist-youtube "PLvzF0eq1q93nSoy6NaOCEgAd3zT5ez3Xh" >}}
+</div>
+
+<div class="contenu"> <!-- Growling Sidewinder //-->
+{{< canal-youtube "id" "UCh2rDh7vXGeoh1LlzL3QEwg" >}}
+{{< ressource-video-youtube "r1cxN2_geYg" >}}
+</div>
+

@@ -85,6 +85,11 @@ weight = 8
 {{< ressource-playlist-youtube "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" >}}
 </div>
 
+<div class="contenu"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjUNBp6K5JLeoH-yXLrOYJ1R" >}}
+</div>
+
 <div class="contenu"> <!-- Boyington //-->
 {{< canal-web "Boyington" >}}
 {{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3315085/" "F/A-18C Weapons and Loadout" >}}

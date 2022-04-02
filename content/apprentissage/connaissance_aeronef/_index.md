@@ -301,12 +301,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <li />supersoniques en palier
 <li />le canon s'est avéré inadaptés à de telles vitesses. De grands progrès concernant les radars et les missiles infrarouges.
 <li />redécouverte de l'intérêt d'avoir des avions multi-rôles alors que des intercepteurs allant à Mach 2 (grâce à l'utilisation de post-combustion) apparaissent.
-<li />un grand nombre d'avions devenant obsolètes très rapidement (exemple: Century series = F-100s)
+<li />un grand nombre d'avions devenant obsolètes très rapidement (exemple: Century series = F-100s qui ont battu nombre de records à la chaine)
 </p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" >}}
+{{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" "chasseur bombardier" >}}
+<p>Premier avion de l'USAF à franchir le mur du son en pallier.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->
@@ -317,27 +318,34 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" >}}
+{{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" "intercepteur" >}}
+{{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
+<p>Premier avion de l'USAF à suivre la loi des aires dans son design.</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" >}}
+{{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" "chasseur bombardier, ou intercepteur" >}}
+{{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
+<p>Premier avion de l'USAF à franchir les 1000 mph (1600 km/h).</p>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>voilure à angle de calage variable</p>
+<p>Voilure à angle de calage variable.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Lockheed" "F-104 Starfighter" "1958" >}}
-<p>mach 2</p>
+{{< aeronef ":us:" "Lockheed" "F-104 Starfighter" "1958" "intercepteur" >}}
+<p>
+Premier avion de combat capable d'aller à mach 2.<br />
+Le seul avion de l'histoire à détenir simultanément le record de vitesse et d'altitude.
+</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine -->
@@ -346,6 +354,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
+{{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>delta, mach 2.3</p>
 </div>
@@ -409,8 +418,9 @@ On peut citer différents aspects : <ul>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué" >}}
+{{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur" >}}
 {{< caracteristique "veille infrarouge" >}}
+<p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->
@@ -432,7 +442,7 @@ On peut citer différents aspects : <ul>
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>géométrie variable</p>
+<p> Géométrie variable. <br /> Premier radar soviétique look-down/shoot-down.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine -->
@@ -486,7 +496,7 @@ On peut citer différents aspects : <ul>
 <li />grande maniabilité en dogfight (exemple : Su-27 avec sa forte poussée et son aérodynamisme améliorant le comportement en post-décrochage)
 <li />avions d'avantage taillés pour le BVR (missiles Fox1/Fox3 au delà de la portée visuelle)
 <li />utilisation de commandes numériques (exemple : écrans DDI)
-<li />avionique modulaire (exemple: mise à niveau en radar AESA possible sur Mirage 2000)
+<li />avionique modulaire (exemple: mise à niveau en radar AESA possible sur Mirage 2000, ou bien la série américaine "Teen Series" - F-14, F-15, F-16, FA-18 - qui a pu être mise à niveau dans le temps)
 </ul>
 </p>
 </div>
@@ -1208,6 +1218,12 @@ On peut citer différents aspects : <ul>
 <div class="contenu">
 {{< canal-web "Wikipedia" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack Aircraft" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack aircraft" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Century_Series" "Century_Series" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Teen_Series" "Teen Series" >}}
+{{< ressource-web "ttps://en.wikipedia.org/wiki/Jet_fighter_generations" "Jet fighter generations" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fourth-generation_fighter" "Fourth generation fighter" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fifth-generation_fighter" "Fifth generation fighter" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Look-down/shoot-down" "Look-down/shoot-down" >}}
 </div>

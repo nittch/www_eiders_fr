@@ -261,7 +261,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 7524 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -278,7 +278,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9860 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -302,7 +302,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -327,7 +327,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine -->
-{{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -387,14 +387,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "chasse et attaque" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine -->
 </div>
 
@@ -468,7 +468,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "McDonnell Douglas" "F-15 Eagle" "1976" "chasseur lourd, supériorité aérienne" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -575,6 +575,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 <div class="images">
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
+{{< ressource-video-youtube "eXaPfUs6sQw" >}}
 </div>
 
 <div class="aeronef">
@@ -764,7 +765,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Douglas" "A-4 Skyhawk" "1956" "embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -849,7 +850,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
 {{< ressource-video-youtube "gHsxwaPDza8" >}}
-{{< ressource-video-youtube "PSwNVJYUXtw" >}} 
+{{< ressource-video-youtube "PSwNVJYUXtw" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "gEokB_9N0Aw" >}}

@@ -239,7 +239,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h2>Chasseurs jets première génération</h2>
-<p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes).</p>
+<p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes). <ul>
+<li />Utilisation d'ailes en flèche pour approcher le mur du son (mais sans grande manœvrabilité), dédiés à l'interception ou la supériorité aérienne (exemples: MiG-15 ou F-86).</p>
+</ul>
 </div>
 
 <div class="aeronef">
@@ -295,7 +297,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h2>Chasseurs jets seconde génération</h2>
-<p>1950-1960 : supersonique en palier, radar, premiers missiles air-air.</p>
+<p>1950-1960 : après la guerre de Corée, il a fallu adapter de nombreuses stratégies. <ul>
+<li />supersoniques en palier
+<li />le canon s'est avéré inadaptés à de telles vitesses. De grands progrès concernant les radars et les missiles infrarouges.
+<li />redécouverte de l'intérêt d'avoir des avions multi-rôles alors que des intercepteurs allant à Mach 2 (grâce à l'utilisation de post-combustion) apparaissent.
+<li />un grand nombre d'avions devenant obsolètes très rapidement (exemple: Century series = F-100s)
+</p>
 </div>
 
 <div class="aeronef">
@@ -390,7 +397,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h2>Chasseurs jets troisième génération</h2>
-<p>1960-1975 : chasseurs-bombardiers multi-rôle.</p>
+<p>1960-1975 : des chasseurs pensés pour être multi-rôles dès la conception.
+On peut citer différents aspects : <ul>
+<li />radar à capacités de guidage BVR, capacité "look down/shoot down" impliquant un filtrage électronique doppler, utilisation de missiles
+<li />vaste gamme d'armements, avec des missiles air-sols aux bombes guidées laser tout en pouvant aussi engager des cibles en BVR.
+<li />réduction de la consommation (améliorant la distance parcourable)
+<li />utilisation de géométries variables
+<li />apparition d'avertisseurs de proximité sol
+</ul>
+</p>
 </div>
 
 <div class="aeronef">
@@ -466,7 +481,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h2>Chasseurs jets quatrième génération</h2>
-<p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse</p>
+<p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse. On peut citer certains aspects : <ul>
+<li />instable par design, rendu possible grâce aux commandes de vol électriques (exemple: F-16)
+<li />grande maniabilité en dogfight (exemple : Su-27 avec sa forte poussée et son aérodynamisme améliorant le comportement en post-décrochage)
+<li />avions d'avantage taillés pour le BVR (missiles Fox1/Fox3 au delà de la portée visuelle)
+<li />utilisation de commandes numériques (exemple : écrans DDI)
+<li />avionique modulaire (exemple: mise à niveau en radar AESA possible sur Mirage 2000)
+</ul>
+</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -573,7 +595,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
-<p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
+<p>La génération 4.5 correspond souvent aux nouveaux avions, ou aux versions mises à jours au début des années 90. Ils comprennent certaines capacités de cinquième génération, sans toutes les avoir. Ces capacités peuvent comprendre : <ul>
+<li />intégration avancée des capteurs (meilleure Situation Awareness)
+<li />radar AESA (sans partie mécanique, avec un scan plus précis)
+<li />supercroisière (capacités à rester supersonique sans post-combustion, réduisant la consommation et la signature thermique)
+<li />super-manœuvrabilité (utilisation plus généralisée de canards ou de poussée vectorielle, ou de meilleurs ratios poussée/poids)
+<li />capacité multi-rôle étendue
+<li />réduction de la surface équivalente radar (utilisation de matériaux absorbants ou composites)
+<li />intégration de la veille infrarouge (on peut citer l'Optronique Secteur Frontal du Rafale ou le PIRATE-IRST du Typhoon)
+</ul>
 </div>
 
 <div class="aeronef">
@@ -664,7 +694,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h2>Chasseurs jets cinquième génération</h2>
-<p>depuis 2005 : avionique intégrée avancée (souvent tout écran avec glass cockpit), techniques avancées de furtivité.</p>
+<p>depuis 2005 : on peut citer plusieurs aspects : <ul>
+<li />furtivité, avec les munitions dans une soute interne
+<li />super-manœuvrabilité (avec souvent atterrissage court)
+<li />supercroisière
+<li />radar AESA, opérant dans plusieurs modes à la fois, avec capacité LPIR (low probability of intercept radar = invisible au RWR adverse)
+<li />fusion de donnée avec l'utilisation d'IA (améliorant la situation awareness)
+<li />capacité multirôle, y compris Battlefield C3 (réduisant le besoin d'AWACS sur le champ de bataille)
+<li />Software Defined Aircraft (permettant la mise à jour de l'avionique par mise à jour logicielle)
+<li />smart helmets
+</ul>
 </div>
 
 <div class="aeronef">

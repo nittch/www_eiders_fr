@@ -356,7 +356,8 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>delta, mach 2.3</p>
+{{< caracteristique "Datalink SAGE" >}}
+<p>Utilisation d'une aile delta, mach 2.3.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine -->
@@ -408,8 +409,8 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <h2>Chasseurs jets troisième génération</h2>
 <p>1960-1975 : des chasseurs pensés pour être multi-rôles dès la conception.
 On peut citer différents aspects : <ul>
-<li />radar à capacités de guidage BVR, capacité "look down/shoot down" impliquant un filtrage électronique doppler, utilisation de missiles
-<li />vaste gamme d'armements, avec des missiles air-sols aux bombes guidées laser tout en pouvant aussi engager des cibles en BVR.
+<li />radar à capacités de guidage BVR, capacité "look down/shoot down" impliquant un filtrage électronique doppler, utilisation de missiles adaptés
+<li />vaste gamme d'armements, allant des missiles air-sols aux bombes guidées laser tout en pouvant aussi engager des cibles en BVR
 <li />réduction de la consommation (améliorant la distance parcourable)
 <li />utilisation de géométries variables
 <li />apparition d'avertisseurs de proximité sol
@@ -492,11 +493,12 @@ On peut citer différents aspects : <ul>
 <div class="titre_generation">
 <h2>Chasseurs jets quatrième génération</h2>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse. On peut citer certains aspects : <ul>
-<li />instable par design, rendu possible grâce aux commandes de vol électriques (exemple: F-16)
-<li />grande maniabilité en dogfight (exemple : Su-27 avec sa forte poussée et son aérodynamisme améliorant le comportement en post-décrochage)
-<li />avions d'avantage taillés pour le BVR (missiles Fox1/Fox3 au delà de la portée visuelle)
+<li />grande manœvrabilité avec des avions instables par design, ceci rendu possible grâce aux commandes de vol électriques (exemple: F-16)
 <li />utilisation de commandes numériques (exemple : écrans DDI)
-<li />avionique modulaire (exemple: mise à niveau en radar AESA possible sur Mirage 2000, ou bien la série américaine "Teen Series" - F-14, F-15, F-16, FA-18 - qui a pu être mise à niveau dans le temps)
+<li />utilisation de data-link pour communiquer avec l'AWACS
+<li />côté soviétique, une grande maniabilité en dogfight (exemple : Su-27 avec sa forte poussée et son aérodynamisme améliorant le comportement en post-décrochage)
+<li />côté américain, des avions d'avantage taillés pour le BVR (missiles Fox1/Fox3 au delà de la portée visuelle), abandonnant la veille infrarouge
+<li />la longévité des avions de cette génération est remarquable (la "Teen Series" américaine - F-14, F-15, F-16, F/A-18, ou les soviétiques MiG-29 et Su-27 sont pour certains toujours en service aujourd'hui). Ceci s'explique en partie avec une avionique modulaire, permettant une mise à niveau dans le temps (exemple: mise à niveau en radar AESA possible sur Mirage 2000).
 </ul>
 </p>
 </div>
@@ -529,6 +531,12 @@ On peut citer différents aspects : <ul>
 {{< ressource-video-youtube "m06uWM_tABM" >}}
 {{< ressource-video-youtube "tdczvix3EiE" >}}
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-31 Foxhound" "1981" "intercepteur et attaque" >}}
+{{< caracteristique "veille infrarouge" >}}
+<p>Basé sur le MiG-25. Radar PESA, Datalink.</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -612,7 +620,8 @@ On peut citer différents aspects : <ul>
 <li />super-manœuvrabilité (utilisation plus généralisée de canards ou de poussée vectorielle, ou de meilleurs ratios poussée/poids)
 <li />capacité multi-rôle étendue
 <li />réduction de la surface équivalente radar (utilisation de matériaux absorbants ou composites)
-<li />intégration de la veille infrarouge (on peut citer l'Optronique Secteur Frontal du Rafale ou le PIRATE-IRST du Typhoon)
+<li />les progrès en matière de furtivité ont ramené le besoin d'une intégration de la veille infrarouge, mise de côté en occident (on peut citer l'Optronique Secteur Frontal du Rafale ou le PIRATE-IRST du Typhoon)
+<li />un data-link de grande capacité
 </ul>
 </div>
 

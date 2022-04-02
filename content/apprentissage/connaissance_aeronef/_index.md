@@ -40,7 +40,7 @@ weight = 2
     color: grey;
   }
 
-  .aeronef .exemplaires {
+  .aeronef .caracteristique {
     padding-right: 0.2em;
     text-align: right;
 
@@ -92,8 +92,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 34852 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka //-->
-{{< ressource-video-youtube "22tVIa2BPu8" >}} <!-- La 2nd Guerre Mondiale //-->
+{{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka -->
+{{< ressource-video-youtube "22tVIa2BPu8" >}} <!-- La 2nd Guerre Mondiale -->
 </div>
 
 <div class="aeronef">
@@ -101,7 +101,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 14583 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation //-->
+{{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -109,8 +109,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 20351 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel //-->
-{{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka -->
 </div>
 
 <div class="aeronef">
@@ -119,7 +119,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>Très maniable, une grande puissance de feu mais aucun blindage.</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "Mal9vqxk7N4" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "Mal9vqxk7N4" >}} <!-- Yataka -->
 </div>
 
 <div class="aeronef">
@@ -137,7 +137,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 13738 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "F29Z9qh3U9I" >}} <!-- Les ailes de legende //-->
+{{< ressource-video-youtube "F29Z9qh3U9I" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -150,7 +150,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9584 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "uuONOqGRL7M" >}} <!-- Les ailes de legende //-->
+{{< ressource-video-youtube "uuONOqGRL7M" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -159,7 +159,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>bimoteur bipoutre, long rayon d'action</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -167,13 +167,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 20051 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo //-->
+{{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo -->
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "chasseur bombardier" >}}
 {{< exemplaires 7781 >}}
-<p>furtif car en bois</p>
+{{< caracteristique "faible signature radar car en bois" >}}
 </div>
 
 <div class="aeronef">
@@ -190,9 +190,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 15660 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka //-->
-{{< ressource-video-youtube "HJo7n54LhEA" >}} <!-- Les ailes de legende //-->
-{{< ressource-video-youtube "9WktioQKTzU" >}} <!-- La 2nd Guerre Mondiale //-->
+{{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka -->
+{{< ressource-video-youtube "HJo7n54LhEA" >}} <!-- Les ailes de legende -->
+{{< ressource-video-youtube "9WktioQKTzU" >}} <!-- La 2nd Guerre Mondiale -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -201,7 +201,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>Souvent utilisé en escorteur grâce à son long rayon d'action.</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -209,9 +209,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 12571 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "uiGvpu7WXhI" >}} <!-- Yataka //-->
-{{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine //-->
-{{< ressource-video-youtube "g3lwvONfKWA" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "uiGvpu7WXhI" >}} <!-- Yataka -->
+{{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine -->
+{{< ressource-video-youtube "g3lwvONfKWA" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -229,8 +229,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 12275 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation //-->
-{{< ressource-video-youtube "jBYl0WwIYLI" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation -->
+{{< ressource-video-youtube "jBYl0WwIYLI" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -261,7 +261,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 7524 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -269,8 +269,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 18169 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "K9UTQs9GHcg" >}} <!-- Drole de machine //-->
-{{< ressource-video-youtube "_LaaGkpVZ-k" >}} <!-- Cap Aviation //-->
+{{< ressource-video-youtube "K9UTQs9GHcg" >}} <!-- Drole de machine -->
+{{< ressource-video-youtube "_LaaGkpVZ-k" >}} <!-- Cap Aviation -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -278,7 +278,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9860 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef">
@@ -290,7 +290,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":canada:" "Avro Canada" "CF-100 Canuck" "1953" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine -->
 </div>
 
 <div class="titre_generation">
@@ -302,7 +302,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -318,7 +318,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>voilure à angle de calage variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
@@ -326,8 +326,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine //-->
-{{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine -->
+{{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef">
@@ -335,7 +335,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>delta, mach 2.3</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
@@ -343,21 +343,26 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "J35 Draken" "1960" >}}
-<p>double delta, mach 2</p>
+{{< caracteristique "super-manœvrabilité (double-delta, cobra = Kort Parad)" >}}
+<p>mach 2</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "jqiDEcfSnXs" >}}
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" >}}
 {{< exemplaires 13996 >}}
+{{< caracteristique "super-manœvrabilité (delta, cobra)" >}}
 <p>delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
@@ -365,9 +370,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "Gg3Of12mJrU" >}}
-{{< ressource-video-youtube "4uM81xdS3E8" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "4uM81xdS3E8" >}} <!-- Yataka -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "h1jT8RZSM_I" >}}
@@ -382,15 +387,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "chasse et attaque" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende //-->                
-{{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->                
+{{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
@@ -403,7 +408,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
@@ -411,15 +416,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>mach 3</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine -->
 </div>
 <div class="videos">
 {{< ressource-video-youtube "fRjKKfzdRlo" >}}
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" >}}
-<p>delta, canards, inversion de poussée</p>
+{{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" "attaque, chasse, reconnaissance" >}}
+{{< caracteristique "manœuvrabilité (delta, canards)" >}}
+{{< caracteristique "atterrissage court (inversion de poussée)" >}}
 </div>
 <div class="reportages">
 {{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
@@ -433,11 +439,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "UnycNFTXXco" >}}
 </div>
 <div class="images">
-{{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace //-->
+{{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace -->
 </div>
 
 <div class="aeronef">
@@ -455,14 +461,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende //-->
+{{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15 Eagle" "1976" "chasseur lourd, supériorité aérienne" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -470,9 +476,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel //-->
-{{< ressource-video-youtube "W1ILwzgkCXk" >}} <!-- Les ailes de legende //-->
-{{< ressource-video-youtube "iX2oCqcvYzQ" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "W1ILwzgkCXk" >}} <!-- Les ailes de legende -->
+{{< ressource-video-youtube "iX2oCqcvYzQ" >}} <!-- aeronewstv -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "m06uWM_tABM" >}}
@@ -482,10 +488,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" >}}
-<p>super-manœuvrabilité (comportement en post-décrochage)</p>
+{{< caracteristique "super-manœuvrabilité (cobra)" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "iXRSyj_mNis" >}}
@@ -497,7 +503,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende -->
 </div>
 <div class="images">
 {{< ressource-playlist-youtube "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}}
@@ -508,10 +514,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" >}}
-<p>delta</p>
+{{< caracteristique "manœuvrabilité (delta)" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "bFHF9j_LvPk" >}}
 {{< ressource-video-youtube "qsbqV0rz87o" >}}
 </div>
@@ -521,16 +527,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "XlaJJXkS3uo" >}}
 {{< ressource-video-youtube "QrQxJSRSZAU" >}}
 {{< ressource-video-youtube "lBJ01alfMjc" >}}
-{{< ressource-video-youtube "T5DrtgXX7qQ" >}} <!-- Armee de l'air et de l'espace //-->
-{{< ressource-video-youtube "JEPhz2E41pw" >}} <!-- Armee de l'air et de l'espace //-->
+{{< ressource-video-youtube "T5DrtgXX7qQ" >}} <!-- Armee de l'air et de l'espace -->
+{{< ressource-video-youtube "JEPhz2E41pw" >}} <!-- Armee de l'air et de l'espace -->
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-27 Flanker" "1985" "chasseur lourd, supériorité aérienne" >}}
-<p>super-manœuvrabilité (comportement en post-décrochage)</p>
+{{< caracteristique "super-manœuvrabilité (cobra)" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo //-->
+{{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo -->
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
 </div>
 <div class="images">
@@ -564,7 +570,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "JAS 39 Gripen" "1996" "intercepteur" >}}
-<p>delta, super-manœuvrabilité (canards), supercroisière</p>
+{{< caracteristique "manœuvrabilité (canards, delta)" >}}
+{{< caracteristique "supercroisière mach 1.1" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
@@ -572,33 +579,36 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
-<p>delta, super-manœuvrabilité (canards), supercroisière</p>
+{{< caracteristique "manœuvrabilité (canards, delta)" >}}
+{{< caracteristique "supercroisière mach 1.4" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel //-->
-{{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "PQZZe1WbRQ8" >}}
-{{< ressource-video-youtube "UxHbrs2f6Eo" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "UxHbrs2f6Eo" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "Kaa90KtQZ5A" >}}
 {{< ressource-video-youtube "ykYkyN6nwzw" >}}
 {{< ressource-video-youtube "9v6ZGFlDY50" >}}
-{{< ressource-video-youtube "Acxj1DNBqe0" >}} <!-- armee de l'air et de l'espace //-->
+{{< ressource-video-youtube "Acxj1DNBqe0" >}} <!-- armee de l'air et de l'espace -->
 </div>
 <div class="images">
-{{< ressource-video-youtube "AdhVCkHf0w0" >}} <!-- Chasse Embarquee //-->
-{{< ressource-video-youtube "DTQlsmkmFp4" >}} <!-- Chasse Embarquee //-->
-{{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}} <!-- Chasse Embarquee //-->
+{{< ressource-video-youtube "AdhVCkHf0w0" >}} <!-- Chasse Embarquee -->
+{{< ressource-video-youtube "DTQlsmkmFp4" >}} <!-- Chasse Embarquee -->
+{{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}} <!-- Chasse Embarquee -->
 {{< ressource-video-youtube "vRVQw1vRgZY" >}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
-<p>super-manœuvrabilité (canards et poussée vectorielle), basé sur le Su-27</p>
+{{< caracteristique "super-manœuvrabilité (canards, poussée vectorielle, cobra, herbst, kulbit)" >}}
+<p>basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "intercepteur" >}}
-<p>delta, super-manœuvrabilité (canards), supercroisière</p>
+{{< caracteristique "manœuvrabilité (canards, delta)" >}}
+{{< caracteristique "supercroisière mach 1.5" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -608,22 +618,24 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-35 Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
-<p>super-manœuvrabilité (poussée vectorielle), basé sur le Su-27</p>
+{{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+<p>basé sur le Su-27</p>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":india:" "HAL" "Tejas" "2015" >}}
-<p>très manœuvrant (double delta)</p>
+{{< caracteristique "manœuvrabilité (double-delta)">}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
-<p>super-manœuvrabilité (poussée vectorielle), basé sur le MiG-29</p>
+{{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+<p>basé sur le MiG-29</p>
 </div>
 
 <div class="titre_generation">
@@ -633,7 +645,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-22 Raptor" "2005" "supériorité aérienne" >}}
-<p>furtif, super-manœuvrabilité (poussée vectorielle), supercroisière</p>
+{{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< caracteristique "supercroisière mach 1.5" >}}
+{{< caracteristique "furtif" >}}
 </div>
 <div class="images">
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
@@ -642,7 +656,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
-<p>furtif, décollage vertical</p>
+{{< caracteristique "furtif" >}}
+{{< caracteristique "décollage vertical" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "zW28Mb1YvwY" >}}
@@ -652,20 +667,22 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":cn:" "Chengdu" "J-20" "2017" >}}
-<p>furtif</p>
+{{< caracteristique "furtif" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-57 Felon" "2020" "supériorité aérienne" >}}
-<p>furtif, super-manœuvrabilité (poussée vectorielle), supercroisière</p>
+{{< caracteristique "super-manœuvrabilité (poussée vectorielle), cobra, herbst, kulbit" >}}
+{{< caracteristique "supercroisière mach 1.6" >}}
+{{< caracteristique "furtif" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "p9133N8uaFY" >}} <!-- aeronewstv //-->
-{{< ressource-video-youtube "Lnzz2NT5i-w" >}} <!-- aeronewstv //-->
-{{< ressource-video-youtube "B8OYE8r2u8Y" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "p9133N8uaFY" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "Lnzz2NT5i-w" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "B8OYE8r2u8Y" >}} <!-- aeronewstv -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
@@ -682,9 +699,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>sirène</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka //-->
-{{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation //-->
-{{< ressource-video-youtube "PpRfvKx2ouE" >}} <!-- Imineo //-->
+{{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka -->
+{{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation -->
+{{< ressource-video-youtube "PpRfvKx2ouE" >}} <!-- Imineo -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
@@ -694,14 +711,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":gb:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo //-->
+{{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo -->
 </div>
 
 <div class="aeronef">
@@ -728,14 +745,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "acX9bpPilkM" >}} <!-- Les ailes de legende //-->
+{{< ressource-video-youtube "acX9bpPilkM" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-1 Skyraider" "1946" "attaque au sol et appui tactique, embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -747,7 +764,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Douglas" "A-4 Skyhawk" "1956" "embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende //-->                
+{{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende -->                
 </div>
 
 <div class="aeronef">
@@ -755,7 +772,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende //-->
+{{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -771,14 +788,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Ling-Temco-Vought" "A-7 Corsair II" "1967" "embarqué" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "3DtRkAmKNTk" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "3DtRkAmKNTk" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -792,10 +809,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker Siddeley" "Harrier" "1969" "embarqué" >}}
-<p>décollage vertical</p>
+{{< caracteristique "manœvrabilité (VIFFing = Vector in Forward Flight)" >}}
+{{< caracteristique "decollage vertical" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel -->
+{{< ressource-web "https://www.quora.com/How-effective-is-viffing-in-a-Harrier" "How effective is VIFFing in a Harrier" >}}
+</div>
+<div class="images">
+{{< ressource-video-youtube "8UE9i82Kc_Y" >}} <!-- harrier viffing -->
 </div>
 
 <div class="aeronef">
@@ -808,7 +830,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>attaque au sol</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "z-uqMUA7U-k" >}}
 </div>
 
@@ -821,7 +843,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Fairchild Republic" "A-10 Thunderbold II / Warthog" "1975" "attaque au sol et appui tactique" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "_xaugfhbmp0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "BVmiaNhxLHE" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
@@ -838,7 +860,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":fr:" "Dassault" "Super Étendard" "1978" "embarqué" >}}
 </div>
 <div class="images">
-{{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee //-->
+{{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -856,7 +878,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "5Trez3StUWQ" >}} <!-- Imineo //-->
+{{< ressource-video-youtube "5Trez3StUWQ" >}} <!-- Imineo -->
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -866,10 +888,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-117 Nighthawk" "1983" "attaque au sol" >}}
-<p>furtif</p>
+{{< caracteristique "furtif" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "_h5JiIY8Exo" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "_h5JiIY8Exo" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
@@ -895,7 +917,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 12731 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "_ctKDdsJ774" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "_ctKDdsJ774" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -903,7 +925,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 11461 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "e4EL0tuOm4o" >}} <!-- Imineo //-->
+{{< ressource-video-youtube "e4EL0tuOm4o" >}} <!-- Imineo -->
 </div>
 
 <div class="aeronef">
@@ -916,7 +938,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 18482 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "dq7Wpq00NJc" >}} <!-- Cap Aviation //-->
+{{< ressource-video-youtube "dq7Wpq00NJc" >}} <!-- Cap Aviation -->
 </div>
 
 <div class="aeronef">
@@ -924,7 +946,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9984 >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -941,7 +963,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Martin" "B-26 Marauder" "1941" "bombardier moyen" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -958,28 +980,28 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Convair" "B-36 Peacemaker" "1949" "bombardier stratégique lourd à long rayon d'action" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-47 Stratojet" "1952" "bombardier moyen à long rayon d'action" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "Kk3GfN6lKtY" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "Kk3GfN6lKtY" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Miassichtchev" "M-4 Bison" "1953" "bombardier stratégique lourd" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "t_rnMnEf0vc" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "t_rnMnEf0vc" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-52 Stratofortress" "1955" "bombardier stratégique lourd à long rayon d'action" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
@@ -990,8 +1012,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":ru:" "Tupolev" "Tu-95 Bear" "1956" "bombardier lourd" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider //-->
-{{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider -->
+{{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka -->
 </div>
 
 <div class="aeronef">
@@ -999,7 +1021,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>delta, mach 2</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "dvtV0GVtQt8" >}} <!-- les ailes de legende //-->
+{{< ressource-video-youtube "dvtV0GVtQt8" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
@@ -1010,7 +1032,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":ru:" "Tupolev" "Tu-22 Blinder" "1962" "bombardier supersonique, reconnaissance" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "IfRBbJCU-WQ" >}} <!-- Yataka //-->
+{{< ressource-video-youtube "IfRBbJCU-WQ" >}} <!-- Yataka -->
 </div>
 
 <div class="aeronef">
@@ -1018,15 +1040,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>mach 3</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "lKRnehhZfFY" >}} <!-- les ailes de legende //-->
-{{< ressource-video-youtube "d5SKO_TAlsw" >}} <!-- Drole de machine //-->
+{{< ressource-video-youtube "lKRnehhZfFY" >}} <!-- les ailes de legende -->
+{{< ressource-video-youtube "d5SKO_TAlsw" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage IV" "1964" "dissuasion nucléaire et reconnaissance" >}}
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel //-->
+{{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel -->
 </div>
 
 <div class="aeronef">
@@ -1034,8 +1056,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider //-->
-{{< ressource-video-youtube "Uq-aWGL7Dk4" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider -->
+{{< ressource-video-youtube "Uq-aWGL7Dk4" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
@@ -1043,9 +1065,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider //-->
-{{< ressource-video-youtube "CLMY1oJjuas" >}} <!-- les ailes de legende //-->
-{{< ressource-video-youtube "-puARA_M_I4" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider -->
+{{< ressource-video-youtube "CLMY1oJjuas" >}} <!-- les ailes de legende -->
+{{< ressource-video-youtube "-puARA_M_I4" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
@@ -1053,17 +1075,18 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>le plus gros et lourd avion de combat au monde, mach 2.1</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider //-->
-{{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider -->
+{{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Northrop" "B-2 Spirit" "1997" "bombardier stratégique" >}}
-<p>furtif, aile volante, l'avion le plus cher au monde</p>
+{{< caracteristique "furtif" >}}
+<p>aile volante, l'avion le plus cher au monde</p>
 </div>
 <div class="reportages">
-{{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider //-->
-{{< ressource-video-youtube "fzzOGg-ocdE" >}} <!-- aeronewstv //-->
+{{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider -->
+{{< ressource-video-youtube "fzzOGg-ocdE" >}} <!-- aeronewstv -->
 </div>
 
 </div>
@@ -1071,33 +1094,33 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 # Sources
 
 <div class="contenu">
-{{< canal-youtube "id" "UCgbepK9hgwOnYiy74Ry2ftg" >}} <!-- Droles de machines //-->
+{{< canal-youtube "id" "UCgbepK9hgwOnYiy74Ry2ftg" >}} <!-- Droles de machines -->
 {{< ressource-playlist-youtube "PLTT3R9By38IvrFAPsdb62Lpy1pIlT7uNt" >}}
 </div>
 
 <div class="contenu">
-{{< canal-youtube "id" "UChyLWNeRxc06j_MtDgyFT0Q" >}} <!-- Yataka //-->
+{{< canal-youtube "id" "UChyLWNeRxc06j_MtDgyFT0Q" >}} <!-- Yataka -->
 {{< ressource-playlist-youtube "PL-LHjYKc6dyU3nj-aisKbTf5OBezzatLA" >}}
 </div>
 
 <div class="contenu">
-{{< canal-youtube "id" "UCJ9tHJbCa8ZoMbapfJLy0ZQ" >}} <!-- imineo Documentaires //-->
-{{< ressource-playlist-youtube "PLs4hJjnTBQLo9eQFXL94h4voK9SzD4xNR" >}} <!-- Autre chaine (Documentaire Aviation), mais toujours Imineo... //-->
+{{< canal-youtube "id" "UCJ9tHJbCa8ZoMbapfJLy0ZQ" >}} <!-- imineo Documentaires -->
+{{< ressource-playlist-youtube "PLs4hJjnTBQLo9eQFXL94h4voK9SzD4xNR" >}} <!-- Autre chaine (Documentaire Aviation), mais toujours Imineo... -->
 {{< ressource-playlist-youtube "PLC4siPTFsziQCo_C47HQhSenISgrXZC07" >}}
 </div>
 
 <div class="contenu">
-{{< canal-youtube "id" "UCfpUiL59S-XE9Yzme2fiDHA" >}} <!-- Anarkia DOCS Science/Quantique //-->
+{{< canal-youtube "id" "UCfpUiL59S-XE9Yzme2fiDHA" >}} <!-- Anarkia DOCS Science/Quantique -->
 {{< ressource-playlist-youtube "PLoTC1KIBEvDk3Xngwc_NB8qhcuKosahAe" >}}
 </div>
 
 <div class="contenu">
-{{< canal-youtube "id" "UC3MJVwoumJMTqCe9IaEhtiw" >}} <!-- La 2de Guerre Mondiale //-->
+{{< canal-youtube "id" "UC3MJVwoumJMTqCe9IaEhtiw" >}} <!-- La 2de Guerre Mondiale -->
 {{< ressource-playlist-youtube "PLBqIsAkFb7pzJJ6hm7guONOoRfFL1txH4" >}}
 </div>
 
 <div class="contenu">
-{{< canal-youtube "id" "UCwDFiUoWxCRZxVHzD22Kwrg" >}} <!-- Cap aviation //-->
+{{< canal-youtube "id" "UCwDFiUoWxCRZxVHzD22Kwrg" >}} <!-- Cap aviation -->
 {{< ressource-playlist-youtube "PLZbKd2yQD8s7gYaPRlf4gSOVToODGvKlt" >}}
 </div>
 
@@ -1117,4 +1140,5 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< canal-web "Wikipedia" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack Aircraft" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" >}}
 </div>

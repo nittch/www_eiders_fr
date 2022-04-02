@@ -65,6 +65,11 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLmL0WZQili6AIkufnprW4yg8uzcUfz6iH" >}}
 </div>
 
+<div class="contenu"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjWoTGjsGuU7IyPc7mC-FviK" >}}
+</div>
+
 ## Sur BMS
 
 <div class="contenu"> <!-- le hangar de Sklang //-->

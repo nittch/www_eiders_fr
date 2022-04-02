@@ -424,6 +424,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="reportages">
 {{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
 </div>
+<div class="images">
+{{< ressource-video-youtube "fBE41A9VT3Q" >}}
+{{< ressource-video-youtube "UyA-oTElVRw" >}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
@@ -545,24 +549,17 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>Basé sur le Su-27.</p>
 </div>
 
+<div class="titre_generation">
+<h2>Chasseurs jets génération 4.5</h2>
+<p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
+</div>
+
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "F/A-18E/F Super Hornet" "1995" "embarqué" >}}
 <p>Basé sur le F/A-18.</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "0fM7SUSgFj8" >}}
-</div>
-
-<div class="aeronef avec_module_dcs">
-{{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
-</div>
-<div class="reportages">
-{{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv //-->
-</div>
-
-<div class="titre_generation">
-<h2>Chasseurs jets génération 4.5</h2>
-<p>Entre 4 et 5, amélioration des capacités, avionique de pointe (parfois poussée vectorielle), caractéristiques limitées de technologie furtive.</p>
 </div>
 
 <div class="aeronef">
@@ -605,6 +602,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
+</div>
+
+<div class="aeronef avec_module_dcs">
+{{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv //-->
 </div>
 
 <div class="aeronef">

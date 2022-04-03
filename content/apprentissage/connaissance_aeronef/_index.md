@@ -375,9 +375,9 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Soukhoï" "Su-9 Fishpof" "1959" "intercepteur" >}}
+{{< aeronef ":ru:" "Soukhoï" "Su-9 Fishpot" "1959" "intercepteur" >}}
 {{< mach 1.8 >}}
-<p>Delta</p>
+<p>Delta.<br />Une variante Su-11...</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine -->
@@ -394,7 +394,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" >}}
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" "chasseur et intercepteur" >}}
 {{< exemplaires 13996 >}}
 {{< mach 2.05 >}}
 {{< caracteristique "super-manœvrabilité (delta, cobra)" >}}
@@ -410,7 +410,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 
 <div class="aeronef">
-{{< aeronef ":fr:" "Dassault" "Mirage III" "1961" "intercepteur" >}}
+{{< aeronef ":fr:" "Dassault" "Mirage III" "1961" "intercepteur, puis multirôle" >}}
 {{< mach 2.2 >}}
 <p>Delta</p>
 </div>
@@ -421,6 +421,12 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 <div class="images">
 {{< ressource-video-youtube "h1jT8RZSM_I" >}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":fr:" "Dassault" "Mirage 5" "1970" "attaque au sol, puis multirôle" >}}
+{{< mach 2.2 >}}
+<p>Delta. Basé sur le Mirage III.</p>
 </div>
 
 <div class="titre_generation">
@@ -465,8 +471,11 @@ Neuf points d'emports.</p>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
-{{< mach 1.81 >}}
-<p>Delta. Destiné à intercepter les cibles les plus lentes.</p>
+{{< mach 2.5 >}}
+<p>Delta. Basé sur le Su-9. Bi-réacteur.</p>
+</div>
+<div class="images">
+{{< ressource-video-youtube "XH5QWCdRXTw" >}}
 </div>
 
 <div class="aeronef">
@@ -477,6 +486,7 @@ Neuf points d'emports.</p>
 L'appareil à géométrie variable le plus produit.<br />
 Premier radar soviétique look-down/shoot-down.<br />
 Un des premiers appareils soviétiques équipés de missiles BVR.<br />
+Une variante MiG-27 dédiée à l'attaque au sol.
 </p>
 </div>
 <div class="reportages">
@@ -487,6 +497,7 @@ Un des premiers appareils soviétiques équipés de missiles BVR.<br />
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
 {{< mach 3.2 >}}
 {{< caracteristique "veille infrarouge" >}}
+<p>Très rapide.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine -->
@@ -512,6 +523,7 @@ Un des premiers appareils soviétiques équipés de missiles BVR.<br />
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
 {{< mach 2.2 >}}
+<p>Basé sur le Mirage III, utilisation d'une aile en flèche pour une vitesse d'approche plus faible.
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel -->
@@ -578,7 +590,7 @@ Un des premiers appareils soviétiques équipés de missiles BVR.<br />
 {{< mach 2.83 >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>
-Basé sur le MiG-25.<br />
+Basé sur le MiG-25, très rapide.<br />
 Premier avion avec radar PESA<br />
 Datalink.
 </p>
@@ -741,7 +753,7 @@ Datalink.
 {{< mach 2.0 >}}
 {{< caracteristique "super-manœuvrabilité (canards, poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>basé sur le Su-27</p>
+<p>Basé sur le Su-27, les canards réduisent la vitesse maximale.</p>
 </div>
 
 <div class="aeronef">
@@ -769,7 +781,7 @@ Datalink.
 {{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>basé sur le Su-27</p>
+<p>Basé sur le Su-27, retour à un design sans canards.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "54UqQcBehlE" >}}
@@ -865,7 +877,7 @@ Datalink.
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 87 Stuka" "1936" "bombardier en piqué" >}}
 {{< exemplaires 6000 >}}
-<p>sirène</p>
+<p>Une sirène pour terroriser les populations lors du piqué.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka -->
@@ -945,6 +957,12 @@ Datalink.
 </div>
 
 <div class="aeronef">
+{{< aeronef ":ru:" "Soukhoï" "Su-7 Fitter-A" "1959" "chasseur bombardier, attaque au sol" >}}
+{{< mach 1.74 >}}
+<p>Ailes en flèche</p>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Étendard IV" "1962" "embarqué" >}}
 </div>
 
@@ -991,8 +1009,12 @@ Datalink.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Soukhoï" "Su-17 Fitter" "1970" >}}
-<p>géométrie variable</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-17 Fitter-C" "1970" "chasseur bombardier, attaque au sol" >}}
+{{< mach 2.09 >}}
+<p>
+Basé sur le Su-7, géométrie variable.<br />
+Des variantes Su-20, Su-22...
+</p>
 </div>
 
 <div class="aeronef">
@@ -1039,6 +1061,7 @@ Géométrie variable.</p>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-25 Frogfoot" "1981" >}}
+<p>Une variante Su-39...</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "raYB4TWh-W4" >}}

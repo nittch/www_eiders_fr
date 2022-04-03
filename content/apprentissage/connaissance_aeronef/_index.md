@@ -583,6 +583,12 @@ Premier avion avec radar PESA<br />
 Datalink.
 </p>
 </div>
+<div class="reportages">
+{{< ressource-video-youtube "79DeCalsI-I" >}}
+</div>
+<div class="images">
+{{< ressource-video-youtube "KP-EvqlCSJo" >}}
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" "multirôle, supériorité aérienne" >}}
@@ -764,6 +770,9 @@ Datalink.
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>basé sur le Su-27</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "54UqQcBehlE" >}}
 </div>
 
 <div class="aeronef">
@@ -1245,6 +1254,7 @@ Géométrie variable.</p>
 <div class="reportages">
 {{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "MnhyzGlEYEo" >}}
 </div>
 
 <div class="aeronef">

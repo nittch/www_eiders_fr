@@ -1173,7 +1173,7 @@ Géométrie variable.</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Douglas" "A-3 Skywarrier" "1956" "bombardier stratégique embarqué" >}}
+{{< aeronef ":us:" "Douglas" "A-3 Skywarrior" "1956" "bombardier stratégique embarqué" >}}
 </div>
 
 <div class="aeronef">

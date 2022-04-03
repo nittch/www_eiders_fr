@@ -340,7 +340,7 @@ Premier avion soviétique passant le mur du son en pallier.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué" >}}
+{{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué, supériorité aérienne" >}}
 {{< mach 1.72 >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>Voilure à angle de calage variable.</p>
@@ -398,6 +398,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< exemplaires 13996 >}}
 {{< mach 2.05 >}}
 {{< caracteristique "super-manœvrabilité (delta, cobra)" >}}
+<p>Le chasseur supersonique le plus produit au monde.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine -->
@@ -409,7 +410,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 
 <div class="aeronef">
-{{< aeronef ":fr:" "Dassault" "Mirage III" "1961" >}}
+{{< aeronef ":fr:" "Dassault" "Mirage III" "1961" "intercepteur" >}}
 {{< mach 2.2 >}}
 <p>Delta</p>
 </div>
@@ -436,7 +437,7 @@ On peut citer différents aspects : <ul>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur" >}}
+{{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur, supériorité aérienne" >}}
 {{< mach 2.23 >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.<br />
@@ -449,6 +450,7 @@ Neuf points d'emports.</p>
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "avion de chasse léger et attaque" >}}
 {{< mach 1.63 >}}
+<p>Faible coût, faible entretien.</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->
@@ -456,16 +458,26 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef">
+{{< aeronef ":ru:" "Tupolev" "Tu-128/Tu-28 Fiddler" "1965" "intercepteur longue portée" >}}
+{{< mach 1.5 >}}
+<p>Le plus gros chasseur jamais mis en service.</p>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
-{{< mach 2.1 >}}
-<p>delta</p>
+{{< mach 1.81 >}}
+<p>Delta. Destiné à intercepter les cibles les plus lentes.</p>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" "chasseur bombardier" >}}
 {{< mach 2.35 >}}
 {{< caracteristique "veille infrarouge" >}}
-<p> Géométrie variable. <br /> Premier radar soviétique look-down/shoot-down.</p>
+<p>
+L'appareil à géométrie variable le plus produit.<br />
+Premier radar soviétique look-down/shoot-down.<br />
+Un des premiers appareils soviétiques équipés de missiles BVR.<br />
+</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine -->
@@ -546,7 +558,7 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" >}}
+{{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" "multirôle, supériorité aérienne" >}}
 {{< mach 2.05 >}}
 <p>Commandes de vol électriques</p>
 </div>
@@ -565,11 +577,15 @@ Neuf points d'emports.</p>
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-31 Foxhound" "1981" "intercepteur et attaque" >}}
 {{< mach 2.83 >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>Basé sur le MiG-25. Radar PESA, Datalink.</p>
+<p>
+Basé sur le MiG-25.<br />
+Premier avion avec radar PESA<br />
+Datalink.
+</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" >}}
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" "multirôle, supériorité aérienne" >}}
 {{< mach 2.3 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
 {{< caracteristique "veille infrarouge" >}}
@@ -584,8 +600,9 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué" >}}
+{{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué, multirôle" >}}
 {{< mach 1.8 >}}
+<p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende -->
@@ -598,10 +615,11 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" >}}
+{{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" "intercepteur, puis multirôle" >}}
 {{< mach 2.2 >}}
 {{< caracteristique "manœuvrabilité (delta)" >}}
 {{< caracteristique "veille infrarouge limitée" >}}
+<p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel -->
@@ -636,6 +654,12 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef">
+{{< aeronef ":gb:/:de:" "Panavia" "Tornado ADV" "1985" "intercepteur" >}}
+{{< mach 2.2 >}}
+<p>Géométrie variable. Basé sur le Tornado.</p>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Stike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
 <p>Basé sur le F-15.</p>
@@ -650,6 +674,7 @@ Neuf points d'emports.</p>
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
 <p>La génération 4.5 correspond souvent aux nouveaux avions, ou aux versions mises à jours au début des années 90. Ils comprennent certaines capacités de cinquième génération, sans toutes les avoir. Ces capacités peuvent comprendre : <ul>
+<li />généralisation des commandes de vol électriques
 <li />intégration avancée des capteurs (meilleure Situation Awareness)
 <li />radar AESA (sans partie mécanique, avec un scan plus précis)
 <li />supercroisière (capacités à rester supersonique sans post-combustion, réduisant la consommation et la signature thermique)
@@ -746,6 +771,7 @@ Neuf points d'emports.</p>
 {{< mach 1.6 >}}
 {{< caracteristique "manœuvrabilité (double-delta)">}}
 {{< caracteristique "veille infrarouge" >}}
+<p>Des caractéristiques de furtivité : matériaux composites.</p>
 </div>
 
 <div class="aeronef">
@@ -753,7 +779,7 @@ Neuf points d'emports.</p>
 {{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>basé sur le MiG-29</p>
+<p>basé sur le MiG-29, radar AESA</p>
 </div>
 
 <div class="titre_generation">
@@ -920,7 +946,7 @@ Neuf points d'emports.</p>
 <div class="aeronef">
 {{< aeronef ":us:" "General Dynamics" "F-111 Aardvark" "1967" "bombardier tout-temps" >}}
 {{< mach 2.5 >}}
-<p>géométrie variable</p>
+<p>géométrie variable, radar de suivi de terrain automatique</p>
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende -->
@@ -971,8 +997,11 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Soukhoï" "Su-24 Fencer" "1974" "bombardier" >}}
-<p>géométrie variable</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-24 Fencer" "1974" "bombardier supersonique" >}}
+{{< mach 1.6 >}}
+<p>
+Premier appareil soviétique équipé d'un système de navigation et d'attaque numérique.<br />
+Géométrie variable.</p>
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -1148,7 +1177,7 @@ Neuf points d'emports.</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Tupolev" "Tu-95 Bear" "1956" "bombardier lourd" >}}
+{{< aeronef ":ru:" "Tupolev" "Tu-95 Bear" "1956" "bombardier stratégique lourd" >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider -->

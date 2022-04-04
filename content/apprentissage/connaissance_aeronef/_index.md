@@ -850,6 +850,7 @@ Datalink.
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "xdFS8xehUU8" >}} <!-- Defense Insider -->
 </div>
 
 <div class="aeronef">
@@ -950,7 +951,7 @@ Datalink.
 
 <div class="aeronef">
 {{< aeronef ":us:" "Republic" "F-105 Thunderchief" "1958" "chasseur bombardier" >}}
-<p>mach 2</p>
+{{< mach 2.08 >}}
 </div>
 <div class="reportages">
 {{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende -->
@@ -993,6 +994,9 @@ Datalink.
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "AC-130 Spectre" "1968" "gunship d'attaque au sol et appui aérien rapproché" >}}
 <p>variante du C-130 Hercules</p>
+</div>
+<div class="reportages">
+{{< ressource-video-youtube "TfoBodLpXx8" >}} <!-- Defense Insider -->
 </div>
 
 <div class="aeronef">
@@ -1054,6 +1058,7 @@ Géométrie variable.</p>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Super Étendard" "1978" "embarqué" >}}
+{{< mach 1.3 >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee -->
@@ -1072,6 +1077,7 @@ Géométrie variable.</p>
 
 <div class="aeronef">
 {{< aeronef ":de:/:it:/:gb:" "Panavia" "Tornado" "1982" >}}
+{{< mach 2.34 >}}
 <p>géométrie variable</p>
 </div>
 <div class="reportages">

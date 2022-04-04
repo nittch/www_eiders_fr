@@ -63,18 +63,20 @@ weight = 2
     grid-column: 2;
 
     padding: 0.2em;
-    border-width: 1px;
-    border-style: solid;
-    border-image: linear-gradient(to right, white 80%, grey 100%) 1;
   }
 
   .images {
     grid-column: 3;
 
     padding: 0.2em;
-    border-width: 1px;
+
+    border-left: 1px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+
     border-style: solid;
-    border-image: linear-gradient(to right, grey 0%, white 20%) 1;
+    border-color: grey;
   }
 </style>
 

@@ -502,7 +502,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="reportages">
 {{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine -->
 </div>
-<div class="videos">
+<div class="images">
 {{< ressource-video-youtube "fRjKKfzdRlo" >}}
 </div>
 
@@ -678,7 +678,7 @@ Datalink.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "McDonnell Douglas" "F-15E Stike Eagle" "1989" "chasseur bombardier" >}}
+{{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
 <p>Basé sur le F-15.</p>
 </div>

@@ -94,6 +94,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 34852 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Messerschmitt_Bf_109"
+  "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"
+  "https://www.avionslegendaires.net/avion-militaire/messerschmitt-bf-109/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/01/Me109_G-6_D-FMBB_2.jpg"
+  "Kogo, GFDL <http://www.gnu.org/copyleft/fdl.html>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka -->
 {{< ressource-video-youtube "22tVIa2BPu8" >}} <!-- La 2nd Guerre Mondiale -->
 </div>
@@ -103,6 +110,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 14583 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Hawker_Hurricane"
+  "https://en.wikipedia.org/wiki/Hawker_Hurricane"
+  "https://www.avionslegendaires.net/avion-militaire/hawker-hurricane/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Hawker_Hurricane%2C_Battle_of_Britain_Memorial_Flight_Members%27_day_2018_%28cropped%29.jpg"
+  "Cpl Phil Major ABIPP, OGL v1.0OGL v1.0, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation -->
 </div>
 
@@ -111,6 +125,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 20351 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Supermarine_Spitfire"
+  "https://en.wikipedia.org/wiki/Supermarine_Spitfire"
+  "https://www.avionslegendaires.net/avion-militaire/supermarine-spitfire/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/Spitfire_-_Season_Premiere_Airshow_2018_%28cropped%29.jpg"
+  "Airwolfhound, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka -->
 </div>
@@ -121,6 +142,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>Très maniable, une grande puissance de feu mais aucun blindage.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mitsubishi_A6M"
+  "https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero"
+  "https://www.avionslegendaires.net/avion-militaire/mitsubishi-a6m-rei-sen-zero/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/a7/A6M3_Zero_N712Z_1.jpg"
+  "Kogo, GFDL <http://www.gnu.org/copyleft/fdl.html>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "Mal9vqxk7N4" >}} <!-- Yataka -->
 </div>
 
@@ -128,10 +156,28 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "embarqué" >}}
 {{< exemplaires 7885 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Grumman_F4F_Wildcat"
+  "https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat"
+  "https://www.avionslegendaires.net/avion-militaire/grumman-f4f-wildcat/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/F4F-3_new_pitot_tube_of_later_model.jpg"
+  "The original uploader was Felix c at English Wikipedia., Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" >}}
 {{< exemplaires 8734 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Yakovlev_Yak-1"
+  "https://en.wikipedia.org/wiki/Yakovlev_Yak-1"
+  "https://www.avionslegendaires.net/avion-militaire/yakovlev-yak-1-yak-7/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/13/I-26.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -139,12 +185,29 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 13738 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Curtiss_P-40_Warhawk"
+  "https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk"
+  "https://www.avionslegendaires.net/avion-militaire/curtiss-p-40-warhawk/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/P-40.jpg"
+  "AFHRA, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "F29Z9qh3U9I" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd et bombardier" >}}
 {{< exemplaires 6150 >}}
+<p>Bimoteur.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Messerschmitt_Bf_110"
+  "https://en.wikipedia.org/wiki/Messerschmitt_Bf_110"
+  "https://www.avionslegendaires.net/avion-militaire/messerschmitt-bf-110/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bundesarchiv_Bild_101I-360-2095-23%2C_Flugzeuge_Messerschmitt_Me_110.jpg"
+  "Bundesarchiv, Bild 101I-360-2095-23 / Wanderer, W. / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">

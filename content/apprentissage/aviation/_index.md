@@ -191,7 +191,7 @@ comment tirer de la bombe non-guidée
 
 <div class="contenu">
 {{< canal-web "Wikipédia" >}}
-{{< ressource-web "https://en.m.wikipedia.org/wiki/Military_Grid_Reference_System" "Military Grid Reference System" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Military_Grid_Reference_System" "Military Grid Reference System" >}}
 </div>
 
 <div class="contenu"> <!-- fas.org //-->

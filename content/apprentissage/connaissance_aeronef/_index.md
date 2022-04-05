@@ -421,6 +421,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jak-3U.jpg"
   "Rschider, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "UgOYCe0n0LY" >}} <!-- musee de l'air -->
 </div>
 
 <div class="titre_generation">
@@ -829,6 +830,7 @@ Datalink.
 {{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "bFHF9j_LvPk" >}}
 {{< ressource-video-youtube "qsbqV0rz87o" >}}
+{{< ressource-video-youtube "tXbzeEXdZpQ" >}} <!-- musee de l'air -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "k-SlLeYRGnE" >}}

@@ -110,3 +110,40 @@
 {
   font-size: xx-large;
 }
+
+.ressource-encyclopedique
+{
+  height: 8em;
+  vertical-align: top;
+
+  background-position: center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+
+.ressource-encyclopedique .conteneur
+{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.ressource-encyclopedique .liens
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ressource-encyclopedique .controles
+{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.ressource-encyclopedique a
+{
+  background-color: rgba(255, 255, 255, 0.6);
+}
+

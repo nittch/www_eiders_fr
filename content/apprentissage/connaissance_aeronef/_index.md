@@ -108,6 +108,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur bombardier" >}}
 {{< exemplaires 14583 >}}
+<p>Premier chasseur monoplan de la Royal Air Force.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -123,6 +124,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" >}}
 {{< exemplaires 20351 >}}
+<p>Version embarquée : Seafire.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -183,6 +185,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" >}}
 {{< exemplaires 13738 >}}
+<p>Troisième avion de chasse le plus produit des USA pendant la seconde guerre mondiale.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -215,15 +218,29 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9584 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Bell_P-39_Airacobra"
+  "https://en.wikipedia.org/wiki/Bell_P-39_Airacobra"
+  "https://www.avionslegendaires.net/avion-militaire/bell-p-39-airacobra/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d4/P-39Q_Airacobra.jpg"
+  "Kogo, GFDL <http://www.gnu.org/copyleft/fdl.html>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "uuONOqGRL7M" >}} <!-- Les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-38 Lightning" "1941" "chasseur lourd" >}}
 {{< exemplaires 10037 >}}
-<p>bimoteur bipoutre, long rayon d'action</p>
+<p>Bimoteur bipoutre, long rayon d'action.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+  "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-p-38-lightning/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lockheed_P-38_Lightning_USAF.JPG"
+  "See page for author, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka -->
 </div>
 
@@ -232,48 +249,90 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 20051 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+  "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+  "https://www.avionslegendaires.net/avion-militaire/focke-wulf-fw-190/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Focke-Wulf_Fw_190_050602-F-1234P-005.jpg"
+  "USAAF, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo -->
-</div>
-
-<div class="aeronef avec_module_dcs">
-{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "chasseur bombardier" >}}
-{{< exemplaires 7781 >}}
-{{< caracteristique "faible signature radar car en bois" >}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur bombardier" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Hawker_Typhoon"
+  "https://en.wikipedia.org/wiki/Hawker_Typhoon"
+  "https://www.avionslegendaires.net/avion-militaire/hawker-typhoon/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Pheloung_1.jpg"
+  "The Flight magazine archive from Flightglobal, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavochkin-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
 {{< exemplaires 6258 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lavotchkine_LaGG-3"
+  "https://en.wikipedia.org/wiki/Lavochkin-Gorbunov-Gudkov_LaGG-3"
+  "https://www.avionslegendaires.net/avion-militaire/lavotchkin-lagg-3/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/70/LaGG-3_Moscow.jpg"
+  "Mike1979 Russia, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur lourd et bombardier" >}}
 {{< exemplaires 15660 >}}
+<p>Aspect massif.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+  "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+  "https://www.avionslegendaires.net/avion-militaire/republic-p-47-thunderbolt/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/P-47D-40_Thunderbolt_44-95471_side.jpg"
+  "Kogo, GFDL <http://www.gnu.org/copyleft/fdl.html>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "tsyOuQcjVmg" >}} <!-- Yataka -->
 {{< ressource-video-youtube "HJo7n54LhEA" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "9WktioQKTzU" >}} <!-- La 2nd Guerre Mondiale -->
 </div>
 
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur" >}}
+{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur, chasseur bombardier" >}}
 {{< exemplaires 15586 >}}
 <p>Souvent utilisé en escorteur grâce à son long rayon d'action.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_P-51_Mustang"
+  "https://en.wikipedia.org/wiki/North_American_P-51_Mustang"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-p-51-mustang/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/8d/375th_Fighter_Squadron_North_American_P-51D-5-NA_Mustang_44-13926_%28cropped%29.jpg"
+  "U.S. Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur bombardier embarqué" >}}
 {{< exemplaires 12571 >}}
+<p>Aile en mouette inversée (W).</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Chance_Vought_F4U_Corsair"
+  "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+  "https://www.avionslegendaires.net/avion-militaire/vought-f4u-corsair/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/AU-1_Corsair_in_flight_1952.jpg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "uiGvpu7WXhI" >}} <!-- Yataka -->
 {{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "g3lwvONfKWA" >}} <!-- les ailes de legende -->
@@ -283,10 +342,29 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" >}}
 {{< exemplaires 16769 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Yakovlev_Yak-9"
+  "https://en.wikipedia.org/wiki/Yakovlev_Yak-9"
+  "https://www.avionslegendaires.net/avion-militaire/yakovlev-yak-9-frank/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/Flight%21_Yakovlev_Yak-9UM_HB-RYA_%288355282184%29.jpg"
+  "English:  Aleksandr MarkinРусский:  Александр Маркин, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-5" "1942" >}}
 {{< exemplaires 9920 >}}
+<p>Basé sur le LaGG-3.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lavotchkine_La-5"
+  "https://en.wikipedia.org/wiki/Lavochkin_La-5"
+  "https://www.avionslegendaires.net/avion-militaire/lavotchkin-la-5/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/La5-red66.jpg"
+  "Soviet propaganda, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -294,12 +372,55 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 12275 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Grumman_F6F_Hellcat"
+  "https://en.wikipedia.org/wiki/Grumman_F6F_Hellcat"
+  "https://www.avionslegendaires.net/avion-militaire/grumman-f6f-hellcat/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Grumman_F6F-3_Hellcat_of_VF-1_in_flight_over_California_%28USA%29%2C_in_1943_%2880-G-K-605%29.jpg"
+  "Naval History & Heritage Command, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation -->
 {{< ressource-video-youtube "jBYl0WwIYLI" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Hawker_Tempest"
+  "https://en.wikipedia.org/wiki/Hawker_Tempest"
+  "https://www.avionslegendaires.net/avion-militaire/hawker-tempest/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hawker_Tempest_V_in_flight_Nov_1944.jpg"
+  "RAF, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Lavochkin" "La-7" "1944" "chasse" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lavotchkine_La-7"
+  "https://en.wikipedia.org/wiki/Lavochkin_La-7"
+  "https://www.avionslegendaires.net/avion-militaire/lavotchkin-7-fin/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Lavochkin_La-7_%E2%80%9927_white%E2%80%99_%2825168790698%29.jpg"
+  "Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Yakovlev" "Yak-3" "1944" "chasseur léger" >}}
+<p>Très léger et maniable, excellent en dogfight.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Yakovlev_Yak-3"
+  "https://en.wikipedia.org/wiki/Yakovlev_Yak-3"
+  "https://www.avionslegendaires.net/avion-militaire/yakovlev-yak-3/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jak-3U.jpg"
+  "Rschider, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="titre_generation">
@@ -976,6 +1097,22 @@ Datalink.
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-20 Havoc" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
+</div>
+
+<div class="aeronef avec_module_dcs">
+{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger, chasseur" >}}
+{{< exemplaires 7781 >}}
+{{< caracteristique "faible signature radar car en bois" >}}
+<p>Bimoteur. Difficile à intercepter car très rapide.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/De_Havilland_DH.98_Mosquito"
+  "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+  "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-98-mosquito/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mosquito_600pix.jpg"
+  "RAF, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">

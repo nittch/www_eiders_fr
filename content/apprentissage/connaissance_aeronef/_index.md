@@ -1342,6 +1342,16 @@ Géométrie variable.</p>
 </div>
 
 <div class="aeronef">
+{{< aeronef ":gb:" "Short" "Stirling" "1940" "bombardier lourd" >}}
+<p>Premier bombardier lourd quadrimoteur</p>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Handley Page" "Halifax" "1940" "bombardier lourd" >}}
+{{< exemplaires 6176 >}}
+</div>
+
+<div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "B-24 Liberator" "1941" "bombardier lourd, chasseur de sous marin" >}}
 {{< exemplaires 18482 >}}
 </div>
@@ -1358,13 +1368,7 @@ Géométrie variable.</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":gb:" "Short" "Stirling" "1940" "bombardier lourd" >}}
-<p>Premier bombardier lourd quadrimoteur</p>
-</div>
-
-<div class="aeronef">
-{{< aeronef ":gb:" "Handley Page" "Halifax" "1940" "bombardier lourd" >}}
-{{< exemplaires 6176 >}}
+{{< aeronef ":ru:" "Tupolev" "Tu-2 Bat" "1941" "bombardier moyen" >}}
 </div>
 
 <div class="aeronef">

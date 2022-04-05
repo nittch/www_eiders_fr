@@ -273,7 +273,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Lavochkin-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
+{{< aeronef ":ru:" "Lavotchkine-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
 {{< exemplaires 6258 >}}
 </div>
 <div class="reportages">
@@ -397,7 +397,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Lavochkin" "La-7" "1944" "chasse" >}}
+{{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasse" >}}
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -435,21 +435,56 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":de:" "Messerschmitt" "Me 262" "1944" "chasseur-bombardier">}}
 <p>Premier avion de chasse opérationnel à moteur à réaction de l'histoire. Utilisé à la fin de la seconde guerre mondiale.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Messerschmitt_Me_262"
+  "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+  "https://www.avionslegendaires.net/avion-militaire/messerschmitt-me-262-schwalbe/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Messerschmitt_Me_262A_at_the_National_Museum_of_the_USAF.jpg"
+  "USAF museum, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Gloster" "Meteor" "1944" >}}
 <p>Seul avion à réaction utilisé par les alliés pendant la seconde guerre mondiale.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Gloster_Meteor"
+  "https://en.wikipedia.org/wiki/Gloster_Meteor"
+  "https://www.avionslegendaires.net/avion-militaire/gloster-g-41-meteor/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gloster_Meteor_Centenary_of_Military_Aviation_2014_%28cropped%29.jpg"
+  "Chris Phutully, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-80 Shooting Star" "1945" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star"
+  "https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-p-80-shooting-star/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/7a/P80-1_300_%28cropped%29.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Republic" "F-84 Thunderjet" "1947" >}}
 {{< exemplaires 7524 >}}
+<P>Version F-84F Thunderstreak : ailes en flèches. Version RF-84F Thunderflash : reconnaissance.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Republic_F-84_Thunderjet"
+  "https://en.wikipedia.org/wiki/Republic_F-84_Thunderjet"
+  "https://www.avionslegendaires.net/avion-militaire/republic-f-84-thunderjet/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/bd/F-84E_of_9th_Fighter-Bomber_Squadron_in_Korea.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -458,6 +493,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 18169 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-15"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-15-fagot/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Duxford_Air_Festival_2017_-_mig1_%2834842016051%29.jpg"
+  "wallycacsabre, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "K9UTQs9GHcg" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "_LaaGkpVZ-k" >}} <!-- Cap Aviation -->
 </div>
@@ -467,6 +509,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9860 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_F-86_Sabre"
+  "https://en.wikipedia.org/wiki/North_American_F-86_Sabre"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-f-86-sabre/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-86_Sabre_hertiage_flight.jpg"
+  "U.S. Air Force photo by J.M. Eddins Jr., Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -474,11 +523,27 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-17 Fresco" "1952" >}}
 {{< exemplaires 10367 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-17"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-17"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-17-fresco/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/MiG-17_Takes_to_the_Sky_%28cropped%29.jpg"
+  "Balon Greyjoy, CC0, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":canada:" "Avro Canada" "CF-100 Canuck" "1953" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Avro_Canada_CF-100_Canuck"
+  "https://en.wikipedia.org/wiki/Avro_Canada_CF-100_Canuck"
+  "https://www.avionslegendaires.net/avion-militaire/avro-canada-cf-100-canuck/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/CF-100s_423_Sqn.jpg"
+  "Canadian Department of National Defence, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine -->
 </div>
 
@@ -498,6 +563,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>Premier avion de l'USAF à franchir le mur du son en pallier.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_F-100_Super_Sabre"
+  "https://en.wikipedia.org/wiki/North_American_F-100_Super_Sabre"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-f-100-super-sabre/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/F_100d_56_3238_50tfw_wc_1958.jpg"
+  "United States Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "NnDKHfZsy8Q" >}} <!-- drole de machines -->
 </div>
@@ -508,6 +580,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <p>
 Premier avion supersonique massivement produit.<br />
 Premier avion soviétique passant le mur du son en pallier.
+</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-19"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-19"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-19-farmer/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/8f/0409_MIG_19_%2817573197084%29.jpg"
+  "Eric Salard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -517,6 +599,15 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à suivre la loi des aires dans son design.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Convair_F-102_Delta_Dagger"
+  "https://en.wikipedia.org/wiki/Convair_F-102_Delta_Dagger"
+  "https://www.avionslegendaires.net/avion-militaire/convair-f-102-delta-dagger/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Convair_YF-102_FC-782.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" "chasseur bombardier, ou intercepteur" >}}
@@ -524,6 +615,15 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à franchir les 1000 mph (1600 km/h).</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_F-101_Voodoo"
+  "https://en.wikipedia.org/wiki/McDonnell_F-101_Voodoo"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-f-101-voodoo/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/F-101B_New_York_ANG_in_flight_1978.jpeg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -533,6 +633,13 @@ Premier avion soviétique passant le mur du son en pallier.
 <p>Voilure à angle de calage variable.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Vought_F-8_Crusader"
+  "https://en.wikipedia.org/wiki/Vought_F-8_Crusader"
+  "https://www.avionslegendaires.net/avion-militaire/vought-f-8-crusader/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vought_RF-8A_Crusader_of_VFP-63_in_flight%2C_circa_in_1962_%286430102%29.jpg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine -->
 </div>
 
@@ -545,6 +652,13 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_F-104_Starfighter"
+  "https://en.wikipedia.org/wiki/Lockheed_F-104_Starfighter"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-f-104-starfighter/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/F104G.jpg"
+  "U.S. Air Force photo,, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende -->
 </div>
@@ -558,6 +672,13 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <p>Utilisation d'une aile delta, mach 2.3.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Convair_F-106_Delta_Dart"
+  "https://en.wikipedia.org/wiki/Convair_F-106_Delta_Dart"
+  "https://www.avionslegendaires.net/avion-militaire/convair-f-106-delta-dart/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Eclipse_program_QF-106_aircraft_in_flight.jpg"
+  "NASA/Jim Ross, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine -->
 </div>
 
@@ -567,6 +688,13 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <p>Delta.<br />Une variante Su-11...</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-9"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-9"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-9-fishpot/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c8/Su-9.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine -->
 </div>
 
@@ -575,6 +703,15 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< mach 2.0 >}}
 {{< caracteristique "super-manœvrabilité (double-delta, cobra = Kort Parad)" >}}
 {{< caracteristique "veille infrarouge" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Saab_35_Draken"
+  "https://en.wikipedia.org/wiki/Saab_35_Draken"
+  "https://www.avionslegendaires.net/avion-militaire/saab-j35-draken/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Saab_SK_35C_Draken_%28DragonKite%29_SE-DXP810.jpg"
+  "Robert Sullivan, PDM-owner, via Wikimedia Commons"
+>}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "jqiDEcfSnXs" >}}
@@ -588,12 +725,29 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <p>Le chasseur supersonique le plus produit au monde.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-21"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-21-fishbed/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/fa/Croatian_MiG-21_%28cropped%29.jpg"
+  "Gojanovic123456789, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "English Electric" "Lightning" "1960" "intercepteur" >}}
 {{< mach 2.3 >}}
+<p>Biréacteur, l'un au dessus de l'autre.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/English_Electric_Lightning"
+  "https://en.wikipedia.org/wiki/English_Electric_Lightning"
+  "https://www.avionslegendaires.net/avion-militaire/bac-lightning/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lightning.inflight.arp.750pix.jpg"
+  "Arpingstone, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -602,6 +756,13 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <p>Delta</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Mirage_III"
+  "https://en.wikipedia.org/wiki/Dassault_Mirage_III"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-mirage-iii/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/RAAF_Mirage_III_%2878-438976%29.jpg"
+  "TSGT. Curt Eddings (USAF), Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "Gg3Of12mJrU" >}}
 {{< ressource-video-youtube "4uM81xdS3E8" >}} <!-- Yataka -->
@@ -614,6 +775,15 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< aeronef ":fr:" "Dassault" "Mirage 5" "1970" "attaque au sol, puis multirôle" >}}
 {{< mach 2.2 >}}
 <p>Delta. Basé sur le Mirage III.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Mirage_5"
+  "https://en.wikipedia.org/wiki/Dassault_Mirage_5"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-mirage-5-50/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mirage_5F.jpg"
+  "www.mablehome.com, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="titre_generation">
@@ -637,6 +807,13 @@ On peut citer différents aspects : <ul>
 Neuf points d'emports.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II"
+  "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-f-4-phantom-ii/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/2b/QF-4_Holloman_AFB.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -646,6 +823,13 @@ Neuf points d'emports.</p>
 <p>Faible coût, faible entretien.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Northrop_F-5_Freedom_Fighter"
+  "https://en.wikipedia.org/wiki/Northrop_F-5"
+  "https://www.avionslegendaires.net/avion-militaire/northrop-f-5-freedom-fighter/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/8d/J-3005.jpg"
+  "Peng Chen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine -->
 </div>
@@ -655,11 +839,29 @@ Neuf points d'emports.</p>
 {{< mach 1.5 >}}
 <p>Le plus gros chasseur jamais mis en service.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-128"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-28"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-28-tu-128-fiddler/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tupolev_Tu-128_0_red_%2810229214405%29.jpg"
+  "Alan Wilson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
 {{< mach 2.5 >}}
 <p>Delta. Basé sur le Su-9. Bi-réacteur.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-15"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-15"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-15-flagon/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Su-15_Flagon_A.jpg"
+  "US gov, Public domain, via Wikimedia Commons"
+>}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "XH5QWCdRXTw" >}}
@@ -677,6 +879,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-23"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-23"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-23-flogger/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/MiG-23-red12.jpg"
+  "US military, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine -->
 </div>
 
@@ -687,6 +896,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <p>Très rapide.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-25"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-25-foxbat/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/%D0%9C%D0%B8%D0%BA%D0%BE%D1%8F%D0%BD-%D0%93%D1%83%D1%80%D0%B5%D0%B2%D0%B8%D1%87_%D0%9C%D0%B8%D0%93-25%2C_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_-_%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%BC%D0%BE%D1%80_RP91697.jpg"
+  "English:  Alex BeltyukovРусский:  Александр Бельтюков, CC BY-SA 3.0 GFDL 1.2, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "CgAeLkgkZBE" >}} <!-- Drole de machine -->
 </div>
 <div class="images">
@@ -700,6 +916,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< caracteristique "atterrissage court (inversion de poussée)" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Saab_37_Viggen"
+  "https://en.wikipedia.org/wiki/Saab_37_Viggen"
+  "https://www.avionslegendaires.net/avion-militaire/saab-j37-viggen/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/3e/Saab_AJS-37_Viggen_%28angled%29.jpg"
+  "Alan Wilson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-playlist-youtube "PLZkiCzfgMp65Z1e73Qo4DjKM6ecy8ynP2" >}}
 </div>
 <div class="images">
@@ -713,6 +936,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <p>Basé sur le Mirage III, utilisation d'une aile en flèche pour une vitesse d'approche plus faible.
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Mirage_F1"
+  "https://en.wikipedia.org/wiki/Dassault_Mirage_F1"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-mirage-f1/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/bd/A2407-France-MirageF1-660-RIAT2013.JPG"
+  "MilborneOne, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "UnycNFTXXco" >}}
 </div>
@@ -724,6 +954,15 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< aeronef ":israel:" "IAI" "Kfir" "1975" >}}
 {{< mach 2.3 >}}
 <p>Delta. Basé sur le Mirage 5.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/IAI_Kfir"
+  "https://en.wikipedia.org/wiki/IAI_Kfir"
+  "https://www.avionslegendaires.net/avion-militaire/i-a-i-kfir/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/30/Colombian_Air_Force_Kfir_%28cropped%29.jpg"
+  "S.C. Air National Guard (Maj. Matthew Booth), Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="titre_generation">

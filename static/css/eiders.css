@@ -137,6 +137,8 @@
 
 .ressource-encyclopedique .controles
 {
+  text-align: right;
+
   position: absolute;
   bottom: 0;
   right: 0;
@@ -144,6 +146,6 @@
 
 .ressource-encyclopedique a
 {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 

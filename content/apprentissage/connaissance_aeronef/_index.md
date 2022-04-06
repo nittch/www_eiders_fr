@@ -1505,6 +1505,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <p>Une sirène pour terroriser les populations lors du piqué.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Junkers_Ju_87"
+  "https://en.wikipedia.org/wiki/Junkers_Ju_87"
+  "https://www.avionslegendaires.net/avion-militaire/junkers-ju-87-stuka/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/Junkers_Ju_87B_dropping_bombs.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka -->
 {{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation -->
 {{< ressource-video-youtube "PpRfvKx2ouE" >}} <!-- Imineo -->
@@ -1514,9 +1521,16 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 
 <div class="aeronef">
-{{< aeronef ":gb:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
+{{< aeronef ":us:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Consolidated_PBY_Catalina"
+  "https://en.wikipedia.org/wiki/Consolidated_PBY_Catalina"
+  "https://www.avionslegendaires.net/avion-militaire/consolidated-pby-catalina/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c9/PBY_Catalina%2C_Southport_Airshow_2009.jpg"
+  "John from Manchester, uk, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende -->
 </div>
 
@@ -1524,17 +1538,68 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Bristol_Blenheim"
+  "https://en.wikipedia.org/wiki/Bristol_Blenheim"
+  "https://www.avionslegendaires.net/avion-militaire/bristol-blenheim/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/ba/Blenheim_-_RIAT_2015_%2819998104414%29.jpg"
+  "Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo -->
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Bristol" "Beaufort" "1939" "torpilleur" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Bristol_Beaufort"
+  "https://en.wikipedia.org/wiki/Bristol_Beaufort"
+  "https://www.avionslegendaires.net/avion-militaire/bristol-beaufort/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/22/Bristol_Beaufort_ExCC.jpg"
+  "Royal Air Force, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd et torpillage, assaut, chasseur de nuit" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Bristol_Beaufighter"
+  "https://en.wikipedia.org/wiki/Bristol_Beaufighter"
+  "https://www.avionslegendaires.net/avion-militaire/bristol-beaufighter/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/29/Aircraft_of_the_Royal_Air_Force_1939-1945-_Bristol_Type_156_Beaufighter._CM5105.jpg"
+  "Royal Air Force official photographer, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "avion d'attaque ou bombardier torpilleur" >}}
 {{< exemplaires 36183 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Iliouchine_Il-2"
+  "https://en.wikipedia.org/wiki/Ilyushin_Il-2"
+  "https://www.avionslegendaires.net/avion-militaire/ilyushin-il-2-sturmovik/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/Il2_sturmovik.jpg"
+  "no info, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Douglas" "A-20 Havoc" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
+{{< aeronef ":us:" "Douglas" "A-20 Havoc / DB-7" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_A-20_Havoc"
+  "https://en.wikipedia.org/wiki/Douglas_A-20_Havoc"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-a-20-havoc/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/2e/Douglas_A-20G_Havoc.jpg"
+  "USAAF, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef avec_module_dcs">
@@ -1557,16 +1622,54 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< aeronef ":us:" "Grumman" "TBF Avenger" "1942" "bombardier torpilleur embarqué" >}}
 {{< exemplaires 9836 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Grumman_TBF_Avenger"
+  "https://en.wikipedia.org/wiki/Grumman_TBF_Avenger"
+  "https://www.avionslegendaires.net/avion-militaire/grumman-tbf-tbm-avenger/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/TBM3_Avenger_-_Chino_Airshow_2014_%2814344070442%29.jpg"
+  "Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":de:" "Henschel" "Hs 129" "1942" "avion d'attaque" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Henschel_Hs_129"
+  "https://en.wikipedia.org/wiki/Henschel_Hs_129"
+  "https://www.avionslegendaires.net/avion-militaire/henschel-hs-129/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/ce/Henschel_Hs_129B.jpg"
+  "USAAF; original uploader to en.wikipedia was en:user:Maury Markowitz, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué" >}}
 {{< exemplaires 7140 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Curtiss_SB2C_Helldiver"
+  "https://en.wikipedia.org/wiki/Curtiss_SB2C_Helldiver"
+  "https://www.avionslegendaires.net/avion-militaire/curtiss-sb2c-helldiver/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/ed/Curtiss_SB2C-5_Helldiver_warbird_in_flight.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_A-26_Invader"
+  "https://en.wikipedia.org/wiki/Douglas_A-26_Invader"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-a-26-invader/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Douglas_A26_Invader-2362.jpg"
+  "Ragnhild & Neil Crawford, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "acX9bpPilkM" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -1779,13 +1882,31 @@ Géométrie variable.</p>
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Tupolev" "ANT-40 / SB" "1935" "bombardier" >}}
+{{< aeronef ":ru:" "Tupolev" "ANT-40 / SB" "1935" "bombardier rapide" >}}
 {{< exemplaires 6656 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_SB"
+  "https://en.wikipedia.org/wiki/Tupolev_SB"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-sb-2/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/13/Aeroflot_Tupolev_ANT-40_SSSR-L2440.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 111" "1937" "bombardier" >}}
 {{< exemplaires 7300 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Heinkel_He_111"
+  "https://en.wikipedia.org/wiki/Heinkel_He_111"
+  "https://www.avionslegendaires.net/avion-militaire/heinkel-he-111/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bundesarchiv_Bild_101I-343-0694-21%2C_Belgien-Frankreich%2C_Flugzeug_Heinkel_He_111.jpg"
+  "Bundesarchiv, Bild 101I-343-0694-21 / Schödl (e) / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -1793,6 +1914,13 @@ Géométrie variable.</p>
 {{< exemplaires 12731 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
+  "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
+  "https://www.avionslegendaires.net/avion-militaire/boeing-b-17-flying-fortress/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0b/B17_-_Chino_Airshow_2014_%28framed%29.jpg"
+  "Airwolfhound, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "_ctKDdsJ774" >}} <!-- les ailes de legende -->
 </div>
 
@@ -1801,6 +1929,13 @@ Géométrie variable.</p>
 {{< exemplaires 11461 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Vickers_Wellington"
+  "https://en.wikipedia.org/wiki/Vickers_Wellington"
+  "https://www.avionslegendaires.net/avion-militaire/vickers-wellington/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vickers_Wellington_Mk2.jpg"
+  "British Government., Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "e4EL0tuOm4o" >}} <!-- Imineo -->
 </div>
 
@@ -1808,15 +1943,42 @@ Géométrie variable.</p>
 {{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen" >}}
 {{< exemplaires 15183 >}}
 </div>
-
-<div class="aeronef">
-{{< aeronef ":gb:" "Short" "Stirling" "1940" "bombardier lourd" >}}
-<p>Premier bombardier lourd quadrimoteur</p>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Junkers_Ju_88"
+  "https://en.wikipedia.org/wiki/Junkers_Ju_88"
+  "https://www.avionslegendaires.net/avion-militaire/junkers-ju-88/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bundesarchiv_Bild_101I-417-1766-03A%2C_Flugzeug_Junkers_Ju_88.jpg"
+  "Bundesarchiv, Bild 101I-417-1766-03A / Ellerbrock / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
-{{< aeronef ":gb:" "Handley Page" "Halifax" "1940" "bombardier lourd" >}}
+{{< aeronef ":gb:" "Short" "S.29 Stirling" "1940" "bombardier lourd" >}}
+<p>Premier bombardier lourd quadrimoteur</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Short_Stirling"
+  "https://en.wikipedia.org/wiki/Short_Stirling"
+  "https://www.avionslegendaires.net/avion-militaire/short-s-29-stirling/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Aircraft_of_the_Royal_Air_Force_1939-1945-_Short_S.29_Stirling._CH3138.jpg"
+  "Royal Air Force official photographer, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Handley Page" "HP.57 Halifax" "1940" "bombardier lourd quadrimoteur" >}}
 {{< exemplaires 6176 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Handley_Page_Halifax"
+  "https://en.wikipedia.org/wiki/Handley_Page_Halifax"
+  "https://www.avionslegendaires.net/avion-militaire/handley-page-hp-57-halifax/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/1d/Halifax_Bomber_2_ExCC.jpg"
+  "George Woodbine, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -1824,6 +1986,13 @@ Géométrie variable.</p>
 {{< exemplaires 18482 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+  "https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator"
+  "https://www.avionslegendaires.net/avion-militaire/consolidated-b-24-liberator/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Maxwell_B-24.jpg"
+  "Unknown, U.S. Air Force archived photograph, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "dq7Wpq00NJc" >}} <!-- Cap Aviation -->
 </div>
 
@@ -1832,17 +2001,40 @@ Géométrie variable.</p>
 {{< exemplaires 9984 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_B-25_Mitchell"
+  "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-b-25-mitchell/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/B25_Mitchell_-_Chino_Airshow_2014_%2814033501440%29.jpg"
+  "Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-2 Bat" "1941" "bombardier moyen" >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-2"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-2"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-2-bat/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/Tupolev_Tu-2_%28China_Aviation_Museum%29.jpg"
+  "Flavio Mucia (AMB Brescia), CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Martin" "B-26 Marauder" "1941" "bombardier moyen" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Martin_B-26_Marauder"
+  "https://en.wikipedia.org/wiki/Martin_B-26_Marauder"
+  "https://www.avionslegendaires.net/avion-militaire/martin-b-26-marauder/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/b8/B_26.jpg"
+  "Photo by: Charles E. Brown. The original uploader was Bzuk at English Wikipedia., 2007-02-14 (original upload date), Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende -->
 </div>
 
@@ -1850,16 +2042,41 @@ Géométrie variable.</p>
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier" >}}
 {{< exemplaires 11427 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Petliakov_Pe-2"
+  "https://en.wikipedia.org/wiki/Petlyakov_Pe-2"
+  "https://www.avionslegendaires.net/avion-militaire/petlyakov-pe-2/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Pe2-2.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Avro" "Lancaster" "1942" "bombardier lourd" >}}
 {{< exemplaires 7377 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Avro_Lancaster"
+  "https://en.wikipedia.org/wiki/Avro_Lancaster"
+  "https://www.avionslegendaires.net/avion-militaire/avro-lancaster/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/Battle_of_Britain_Memorial_flight_Avro_Lancaster_%28cropped%29.jpg"
+  "Cpl Phil Major ABIPP, OGL v1.0OGL v1.0, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "B-36 Peacemaker" "1949" "bombardier stratégique lourd à long rayon d'action" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Convair_B-36_Peacemaker"
+  "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker"
+  "https://www.avionslegendaires.net/avion-militaire/convair-b-36-peacemaker/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Convair_B-36_Peacemaker.jpg"
+  "U.S. Air Force photo, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine -->
 </div>
 
@@ -2018,9 +2235,11 @@ Géométrie variable.</p>
 </div>
 
 <div class="contenu">
-{{< canal-web "Wikipedia" >}}
+{{< canal-web "Wikipédia" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack aircraft" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Bomber" "Bomber" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fighter_aircraft" "Fighter aircraft" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Century_Series" "Century_Series" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Teen_Series" "Teen Series" >}}

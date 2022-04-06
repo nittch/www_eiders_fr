@@ -65,7 +65,7 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 </div>
 
 <div class="contenu">
-{{< canal-web "Wikipedia" >}}
+{{< canal-web "Wikipédia" >}}
 {{< ressource-web "https://en.wikipedia.org/wiki/Multiservice_tactical_brevity_code" "Multiservice tactical brevity code" >}}
 </div>
 

@@ -984,6 +984,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+  "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+  "https://www.avionslegendaires.net/avion-militaire/grumman-f-14-tomcat/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f7/US_Navy_051105-F-5480T-005_An_F-14D_Tomcat_conducts_a_mission_over_the_Persian_Gulf-region.jpg"
+  "U.S. Navy photo, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -992,6 +999,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< mach 2.5 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
+  "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-f-15-eagle/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/F-15%2C_71st_Fighter_Squadron%2C_in_flight.JPG"
+  "U.S. Air Force photo/Staff Sgt. Samuel Rogers, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -1001,6 +1015,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+  "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+  "https://www.avionslegendaires.net/avion-militaire/general-dynamics-f-16-fighting-falcon/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c9/F-16_June_2008.jpg"
+  "Master Sgt. Andy Dunaway, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "W1ILwzgkCXk" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "iX2oCqcvYzQ" >}} <!-- aeronewstv -->
@@ -1022,6 +1043,13 @@ Datalink.
 </p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-31"
+  "https://en.wikipedia.org/wiki/Mikoyan_MiG-31"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-mig-31-foxhound/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/38/Russian_Air_Force_Mikoyan-Gurevich_MiG-31P.jpg"
+  "Dmitriy Pichugin (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "79DeCalsI-I" >}}
 </div>
 <div class="images">
@@ -1035,6 +1063,13 @@ Datalink.
 {{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29"
+  "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-mig-29-fulcrum/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/MiG-29K_at_MAKS-2007_airshow_%28altered%29.jpg"
+  "Dmitriy Pichugin, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel -->
 </div>
 <div class="images">
@@ -1049,6 +1084,13 @@ Datalink.
 <p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet"
+  "https://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-douglas-f-a-18-hornet/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/FA-18C_desert_refueling.jpg"
+  "US Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende -->
 </div>
 <div class="images">
@@ -1066,6 +1108,13 @@ Datalink.
 <p>Commandes de vol électriques</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Mirage_2000"
+  "https://en.wikipedia.org/wiki/Dassault_Mirage_2000"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-aviation-mirage-2000/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mirage_2000C_in-flight_2_%28cropped%29.jpg"
+  "SRA GREG L. DAVIS, USAF, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "VkRisFae93Y" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "bFHF9j_LvPk" >}}
 {{< ressource-video-youtube "qsbqV0rz87o" >}}
@@ -1089,6 +1138,13 @@ Datalink.
 <p>longue portée</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-27"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-27-flanker/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ukrainian_Air_Force_Sukhoi_Su-27P_Flanker_%2829583343448%29.jpg"
+  "Dave_S. from Witney, England, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "FjEQy8S0Vp0" >}} <!-- Imineo -->
 {{< ressource-video-youtube "yZvMljUNCeU" >}}
 </div>
@@ -1101,7 +1157,19 @@ Datalink.
 <div class="aeronef">
 {{< aeronef ":gb:/:de:" "Panavia" "Tornado ADV" "1985" "intercepteur" >}}
 {{< mach 2.2 >}}
-<p>Géométrie variable. Basé sur le Tornado.</p>
+<p>
+Géométrie variable. Basé sur le Tornado.<br />
+<i>ADV = Air Defense Variant.</i>
+</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Panavia_Tornado_ADV"
+  "https://en.wikipedia.org/wiki/Panavia_Tornado_ADV"
+  "https://www.avionslegendaires.net/avion-militaire/panavia-tornado-adv/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/00/Exercise_Red_Flag._MOD_45143909.jpg"
+  "Cpl Paul Saxby RAF, OGL v1.0OGL v1.0, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -1109,11 +1177,29 @@ Datalink.
 {{< mach 2.15 >}}
 <p>Basé sur le F-15.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
+  "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-f-15e-strike-eagle/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/F-15E_takes_on_fuel_from_KC-10.jpg"
+  "Staff Sgt. Sean Carnes, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
 {{< mach 1.8 >}}
 <p>Basé sur le Su-27.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-34"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-34"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-34-fullback/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Refuelling_a_Sukhoi_Su-34_%28cropped%29.jpg"
+  "Alex Beltyukov, CC BY-SA 3.0 GFDL 1.2, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="titre_generation">
@@ -1136,6 +1222,15 @@ Datalink.
 {{< mach 1.8 >}}
 <p>Basé sur le F/A-18.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+  "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+  "https://www.avionslegendaires.net/avion-militaire/boeing-f-a-18e-f-super-hornet/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_Royal_Australian_Air_Force_F-A-18F_Super_Hornet_departs_after_receiving_fuel_from_a_U.S._Air_Force_KC-135_Stratotanker.jpg"
+  "Tech. Sgt. Amy Lovgren, Public domain, via Wikimedia Commons"
+>}}
+</div>
 <div class="images">
 {{< ressource-video-youtube "0fM7SUSgFj8" >}}
 </div>
@@ -1145,6 +1240,15 @@ Datalink.
 {{< mach 2 >}}
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.1" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Saab_JAS_39_Gripen"
+  "https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen"
+  "https://www.avionslegendaires.net/avion-militaire/saab-jas-39-gripen/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg"
+  "Tuomo Salonen / SIMFinnish Aviation Museum, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
@@ -1159,6 +1263,13 @@ Datalink.
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Rafale"
+  "https://en.wikipedia.org/wiki/Dassault_Rafale"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-aviation-rafale/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg"
+  "Tim Felce (Airwolfhound), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "IzRh3at56tA" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "LAfdmC32Xk0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "PQZZe1WbRQ8" >}}
@@ -1182,6 +1293,15 @@ Datalink.
 {{< caracteristique "veille infrarouge" >}}
 <p>Basé sur le Su-27, les canards réduisent la vitesse maximale.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-30MKI"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-30-flanker-c/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sukhoi_Su-30MKI-3_%27SB_167%27_%2820443086186%29.jpg"
+  "Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "multirôle et supériorité aérienne" >}}
@@ -1189,6 +1309,15 @@ Datalink.
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Eurofighter_Typhoon"
+  "https://en.wikipedia.org/wiki/Eurofighter_Typhoon"
+  "https://www.avionslegendaires.net/avion-militaire/eurofighter-ef-2000-typhoon/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/3c/RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg"
+  "Chris Lofting (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
+>}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
@@ -1200,6 +1329,13 @@ Datalink.
 {{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Chengdu_JF-17_Thunder"
+  "https://en.wikipedia.org/wiki/PAC/CAC_JF-17_Thunder"
+  "https://www.avionslegendaires.net/avion-militaire/chengdu-pac-jf-17-thunder/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pakistan_JF-17_%28modified%29.jpg"
+  "Shimin Gu, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv -->
 </div>
 
@@ -1211,6 +1347,13 @@ Datalink.
 <p>Basé sur le Su-27, retour à un design sans canards.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-35"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-35"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-35-flanker-e/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Russian_Air_Force%2C_RF-95475%2C_Sukhoi_Su-35S_%2837230419561%29.jpg"
+  "Anna Zvereva from Tallinn, Estonia, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "54UqQcBehlE" >}}
 </div>
 
@@ -1221,6 +1364,15 @@ Datalink.
 {{< caracteristique "veille infrarouge" >}}
 <p>Des caractéristiques de furtivité : matériaux composites.</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/HAL_Tejas"
+  "https://en.wikipedia.org/wiki/HAL_Tejas"
+  "https://www.avionslegendaires.net/avion-militaire/hal-tejas/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/6f/HAL_Tejas_%28LA-5018%29_of_Squadron_18_Flying_Bullets.jpg"
+  "Ministry of Defence, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
@@ -1228,6 +1380,15 @@ Datalink.
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
 <p>basé sur le MiG-29, radar AESA</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-35"
+  "https://en.wikipedia.org/wiki/Mikoyan_MiG-35"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-mig-35-fulcrum-f/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/MiG-35D_%283861086285%29.jpg"
+  "Carlos Menendez San Juan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="titre_generation">
@@ -1251,6 +1412,15 @@ Datalink.
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "furtif" >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor"
+  "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-f-22-raptor/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg"
+  "F-22_Raptor.JPG: Master Sgt. Andy Dunaway, Public domain, via Wikimedia Commons"
+>}}
+</div>
 <div class="images">
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
 {{< ressource-video-youtube "GUlHhKvIX3w" >}}
@@ -1263,6 +1433,15 @@ Datalink.
 {{< caracteristique "décollage vertical" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+  "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-martin-f-35-lightning-ii/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/F-35A_flight_%28cropped%29.jpg"
+  "U.S. Air Force photo by Master Sgt. Donald R. Allen, Public domain, via Wikimedia Commons"
+>}}
+</div>
 <div class="images">
 {{< ressource-video-youtube "zW28Mb1YvwY" >}}
 {{< ressource-video-youtube "Eiop4hrBJO4" >}}
@@ -1270,12 +1449,19 @@ Datalink.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":cn:" "Chengdu" "J-20" "2017" "supériorité aérienne" >}}
+{{< aeronef ":cn:" "Chengdu" "J-20 Firefang" "2017" "supériorité aérienne" >}}
 {{< mach 2.5 >}}
 {{< caracteristique "furtif" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Chengdu_J-20"
+  "https://en.wikipedia.org/wiki/Chengdu_J-20"
+  "https://www.avionslegendaires.net/avion-militaire/chengdu-j-20-firefang/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/a2/J-20_at_Airshow_China_2016.jpg"
+  "Alert5, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "xdFS8xehUU8" >}} <!-- Defense Insider -->
 </div>
@@ -1289,6 +1475,13 @@ Datalink.
 {{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-57"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-57"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-57/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg"
+  "Anna Zvereva from Tallinn, Estonia, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "p9133N8uaFY" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "Lnzz2NT5i-w" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "B8OYE8r2u8Y" >}} <!-- aeronewstv -->

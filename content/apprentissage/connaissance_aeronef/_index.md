@@ -1061,6 +1061,8 @@ Datalink.
 {{< mach 2.3 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
 {{< caracteristique "veille infrarouge" >}}
+<p>Variante MiG-29M : modernisé.<br />
+Variante MiG-29K : embarqué.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -1135,7 +1137,16 @@ Datalink.
 {{< mach 2.35 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>longue portée</p>
+<p>
+Longue portée.<br />
+Variantes : <ul>
+<li />Su-30 : modernisé, biplace
+<li />Su-33 : embarquée, canards
+<li />Su-34 : attaque / bombardement
+<li />Su-35S : modernisé, poussée vectorielle
+<li />Su-37 : prototype à poussée vectorielle
+</ul>
+</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -1173,34 +1184,23 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
-{{< mach 2.15 >}}
-<p>Basé sur le F-15.</p>
+{{< aeronef ":ru:" "Soukhoï" "Su-30 Flanker-C/G/H" "1996" "chasseur lourd, supériorité aérienne" >}}
+{{< mach 2 >}}
+{{< caracteristique "super-manœuvrabilité (cobra, kulbit)" >}}
+{{< caracteristique "veille infrarouge" >}}
+<p>Basé sur le Su-27. Biplace.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
-  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
-  "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
-  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-f-15e-strike-eagle/"
-  "https://upload.wikimedia.org/wikipedia/commons/e/e6/F-15E_takes_on_fuel_from_KC-10.jpg"
-  "Staff Sgt. Sean Carnes, Public domain, via Wikimedia Commons"
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-30"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-30"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-30-flanker-c/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sukhoi_Su-30_inflight.jpg"
+  "Sergey Krivchikov (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
 >}}
 </div>
 
-<div class="aeronef">
-{{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
-{{< mach 1.8 >}}
-<p>Basé sur le Su-27.</p>
-</div>
-<div class="reportages">
-{{< ressource-encyclopedique
-  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-34"
-  "https://en.wikipedia.org/wiki/Sukhoi_Su-34"
-  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-34-fullback/"
-  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Refuelling_a_Sukhoi_Su-34_%28cropped%29.jpg"
-  "Alex Beltyukov, CC BY-SA 3.0 GFDL 1.2, via Wikimedia Commons"
->}}
-</div>
+
 
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
@@ -1291,13 +1291,16 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< mach 2.0 >}}
 {{< caracteristique "super-manœuvrabilité (canards, poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>Basé sur le Su-27, les canards réduisent la vitesse maximale.</p>
+<p>
+Basé sur le Su-27/Su-30.<br />
+Avionique occidentale (française et israélienne), ajout de canards et poussée vectorielle.
+</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-30MKI"
   "https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI"
-  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-30-flanker-c/"
+  ""
   "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sukhoi_Su-30MKI-3_%27SB_167%27_%2820443086186%29.jpg"
   "Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
@@ -1340,11 +1343,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Soukhoï" "Su-35 Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
+{{< aeronef ":ru:" "Soukhoï" "Su-35S Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>Basé sur le Su-27, retour à un design sans canards.</p>
+<p>Basé sur le Su-27.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -1377,9 +1380,10 @@ Géométrie variable. Basé sur le Tornado.<br />
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
 {{< mach 2.25 >}}
-{{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< caracteristique "super-manœuvrabilité (cobra)" >}}
 {{< caracteristique "veille infrarouge" >}}
-<p>basé sur le MiG-29, radar AESA</p>
+<p>basé sur le MiG-29, radar AESA.<br />
+ Le prototype MiG-29OVT disposait de poussée vectorielle, mais pas le MiG-35.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -1738,6 +1742,36 @@ Géométrie variable.</p>
 
 <div class="aeronef">
 {{< aeronef ":it:/:brazil:" "AMX International" "AMX" "1988" >}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
+{{< mach 2.15 >}}
+<p>Basé sur le F-15.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
+  "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-f-15e-strike-eagle/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/F-15E_takes_on_fuel_from_KC-10.jpg"
+  "Staff Sgt. Sean Carnes, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
+{{< mach 1.8 >}}
+<p>Basé sur le Su-27.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-34"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-34"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-34-fullback/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Refuelling_a_Sukhoi_Su-34_%28cropped%29.jpg"
+  "Alex Beltyukov, CC BY-SA 3.0 GFDL 1.2, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="titre_generation">

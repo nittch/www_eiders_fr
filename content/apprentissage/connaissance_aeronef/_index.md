@@ -1674,21 +1674,44 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Douglas" "A-1 Skyraider" "1946" "attaque au sol et appui tactique, embarqué" >}}
+{{< aeronef ":us:" "Douglas" "A-1 Skyraider / AD Skyraider" "1946" "attaque au sol et appui tactique, embarqué" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_AD_Skyraider"
+  "https://en.wikipedia.org/wiki/Douglas_A-1_Skyraider"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-a-1-skyraider/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Douglas_A-1_Skyraider_%28AD-4NA%2C_126965%29_%287911148090%29.jpg"
+  "Clemens Vasters from Viersen, Germany, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Iliouchine" "Il-2B Beagle" "1950" "bombardier" >}}
+{{< aeronef ":ru:" "Iliouchine" "Il-28 Beagle" "1950" "bombardier moyen" >}}
 {{< exemplaires 6635 >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Iliouchine_Il-28"
+  "https://en.wikipedia.org/wiki/Ilyushin_Il-28"
+  "https://www.avionslegendaires.net/avion-militaire/ilyushin-il-28-beagle/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Egyptian_Il-28_Beagle.JPEG"
+  "Staff Sgt. Bill Thompson, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-4 Skyhawk" "1956" "embarqué" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
+  "https://en.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-a-4-skyhawk/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Douglas_A-4E_Skyhawk_of_VA-164_in_flight_over_Vietnam_on_21_November_1967_%286430101%29.jpg"
+  "Lt.JG Nelson, U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -1697,6 +1720,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< mach 2.08 >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Republic_F-105_Thunderchief"
+  "https://en.wikipedia.org/wiki/Republic_F-105_Thunderchief"
+  "https://www.avionslegendaires.net/avion-militaire/republic-f-105-thunderchief/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/fa/Republic_F-105D-30-RE_%28SN_62-4234%29_in_flight_with_full_bomb_load_060901-F-1234S-013.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende -->
 </div>
 
@@ -1720,6 +1750,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <p>géométrie variable, radar de suivi de terrain automatique</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark"
+  "https://en.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark"
+  "https://www.avionslegendaires.net/avion-militaire/general-dynamics-f-111-aardvark/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/AFR_F-111_air_to_air_refueling.jpg"
+  "Master Sgt. Patrick Nugent, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende -->
 </div>
 

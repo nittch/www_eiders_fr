@@ -90,6 +90,33 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef avec_module_dcs">
+{{< aeronef ":ru:" "Polikarpov" "I-16" "1935" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Polikarpov_I-16"
+  "https://en.wikipedia.org/wiki/Polikarpov_I-16"
+  "https://www.avionslegendaires.net/avion-militaire/polikarpov-i-16-ishak/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/1a/Polikarpov_I-16_with_spanish_republican_markings.jpg"
+  "Elchuso, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":jp:" "Nakajima" "Ki-27" "1937" >}}
+<p>L'avion de chasse principale de l'armée impériale.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Nakajima_Ki-27"
+  "https://en.wikipedia.org/wiki/Nakajima_Ki-27"
+  "https://www.avionslegendaires.net/avion-militaire/nakajima-ki-27-nate-clint/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/58/Ki-27_2.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef avec_module_dcs">
 {{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" >}}
 {{< exemplaires 34852 >}}
 </div>
@@ -136,6 +163,19 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka -->
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "Brewster" "F2A Buffalo" "1939" "embarqué" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Brewster_F2A_Buffalo"
+  "https://en.wikipedia.org/wiki/Brewster_F2A_Buffalo"
+  "https://www.avionslegendaires.net/avion-militaire/brewster-f2a-buffalo/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/8d/Brewster_F2A-3_g16055.jpg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -286,6 +326,34 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 </div>
 
+<div class="aeronef">
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-3" "1941" >}}
+<p>Basé sur le MiG-1.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-3"
+  "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3"
+  "https://www.avionslegendaires.net/avion-militaire/mikoyan-gurevich-mig-1-3/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/78/MiG-3_at_Mochishche.jpg"
+  "Alex Polezhaev, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":jp:" "Nakajima" "Ki-43" "1941" >}}
+<p>Basé sur le Ki-27.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Nakajima_Ki-43"
+  "https://en.wikipedia.org/wiki/Nakajima_Ki-43"
+  "https://www.avionslegendaires.net/avion-militaire/nakajima-ki-43-hayabusa-oscar/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nakajima_Ki-43-IIa.jpg"
+  "The original uploader was Vuvar1 at English Wikipedia., 25 October 2005 (original upload date), Public domain, via Wikimedia Commons"
+>}}
+</div>
+
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur lourd et bombardier" >}}
 {{< exemplaires 15660 >}}
@@ -384,6 +452,20 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef">
+{{< aeronef ":jp:" "Kawanishi" "N1K1-J Rex" "1943" "chasse" >}}
+<p>Basé sur l'hydravion de chasse N1K.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Kawanishi_N1K1-J"
+  "https://en.wikipedia.org/wiki/Kawanishi_N1K"
+  "https://www.avionslegendaires.net/avion-militaire/kawanishi-n1k1-j-shiden-george/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/34/Kawanishi_N1K2-J_050317-F-1234P-015.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
 </div>
 <div class="reportages">
@@ -424,11 +506,52 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "UgOYCe0n0LY" >}} <!-- musee de l'air -->
 </div>
 
+<div class="aeronef">
+{{< aeronef ":jp:" "Nakajima" "Ki-84" "1944" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Nakajima_Ki-84"
+  "https://en.wikipedia.org/wiki/Nakajima_Ki-84"
+  "https://www.avionslegendaires.net/avion-militaire/nakajima-ki-84-hayate-franck/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/Nakajima_Ki84_Hayate_N3385G_ONT_18.10.70_edited-3.jpg"
+  "RuthAS, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "Northrop" "P-61 Black Widow" "1944" "chasseur de nuit">}}
+<p>Premier chasseur américain conçu pour être un chasseur de nuit.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Northrop_P-61_Black_Widow"
+  "https://en.wikipedia.org/wiki/Northrop_P-61_Black_Widow"
+  "https://www.avionslegendaires.net/avion-militaire/northrop-p-61-black-widow/"
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/P-61_from_above.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
 <div class="titre_generation">
 <h2>Chasseurs jets première génération</h2>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes). <ul>
 <li />Utilisation d'ailes en flèche pour approcher le mur du son (mais sans grande manœvrabilité), dédiés à l'interception ou la supériorité aérienne (exemples: MiG-15 ou F-86).</p>
 </ul>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":de:" "Messerschmitt" "Me 163 Komet" "1944" "intercepteur">}}
+<p>seul avion de chasse de type avion-fusée de l'histoire.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Messerschmitt_Me_163_Komet"
+  "https://en.wikipedia.org/wiki/Messerschmitt_Me_163_Komet"
+  "https://www.avionslegendaires.net/avion-militaire/messerschmitt-me-163-komet/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/71/Messerschmitt_Me_163B_USAF.jpg"
+  "USAF, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -1549,6 +1672,19 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 
 <div class="aeronef">
+{{< aeronef ":de:" "Dornier" "Do 17" "1937" "bombardier léger, chasseur de nuit, reconnaissance" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dornier_Do_17"
+  "https://en.wikipedia.org/wiki/Dornier_Do_17"
+  "https://www.avionslegendaires.net/avion-militaire/dornier-do-17/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/22/Bundesarchiv_Bild_101I-342-0603-25%2C_Belgien-Frankreich%2C_Flugzeuge_Dornier_Do_17.jpg"
+  "Bundesarchiv, Bild 101I-342-0603-25 / Ketelhohn [Kettelhohn] / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufort" "1939" "torpilleur" >}}
 </div>
 <div class="reportages">
@@ -1615,6 +1751,20 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-98-mosquito/"
   "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mosquito_600pix.jpg"
   "RAF, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "North American" "A-36 Invader/Apache" "1941" "attaque au sol, bombardier en piqué" >}}
+<p>Version d'attaque du P-51 Mustang.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_A-36_Apache"
+  "https://en.wikipedia.org/wiki/North_American_A-36"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-a-36-invader-apache/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/A-36_%22Apache%22_of_the_27th_Fighter_Bomber_Group.jpg"
+  "USAAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
 

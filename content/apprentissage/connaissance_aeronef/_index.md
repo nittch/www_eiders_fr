@@ -2104,6 +2104,20 @@ Géométrie variable.</p>
 </div>
 
 <div class="aeronef">
+{{< aeronef ":us:" "Boeing" "B-29 Superfortress" "1944" "bombardier lourd" >}}
+<p>Bombes atomiques sur Hiroshima et Nagasaki.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+  "https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress"
+  "https://www.avionslegendaires.net/avion-militaire/boeing-b-29-superfortress/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d3/B-29_in_flight.jpg"
+  "See page for author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
 {{< aeronef ":us:" "Convair" "B-36 Peacemaker" "1949" "bombardier stratégique lourd à long rayon d'action" >}}
 </div>
 <div class="reportages">
@@ -2119,8 +2133,16 @@ Géométrie variable.</p>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-47 Stratojet" "1952" "bombardier moyen à long rayon d'action" >}}
+<p>Six réacteurs.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Boeing_B-47_Stratojet"
+  "https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet"
+  "https://www.avionslegendaires.net/avion-militaire/boeing-b-47-stratojet/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/22d_Bombardment_Wing_Boeing_B-47E-55-BW_Stratojet_51-2394.jpg"
+  "United States Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "Kk3GfN6lKtY" >}} <!-- les ailes de legende -->
 </div>
 
@@ -2128,13 +2150,28 @@ Géométrie variable.</p>
 {{< aeronef ":ru:" "Miassichtchev" "M-4 Bison" "1953" "bombardier stratégique lourd" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Miassichtchev_M-4"
+  "https://en.wikipedia.org/wiki/Myasishchev_M-4"
+  "https://www.avionslegendaires.net/avion-militaire/myasishchev-mya-4-m-4-molot-bison/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bv_m4_02.jpg"
+  "Boris Vasiljev, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "t_rnMnEf0vc" >}} <!-- Drole de machine -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-52 Stratofortress" "1955" "bombardier stratégique lourd à long rayon d'action" >}}
+<p>Huit réacteurs.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Boeing_B-52_Stratofortress"
+  "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress"
+  "https://www.avionslegendaires.net/avion-militaire/boeing-b-52-stratofortress/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg"
+  "Airman 1st Class Victor J. Caputo, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv -->
 </div>
 

@@ -1885,14 +1885,43 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< mach 1.74 >}}
 <p>Ailes en flèche</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-7"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-7"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-7-fitter/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Su-7.JPG"
+  "Konflikty.pl (Attribution or Attribution), via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Étendard IV" "1962" "embarqué" >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_%C3%89tendard_IV"
+  "https://en.wikipedia.org/wiki/Dassault_%C3%89tendard_IV"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-etendard/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/Dassault_Etendard_IVP%2C_France_-_Navy_AN2063232.jpg"
+  "Steve Fitzgerald (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
+>}}
+</div>
+
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-6 Intruder" "1963" "embarqué" >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Grumman_A-6_Intruder"
+  "https://en.wikipedia.org/wiki/Grumman_A-6_Intruder"
+  "https://www.avionslegendaires.net/avion-militaire/grumman-a-6-intruder/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grumman_KA-6D_Intruder_of_VA-34_in_flight%2C_in_1988.jpg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
 
 <div class="aeronef">
 {{< aeronef ":us:" "General Dynamics" "F-111 Aardvark" "1967" "bombardier tout-temps" >}}
@@ -1914,11 +1943,27 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< aeronef ":us:" "Ling-Temco-Vought" "A-7 Corsair II" "1967" "embarqué" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/LTV_A-7_Corsair_II"
+  "https://en.wikipedia.org/wiki/LTV_A-7_Corsair_II"
+  "https://www.avionslegendaires.net/avion-militaire/vought-a-7-corsair-ii/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/A-7E_Corsair_II_of_VA-146_in_flight_on_16_November_1974_%28NNAM.1996.253.7100.039%29.jpg"
+  "Robert L. Lawson, U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "3DtRkAmKNTk" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "OV-10 Bronco" "1967" "reconnaissance et attaque au sol" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_OV-10_Bronco"
+  "https://en.wikipedia.org/wiki/North_American_Rockwell_OV-10_Bronco"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-rockwell-ov-10-bronco/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/36/NASA_OV-10.jpg"
+  "NASA, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -2327,6 +2372,16 @@ Géométrie variable.</p>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-3 Skywarrior" "1956" "bombardier stratégique embarqué" >}}
+<p>Bombe atomique, guerre électronique, ravitailleur.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_A-3_Skywarrior"
+  "https://en.wikipedia.org/wiki/Douglas_A-3_Skywarrior"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-a-3-skywarrior/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/EA-3B_VQ-1_in_flight_South_China_Sea_1974.jpeg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">

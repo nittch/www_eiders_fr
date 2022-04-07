@@ -1,4 +1,6 @@
-<div class="ressource ressource-encyclopedique" style="background-image: url({{ .Get 3 }});">
+<div class="ressource ressource-encyclopedique" style="
+background-image: url({{ .Get 3 | replaceRE "https://upload.wikimedia.org/wikipedia/commons/(./..)/(.*)" "https://upload.wikimedia.org/wikipedia/commons/thumb/$1/$2/300px-$2" }});
+">
   <div class="conteneur">
 
   <div class="liens">

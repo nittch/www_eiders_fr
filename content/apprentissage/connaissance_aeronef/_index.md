@@ -104,7 +104,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "Ki-27" "1937" >}}
-<p>L'avion de chasse principale de l'armée impériale.</p>
+<p>L'avion de chasse principal de l'armée impériale.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -480,6 +480,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasse" >}}
+<p>Basé sur le La-5.</p>
 </div>
 <div class="reportages">
 {{< ressource-encyclopedique
@@ -835,8 +836,10 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "https://upload.wikimedia.org/wikipedia/commons/a/ac/Saab_SK_35C_Draken_%28DragonKite%29_SE-DXP810.jpg"
   "Robert Sullivan, PDM-owner, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "LhCSSlfNJk8" >}}
 </div>
 <div class="images">
+{{< ressource-video-youtube "vay7gVojgy0" >}}
 {{< ressource-video-youtube "jqiDEcfSnXs" >}}
 </div>
 
@@ -1051,6 +1054,8 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="images">
 {{< ressource-video-youtube "fBE41A9VT3Q" >}}
 {{< ressource-video-youtube "UyA-oTElVRw" >}}
+{{< ressource-video-youtube "1PhvXPzzCEU" >}}
+{{< ressource-video-youtube "KeQQEDRxNuE" >}}
 </div>
 
 <div class="aeronef">
@@ -1372,6 +1377,7 @@ Géométrie variable. Basé sur le Tornado.<br />
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg"
   "Tuomo Salonen / SIMFinnish Aviation Museum, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "LuwB6YYtwF4" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
@@ -1796,7 +1802,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 
 <div class="aeronef">
-{{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué" >}}
+{{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué, embarqué" >}}
 {{< exemplaires 7140 >}}
 </div>
 <div class="reportages">
@@ -2300,6 +2306,7 @@ Géométrie variable.</p>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-29 Superfortress" "1944" "bombardier lourd" >}}
+{{< caracteristique "Bombe atomique" >}}
 <p>Bombes atomiques sur Hiroshima et Nagasaki.</p>
 </div>
 <div class="reportages">

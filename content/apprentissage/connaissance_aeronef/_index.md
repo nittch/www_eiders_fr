@@ -2270,6 +2270,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <p>variante du C-130 Hercules</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_AC-130"
+  "https://en.wikipedia.org/wiki/Lockheed_AC-130"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-ac-130-spectre/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/ee/AC-130H_Spectre_banking_turn.jpg"
+  "U.S. Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "TfoBodLpXx8" >}} <!-- Defense Insider -->
 </div>
 
@@ -2279,6 +2286,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "decollage vertical" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
+  "https://en.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
+  "https://www.avionslegendaires.net/avion-militaire/hawker-siddeley-harrier/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Spanish_AV-8S_Matador_%28cropped%29.jpg"
+  "Lt. Cmdr.John Leenhouts, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel -->
 {{< ressource-web "https://www.quora.com/How-effective-is-viffing-in-a-Harrier" "How effective is VIFFing in a Harrier" >}}
 </div>
@@ -2287,12 +2301,18 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Soukhoï" "Su-17 Fitter-C" "1970" "chasseur bombardier, attaque au sol" >}}
+{{< aeronef ":ru:" "Soukhoï" "Su-17/20/22 Fitter-C" "1970" "chasseur bombardier, attaque au sol" >}}
 {{< mach 2.09 >}}
-<p>
-Basé sur le Su-7, géométrie variable.<br />
-Des variantes Su-20, Su-22...
-</p>
+<p>Basé sur le Su-7, géométrie variable. </p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-17"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-17"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-17-20-22-fitter/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/17/Sukhoi_Su-22M4%2C_Czech_Republic_-_Air_Force_%28cropped%29.jpg"
+  "Anthony Noble, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -2301,6 +2321,13 @@ Des variantes Su-20, Su-22...
 <p>attaque au sol</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/SEPECAT_Jaguar"
+  "https://en.wikipedia.org/wiki/SEPECAT_Jaguar"
+  "https://www.avionslegendaires.net/avion-militaire/sepecat-jaguar/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/71/Jaguar_DF-SD-05-05511.JPEG"
+  "DoD photo by: TSGT MIKE BUYTAS, USAF, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "z-uqMUA7U-k" >}}
 </div>
@@ -2310,13 +2337,30 @@ Des variantes Su-20, Su-22...
 {{< mach 1.6 >}}
 <p>
 Premier appareil soviétique équipé d'un système de navigation et d'attaque numérique.<br />
-Géométrie variable.</p>
+Géométrie variable.
+</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-24"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-24"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-24-fencer/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg"
+  "Alexander Mishin, CC BY-SA 3.0 GFDL, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Fairchild Republic" "A-10 Thunderbold II / Warthog" "1975" "attaque au sol et appui tactique" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Fairchild_A-10_Thunderbolt_II"
+  "https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II"
+  "https://www.avionslegendaires.net/avion-militaire/fairchild-republic-a-10-thunderbolt-ii/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/A-10_Thunderbolt_9875.JPG"
+  "Konflikty.pl (Attribution or Attribution), via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "_xaugfhbmp0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "BVmiaNhxLHE" >}} <!-- aeronewstv -->
@@ -2334,6 +2378,15 @@ Géométrie variable.</p>
 {{< aeronef ":fr:" "Dassault" "Super Étendard" "1978" "embarqué" >}}
 {{< mach 1.3 >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Super-%C3%89tendard"
+  "https://en.wikipedia.org/wiki/Dassault-Breguet_Super_%C3%89tendard"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-super-etendard/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/af/CdG-photo173.jpg"
+  "Guillaume Rueda, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+>}}
+</div>
 <div class="images">
 {{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee -->
 </div>
@@ -2343,6 +2396,13 @@ Géométrie variable.</p>
 <p>Une variante Su-39...</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-25"
+  "https://en.wikipedia.org/wiki/Sukhoi_Su-25"
+  "https://www.avionslegendaires.net/avion-militaire/sukhoi-su-25-scorpion-frogfoot/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sukhoi_Su-25_of_the_Russian_Air_Force_landing_at_Vladivostok_%288683076150%29.jpg"
+  "Fedor Leukhin, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "raYB4TWh-W4" >}}
 </div>
 <div class="images">
@@ -2355,6 +2415,13 @@ Géométrie variable.</p>
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Panavia_Tornado"
+  "https://en.wikipedia.org/wiki/Panavia_Tornado"
+  "https://www.avionslegendaires.net/avion-militaire/panavia-tornado-ids/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/fe/AGM-88_and_AIM-9_on_Tornado.jpg"
+  "U.S. Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "5Trez3StUWQ" >}} <!-- Imineo -->
 </div>
 
@@ -2365,17 +2432,42 @@ Géométrie variable.</p>
 {{< caracteristique "FLIR" >}}
 <p>évolution du Hawker Siddeley Harrier</p>
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/McDonnell_Douglas_AV-8B_Harrier_II"
+  "https://en.wikipedia.org/wiki/McDonnell_Douglas_AV-8B_Harrier_II"
+  "https://www.avionslegendaires.net/avion-militaire/mcdonnell-douglas-tav-8b-harrier-ii/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/04/United_States_Marine_Corps_AV-8B_Harrier_II_hovering.jpg"
+  "D. Miller from IL. USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-117 Nighthawk" "1983" "attaque au sol" >}}
 {{< caracteristique "furtif" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Lockheed_Martin_F-117_Nighthawk"
+  "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk"
+  "https://www.avionslegendaires.net/avion-militaire/lockheed-martin-f-117-night-hawk/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/a1/F-117_Nighthawk_Front.jpg"
+  "Staff Sgt. Aaron Allmon II, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "_h5JiIY8Exo" >}} <!-- aeronewstv -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":it:/:brazil:" "AMX International" "AMX" "1988" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/AMX_International_AMX"
+  "https://en.wikipedia.org/wiki/AMX_International_AMX"
+  "https://www.avionslegendaires.net/avion-militaire/amx-international-amx/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/36/Alenia-Aermacchi-Embraer_AMX%2C_Italy_-_Air_Force_JP7721735.jpg"
+  "Fabrizio Berni (GFDL <http://www.gnu.org/copyleft/fdl.html> or GFDL <http://www.gnu.org/copyleft/fdl.html>), via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -2488,6 +2580,13 @@ Géométrie variable.</p>
 {{< aeronef ":ru:" "Tupolev" "Tu-95 Bear" "1956" "bombardier stratégique lourd" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-95"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-95"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-95-bear/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Russian_Bear_%27H%27_Aircraft_MOD_45158140.jpg"
+  "RAF, OGL v1.0OGL v1.0, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka -->
 </div>
@@ -2497,17 +2596,40 @@ Géométrie variable.</p>
 <p>delta, mach 2</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Convair_B-58_Hustler"
+  "https://en.wikipedia.org/wiki/Convair_B-58_Hustler"
+  "https://www.avionslegendaires.net/avion-militaire/convair-b-58-hustler/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/B-58_%28modified%29.jpg"
+  "US Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "dvtV0GVtQt8" >}} <!-- les ailes de legende -->
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-5 Vigilante" "1961" "embarqué, dissuasion nucléaire et reconnaissance" >}}
 </div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_A-5_Vigilante"
+  "https://en.wikipedia.org/wiki/North_American_A-5_Vigilante"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-a-5-vigilant/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d0/RA-5C_Vigilante_overhead_aerial_view.jpg"
+  "Service Depicted:  Navy, Public domain, via Wikimedia Commons"
+>}}
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-22 Blinder" "1962" "bombardier supersonique, reconnaissance" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-22"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-22"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-22-blinder/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/Tu-22_landing.jpg"
+  "See page for author, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "IfRBbJCU-WQ" >}} <!-- Yataka -->
 </div>
 
@@ -2516,6 +2638,13 @@ Géométrie variable.</p>
 <p>mach 3</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+  "https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
+  "https://www.avionslegendaires.net/avion-militaire/north-american-xb-70-valkyrie/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/46/North_American_XB-70A_Valkyrie_in_flight_%28cropped%29.jpg"
+  "US Air Force, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "lKRnehhZfFY" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "d5SKO_TAlsw" >}} <!-- Drole de machine -->
 </div>
@@ -2524,14 +2653,28 @@ Géométrie variable.</p>
 {{< aeronef ":fr:" "Dassault" "Mirage IV" "1964" "dissuasion nucléaire et reconnaissance" >}}
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dassault_Mirage_IV"
+  "https://en.wikipedia.org/wiki/Dassault_Mirage_IV"
+  "https://www.avionslegendaires.net/avion-militaire/dassault-mirage-iv/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dassault_Mirage_IVP%2C_France_-_Air_Force_AN0758316.jpg"
+  "Mike Freer - Touchdown-aviation (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel -->
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Tupolev" "Tu-22M Backfire" "1972" "bombardier lourd supersonique à long rayon d'action" >}}
-<p>géométrie variable</p>
+{{< aeronef ":ru:" "Tupolev" "Tu-22M Backfire (Tu-26)" "1972" "bombardier lourd supersonique à long rayon d'action" >}}
+<p>géométrie variable.</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-22M"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-22M"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-26-backfire/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tupolev_Tu-22M3M_GEFEST_%2819230388334%29.jpg"
+  "Dmitry Terekhov from Odintsovo, Russian Federation, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "Uq-aWGL7Dk4" >}} <!-- aeronewstv -->
 </div>
@@ -2541,6 +2684,13 @@ Géométrie variable.</p>
 <p>géométrie variable</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+  "https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer"
+  "https://www.avionslegendaires.net/avion-militaire/rockwell-b-1-lancer/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/4a/B-1B_over_the_pacific_ocean.jpg"
+  "United States Air Force photo by Staff Sgt. Bennie J. Davis III, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "hFlcQN3KleU" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "CLMY1oJjuas" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "-puARA_M_I4" >}} <!-- aeronewstv -->
@@ -2551,6 +2701,13 @@ Géométrie variable.</p>
 <p>le plus gros et lourd avion de combat au monde, mach 2.1</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-160"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-160"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-160-blackjack/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Tupolev_Tu-160_in_1997.jpg"
+  "Igor Bubin (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "MnhyzGlEYEo" >}}
@@ -2562,6 +2719,13 @@ Géométrie variable.</p>
 <p>aile volante, l'avion le plus cher au monde</p>
 </div>
 <div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Northrop_B-2_Spirit"
+  "https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit"
+  "https://www.avionslegendaires.net/avion-militaire/northrop-b-2-spirit/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/B-2_Spirit_original.jpg"
+  "Staff Sgt. Bennie J. Davis III, Public domain, via Wikimedia Commons"
+>}}
 {{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "fzzOGg-ocdE" >}} <!-- aeronewstv -->
 </div>

@@ -2500,8 +2500,35 @@ Géométrie variable.
 >}}
 </div>
 
+<div class="aeronef">
+{{< aeronef ":brazil:" "Embraer" "EMB 314 Super Tucano" "2003" "attaque et contre-insurrection" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Embraer_EMB_314"
+  "https://en.wikipedia.org/wiki/Embraer_EMB_314_Super_Tucano"
+  "https://www.avionslegendaires.net/avion-militaire/embraer-emb-314-super-tucano/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c9/A-29_Over_Afghanistan.jpg"
+  "Staff Sgt. Larry Reid Jr., Public domain, via Wikimedia Commons"
+>}}
+</div>
+
 <div class="titre_generation">
 <h2>Bombardiers stratégiques</h2>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Tupolev" "Tu-4 Bull" "1949" "bombardier stratégique" >}}
+<p>Copie du B-29.</p>
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-4"
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-4"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-4-bull/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/86/Tu-4_.jpg"
+  "Ronidong, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+>}}
 </div>
 
 <div class="aeronef">
@@ -2548,6 +2575,19 @@ Géométrie variable.
 </div>
 
 <div class="aeronef">
+{{< aeronef ":ru:" "Tupolev" "Tu-16 Badger" "1954" "bombardier stratégique" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
+  "https://fr.wikipedia.org/wiki/Tupolev_Tu-16"
+  "https://www.avionslegendaires.net/avion-militaire/tupolev-tu-16-badger/"
+  "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tu-16_Badger_Soviet_Air_Force_%28cropped%29.jpg"
+  "US Air Force, Public domain, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-52 Stratofortress" "1955" "bombardier stratégique lourd à long rayon d'action" >}}
 <p>Huit réacteurs.</p>
 </div>
@@ -2560,6 +2600,20 @@ Géométrie variable.
   "Airman 1st Class Victor J. Caputo, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv -->
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Vickers" "Valiant" "1955" "bombardier stratégique, tanker" >}}
+{{< caracteristique "V Force" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Vickers_Valiant"
+  "https://en.wikipedia.org/wiki/Vickers_Valiant"
+  "https://www.avionslegendaires.net/avion-militaire/vickers-valiant/"
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/Vickers_Valiant_B%28K%29.1_1962.png"
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/Vickers_Valiant_B%28K%29.1_1962.png"
+>}}
 </div>
 
 <div class="aeronef">
@@ -2591,6 +2645,33 @@ Géométrie variable.
 {{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka -->
 </div>
 
+<div class="aeronef">
+{{< aeronef ":gb:" "Avro" "Vulcan" "1956" "bombardier stratégique" >}}
+{{< caracteristique "V Force" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Avro_Vulcan"
+  "https://en.wikipedia.org/wiki/Avro_Vulcan"
+  "https://www.avionslegendaires.net/avion-militaire/avro-vulcan/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/05/XH558_%28G-VLCN%29_Avro_Vulcan_-_Last_Flight_over_Farnborough_%28cropped%29.jpg"
+  "Alastair Barbour, CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons"
+>}}
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Handley Page" "HP.80 Victor" "1958" "bombardier stratégique, tanker" >}}
+{{< caracteristique "V Force" >}}
+</div>
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Handley_Page_Victor"
+  "https://en.wikipedia.org/wiki/Handley_Page_Victor"
+  "https://www.avionslegendaires.net/avion-militaire/handley-page-hp-80-victor/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Handley_Page_HP-80_Victor_K2%2C_UK_-_Air_Force_AN1926561.jpg"
+  "Mike Freer - Touchdown-aviation (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
+>}}
+</div>
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "B-58 Hustler" "1960" "bombardier stratégique supersonique" >}}
 <p>delta, mach 2</p>

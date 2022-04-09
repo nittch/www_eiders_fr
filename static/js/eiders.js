@@ -143,7 +143,7 @@ function get_youtube_channel(selector, identifier, callback)
   console.log("channels(forUsername): requesting " + identifier);
 
   $.get('https://www.googleapis.com/youtube/v3/channels',
-    { key: k, forUsername: identifier, part: 'snippet', fields: "items(snippet(title,thumbnails/default/url))" },
+    { key: k, forUsername: identifier, part: 'snippet', fields: "items(snippet(title,thumbnails/medium/url))" },
     function(result) {
       if (result["items"] == null)
       {
@@ -152,7 +152,7 @@ function get_youtube_channel(selector, identifier, callback)
       }
       formatted_result = {
         title: result.items[0].snippet.title,
-        thumbnail: result.items[0].snippet.thumbnails.default.url
+        thumbnail: result.items[0].snippet.thumbnails.medium.url
       };
 
       set_cache(session_key, formatted_result);
@@ -175,7 +175,7 @@ function get_youtube_videos_groupped()
 
     $.get('https://www.googleapis.com/youtube/v3/videos',
       // on join les id
-      { key: k, id: sub_request.join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/duration)" },
+      { key: k, id: sub_request.join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/medium/url),contentDetails/duration)" },
       function(result) {
         if (result["items"] == null)
         {
@@ -189,7 +189,7 @@ function get_youtube_videos_groupped()
           {
             formatted_result = {
               title: entry.snippet.title,
-              thumbnail: entry.snippet.thumbnails.default.url,
+              thumbnail: entry.snippet.thumbnails.medium.url,
               duration: entry.contentDetails.duration,
             };
 
@@ -214,7 +214,7 @@ function get_youtube_playlists_groupped()
   
     $.get('https://www.googleapis.com/youtube/v3/playlists',
       // on join les id
-      { key: k, id: sub_request.join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/default/url),contentDetails/itemCount)" },
+      { key: k, id: sub_request.join(','), part: 'snippet, contentDetails', fields: "items(id,snippet(title,thumbnails/medium/url),contentDetails/itemCount)" },
       function(result) {
         if (result["items"] == null)
         {
@@ -228,7 +228,7 @@ function get_youtube_playlists_groupped()
           {
             formatted_result = {
               title: entry.snippet.title,
-              thumbnail: entry.snippet.thumbnails.default.url,
+              thumbnail: entry.snippet.thumbnails.medium.url,
               nbvideos: entry.contentDetails.itemCount
             };
   

@@ -6,7 +6,7 @@ weight = 2
 <style>
   .grille{
     display: grid;
-    grid-template-columns: 20% 40% 40%;
+    grid-template-columns: 20% 80%;
   }
 
   .titre_generation {
@@ -59,25 +59,26 @@ weight = 2
     padding: 5px;
   }
 
-  .reportages {
+  .ressources {
     grid-column: 2;
+  }
 
+  .reportages {
+    display: inline-block;
     padding: 0.2em;
   }
 
   .images {
-    grid-column: 3;
-
+    display: inline-block;
     padding: 0.2em;
 
-    border-left: 1px;
-    border-top: 0px;
-    border-right: 0px;
-    border-bottom: 0px;
-
-    border-style: solid;
-    border-color: grey;
+    outline: 1px solid grey;
   }
+  .images:before { /* on injecte une icône camera avant le bloc */
+    content: ":camera: : ";
+    vertical-align: top;
+  }
+
 </style>
 
 Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat), ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).
@@ -100,6 +101,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Polikarpov" "I-16" "1935" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Polikarpov_I-16"
@@ -109,6 +111,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Elchuso, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : peu armé, mais manoeuvrant -->
 <!-- fighter aircraft : grand succès au debut du pacifique -->
@@ -116,6 +119,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":jp:" "Nakajima" "Ki-27" "1937" >}}
 <p>L'avion de chasse principal de l'armée impériale.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Nakajima_Ki-27"
@@ -124,6 +128,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/5/58/Ki-27_2.jpg"
   "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <!-- Fighter aircraft : testé à la guerre civile espagnole -->
@@ -134,16 +139,18 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" >}}
 {{< exemplaires 34852 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Messerschmitt_Bf_109"
   "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"
   "https://www.avionslegendaires.net/avion-militaire/messerschmitt-bf-109/"
-  "https://upload.wikimedia.org/wikipedia/commons/0/01/Me109_G-6_D-FMBB_2.jpg"
-  "Kogo, GFDL <http://www.gnu.org/copyleft/fdl.html>, via Wikimedia Commons"
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bf_109A_from_the_Condor_Legion_with_Nationalist_Spain_markings.jpg"
+  "Unknown authorUnknown author, CC0, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka -->
 {{< ressource-video-youtube "22tVIa2BPu8" >}} <!-- La 2nd Guerre Mondiale -->
+</div>
 </div>
 
 <!-- Fighter aircraft : supériorité aérienne -->
@@ -153,6 +160,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 14583 >}}
 <p>Premier chasseur monoplan de la Royal Air Force.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Hawker_Hurricane"
@@ -163,6 +171,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation -->
 </div>
+</div>
 
 <!-- Fighter aircraft : supériorité aérienne -->
 <!-- air supremacy : supériorité aérienne -->
@@ -171,6 +180,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 20351 >}}
 <p>Version embarquée : Seafire.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Supermarine_Spitfire"
@@ -182,11 +192,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka -->
 </div>
+</div>
 
 <!-- fighter aircraft : dépassé par le zero -->
 <div class="aeronef">
 {{< aeronef ":us:" "Brewster" "F2A Buffalo" "1939" "embarqué" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Brewster_F2A_Buffalo"
@@ -195,6 +207,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Brewster_F2A-3_g16055.jpg"
   "U.S. Navy, Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <!-- fighter aircraft : peu armé, mais manoeuvrant -->
@@ -206,6 +219,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 10939 >}}
 <p>Très maniable, une grande puissance de feu mais aucun blindage.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mitsubishi_A6M"
@@ -216,12 +230,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "Mal9vqxk7N4" >}} <!-- Yataka -->
 </div>
+</div>
 
 <!-- fighter aircraft : meilleure puissance de feu que le zero -->
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "embarqué" >}}
 {{< exemplaires 7885 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Grumman_F4F_Wildcat"
@@ -231,12 +247,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "The original uploader was Felix c at English Wikipedia., Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : arrivé en retard, inférieur au Bf 109 -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" >}}
 {{< exemplaires 8734 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Yakovlev_Yak-1"
@@ -246,6 +264,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : meilleure puissance de feu que le zero -->
 <!-- fighter aircraft : lourdement armé : chasseur bombardier -->
@@ -254,6 +273,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 13738 >}}
 <p>Troisième avion de chasse le plus produit des USA pendant la seconde guerre mondiale.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Curtiss_P-40_Warhawk"
@@ -264,6 +284,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "F29Z9qh3U9I" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <!-- Fighter aircraft : chasseur de nuit -->
 <div class="aeronef">
@@ -271,6 +292,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 6150 >}}
 <p>Bimoteur.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Messerschmitt_Bf_110"
@@ -280,11 +302,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Bundesarchiv, Bild 101I-360-2095-23 / Wanderer, W. / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- Fighter aircraft : chasseur de nuit -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd et torpillage, assaut, chasseur de nuit" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Bristol_Beaufighter"
@@ -294,6 +318,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Royal Air Force official photographer, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : efficace en combat basse altitude, sur le front soviétique -->
 <!-- fighter aircraft : dépassé par le zero -->
@@ -301,6 +326,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Bell" "P-39 Airacobra" "1941" >}}
 {{< exemplaires 9584 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Bell_P-39_Airacobra"
@@ -311,6 +337,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "uuONOqGRL7M" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <!-- fighter aircraft : contribué au succès du pacifique -->
 <!-- fighter aircraft : lourdement armé: chasseur bombardier  -->
@@ -320,6 +347,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 10037 >}}
 <p>Bimoteur bipoutre, long rayon d'action.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_P-38_Lightning"
@@ -330,6 +358,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka -->
 </div>
+</div>
 
 <!-- fighter aircraft : lourdement armé : chasseur bombardier  -->
 <!-- Fighter aircraft : intercepteur -->
@@ -339,6 +368,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur lourd et bombardier" >}}
 {{< exemplaires 20051 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Focke-Wulf_Fw_190"
@@ -349,12 +379,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo -->
 </div>
+</div>
 
 <!-- fighter aircraft : lourdement armé : chasseur bombardier -->
 <!-- fighter bomber : décevants en chasseurs, ils font une admirable conversion en chasseur bombardier -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur bombardier" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Hawker_Typhoon"
@@ -364,12 +396,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "The Flight magazine archive from Flightglobal, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : arrivé en retard, inférieur au Bf 109 -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
 {{< exemplaires 6258 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lavotchkine_LaGG-3"
@@ -379,12 +413,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Mike1979 Russia, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : arrivé en retard, inférieur au Bf 109 -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-3" "1941" >}}
 <p>Basé sur le MiG-1.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-3"
@@ -394,6 +430,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Alex Polezhaev, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : peu armé, mais manoeuvrant -->
 <!-- fighter aircraft : grand succès au debut du pacifique -->
@@ -401,6 +438,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":jp:" "Nakajima" "Ki-43" "1941" >}}
 <p>Basé sur le Ki-27.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Nakajima_Ki-43"
@@ -410,6 +448,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "The original uploader was Vuvar1 at English Wikipedia., 25 October 2005 (original upload date), Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- Fighter aircraft : chasseur de nuit -->
 <div class="aeronef avec_module_dcs">
@@ -418,6 +457,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< caracteristique "faible signature radar car en bois" >}}
 <p>Bimoteur. Difficile à intercepter car très rapide.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/De_Havilland_DH.98_Mosquito"
@@ -426,6 +466,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mosquito_600pix.jpg"
   "RAF, Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <!-- fighter aircraft : contribué au succès du pacifique -->
@@ -436,6 +477,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 15660 >}}
 <p>Aspect massif.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
@@ -448,6 +490,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "HJo7n54LhEA" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "9WktioQKTzU" >}} <!-- La 2nd Guerre Mondiale -->
 </div>
+</div>
 
 <!-- fighter aircraft : escorte des B24 et B17 a l'ouest, grande autonomie -->
 <!-- fighter aircraft : contribué au succès du pacifique -->
@@ -458,6 +501,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 15586 >}}
 <p>Souvent utilisé en escorteur grâce à son long rayon d'action.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_P-51_Mustang"
@@ -468,6 +512,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <!-- fighter aircraft : contribué au succès du pacifique -->
 <!-- fighter aircraft : lourdement armé: chasseur bombardier  -->
@@ -477,6 +522,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 12571 >}}
 <p>Aile en mouette inversée (W).</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Chance_Vought_F4U_Corsair"
@@ -489,12 +535,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "6j9VJpGZQZ0" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "g3lwvONfKWA" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <!-- Fighter aircraft : remise à niveau , comparable à un bf 109 -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" >}}
 {{< exemplaires 16769 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Yakovlev_Yak-9"
@@ -504,6 +552,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "English:  Aleksandr MarkinРусский:  Александр Маркин, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- Fighter aircraft : remise à niveau , comparable à un bf 109 -->
 <div class="aeronef">
@@ -511,6 +560,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 9920 >}}
 <p>Basé sur le LaGG-3.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lavotchkine_La-5"
@@ -520,6 +570,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Soviet propaganda, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : contribué au succès du pacifique -->
 <!-- air supremacy : supériorité aérienne -->
@@ -527,6 +578,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "embarqué" >}}
 {{< exemplaires 12275 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Grumman_F6F_Hellcat"
@@ -538,12 +590,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation -->
 {{< ressource-video-youtube "jBYl0WwIYLI" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <!-- fighter aircraft, arrivé trop tard et trop peu nombreux -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Kawanishi" "N1K1-J Rex" "1943" "chasse" >}}
 <p>Basé sur l'hydravion de chasse N1K.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Kawanishi_N1K1-J"
@@ -553,11 +607,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : lourdement armé : chasseur bombardier -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Hawker_Tempest"
@@ -567,11 +623,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "RAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasse" >}}
 <p>Basé sur le La-5.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lavotchkine_La-7"
@@ -581,11 +639,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-3" "1944" "chasseur léger" >}}
 <p>Très léger et maniable, excellent en dogfight.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Yakovlev_Yak-3"
@@ -596,11 +656,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "UgOYCe0n0LY" >}} <!-- musee de l'air -->
 </div>
+</div>
 
 <!-- fighter aircraft, arrivé trop tard et trop peu nombreux -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "Ki-84" "1944" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Nakajima_Ki-84"
@@ -610,12 +672,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "RuthAS, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- Fighter aircraft : chasseur de nuit, désigné pour -->
 <div class="aeronef">
 {{< aeronef ":us:" "Northrop" "P-61 Black Widow" "1944" "chasseur de nuit">}}
 <p>Premier chasseur américain conçu pour être un chasseur de nuit.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Northrop_P-61_Black_Widow"
@@ -624,6 +688,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/b/b3/P-61_from_above.jpg"
   "USAF, Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -635,6 +700,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 6000 >}}
 <p>Une sirène pour terroriser les populations lors du piqué.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Junkers_Ju_87"
@@ -650,11 +716,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="images">
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier en piqué" >}}
 {{< exemplaires 11427 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Petliakov_Pe-2"
@@ -664,11 +732,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-36 Invader/Apache" "1941" "attaque au sol, bombardier en piqué" >}}
 <p>Version d'attaque du P-51 Mustang.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_A-36_Apache"
@@ -678,11 +748,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué, embarqué" >}}
 {{< exemplaires 7140 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Curtiss_SB2C_Helldiver"
@@ -691,6 +763,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/e/ed/Curtiss_SB2C-5_Helldiver_warbird_in_flight.jpg"
   "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -701,6 +774,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":ru:" "Tupolev" "ANT-40 / SB" "1935" "bombardier rapide" >}}
 {{< exemplaires 6656 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_SB"
@@ -710,10 +784,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Bristol_Blenheim"
@@ -724,10 +800,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":de:" "Dornier" "Do 17" "1937" "bombardier léger, chasseur de nuit, reconnaissance" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dornier_Do_17"
@@ -736,6 +814,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/2/22/Bundesarchiv_Bild_101I-342-0603-25%2C_Belgien-Frankreich%2C_Flugzeuge_Dornier_Do_17.jpg"
   "Bundesarchiv, Bild 101I-342-0603-25 / Ketelhohn [Kettelhohn] / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -746,6 +825,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "avion d'attaque ou bombardier torpilleur" >}}
 {{< exemplaires 36183 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Iliouchine_Il-2"
@@ -755,12 +835,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "no info, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- Fighter aircraft : chasseur de nuit -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-20 Havoc / DB-7" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Douglas_A-20_Havoc"
@@ -770,10 +852,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":de:" "Henschel" "Hs 129" "1942" "avion d'attaque" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Henschel_Hs_129"
@@ -783,10 +867,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAAF; original uploader to en.wikipedia was en:user:Maury Markowitz, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Douglas_A-26_Invader"
@@ -797,6 +883,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "acX9bpPilkM" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="titre_generation">
 <h3>Bombardiers moyens</h3>
@@ -806,6 +893,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":de:" "Heinkel" "He 111" "1937" "bombardier moyen" >}}
 {{< exemplaires 7300 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Heinkel_He_111"
@@ -815,11 +903,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Bundesarchiv, Bild 101I-343-0694-21 / Schödl (e) / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Vickers" "Wellington" "1938" "bombardier moyen, patrouilleur maritime" >}}
 {{< exemplaires 11461 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Vickers_Wellington"
@@ -830,12 +920,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "e4EL0tuOm4o" >}} <!-- Imineo -->
 </div>
+</div>
 
 <!-- Fighter aircraft : chasseur de nuit -->
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen" >}}
 {{< exemplaires 15183 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Junkers_Ju_88"
@@ -845,12 +937,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Bundesarchiv, Bild 101I-417-1766-03A / Ellerbrock / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "B-25 Mitchell" "1941" "bombardier moyen" >}}
 {{< exemplaires 9984 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_B-25_Mitchell"
@@ -861,10 +955,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "jat6DEeZKyM" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-2 Bat" "1941" "bombardier moyen" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-2"
@@ -874,10 +970,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Flavio Mucia (AMB Brescia), CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Martin" "B-26 Marauder" "1941" "bombardier moyen" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Martin_B-26_Marauder"
@@ -888,6 +986,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "lY1yau_KCGY" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="titre_generation">
 <h3>Bombardiers torpilleurs, patrouille maritime</h3>
@@ -896,6 +995,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Consolidated_PBY_Catalina"
@@ -906,10 +1006,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "cS2KevJqV4s" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufort" "1939" "torpilleur" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Bristol_Beaufort"
@@ -919,11 +1021,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Royal Air Force, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "TBF Avenger" "1942" "bombardier torpilleur embarqué" >}}
 {{< exemplaires 9836 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Grumman_TBF_Avenger"
@@ -932,6 +1036,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/d/db/TBM3_Avenger_-_Chino_Airshow_2014_%2814344070442%29.jpg"
   "Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -942,6 +1047,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":us:" "Boeing" "B-17 Flying Fortress" "1938" "bombardier lourd" >}}
 {{< exemplaires 12731 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
@@ -952,11 +1058,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "_ctKDdsJ774" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Short" "S.29 Stirling" "1940" "bombardier lourd" >}}
 <p>Premier bombardier lourd quadrimoteur britanique.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Short_Stirling"
@@ -966,11 +1074,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Royal Air Force official photographer, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Handley Page" "HP.57 Halifax" "1940" "bombardier lourd quadrimoteur" >}}
 {{< exemplaires 6176 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Handley_Page_Halifax"
@@ -980,11 +1090,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "George Woodbine, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "B-24 Liberator" "1941" "bombardier lourd, chasseur de sous marin" >}}
 {{< exemplaires 18482 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Consolidated_B-24_Liberator"
@@ -995,11 +1107,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "dq7Wpq00NJc" >}} <!-- Cap Aviation -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Avro" "Lancaster" "1942" "bombardier lourd" >}}
 {{< exemplaires 7377 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Avro_Lancaster"
@@ -1009,6 +1123,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Cpl Phil Major ABIPP, OGL v1.0OGL v1.0, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : impossible à arreter par le japon -->
 <div class="aeronef">
@@ -1016,6 +1131,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< caracteristique "Bombe atomique" >}}
 <p>Bombes atomiques sur Hiroshima et Nagasaki.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Boeing_B-29_Superfortress"
@@ -1024,6 +1140,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://upload.wikimedia.org/wikipedia/commons/d/d3/B-29_in_flight.jpg"
   "See page for author, Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -1038,6 +1155,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":de:" "Messerschmitt" "Me 163 Komet" "1944" "intercepteur">}}
 <p>seul avion de chasse de type avion-fusée de l'histoire.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Messerschmitt_Me_163_Komet"
@@ -1047,12 +1165,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <!-- fighter aircraft : ailes en fleches -->
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Me 262" "1944" "chasseur-bombardier">}}
 <p>Premier avion de chasse opérationnel à moteur à réaction de l'histoire. Utilisé à la fin de la seconde guerre mondiale.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Messerschmitt_Me_262"
@@ -1062,11 +1182,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAF museum, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Gloster" "Meteor" "1944" >}}
 <p>Seul avion à réaction utilisé par les alliés pendant la seconde guerre mondiale.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Gloster_Meteor"
@@ -1076,10 +1198,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Chris Phutully, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-80 Shooting Star" "1945" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star"
@@ -1089,12 +1213,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "USAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Republic" "F-84 Thunderjet" "1947" >}}
 {{< exemplaires 7524 >}}
 <P>Version F-84F Thunderstreak : ailes en flèches. Version RF-84F Thunderflash : reconnaissance.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Republic_F-84_Thunderjet"
@@ -1105,11 +1231,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "0QXwnORK0XE" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-15 Fagot" "1948" >}}
 {{< exemplaires 18169 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-15"
@@ -1121,11 +1249,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "K9UTQs9GHcg" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "_LaaGkpVZ-k" >}} <!-- Cap Aviation -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "North American" "F-86 Sabre" "1949" >}}
 {{< exemplaires 9860 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_F-86_Sabre"
@@ -1136,11 +1266,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 >}}
 {{< ressource-video-youtube "zPuEcTYlGtU" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-17 Fresco" "1952" >}}
 {{< exemplaires 10367 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-17"
@@ -1150,10 +1282,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Balon Greyjoy, CC0, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":canada:" "Avro Canada" "CF-100 Canuck" "1953" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Avro_Canada_CF-100_Canuck"
@@ -1163,6 +1297,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "Canadian Department of National Defence, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine -->
+</div>
 </div>
 
 <div class="titre_generation">
@@ -1180,6 +1315,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< mach 1.4 >}}
 <p>Premier avion de l'USAF à franchir le mur du son en pallier.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_F-100_Super_Sabre"
@@ -1191,6 +1327,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< ressource-video-youtube "76FlSirWXOI" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "NnDKHfZsy8Q" >}} <!-- drole de machines -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-19 Farmer" "1955" "chasseur" >}}
@@ -1200,6 +1337,7 @@ Premier avion supersonique massivement produit.<br />
 Premier avion soviétique passant le mur du son en pallier.
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-19"
@@ -1209,6 +1347,7 @@ Premier avion soviétique passant le mur du son en pallier.
   "Eric Salard, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" "intercepteur" >}}
@@ -1217,6 +1356,7 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à suivre la loi des aires dans son design.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Convair_F-102_Delta_Dagger"
@@ -1226,6 +1366,7 @@ Premier avion soviétique passant le mur du son en pallier.
   "USAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" "chasseur bombardier, ou intercepteur" >}}
@@ -1234,6 +1375,7 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à franchir les 1000 mph (1600 km/h).</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/McDonnell_F-101_Voodoo"
@@ -1243,6 +1385,7 @@ Premier avion soviétique passant le mur du son en pallier.
   "USAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué, supériorité aérienne" >}}
@@ -1250,6 +1393,7 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< caracteristique "veille infrarouge" >}}
 <p>Voilure à angle de calage variable.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Vought_F-8_Crusader"
@@ -1260,6 +1404,7 @@ Premier avion soviétique passant le mur du son en pallier.
 >}}
 {{< ressource-video-youtube "ExwU1lSUs7Q" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "F-104 Starfighter" "1958" "intercepteur" >}}
@@ -1269,6 +1414,7 @@ Premier avion de combat capable d'aller à mach 2.<br />
 Le seul avion de l'histoire à détenir simultanément le record de vitesse et d'altitude.
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_F-104_Starfighter"
@@ -1280,6 +1426,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< ressource-video-youtube "LgPcH0dk-pM" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "Jtxrn3yqPQw" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
@@ -1289,6 +1436,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< caracteristique "Datalink SAGE" >}}
 <p>Utilisation d'une aile delta, mach 2.3.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Convair_F-106_Delta_Dart"
@@ -1299,12 +1447,14 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 >}}
 {{< ressource-video-youtube "QDdD4KPAOR8" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-9 Fishpot" "1959" "intercepteur" >}}
 {{< mach 1.8 >}}
 <p>Delta.<br />Une variante Su-11...</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-9"
@@ -1315,6 +1465,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 >}}
 {{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "J35 Draken" "1960" >}}
@@ -1322,6 +1473,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< caracteristique "super-manœvrabilité (double-delta, cobra = Kort Parad)" >}}
 {{< caracteristique "veille infrarouge" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Saab_35_Draken"
@@ -1336,6 +1488,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< ressource-video-youtube "vay7gVojgy0" >}}
 {{< ressource-video-youtube "jqiDEcfSnXs" >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" "chasseur et intercepteur" >}}
@@ -1344,6 +1497,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< caracteristique "super-manœvrabilité (delta, cobra)" >}}
 <p>Le chasseur supersonique le plus produit au monde.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-21"
@@ -1354,12 +1508,14 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 >}}
 {{< ressource-video-youtube "FSdcJzgNFHM" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "English Electric" "Lightning" "1960" "intercepteur" >}}
 {{< mach 2.3 >}}
 <p>Biréacteur, l'un au dessus de l'autre.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/English_Electric_Lightning"
@@ -1369,12 +1525,14 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "Arpingstone, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage III" "1961" "intercepteur, puis multirôle" >}}
 {{< mach 2.2 >}}
 <p>Delta</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Mirage_III"
@@ -1390,12 +1548,14 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <div class="images">
 {{< ressource-video-youtube "h1jT8RZSM_I" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage 5" "1970" "attaque au sol, puis multirôle" >}}
 {{< mach 2.2 >}}
 <p>Delta. Basé sur le Mirage III.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Mirage_5"
@@ -1404,6 +1564,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mirage_5F.jpg"
   "www.mablehome.com, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -1426,6 +1587,7 @@ On peut citer différents aspects : <ul>
 <p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.<br />
 Neuf points d'emports.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II"
@@ -1436,12 +1598,14 @@ Neuf points d'emports.</p>
 >}}
 {{< ressource-video-youtube "s_qjwnFvoxs" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Northrop" "F-5 Freedom Fighter" "1964" "avion de chasse léger et attaque" >}}
 {{< mach 1.63 >}}
 <p>Faible coût, faible entretien.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Northrop_F-5_Freedom_Fighter"
@@ -1453,12 +1617,14 @@ Neuf points d'emports.</p>
 {{< ressource-video-youtube "P59n9_R62RY" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "2nWrScjSZ6g" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-128/Tu-28 Fiddler" "1965" "intercepteur longue portée" >}}
 {{< mach 1.5 >}}
 <p>Le plus gros chasseur jamais mis en service.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-128"
@@ -1468,12 +1634,14 @@ Neuf points d'emports.</p>
   "Alan Wilson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
 {{< mach 2.5 >}}
 <p>Delta. Basé sur le Su-9. Bi-réacteur.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-15"
@@ -1485,6 +1653,7 @@ Neuf points d'emports.</p>
 </div>
 <div class="images">
 {{< ressource-video-youtube "XH5QWCdRXTw" >}}
+</div>
 </div>
 
 <div class="aeronef">
@@ -1498,6 +1667,7 @@ Un des premiers appareils soviétiques équipés de missiles BVR.<br />
 Une variante MiG-27 dédiée à l'attaque au sol.
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-23"
@@ -1508,6 +1678,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 >}}
 {{< ressource-video-youtube "zrLFrQsomAs" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
@@ -1515,6 +1686,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< caracteristique "veille infrarouge" >}}
 <p>Très rapide.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-25"
@@ -1528,6 +1700,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="images">
 {{< ressource-video-youtube "fRjKKfzdRlo" >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" "attaque, chasse, reconnaissance" >}}
@@ -1535,6 +1708,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< caracteristique "manœuvrabilité (delta, canards)" >}}
 {{< caracteristique "atterrissage court (inversion de poussée)" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Saab_37_Viggen"
@@ -1551,12 +1725,14 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< ressource-video-youtube "1PhvXPzzCEU" >}}
 {{< ressource-video-youtube "KeQQEDRxNuE" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
 {{< mach 2.2 >}}
 <p>Basé sur le Mirage III, utilisation d'une aile en flèche pour une vitesse d'approche plus faible.
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Mirage_F1"
@@ -1571,12 +1747,14 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="images">
 {{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":israel:" "IAI" "Kfir" "1975" >}}
 {{< mach 2.3 >}}
 <p>Delta. Basé sur le Mirage 5.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/IAI_Kfir"
@@ -1585,6 +1763,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
   "https://upload.wikimedia.org/wikipedia/commons/3/30/Colombian_Air_Force_Kfir_%28cropped%29.jpg"
   "S.C. Air National Guard (Maj. Matthew Booth), Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -1605,6 +1784,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< mach 2.4 >}}
 <p>géométrie variable</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Grumman_F-14_Tomcat"
@@ -1615,11 +1795,13 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 >}}
 {{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15 Eagle" "1976" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.5 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
@@ -1630,12 +1812,14 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 >}}
 {{< ressource-video-youtube "0DmjlubOn1g" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" "multirôle, supériorité aérienne" >}}
 {{< mach 2.05 >}}
 <p>Commandes de vol électriques</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
@@ -1653,6 +1837,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< ressource-video-youtube "tdczvix3EiE" >}}
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-31 Foxhound" "1981" "intercepteur et attaque" >}}
@@ -1664,6 +1849,7 @@ Premier avion avec radar PESA<br />
 Datalink.
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-31"
@@ -1677,6 +1863,7 @@ Datalink.
 <div class="images">
 {{< ressource-video-youtube "KP-EvqlCSJo" >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" "multirôle, supériorité aérienne" >}}
@@ -1686,6 +1873,7 @@ Datalink.
 <p>Variante MiG-29M : modernisé.<br />
 Variante MiG-29K : embarqué.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-29"
@@ -1701,12 +1889,14 @@ Variante MiG-29K : embarqué.</p>
 {{< ressource-video-youtube "VCWjByenDsM" >}}
 {{< ressource-video-youtube "xzwL_6NuEls" >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué, multirôle" >}}
 {{< mach 1.8 >}}
 <p>Commandes de vol électriques</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet"
@@ -1723,6 +1913,7 @@ Variante MiG-29K : embarqué.</p>
 {{< ressource-video-youtube "JYUm5Nl6318" >}}
 {{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" "intercepteur, puis multirôle" >}}
@@ -1731,6 +1922,7 @@ Variante MiG-29K : embarqué.</p>
 {{< caracteristique "veille infrarouge limitée" >}}
 <p>Commandes de vol électriques</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Mirage_2000"
@@ -1753,6 +1945,7 @@ Variante MiG-29K : embarqué.</p>
 {{< ressource-video-youtube "T5DrtgXX7qQ" >}} <!-- Armee de l'air et de l'espace -->
 {{< ressource-video-youtube "JEPhz2E41pw" >}} <!-- Armee de l'air et de l'espace -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-27 Flanker" "1985" "chasseur lourd, supériorité aérienne" >}}
@@ -1770,6 +1963,7 @@ Variantes : <ul>
 </ul>
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-27"
@@ -1786,6 +1980,7 @@ Variantes : <ul>
 {{< ressource-video-youtube "daOPK07baBw" >}}
 {{< ressource-video-youtube "MtlLVexLfrQ" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:/:de:" "Panavia" "Tornado ADV" "1985" "intercepteur" >}}
@@ -1795,6 +1990,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 <i>ADV = Air Defense Variant.</i>
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Panavia_Tornado_ADV"
@@ -1804,6 +2000,7 @@ Géométrie variable. Basé sur le Tornado.<br />
   "Cpl Paul Saxby RAF, OGL v1.0OGL v1.0, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-30 Flanker-C/G/H" "1996" "chasseur lourd, supériorité aérienne" >}}
@@ -1812,6 +2009,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< caracteristique "veille infrarouge" >}}
 <p>Basé sur le Su-27. Biplace.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-30"
@@ -1821,8 +2019,7 @@ Géométrie variable. Basé sur le Tornado.<br />
   "Sergey Krivchikov (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
 >}}
 </div>
-
-
+</div>
 
 <div class="titre_generation">
 <h2>Chasseurs jets génération 4.5</h2>
@@ -1844,6 +2041,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< mach 1.8 >}}
 <p>Basé sur le F/A-18.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
@@ -1856,6 +2054,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 <div class="images">
 {{< ressource-video-youtube "0fM7SUSgFj8" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "JAS 39 Gripen" "1996" "intercepteur" >}}
@@ -1863,6 +2062,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.1" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Saab_JAS_39_Gripen"
@@ -1877,6 +2077,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
 {{< ressource-video-youtube "eXaPfUs6sQw" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
@@ -1885,6 +2086,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< caracteristique "supercroisière mach 1.4" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Rafale"
@@ -1908,6 +2110,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}} <!-- Chasse Embarquee -->
 {{< ressource-video-youtube "vRVQw1vRgZY" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
@@ -1919,6 +2122,7 @@ Basé sur le Su-27/Su-30.<br />
 Avionique occidentale (française et israélienne), ajout de canards et poussée vectorielle.
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-30MKI"
@@ -1928,6 +2132,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "multirôle et supériorité aérienne" >}}
@@ -1936,6 +2141,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Eurofighter_Typhoon"
@@ -1948,12 +2154,14 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="images">
 {{< ressource-video-youtube "U45UyriEtZI" >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
 {{< mach 1.8 >}}
 {{< caracteristique "veille infrarouge" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Chengdu_JF-17_Thunder"
@@ -1964,6 +2172,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-35S Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
@@ -1972,6 +2181,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "veille infrarouge" >}}
 <p>Basé sur le Su-27.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-35"
@@ -1982,6 +2192,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "54UqQcBehlE" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":india:" "HAL" "Tejas" "2015" "chasseur léger multirôle" >}}
@@ -1990,6 +2201,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "veille infrarouge" >}}
 <p>Des caractéristiques de furtivité : matériaux composites.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/HAL_Tejas"
@@ -1998,6 +2210,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/HAL_Tejas_%28LA-5018%29_of_Squadron_18_Flying_Bullets.jpg"
   "Ministry of Defence, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="aeronef">
@@ -2008,6 +2221,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <p>basé sur le MiG-29, radar AESA.<br />
  Le prototype MiG-29OVT disposait de poussée vectorielle, mais pas le MiG-35.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Mikoyan-Gourevitch_MiG-35"
@@ -2016,6 +2230,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://upload.wikimedia.org/wikipedia/commons/6/61/MiG-35D_%283861086285%29.jpg"
   "Carlos Menendez San Juan, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -2039,6 +2254,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "furtif" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor"
@@ -2052,6 +2268,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
 {{< ressource-video-youtube "GUlHhKvIX3w" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
@@ -2060,6 +2277,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "décollage vertical" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
@@ -2074,6 +2292,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< ressource-video-youtube "Eiop4hrBJO4" >}}
 {{< ressource-video-youtube "KVMiscT8VqE" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":cn:" "Chengdu" "J-20 Firefang" "2017" "supériorité aérienne" >}}
@@ -2081,6 +2300,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "furtif" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Chengdu_J-20"
@@ -2092,6 +2312,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< ressource-video-youtube "bCm98fpR5Nc" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "xdFS8xehUU8" >}} <!-- Defense Insider -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-57 Felon" "2020" "supériorité aérienne" >}}
@@ -2101,6 +2322,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< caracteristique "furtif" >}}
 {{< caracteristique "veille infrarouge" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-57"
@@ -2117,6 +2339,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< ressource-video-youtube "yNaeKHfnHHM" >}}
 {{< ressource-video-youtube "ctioYUO5flw" >}}
 </div>
+</div>
 
 <div class="titre_generation">
 <h2>Avions d'attaque au sol et d'interdiction (bombardiers tactiques)</h2>
@@ -2125,6 +2348,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-1 Skyraider / AD Skyraider" "1946" "attaque au sol et appui tactique, embarqué" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Douglas_AD_Skyraider"
@@ -2135,11 +2359,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "dJ5erML2cNE" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Iliouchine" "Il-28 Beagle" "1950" "bombardier moyen" >}}
 {{< exemplaires 6635 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Iliouchine_Il-28"
@@ -2149,10 +2375,12 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Staff Sgt. Bill Thompson, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-4 Skyhawk" "1956" "embarqué" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Douglas_A-4_Skyhawk"
@@ -2163,11 +2391,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "w81MRBg24QQ" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Republic" "F-105 Thunderchief" "1958" "chasseur bombardier" >}}
 {{< mach 2.08 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Republic_F-105_Thunderchief"
@@ -2178,12 +2408,14 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "DAt2tfhHubQ" >}} <!-- Les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-7 Fitter-A" "1959" "chasseur bombardier, attaque au sol" >}}
 {{< mach 1.74 >}}
 <p>Ailes en flèche</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-7"
@@ -2193,10 +2425,12 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Konflikty.pl (Attribution or Attribution), via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Étendard IV" "1962" "embarqué" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_%C3%89tendard_IV"
@@ -2206,11 +2440,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Steve Fitzgerald (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-6 Intruder" "1963" "embarqué" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Grumman_A-6_Intruder"
@@ -2220,6 +2456,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "U.S. Navy, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 
 <div class="aeronef">
@@ -2227,6 +2464,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< mach 2.5 >}}
 <p>géométrie variable, radar de suivi de terrain automatique</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/General_Dynamics_F-111_Aardvark"
@@ -2237,10 +2475,12 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "lA5stxVfp7o" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Ling-Temco-Vought" "A-7 Corsair II" "1967" "embarqué" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/LTV_A-7_Corsair_II"
@@ -2251,10 +2491,12 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "3DtRkAmKNTk" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "OV-10 Bronco" "1967" "reconnaissance et attaque au sol" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_OV-10_Bronco"
@@ -2264,11 +2506,13 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "NASA, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "AC-130 Spectre" "1968" "gunship d'attaque au sol et appui aérien rapproché" >}}
 <p>variante du C-130 Hercules</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_AC-130"
@@ -2279,12 +2523,14 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 {{< ressource-video-youtube "TfoBodLpXx8" >}} <!-- Defense Insider -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker Siddeley" "Harrier" "1969" "embarqué" >}}
 {{< caracteristique "manœvrabilité (VIFFing = Vector in Forward Flight)" >}}
 {{< caracteristique "decollage vertical" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
@@ -2299,12 +2545,14 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="images">
 {{< ressource-video-youtube "8UE9i82Kc_Y" >}} <!-- harrier viffing -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-17/20/22 Fitter-C" "1970" "chasseur bombardier, attaque au sol" >}}
 {{< mach 2.09 >}}
 <p>Basé sur le Su-7, géométrie variable. </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-17"
@@ -2314,12 +2562,14 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Anthony Noble, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:/:gb:" "SEPECAT" "Jaguar" "1973" "avion d'attaque" >}}
 {{< mach 1.6 >}}
 <p>attaque au sol</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/SEPECAT_Jaguar"
@@ -2331,6 +2581,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< ressource-video-youtube "VNcpFliHKUc" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "z-uqMUA7U-k" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-24 Fencer" "1974" "bombardier supersonique" >}}
@@ -2340,6 +2591,7 @@ Premier appareil soviétique équipé d'un système de navigation et d'attaque n
 Géométrie variable.
 </p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-24"
@@ -2349,10 +2601,12 @@ Géométrie variable.
   "Alexander Mishin, CC BY-SA 3.0 GFDL, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Fairchild Republic" "A-10 Thunderbold II / Warthog" "1975" "attaque au sol et appui tactique" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Fairchild_A-10_Thunderbolt_II"
@@ -2374,11 +2628,13 @@ Géométrie variable.
 {{< ressource-video-youtube "N60WtGC4ejo" >}}
 {{< ressource-video-youtube "LcmvLvXHIW0" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Super Étendard" "1978" "embarqué" >}}
 {{< mach 1.3 >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Super-%C3%89tendard"
@@ -2391,11 +2647,13 @@ Géométrie variable.
 <div class="images">
 {{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-25 Frogfoot" "1981" >}}
 <p>Une variante Su-39...</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-25"
@@ -2409,12 +2667,14 @@ Géométrie variable.
 <div class="images">
 {{< ressource-video-youtube "fhNkAuhYI2k" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":de:/:it:/:gb:" "Panavia" "Tornado" "1982" >}}
 {{< mach 2.34 >}}
 <p>géométrie variable</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Panavia_Tornado"
@@ -2425,6 +2685,7 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "5Trez3StUWQ" >}} <!-- Imineo -->
 </div>
+</div>
 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "AV-8B Harrier II" "1983" "embarqué" >}}
@@ -2433,6 +2694,7 @@ Géométrie variable.
 {{< caracteristique "FLIR" >}}
 <p>évolution du Hawker Siddeley Harrier</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/McDonnell_Douglas_AV-8B_Harrier_II"
@@ -2442,11 +2704,13 @@ Géométrie variable.
   "D. Miller from IL. USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-117 Nighthawk" "1983" "attaque au sol" >}}
 {{< caracteristique "furtif" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Lockheed_Martin_F-117_Nighthawk"
@@ -2456,11 +2720,14 @@ Géométrie variable.
   "Staff Sgt. Aaron Allmon II, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "_h5JiIY8Exo" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "BuCWzK93yiI" >}}
+</div>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":it:/:brazil:" "AMX International" "AMX" "1988" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/AMX_International_AMX"
@@ -2470,12 +2737,14 @@ Géométrie variable.
   "Fabrizio Berni (GFDL <http://www.gnu.org/copyleft/fdl.html> or GFDL <http://www.gnu.org/copyleft/fdl.html>), via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
 <p>Basé sur le F-15.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle"
@@ -2485,12 +2754,14 @@ Géométrie variable.
   "Staff Sgt. Sean Carnes, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
 {{< mach 1.8 >}}
 <p>Basé sur le Su-27.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Soukho%C3%AF_Su-34"
@@ -2500,10 +2771,12 @@ Géométrie variable.
   "Alex Beltyukov, CC BY-SA 3.0 GFDL 1.2, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":brazil:" "Embraer" "EMB 314 Super Tucano" "2003" "attaque et contre-insurrection" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Embraer_EMB_314"
@@ -2512,6 +2785,7 @@ Géométrie variable.
   "https://upload.wikimedia.org/wikipedia/commons/c/c9/A-29_Over_Afghanistan.jpg"
   "Staff Sgt. Larry Reid Jr., Public domain, via Wikimedia Commons"
 >}}
+</div>
 </div>
 
 <div class="titre_generation">
@@ -2522,6 +2796,7 @@ Géométrie variable.
 {{< aeronef ":ru:" "Tupolev" "Tu-4 Bull" "1949" "bombardier stratégique" >}}
 <p>Copie du B-29.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-4"
@@ -2531,10 +2806,12 @@ Géométrie variable.
   "Ronidong, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "B-36 Peacemaker" "1949" "bombardier stratégique lourd à long rayon d'action" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Convair_B-36_Peacemaker"
@@ -2545,11 +2822,13 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "Oj5vMRS2eU8" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-47 Stratojet" "1952" "bombardier moyen à long rayon d'action" >}}
 <p>Six réacteurs.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Boeing_B-47_Stratojet"
@@ -2560,10 +2839,12 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "Kk3GfN6lKtY" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Miassichtchev" "M-4 Bison" "1953" "bombardier stratégique lourd" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Miassichtchev_M-4"
@@ -2574,10 +2855,12 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "t_rnMnEf0vc" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-16 Badger" "1954" "bombardier stratégique" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://en.wikipedia.org/wiki/Tupolev_Tu-16"
@@ -2587,11 +2870,13 @@ Géométrie variable.
   "US Air Force, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-52 Stratofortress" "1955" "bombardier stratégique lourd à long rayon d'action" >}}
 <p>Huit réacteurs.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Boeing_B-52_Stratofortress"
@@ -2602,11 +2887,13 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "RP5PsGolQnE" >}} <!-- aeronewstv -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Vickers" "Valiant" "1955" "bombardier stratégique, tanker" >}}
 {{< caracteristique "V Force" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Vickers_Valiant"
@@ -2616,11 +2903,13 @@ Géométrie variable.
   "https://upload.wikimedia.org/wikipedia/commons/9/91/Vickers_Valiant_B%28K%29.1_1962.png"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-3 Skywarrior" "1956" "bombardier stratégique embarqué" >}}
 <p>Bombe atomique, guerre électronique, ravitailleur.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Douglas_A-3_Skywarrior"
@@ -2630,10 +2919,12 @@ Géométrie variable.
   "U.S. Navy, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-95 Bear" "1956" "bombardier stratégique lourd" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-95"
@@ -2645,11 +2936,13 @@ Géométrie variable.
 {{< ressource-video-youtube "dKsIo1wIA6M" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "WCQbalWPuUo" >}} <!-- Yataka -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Avro" "Vulcan" "1956" "bombardier stratégique" >}}
 {{< caracteristique "V Force" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Avro_Vulcan"
@@ -2659,11 +2952,13 @@ Géométrie variable.
   "Alastair Barbour, CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Handley Page" "HP.80 Victor" "1958" "bombardier stratégique, tanker" >}}
 {{< caracteristique "V Force" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Handley_Page_Victor"
@@ -2673,10 +2968,13 @@ Géométrie variable.
   "Mike Freer - Touchdown-aviation (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
 >}}
 </div>
+</div>
+
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "B-58 Hustler" "1960" "bombardier stratégique supersonique" >}}
 <p>delta, mach 2</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Convair_B-58_Hustler"
@@ -2687,10 +2985,12 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "dvtV0GVtQt8" >}} <!-- les ailes de legende -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-5 Vigilante" "1961" "embarqué, dissuasion nucléaire et reconnaissance" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_A-5_Vigilante"
@@ -2700,10 +3000,12 @@ Géométrie variable.
   "Service Depicted:  Navy, Public domain, via Wikimedia Commons"
 >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-22 Blinder" "1962" "bombardier supersonique, reconnaissance" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-22"
@@ -2714,11 +3016,13 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "IfRBbJCU-WQ" >}} <!-- Yataka -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "XB-70 Valkyrie" "1964" "prototype de bombardier stratégique" >}}
 <p>mach 3</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/North_American_XB-70_Valkyrie"
@@ -2730,10 +3034,12 @@ Géométrie variable.
 {{< ressource-video-youtube "lKRnehhZfFY" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "d5SKO_TAlsw" >}} <!-- Drole de machine -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Mirage IV" "1964" "dissuasion nucléaire et reconnaissance" >}}
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Dassault_Mirage_IV"
@@ -2744,11 +3050,13 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-22M Backfire (Tu-26)" "1972" "bombardier lourd supersonique à long rayon d'action" >}}
 <p>géométrie variable.</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-22M"
@@ -2760,11 +3068,13 @@ Géométrie variable.
 {{< ressource-video-youtube "npb2gCQZPm4" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "Uq-aWGL7Dk4" >}} <!-- aeronewstv -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Rockwell" "B-1 Lancer" "1986" "bombardier stratégique supersonique à long rayon d'action" >}}
 <p>géométrie variable</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Rockwell_B-1_Lancer"
@@ -2777,11 +3087,13 @@ Géométrie variable.
 {{< ressource-video-youtube "CLMY1oJjuas" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "-puARA_M_I4" >}} <!-- aeronewstv -->
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-160 Blackjack" "1987" "bombardier stratégique supersonique lourd" >}}
 <p>le plus gros et lourd avion de combat au monde, mach 2.1</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Tupolev_Tu-160"
@@ -2794,12 +3106,14 @@ Géométrie variable.
 {{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "MnhyzGlEYEo" >}}
 </div>
+</div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Northrop" "B-2 Spirit" "1997" "bombardier stratégique" >}}
 {{< caracteristique "furtif" >}}
 <p>aile volante, l'avion le plus cher au monde</p>
 </div>
+<div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
   "https://fr.wikipedia.org/wiki/Northrop_B-2_Spirit"
@@ -2810,6 +3124,7 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "fzzOGg-ocdE" >}} <!-- aeronewstv -->
+</div>
 </div>
 
 </div>

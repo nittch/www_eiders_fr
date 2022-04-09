@@ -33,12 +33,14 @@
   align-items: center;
 }
 
-/* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
+/* le theme me fait chier, je mets un poids de ouf avec un sélecteur de ouf pour override :p */
 #body div .canal-youtube img
 {
   margin: 0px;
   display: inline;
   padding: 0.5em;
+
+  max-height: 5em; /* on limite la taille pour les images carrés */
 }
 
 .canal-web
@@ -72,80 +74,84 @@
   border-width: 1px;
 
   width: 20em;
+  height: 10em;
+  vertical-align: middle;
+
+  position: relative; /* pour permettre un positionnement absolute à l'intérieur */
 }
 
-.ressource-video-youtube
+.ressource .vignette /* image ou texte */
 {
-  text-align: center;
-}
-
-/* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
-#body div .ressource-video-youtube img
-{
-  margin: 0px;
-  display: inline;
-  padding: 0.2em;
-}
-
-.ressource-playlist-youtube
-{
-  text-align: center;
-}
-
-/* le theme me fait chier, je mets un poids de ouf avec un selecteur de ouf pour override :p */
-#body div .ressource-playlist-youtube img
-{
-  margin: 0px;
-  display: inline;
-  padding: 0.2em;
-}
-
-.ressource-web
-{
-  padding: 0.2em;
-  text-align: center;
-}
-
-.ressource-web-logo
-{
-  font-size: xx-large;
-}
-
-.ressource-encyclopedique
-{
-  height: 8em;
-  vertical-align: top;
-
   background-position: center;
   background-size: auto 100%;
   background-repeat: no-repeat;
-}
 
-.ressource-encyclopedique .conteneur
-{
-  position: relative;
-  height: 100%;
+  text-align: center;
+  font-size: xx-large;
+
+  position: absolute;
   width: 100%;
+  height: 90%;
+
+  z-index: -1;
 }
 
-.ressource-encyclopedique .liens
+/* https://stackoverflow.com/questions/6071987/line-height-as-a-percentage-not-working */
+.ressource .vignette:before {
+  content: "";
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.ressource .titre
 {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.85);
+
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  padding: 0.1em;
+}
+
+.ressource .infos
+{
+  text-align: right;
+  background-color: rgba(255, 255, 255, 0.85);
+
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  padding: 0.1em;
+}
+
+.ressource .liens
+{
+  text-align: left;
+
   position: absolute;
   top: 0;
   left: 0;
+
+  padding: 0.1em;
 }
 
-.ressource-encyclopedique .controles
+.ressource .controles
 {
   text-align: right;
 
   position: absolute;
   bottom: 0;
   right: 0;
+
+  padding: 0.1em;
 }
 
-.ressource-encyclopedique a
+.ressource a
 {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.85);
 }
 

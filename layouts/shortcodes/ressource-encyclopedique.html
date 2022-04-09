@@ -1,18 +1,18 @@
-<div class="ressource ressource-encyclopedique" style="
+<div class="ressource">
+  <div class="vignette" style="
+height: 100%;
 background-image: url({{ .Get 3 | replaceRE "https://upload.wikimedia.org/wikipedia/commons/(./..)/(.*)" "https://upload.wikimedia.org/wikipedia/commons/thumb/$1/$2/300px-$2" }});
 ">
-  <div class="conteneur">
+  </div>
 
   <div class="liens">
-    {{ if ne ( .Get 0 ) "" }} <a href="{{ .Get 0 }}" target=_blank>{{ ":fr:" | emojify }} Wikipédia</a><br /> {{ end }} <!-- wiki fr -->
-    {{ if ne ( .Get 1 ) "" }} <a href="{{ .Get 1 }}" target=_blank>{{ ":gb:" | emojify }} Wikipédia</a><br /> {{ end }} <!-- wiki en -->
-    {{ if ne ( .Get 2 ) "" }} <a href="{{ .Get 2 }}" target=_blank>{{ ":airplane:" | emojify }} A.L.</a>      {{ end }} <!-- Avions legendaires -->
+    {{ if ne ( .Get 0 ) "" }} <a href="{{ .Get 0 }}" target=_blank title="Wikipédia fr">{{ ":fr:" | emojify }} Wikipédia</a><br /> {{ end }}
+    {{ if ne ( .Get 1 ) "" }} <a href="{{ .Get 1 }}" target=_blank title="Wikipédia en">{{ ":gb:" | emojify }} Wikipédia</a><br /> {{ end }}
+    {{ if ne ( .Get 2 ) "" }} <a href="{{ .Get 2 }}" target=_blank title="Avions Légendaires">{{ ":airplane:" | emojify }} A.L.</a>{{ end }}
   </div>
 
   <div class="controles">
-    <a href="{{ .Get 3 }}" target=_blank>{{ ":mag_right:" | emojify }}</a><br /> <!-- loupe -->
-    <a class="copyright" title="{{ .Get 4 }}">{{ ":copyright:" | emojify }}</a>  <!-- copyright -->
+    <a href="{{ .Get 3 }}" title="Zoom 100%" target=_blank>{{ ":mag_right:" | emojify }}</a><br /> <!-- loupe -->
+    <a title="{{ .Get 4 }}">{{ ":copyright:" | emojify }}</a> <!-- copyright -->
    </div>
-
-  </div>
 </div>

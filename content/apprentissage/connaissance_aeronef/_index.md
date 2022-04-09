@@ -7,6 +7,8 @@ weight = 2
   .grille{
     display: grid;
     grid-template-columns: 20% 80%;
+
+    grid-row-gap: 1em;
   }
 
   .titre_generation {
@@ -71,12 +73,9 @@ weight = 2
   .images {
     display: inline-block;
     padding: 0.2em;
-
-    outline: 1px solid grey;
   }
-  .images:before { /* on injecte une icône camera avant le bloc */
-    content: ":camera: : ";
-    vertical-align: top;
+  .images .ressource .titre:before { /* on injecte un emoji camera dans les ressources qui sont classées en images */
+    content: ":camera: ";
   }
 
 </style>
@@ -2170,6 +2169,8 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pakistan_JF-17_%28modified%29.jpg"
   "Shimin Gu, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
+</div>
+<div class="images">
 {{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv -->
 </div>
 </div>

@@ -2372,6 +2372,7 @@ Géométrie variable.
 <div class="images">
 {{< ressource-video-youtube "gEokB_9N0Aw" >}}
 {{< ressource-video-youtube "N60WtGC4ejo" >}}
+{{< ressource-video-youtube "LcmvLvXHIW0" >}}
 </div>
 
 <div class="aeronef">

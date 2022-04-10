@@ -17,7 +17,6 @@ weight = 2
 
   .aeronef {
     grid-column: 1;
-
   }
 
   .aeronef .titre .drapeau{
@@ -85,7 +84,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="grille">
 
 <div class="titre_generation">
-<h2>Vieux coucous (Warbirds)</h2>
+<h2>Coucous 1935&mdash;1952 (Warbirds)</h2>
 <p>1935-1952 : avions militaires à hélices.</p>
 </div>
 
@@ -95,10 +94,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <!-- Fighter aircraft : oubli des italiens G50 Freccia, CR42 Falco, macchi mc 200 -->
 
-<!-- Fighter aircraft : testé à la guerre civile espagnole, mais dépassé par le bf 109 -->
-<!-- Fighter aircraft : obsolète -->
+
+<!-- Fighter aircraft: In the dogfights over Spain, the latest Messerschmitt Bf 109 fighters did well, as did the Soviet Polikarpov I-16. -->
+<!-- Fighter aircraft: The Russians failed to keep up and despite newer models coming into service, I-16s remaining the most common Soviet front-line fighter into 1942 despite being outclassed by the improved Bf 109s in World War II. -->
+<!-- Fighter aircraft: [...] and the general inferiority of Soviet designs at the time, such as the obsolescent Polikarpov I-15 biplane and the I-16. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Polikarpov" "I-16" "1935" >}}
+{{< exemplaires 10292 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -112,10 +114,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : peu armé, mais manoeuvrant -->
-<!-- fighter aircraft : grand succès au debut du pacifique -->
+<!-- Fighter aircraft: The Japanese and Italians favored lightly armed and armored but highly maneuverable designs such as the Japanese Nakajima Ki-27, Nakajima Ki-43 and Mitsubishi A6M Zero and the Italian Fiat G.50 Freccia and Macchi MC.200. -->
+<!-- Fighter aircraft:  The Imperial Japanese Navy Air Service primarily operated the Mitsubishi A6M Zero, and the Imperial Japanese Army Air Service flew the Nakajima Ki-27 and the Nakajima Ki-43, initially enjoying great success, as these fighters generally had better range, maneuverability, speed and climb rates than their Allied counterparts. -->
+<!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "Ki-27" "1937" >}}
+{{< exemplaires 3368 >}}
 <p>L'avion de chasse principal de l'armée impériale.</p>
 </div>
 <div class="ressources">
@@ -130,13 +134,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : testé à la guerre civile espagnole -->
-<!-- Fighter aircraft : supériorité aérienne -->
-<!-- Fighter aircraft : intercepteur -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: In the dogfights over Spain, the latest Messerschmitt Bf 109 fighters did well, as did the Soviet Polikarpov I-16. -->
+<!-- Fighter aircraft: During the invasion of Poland and the Battle of France, Luftwaffe fighters—primarily the Messerschmitt Bf 109—held air superiority, and the Luftwaffe played a major role in German victories in these campaigns. -->
+<!-- Fighter aircraft: Unescorted Consolidated B-24 Liberators and Boeing B-17 Flying Fortress bombers, however, proved unable to fend off German interceptors (primarily Bf 109s and Fw 190s). -->
+<!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" >}}
 {{< exemplaires 34852 >}}
+{{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Intercepteur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -152,11 +158,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : supériorité aérienne -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: During the Battle of Britain, however, British Hurricanes and Spitfires proved roughly equal to Luftwaffe fighters. -->
+<!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur bombardier" >}}
 {{< exemplaires 14583 >}}
+{{< caracteristique "Supériorité aérienne" >}}
 <p>Premier chasseur monoplan de la Royal Air Force.</p>
 </div>
 <div class="ressources">
@@ -172,11 +179,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : supériorité aérienne -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: During the Battle of Britain, however, British Hurricanes and Spitfires proved roughly equal to Luftwaffe fighters. -->
+<!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" >}}
 {{< exemplaires 20351 >}}
+{{< caracteristique "Supériorité aérienne" >}}
 <p>Version embarquée : Seafire.</p>
 </div>
 <div class="ressources">
@@ -193,9 +201,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : dépassé par le zero -->
+<!-- Fighter aircraft: By mid-1942, the Allies began to regroup and while some Allied aircraft such as the Brewster Buffalo and the P-39 Airacobra were hopelessly outclassed by fighters like Japan's Mitsubishi A6M Zero, -->
 <div class="aeronef">
 {{< aeronef ":us:" "Brewster" "F2A Buffalo" "1939" "embarqué" >}}
+{{< exemplaires 509 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -209,13 +218,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : peu armé, mais manoeuvrant -->
-<!-- fighter aircraft : grand succès au debut du pacifique -->
-<!-- fighter aircraft : trop léger pour faire intercepteur ou attaque, à l'inverse des avions alliés -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: The Japanese and Italians favored lightly armed and armored but highly maneuverable designs such as the Japanese Nakajima Ki-27, Nakajima Ki-43 and Mitsubishi A6M Zero and the Italian Fiat G.50 Freccia and Macchi MC.200. -->
+<!-- Fighter aircraft:  The Imperial Japanese Navy Air Service primarily operated the Mitsubishi A6M Zero, and the Imperial Japanese Army Air Service flew the Nakajima Ki-27 and the Nakajima Ki-43, initially enjoying great success, as these fighters generally had better range, maneuverability, speed and climb rates than their Allied counterparts. -->
+<!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
+<!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur-bombardier léger, embarqué" >}}
 {{< exemplaires 10939 >}}
+{{< caracteristique "Supériorité aérienne" >}}
 <p>Très maniable, une grande puissance de feu mais aucun blindage.</p>
 </div>
 <div class="ressources">
@@ -231,7 +241,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : meilleure puissance de feu que le zero -->
+<!-- Fighter aircraft: others such as the Army's Curtiss P-40 Warhawk and the Navy's Grumman F4F Wildcat possessed attributes such as superior firepower, ruggedness and dive speed, and the Allies soon developed tactics (such as the Thach Weave) to take advantage of these strengths. These changes soon paid dividends, as the Allied ability to deny Japan air superiority was critical to their victories at Coral Sea, Midway, Guadalcanal and New Guinea. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "embarqué" >}}
 {{< exemplaires 7885 >}}
@@ -248,7 +258,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : arrivé en retard, inférieur au Bf 109 -->
+<!-- Fighter aircraft: More modern Soviet designs, including the Mikoyan-Gurevich MiG-3, LaGG-3 and Yakolev Yak-1, had not yet arrived in numbers and in any case were still inferior to the Messerschmitt Bf 109. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" >}}
 {{< exemplaires 8734 >}}
@@ -265,11 +275,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : meilleure puissance de feu que le zero -->
-<!-- fighter aircraft : lourdement armé : chasseur bombardier -->
+<!-- Fighter aircraft: others such as the Army's Curtiss P-40 Warhawk and the Navy's Grumman F4F Wildcat possessed attributes such as superior firepower, ruggedness and dive speed, and the Allies soon developed tactics (such as the Thach Weave) to take advantage of these strengths. These changes soon paid dividends, as the Allied ability to deny Japan air superiority was critical to their victories at Coral Sea, Midway, Guadalcanal and New Guinea. -->
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" >}}
 {{< exemplaires 13738 >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 <p>Troisième avion de chasse le plus produit des USA pendant la seconde guerre mondiale.</p>
 </div>
 <div class="ressources">
@@ -285,10 +296,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : chasseur de nuit -->
+<!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd et bombardier" >}}
 {{< exemplaires 6150 >}}
+{{< caracteristique "Chasseur de nuit" >}}
 <p>Bimoteur.</p>
 </div>
 <div class="ressources">
@@ -303,9 +315,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : chasseur de nuit -->
+<!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd et torpillage, assaut, chasseur de nuit" >}}
+{{< exemplaires 5928 >}}
+{{< caracteristique "Chasseur de nuit" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -319,8 +333,8 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : efficace en combat basse altitude, sur le front soviétique -->
-<!-- fighter aircraft : dépassé par le zero -->
+<!-- Fighter aircraft: Also, significant numbers of British, and later U.S., fighter aircraft were supplied to aid the Soviet war effort as part of Lend-Lease, with the Bell P-39 Airacobra proving particularly effective in the lower-altitude combat typical of the Eastern Front. -->
+<!-- Fighter aircraft: By mid-1942, the Allies began to regroup and while some Allied aircraft such as the Brewster Buffalo and the P-39 Airacobra were hopelessly outclassed by fighters like Japan's Mitsubishi A6M Zero, -->
 <div class="aeronef">
 {{< aeronef ":us:" "Bell" "P-39 Airacobra" "1941" >}}
 {{< exemplaires 9584 >}}
@@ -338,12 +352,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : contribué au succès du pacifique -->
-<!-- fighter aircraft : lourdement armé: chasseur bombardier  -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
+<!-- Air supremacy: The Hellcat shot down 5,168 enemy aircraft (the second highest number), while the land-based Lockheed P-38 was third, shooting down 3,785 in all theaters. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-38 Lightning" "1941" "chasseur lourd" >}}
 {{< exemplaires 10037 >}}
+{{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 <p>Bimoteur bipoutre, long rayon d'action.</p>
 </div>
 <div class="ressources">
@@ -359,13 +375,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : lourdement armé : chasseur bombardier  -->
-<!-- Fighter aircraft : intercepteur -->
-<!-- air supremacy : supériorité aérienne -->
-<!-- fighter bomber : remarquable chasseur bombardier -->
+<!-- Fighter aircraft: Unescorted Consolidated B-24 Liberators and Boeing B-17 Flying Fortress bombers, however, proved unable to fend off German interceptors (primarily Bf 109s and Fw 190s). -->
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
+<!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
+<!-- Fighter-bomber: [...] Increased engine power meant that many existing fighter designs could carry useful bomb loads, and adapt to the fighter-bomber role. Notable examples include the Focke-Wulf Fw 190, Hawker Typhoon and Republic P-47 Thunderbolt. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur lourd et bombardier" >}}
+{{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur et bombardier" >}}
 {{< exemplaires 20051 >}}
+{{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Intercepteur" >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -380,10 +399,29 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : lourdement armé : chasseur bombardier -->
-<!-- fighter bomber : décevants en chasseurs, ils font une admirable conversion en chasseur bombardier -->
+<div class="aeronef">
+{{< aeronef ":jp:" "Kawasaki" "Ki-45" "1941" "chasseur lourd" >}}
+{{< exemplaires 1701 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Kawasaki_Ki-45"
+  "https://en.wikipedia.org/wiki/Kawasaki_Ki-45"
+  "https://www.avionslegendaires.net/avion-militaire/kawasaki-ki-45-toryu-nick/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kawasaki_Ki-45.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
+<!-- Fighter-bomber: [...] Increased engine power meant that many existing fighter designs could carry useful bomb loads, and adapt to the fighter-bomber role. Notable examples include the Focke-Wulf Fw 190, Hawker Typhoon and Republic P-47 Thunderbolt. -->
+<!-- Fighter-bomber: The Typhoon disappointed as a fighter, especially at altitude but found its true niche as a fighter bomber from September 1942. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur bombardier" >}}
+{{< exemplaires 3317 >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -397,7 +435,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : arrivé en retard, inférieur au Bf 109 -->
+<!-- Fighter aircraft: More modern Soviet designs, including the Mikoyan-Gurevich MiG-3, LaGG-3 and Yakolev Yak-1, had not yet arrived in numbers and in any case were still inferior to the Messerschmitt Bf 109. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
 {{< exemplaires 6258 >}}
@@ -414,9 +452,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : arrivé en retard, inférieur au Bf 109 -->
+<!-- Fighter aircraft: More modern Soviet designs, including the Mikoyan-Gurevich MiG-3, LaGG-3 and Yakolev Yak-1, had not yet arrived in numbers and in any case were still inferior to the Messerschmitt Bf 109. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-3" "1941" >}}
+{{< exemplaires 3422 >}}
 <p>Basé sur le MiG-1.</p>
 </div>
 <div class="ressources">
@@ -431,10 +470,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : peu armé, mais manoeuvrant -->
-<!-- fighter aircraft : grand succès au debut du pacifique -->
+<!-- Fighter aircraft: The Japanese and Italians favored lightly armed and armored but highly maneuverable designs such as the Japanese Nakajima Ki-27, Nakajima Ki-43 and Mitsubishi A6M Zero and the Italian Fiat G.50 Freccia and Macchi MC.200. -->
+<!-- Fighter aircraft:  The Imperial Japanese Navy Air Service primarily operated the Mitsubishi A6M Zero, and the Imperial Japanese Army Air Service flew the Nakajima Ki-27 and the Nakajima Ki-43, initially enjoying great success, as these fighters generally had better range, maneuverability, speed and climb rates than their Allied counterparts. -->
+<!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "Ki-43" "1941" >}}
+{{< exemplaires 5919 >}}
 <p>Basé sur le Ki-27.</p>
 </div>
 <div class="ressources">
@@ -449,31 +490,30 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : chasseur de nuit -->
-<div class="aeronef avec_module_dcs">
-{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger, chasseur" >}}
-{{< exemplaires 7781 >}}
-{{< caracteristique "faible signature radar car en bois" >}}
-<p>Bimoteur. Difficile à intercepter car très rapide.</p>
+<div class="aeronef">
+{{< aeronef ":jp:" "Kawasaki" "Ki-61" "1942" >}}
+{{< exemplaires 3078 >}}
+<p>Refroidissement liquide.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
 {{< ressource-encyclopedique
-  "https://fr.wikipedia.org/wiki/De_Havilland_DH.98_Mosquito"
-  "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
-  "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-98-mosquito/"
-  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mosquito_600pix.jpg"
-  "RAF, Public domain, via Wikimedia Commons"
+  "https://fr.wikipedia.org/wiki/Kawasaki_Ki-61_Hien"
+  "https://en.wikipedia.org/wiki/Kawasaki_Ki-61"
+  "https://www.avionslegendaires.net/avion-militaire/kawasaki-ki-61-hien-tony/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/Kawasaki_Ki-61_Hien.jpg"
+  "SDASM, Public domain, via Wikimedia Commons"
 >}}
 </div>
 </div>
 
-<!-- fighter aircraft : contribué au succès du pacifique -->
-<!-- fighter aircraft : lourdement armé: chasseur bombardier  -->
-<!-- fighter bomber : remarquable chasseur bombardier -->
+<!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
+<!-- Fighter-bomber: [...] Increased engine power meant that many existing fighter designs could carry useful bomb loads, and adapt to the fighter-bomber role. Notable examples include the Focke-Wulf Fw 190, Hawker Typhoon and Republic P-47 Thunderbolt. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur lourd et bombardier" >}}
 {{< exemplaires 15660 >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 <p>Aspect massif.</p>
 </div>
 <div class="ressources">
@@ -491,13 +531,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : escorte des B24 et B17 a l'ouest, grande autonomie -->
-<!-- fighter aircraft : contribué au succès du pacifique -->
-<!-- fighter aircraft : flux laminaires -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: With the later arrival of long range fighters, particularly the North American P-51 Mustang, American fighters were able to escort far into Germany on daylight raids and by ranging ahead attrited the Luftwaffe to establish control of the skies over Western Europe. -->
+<!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
+<!-- Fighter aircraft: Laminar flow wings, which improved high speed performance, also came into use on fighters such as the P-51 Mustang, -->
+<!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur, chasseur bombardier" >}}
 {{< exemplaires 15586 >}}
+{{< caracteristique "Avion d'escorte longue distance" >}}
 <p>Souvent utilisé en escorteur grâce à son long rayon d'action.</p>
 </div>
 <div class="ressources">
@@ -513,12 +554,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : contribué au succès du pacifique -->
-<!-- fighter aircraft : lourdement armé: chasseur bombardier  -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
+<!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur bombardier embarqué" >}}
 {{< exemplaires 12571 >}}
+{{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 <p>Aile en mouette inversée (W).</p>
 </div>
 <div class="ressources">
@@ -536,7 +579,23 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : remise à niveau , comparable à un bf 109 -->
+<div class="aeronef">
+{{< aeronef ":ru:" "Yakovlev" "Yak-7" "1942" >}}
+{{< exemplaires 6399 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Yakovlev_Yak-7"
+  "https://en.wikipedia.org/wiki/Yakovlev_Yak-7"
+  "https://www.avionslegendaires.net/avion-militaire/yakovlev-yak-1-yak-7/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Yakovlev_Yak-7B.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Fighter aircraft: By 1942 Soviet designs such as the Yakovlev Yak-9 and Lavochkin La-5 had performance comparable to the German Bf 109 and Focke-Wulf Fw 190. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" >}}
 {{< exemplaires 16769 >}}
@@ -553,7 +612,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : remise à niveau , comparable à un bf 109 -->
+<!-- Fighter aircraft: By 1942 Soviet designs such as the Yakovlev Yak-9 and Lavochkin La-5 had performance comparable to the German Bf 109 and Focke-Wulf Fw 190. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-5" "1942" >}}
 {{< exemplaires 9920 >}}
@@ -571,11 +630,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : contribué au succès du pacifique -->
-<!-- air supremacy : supériorité aérienne -->
+<!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
+<!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
+<!-- Air supremacy: The Hellcat shot down 5,168 enemy aircraft (the second highest number), while the land-based Lockheed P-38 was third, shooting down 3,785 in all theaters. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "embarqué" >}}
 {{< exemplaires 12275 >}}
+{{< caracteristique "Supériorité aérienne" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -591,9 +652,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft, arrivé trop tard et trop peu nombreux -->
+<!-- Fighter aircraft: Late in the war, Japan began to produce new fighters such as the Nakajima Ki-84 and the Kawanishi N1K to replace the Zero, but only in small numbers, and by then Japan lacked the trained pilots or sufficient fuel to mount an effective challenge to Allied attacks. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Kawanishi" "N1K1-J Rex" "1943" "chasse" >}}
+{{< exemplaires 1532 >}}
 <p>Basé sur l'hydravion de chasse N1K.</p>
 </div>
 <div class="ressources">
@@ -608,9 +670,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : lourdement armé : chasseur bombardier -->
+<!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
+{{< exemplaires 1702 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -626,6 +689,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasse" >}}
+{{< exemplaires 5753 >}}
 <p>Basé sur le La-5.</p>
 </div>
 <div class="ressources">
@@ -642,6 +706,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-3" "1944" "chasseur léger" >}}
+{{< exemplaires 4848 >}}
 <p>Très léger et maniable, excellent en dogfight.</p>
 </div>
 <div class="ressources">
@@ -657,9 +722,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft, arrivé trop tard et trop peu nombreux -->
+<!-- Fighter aircraft: Late in the war, Japan began to produce new fighters such as the Nakajima Ki-84 and the Kawanishi N1K to replace the Zero, but only in small numbers, and by then Japan lacked the trained pilots or sufficient fuel to mount an effective challenge to Allied attacks. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "Ki-84" "1944" >}}
+{{< exemplaires 3514 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -673,9 +739,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : chasseur de nuit, désigné pour -->
+<!-- Fighter aircraft: The Northrop P-61 Black Widow, a purpose-built night fighter, was the only fighter of the war that incorporated radar into its original design. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Northrop" "P-61 Black Widow" "1944" "chasseur de nuit">}}
+{{< exemplaires 706 >}}
+{{< caracteristique "Chasseur de nuit" >}}
 <p>Premier chasseur américain conçu pour être un chasseur de nuit.</p>
 </div>
 <div class="ressources">
@@ -718,8 +786,41 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef">
+{{< aeronef ":jp:" "Aichi" "D3A Val" "1940" "bombardier en piqué embarqué" >}}
+{{< exemplaires 1495 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Aichi_D3A"
+  "https://en.wikipedia.org/wiki/Aichi_D3A"
+  "https://www.avionslegendaires.net/avion-militaire/aichi-d3a-val/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/54/D3A1_Akagi.jpg"
+  "See page for author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "Douglas" "SDB Dauntless" "1940" "bombardier en piqué embarqué" >}}
+{{< exemplaires 5936 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_SBD_Dauntless"
+  "https://en.wikipedia.org/wiki/Douglas_SBD_Dauntless"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-sbd-dauntless/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/fd/Douglas_SBD_Dauntless_dropping_a_bomb%2C_circa_in_1942.jpg"
+  "U.S. Navy photo, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier en piqué" >}}
 {{< exemplaires 11427 >}}
+<p>Variante Pe-3 chasseur de nuit.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -735,6 +836,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-36 Invader/Apache" "1941" "attaque au sol, bombardier en piqué" >}}
+{{< exemplaires 500 >}}
 <p>Version d'attaque du P-51 Mustang.</p>
 </div>
 <div class="ressources">
@@ -745,6 +847,22 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://www.avionslegendaires.net/avion-militaire/north-american-a-36-invader-apache/"
   "https://upload.wikimedia.org/wikipedia/commons/8/81/A-36_%22Apache%22_of_the_27th_Fighter_Bomber_Group.jpg"
   "USAAF, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":us:" "Vultee" "A-31 Vengeance" "1942" "bombardier en piqué" >}}
+{{< exemplaires 1931 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Vultee_A-31_Vengeance"
+  "https://en.wikipedia.org/wiki/Vultee_A-31_Vengeance"
+  "https://www.avionslegendaires.net/avion-militaire/vultee-a-31-a-35-vengeance/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Vultee_Vengeance_in_flight_Dec_1942.jpg"
+  "United States. Office of War Information. Overseas Picture Division. Washington Division; 1944, Public domain, via Wikimedia Commons"
 >}}
 </div>
 </div>
@@ -766,7 +884,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="titre_generation">
-<h3>Bombardiers légers</h3>
+<h3>Bombardiers légers / rapides</h3>
 </div>
 
 <div class="aeronef">
@@ -787,6 +905,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
+{{< exemplaires 4422 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -801,8 +920,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Heavy-fighter: Due to their relatively large size, these were mostly used as night fighter-bomber destroyers, as there was ample room to install airborne intercept radar systems as well as heavy armament. Bombers utilized in such a role included the Junkers Ju 88 and Ju 388; the Heinkel He 219; and the Dornier Do 215 and Do 217. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Dornier" "Do 17" "1937" "bombardier léger, chasseur de nuit, reconnaissance" >}}
+{{< exemplaires 1994 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -812,6 +933,26 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
   "https://www.avionslegendaires.net/avion-militaire/dornier-do-17/"
   "https://upload.wikimedia.org/wikipedia/commons/2/22/Bundesarchiv_Bild_101I-342-0603-25%2C_Belgien-Frankreich%2C_Flugzeuge_Dornier_Do_17.jpg"
   "Bundesarchiv, Bild 101I-342-0603-25 / Ketelhohn [Kettelhohn] / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
+<div class="aeronef avec_module_dcs">
+{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger, chasseur" >}}
+{{< exemplaires 7781 >}}
+{{< caracteristique "Chasseur de nuit" >}}
+{{< caracteristique "Faible emprunte radar" >}}
+<p>Bimoteur. Difficile à intercepter car très rapide.</p>
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/De_Havilland_DH.98_Mosquito"
+  "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+  "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-98-mosquito/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mosquito_600pix.jpg"
+  "RAF, Public domain, via Wikimedia Commons"
 >}}
 </div>
 </div>
@@ -836,10 +977,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : chasseur de nuit -->
+<!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-20 Havoc / DB-7" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
+{{< caracteristique "Chasseur de nuit" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -855,6 +997,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":de:" "Henschel" "Hs 129" "1942" "avion d'attaque" >}}
+{{< exemplaires 865 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -870,6 +1013,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
+{{< exemplaires 2450 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -884,8 +1028,40 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<div class="aeronef">
+{{< aeronef ":ru:" "Iliouchine" "Il-10 Beast" "1944" "attaque au sol" >}}
+{{< exemplaires 6166 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Iliouchine_Il-10"
+  "https://en.wikipedia.org/wiki/Ilyushin_Il-10"
+  "https://www.avionslegendaires.net/avion-militaire/ilyushin-il-10-beast/"
+  "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ilyushin_Il-10_%28China_Aviation_Museum%29.jpg"
+  "Flavio Mucia (AMB Brescia), CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
 <div class="titre_generation">
 <h3>Bombardiers moyens</h3>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":ru:" "Iliouchine" "Il-4" "1936" "bombardier longue distance" >}}
+{{< exemplaires 5256 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Iliouchine_Il-4"
+  "https://en.wikipedia.org/wiki/Ilyushin_Il-4"
+  "https://www.avionslegendaires.net/avion-militaire/ilyushin-db-3-il-4-bob/"
+  "https://upload.wikimedia.org/wikipedia/commons/2/2d/Iljushin_DB-3F_%28SA-kuva_148731%29.jpg"
+  "Sot.virk. Niilo Helander, Public domain, via Wikimedia Commons"
+>}}
+</div>
 </div>
 
 <div class="aeronef">
@@ -921,10 +1097,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- Fighter aircraft : chasseur de nuit -->
+<!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
+<!-- Heavy-fighter: Due to their relatively large size, these were mostly used as night fighter-bomber destroyers, as there was ample room to install airborne intercept radar systems as well as heavy armament. Bombers utilized in such a role included the Junkers Ju 88 and Ju 388; the Heinkel He 219; and the Dornier Do 215 and Do 217. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen" >}}
 {{< exemplaires 15183 >}}
+{{< caracteristique "Chasseur de nuit" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -958,6 +1136,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-2 Bat" "1941" "bombardier moyen" >}}
+{{< exemplaires 2257 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -973,6 +1152,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":us:" "Martin" "B-26 Marauder" "1941" "bombardier moyen" >}}
+{{< exemplaires 5288 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -987,12 +1167,47 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<div class="aeronef">
+{{< aeronef ":jp:" "Mitsubishi" "G4M Betty" "1941" "bombardier moyen, torpilleur" >}}
+{{< exemplaires 2435 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Mitsubishi_G4M"
+  "https://en.wikipedia.org/wiki/Mitsubishi_G4M"
+  "https://www.avionslegendaires.net/avion-militaire/mitsubishi-g4m-betty/"
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mitsubishi_G4M_captured_on_ground_1945.jpeg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Heavy fighter: Due to their relatively large size, these were mostly used as night fighter-bomber destroyers, as there was ample room to install airborne intercept radar systems as well as heavy armament. Bombers utilized in such a role included the Junkers Ju 88 and Ju 388; the Heinkel He 219; and the Dornier Do 215 and Do 217. -->
+<div class="aeronef">
+{{< aeronef ":de:" "Dornier" "Do 217" "1941" "bombardier moyen, lourd, chasseur de nuit" >}}
+{{< exemplaires 1925 >}}
+{{< caracteristique "Chasseur de nuit" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Dornier_Do_217"
+  "https://en.wikipedia.org/wiki/Dornier_Do_217"
+  "https://www.avionslegendaires.net/avion-militaire/dornier-do-217/"
+  "https://upload.wikimedia.org/wikipedia/commons/3/3c/Do_217E-2_NAN15Jul43.jpg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
 <div class="titre_generation">
 <h3>Bombardiers torpilleurs, patrouille maritime</h3>
 </div>
 
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
+{{< exemplaires 3308 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1008,7 +1223,24 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <div class="aeronef">
+{{< aeronef ":jp:" "Nakajima" "B5N Kate" "1939" "bombardier-torpilleur embarqué" >}}
+{{< exemplaires 1149 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Nakajima_B5N"
+  "https://en.wikipedia.org/wiki/Nakajima_B5N"
+  "https://www.avionslegendaires.net/avion-militaire/nakajima-b5n-kate/"
+  "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nakajima_B5N2_Kate_in_flight.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufort" "1939" "torpilleur" >}}
+{{< exemplaires 1121 >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1061,6 +1293,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="aeronef">
 {{< aeronef ":gb:" "Short" "S.29 Stirling" "1940" "bombardier lourd" >}}
+{{< exemplaires 2371 >}}
 <p>Premier bombardier lourd quadrimoteur britanique.</p>
 </div>
 <div class="ressources">
@@ -1124,9 +1357,26 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : impossible à arreter par le japon -->
+<div class="aeronef">
+{{< aeronef ":de:" "Heinkel" "He 177 Greif" "1942" "bombardier lourd longue distance" >}}
+{{< exemplaires 1169 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Heinkel_He_177"
+  "https://en.wikipedia.org/wiki/Heinkel_He_177_Greif"
+  "https://www.avionslegendaires.net/avion-militaire/heinkel-he-177-greif/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Heinkel_He_177A-02_in_flight_1942.jpg"
+  "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Fighter aircraft: During the closing stages of the war, Japan's fighter arm could not seriously challenge raids over Japan by American Boeing B-29 Superfortresses, and was largely reduced to Kamikaze attacks. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-29 Superfortress" "1944" "bombardier lourd" >}}
+{{< exemplaires 3970 >}}
 {{< caracteristique "Bombe atomique" >}}
 <p>Bombes atomiques sur Hiroshima et Nagasaki.</p>
 </div>
@@ -1149,7 +1399,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </ul>
 </div>
 
-<!-- fighter aircraft : ailes en fleches -->
+<!-- Fighter aircraft: while the Messerschmitt Me 262 and the Messerschmitt Me 163 featured swept wings that dramatically reduced drag at high subsonic speeds. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Me 163 Komet" "1944" "intercepteur">}}
 <p>seul avion de chasse de type avion-fusée de l'histoire.</p>
@@ -1166,7 +1416,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
-<!-- fighter aircraft : ailes en fleches -->
+<!-- Fighter aircraft: while the Messerschmitt Me 262 and the Messerschmitt Me 163 featured swept wings that dramatically reduced drag at high subsonic speeds. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Me 262" "1944" "chasseur-bombardier">}}
 <p>Premier avion de chasse opérationnel à moteur à réaction de l'histoire. Utilisé à la fin de la seconde guerre mondiale.</p>
@@ -1352,7 +1602,6 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< aeronef ":us:" "Convair" "F-102 Delta Dagger" "1956" "intercepteur" >}}
 {{< mach 1.25 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à suivre la loi des aires dans son design.</p>
 </div>
 <div class="ressources">
@@ -1371,7 +1620,6 @@ Premier avion soviétique passant le mur du son en pallier.
 {{< aeronef ":us:" "McDonnell" "F-101 Voodoo" "1957" "chasseur bombardier, ou intercepteur" >}}
 {{< mach 1.72 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Premier avion de l'USAF à franchir les 1000 mph (1600 km/h).</p>
 </div>
 <div class="ressources">
@@ -1389,7 +1637,6 @@ Premier avion soviétique passant le mur du son en pallier.
 <div class="aeronef">
 {{< aeronef ":us:" "Vought" "F-8 Crusader" "1957" "embarqué, supériorité aérienne" >}}
 {{< mach 1.72 >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Voilure à angle de calage variable.</p>
 </div>
 <div class="ressources">
@@ -1431,7 +1678,6 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
 {{< mach 2.39 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
-{{< caracteristique "veille infrarouge" >}}
 {{< caracteristique "Datalink SAGE" >}}
 <p>Utilisation d'une aile delta, mach 2.3.</p>
 </div>
@@ -1469,8 +1715,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "J35 Draken" "1960" >}}
 {{< mach 2.0 >}}
-{{< caracteristique "super-manœvrabilité (double-delta, cobra = Kort Parad)" >}}
-{{< caracteristique "veille infrarouge" >}}
+{{< caracteristique "super-manœvrabilité (cobra = Kort Parad)" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1493,7 +1738,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-21 Fishbed" "1960" "chasseur et intercepteur" >}}
 {{< exemplaires 13996 >}}
 {{< mach 2.05 >}}
-{{< caracteristique "super-manœvrabilité (delta, cobra)" >}}
+{{< caracteristique "super-manœvrabilité (cobra)" >}}
 <p>Le chasseur supersonique le plus produit au monde.</p>
 </div>
 <div class="ressources">
@@ -1582,7 +1827,6 @@ On peut citer différents aspects : <ul>
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur, supériorité aérienne" >}}
 {{< mach 2.23 >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.<br />
 Neuf points d'emports.</p>
 </div>
@@ -1658,7 +1902,6 @@ Neuf points d'emports.</p>
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-23 Flogger" "1970" "chasseur bombardier" >}}
 {{< mach 2.35 >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>
 L'appareil à géométrie variable le plus produit.<br />
 Premier radar soviétique look-down/shoot-down.<br />
@@ -1682,7 +1925,6 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
 {{< mach 3.2 >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Très rapide.</p>
 </div>
 <div class="ressources">
@@ -1704,7 +1946,6 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" "attaque, chasse, reconnaissance" >}}
 {{< mach 2.1 >}}
-{{< caracteristique "manœuvrabilité (delta, canards)" >}}
 {{< caracteristique "atterrissage court (inversion de poussée)" >}}
 </div>
 <div class="ressources">
@@ -1841,7 +2082,6 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-31 Foxhound" "1981" "intercepteur et attaque" >}}
 {{< mach 2.83 >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>
 Basé sur le MiG-25, très rapide.<br />
 Premier avion avec radar PESA<br />
@@ -1868,7 +2108,6 @@ Datalink.
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" "multirôle, supériorité aérienne" >}}
 {{< mach 2.3 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Variante MiG-29M : modernisé.<br />
 Variante MiG-29K : embarqué.</p>
 </div>
@@ -1907,8 +2146,6 @@ Variante MiG-29K : embarqué.</p>
 {{< ressource-video-youtube "F61h1Fee9Zw" >}} <!-- les ailes de legende -->
 </div>
 <div class="images">
-{{< ressource-playlist-youtube "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}}
-{{< ressource-playlist-youtube "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" >}}
 {{< ressource-video-youtube "JYUm5Nl6318" >}}
 {{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
 </div>
@@ -1917,8 +2154,6 @@ Variante MiG-29K : embarqué.</p>
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" "intercepteur, puis multirôle" >}}
 {{< mach 2.2 >}}
-{{< caracteristique "manœuvrabilité (delta)" >}}
-{{< caracteristique "veille infrarouge limitée" >}}
 <p>Commandes de vol électriques</p>
 </div>
 <div class="ressources">
@@ -1950,7 +2185,6 @@ Variante MiG-29K : embarqué.</p>
 {{< aeronef ":ru:" "Soukhoï" "Su-27 Flanker" "1985" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.35 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>
 Longue portée.<br />
 Variantes : <ul>
@@ -2005,7 +2239,6 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< aeronef ":ru:" "Soukhoï" "Su-30 Flanker-C/G/H" "1996" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2 >}}
 {{< caracteristique "super-manœuvrabilité (cobra, kulbit)" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Basé sur le Su-27. Biplace.</p>
 </div>
 <div class="ressources">
@@ -2051,6 +2284,8 @@ Géométrie variable. Basé sur le Tornado.<br />
 >}}
 </div>
 <div class="images">
+{{< ressource-playlist-youtube "PLCO6ndZDWgg3-duVAaaH8Lojv2ge6ilUf" >}}
+{{< ressource-playlist-youtube "PLCO6ndZDWgg27ZPKn4eQttowQA_Py4GA2" >}}
 {{< ressource-video-youtube "0fM7SUSgFj8" >}}
 </div>
 </div>
@@ -2058,7 +2293,6 @@ Géométrie variable. Basé sur le Tornado.<br />
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "JAS 39 Gripen" "1996" "intercepteur" >}}
 {{< mach 2 >}}
-{{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.1" >}}
 </div>
 <div class="ressources">
@@ -2081,7 +2315,6 @@ Géométrie variable. Basé sur le Tornado.<br />
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
 {{< mach 1.8 >}}
-{{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.4" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
@@ -2114,8 +2347,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.0 >}}
-{{< caracteristique "super-manœuvrabilité (canards, poussée vectorielle, cobra, herbst, kulbit)" >}}
-{{< caracteristique "veille infrarouge" >}}
+{{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 <p>
 Basé sur le Su-27/Su-30.<br />
 Avionique occidentale (française et israélienne), ajout de canards et poussée vectorielle.
@@ -2136,7 +2368,6 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="aeronef">
 {{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "multirôle et supériorité aérienne" >}}
 {{< mach 2.0 >}}
-{{< caracteristique "manœuvrabilité (canards, delta)" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
@@ -2158,7 +2389,6 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
 {{< mach 1.8 >}}
-{{< caracteristique "veille infrarouge" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2179,7 +2409,6 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< aeronef ":ru:" "Soukhoï" "Su-35S Flanker-E" "2012" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Basé sur le Su-27.</p>
 </div>
 <div class="ressources">
@@ -2198,8 +2427,6 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="aeronef">
 {{< aeronef ":india:" "HAL" "Tejas" "2015" "chasseur léger multirôle" >}}
 {{< mach 1.6 >}}
-{{< caracteristique "manœuvrabilité (double-delta)">}}
-{{< caracteristique "veille infrarouge" >}}
 <p>Des caractéristiques de furtivité : matériaux composites.</p>
 </div>
 <div class="ressources">
@@ -2218,7 +2445,6 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-35 Fulcrum-F" "2017" >}}
 {{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
-{{< caracteristique "veille infrarouge" >}}
 <p>basé sur le MiG-29, radar AESA.<br />
  Le prototype MiG-29OVT disposait de poussée vectorielle, mais pas le MiG-35.</p>
 </div>
@@ -2318,10 +2544,9 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-57 Felon" "2020" "supériorité aérienne" >}}
 {{< mach 2.1 >}}
-{{< caracteristique "super-manœuvrabilité (poussée vectorielle), cobra, herbst, kulbit" >}}
-{{< caracteristique "supercroisière mach 1.6" >}}
 {{< caracteristique "furtif" >}}
-{{< caracteristique "veille infrarouge" >}}
+{{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< caracteristique "supercroisière" >}}
 </div>
 <div class="ressources">
 <div class="reportages">

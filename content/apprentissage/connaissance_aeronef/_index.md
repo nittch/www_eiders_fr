@@ -52,12 +52,21 @@ weight = 2
     padding-left: 2em;
   }
 
+/*
   .avec_module_dcs {
     border-width: 1px;
     border-style: solid;
     border-image: linear-gradient(to right, grey 0%, white 90%) 1;
 
     padding: 5px;
+  }
+*/
+
+  .avec_module_dcs .drapeau:before
+  {
+    content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DCS-World-logo.jpg/50px-DCS-World-logo.jpg);
+    padding: 0.2em;
+    vertical-align: top;
   }
 
   .ressources {

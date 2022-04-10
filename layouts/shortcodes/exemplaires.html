@@ -1,6 +1,11 @@
 <div class="caracteristique">
 {{ div (.Get 0) 1000 }} {{ printf "%03d" (mod (.Get 0) 1000) }} exemplaires
+{{ if gt ( .Get 0 )  5000}}{{ ":star:" | emojify }}{{ end }}
 {{ if gt ( .Get 0 ) 10000}}{{ ":star:" | emojify }}{{ end }}
+{{ if gt ( .Get 0 ) 15000}}{{ ":star:" | emojify }}{{ end }}
 {{ if gt ( .Get 0 ) 20000}}{{ ":star:" | emojify }}{{ end }}
+{{ if gt ( .Get 0 ) 25000}}{{ ":star:" | emojify }}{{ end }}
 {{ if gt ( .Get 0 ) 30000}}{{ ":star:" | emojify }}{{ end }}
+{{ if gt ( .Get 0 ) 35000}}{{ ":star:" | emojify }}{{ end }}
+{{ if gt ( .Get 0 ) 40000}}{{ ":star:" | emojify }}{{ end }}
 </div>

@@ -8,7 +8,7 @@ background-image: url({{ .Get 3 | replaceRE "https://upload.wikimedia.org/wikipe
   <div class="liens">
     {{ if ne ( .Get 0 ) "" }} <a href="{{ .Get 0 }}" target=_blank title="Wikipédia fr">{{ ":fr:" | emojify }} Wikipédia</a><br /> {{ end }}
     {{ if ne ( .Get 1 ) "" }} <a href="{{ .Get 1 }}" target=_blank title="Wikipédia en">{{ ":gb:" | emojify }} Wikipédia</a><br /> {{ end }}
-    {{ if ne ( .Get 2 ) "" }} <a href="{{ .Get 2 }}" target=_blank title="Avions Légendaires">{{ ":airplane:" | emojify }} A.L.</a>{{ end }}
+    {{ if ne ( .Get 2 ) "" }} <a href="{{ .Get 2 }}" target=_blank title="Avionslegendaires.net">{{ ":airplane:" | emojify }} A.L.</a>{{ end }}
   </div>
 
   <div class="controles">

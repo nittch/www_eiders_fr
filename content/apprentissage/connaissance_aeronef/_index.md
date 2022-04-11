@@ -110,6 +110,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Polikarpov" "I-16" "1935" >}}
 {{< exemplaires 10292 >}}
+<p>Testé avec succès pendant la guerre civile espagnole et jugé bon dogfighter. Déjà obsolète au début du front soviétique.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -152,6 +153,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< exemplaires 34852 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Intercepteur" >}}
+<p>Testé avec succès pendant la guerre civile espagnole et jugé bon dogfighter. Un des deux principaux avions de supériorité aérienne allemand.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -169,11 +171,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <!-- Fighter aircraft: During the Battle of Britain, however, British Hurricanes and Spitfires proved roughly equal to Luftwaffe fighters. -->
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
+<!-- Strafing: For the RAF, the best ground attack plane was the Hawker Hurricane II. It was armed with four 20 mm (0.79 in) wing-mounted cannon.[5] The Hawker Typhoon was used in the later stages of the war. It had four "60 lb" RP-3 rockets -->
+<!-- Attack aircraft: to emphasise the attack role, usually in the form of single-engine Hawker Hurricane and Curtiss P-40 fighter-bombers or specialized "tank-busters", such as the Hurricane Mk IID, armed with two 40 mm Vickers S guns -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur bombardier" >}}
 {{< exemplaires 14583 >}}
 {{< caracteristique "Supériorité aérienne" >}}
-<p>Premier chasseur monoplan de la Royal Air Force.</p>
+{{< caracteristique "Attaque au sol" >}}
+<p>Un des deux principaux avions de supériorité aérienne britannique.<br />
+L'Hurricane II était l'un des deux meilleurs avions de mitraillage au sol britannique.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -194,7 +200,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" >}}
 {{< exemplaires 20351 >}}
 {{< caracteristique "Supériorité aérienne" >}}
-<p>Version embarquée : Seafire.</p>
+<p>
+Un des deux principaux avions de supériorité aérienne britannique. <br />
+Version embarquée : Seafire.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -214,6 +223,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":us:" "Brewster" "F2A Buffalo" "1939" "embarqué" >}}
 {{< exemplaires 509 >}}
+<p>Dépassé au début du conflit dans le pacifique.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -235,7 +245,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 {{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur-bombardier léger, embarqué" >}}
 {{< exemplaires 10939 >}}
 {{< caracteristique "Supériorité aérienne" >}}
-<p>Très maniable, une grande puissance de feu mais aucun blindage.</p>
+<p>Le principal avion de supériorité aérienne japonais. Un modèle de maniabilité. Excellent au début de la guerre, mais à la fin de celle-ci, son manque de puissance de feu et de blindage lui coutera cher.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -254,6 +264,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "embarqué" >}}
 {{< exemplaires 7885 >}}
+<p>D'avantage de puissance de feu et de blindage que l'A6M zéro.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -271,6 +282,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" >}}
 {{< exemplaires 8734 >}}
+<p>Inférieur au Bf 109.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -286,11 +298,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <!-- Fighter aircraft: others such as the Army's Curtiss P-40 Warhawk and the Navy's Grumman F4F Wildcat possessed attributes such as superior firepower, ruggedness and dive speed, and the Allies soon developed tactics (such as the Thach Weave) to take advantage of these strengths. These changes soon paid dividends, as the Allied ability to deny Japan air superiority was critical to their victories at Coral Sea, Midway, Guadalcanal and New Guinea. -->
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
+<!-- Attack aircraft: to emphasise the attack role, usually in the form of single-engine Hawker Hurricane and Curtiss P-40 fighter-bombers or specialized "tank-busters", such as the Hurricane Mk IID, armed with two 40 mm Vickers S guns -->
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" >}}
 {{< exemplaires 13738 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
-<p>Troisième avion de chasse le plus produit des USA pendant la seconde guerre mondiale.</p>
+{{< caracteristique "Attaque au sol" >}}
+<p>D'avantage de puissance de feu et de blindage que l'A6M zéro.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -306,11 +320,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
+<!-- Escort fighter: From that point onwards, the Bf 110 was mostly withdrawn from the escort role, in part that so many had been lost that sufficient numbers could no longer be fielded in the short term; when it did return, it was largely used as a light bomber,[19][20] and night fighter instead. -->
+<!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd et bombardier" >}}
 {{< exemplaires 6150 >}}
 {{< caracteristique "Chasseur de nuit" >}}
-<p>Bimoteur.</p>
+{{< caracteristique "Chasseur-bombardier" >}}
+<p>Destiné à l'escorte, il sera moins performant que les Hurricane et Spitfire. Son rôle sera donc principalement la chasse de nuit et le bombardement léger.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -325,10 +342,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
+<!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
+<!-- Attack aircraft: The Bristol Beaufighter, based on an obsolescent RAF bomber, became a versatile twin-engine attack aircraft and served in almost every theatre of the war, in the maritime strike and ground attack roles as well as that of night fighter. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd et torpillage, assaut, chasseur de nuit" >}}
 {{< exemplaires 5928 >}}
 {{< caracteristique "Chasseur de nuit" >}}
+{{< caracteristique "Chasseur-bombardier" >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>Basé sur le torpilleur Beaufort.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -347,6 +369,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":us:" "Bell" "P-39 Airacobra" "1941" >}}
 {{< exemplaires 9584 >}}
+<p>
+Efficace en basse altitude sur le front soviétique, dépassé par l'A6M Zéro dans le pacifique.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -364,12 +389,20 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Air supremacy: The Hellcat shot down 5,168 enemy aircraft (the second highest number), while the land-based Lockheed P-38 was third, shooting down 3,785 in all theaters. -->
+<!-- Escort Fighter: Unlike earlier twin-engine designs like the Bf 110, the Lightning proved to be competitive with the German fighters it faced, permitting it to be easily adapted to the escort role through the use of drop tanks. -->
+<!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
+<!-- P-38: the P-38 was the primary long-range fighter of United States Army Air Forces until the introduction of large numbers of P-51D Mustangs toward the end of the war. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-38 Lightning" "1941" "chasseur lourd" >}}
 {{< exemplaires 10037 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
-<p>Bimoteur bipoutre, long rayon d'action.</p>
+{{< caracteristique "Avion d'escorte longue distance" >}}
+<p>
+Maniable malgré sa taille, il est polyvalent.<br />
+Un des trois avions de supériorité aérienne américains.<br />
+Version P-38M : chasseur de nuit.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -388,12 +421,17 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <!-- Fighter-bomber: [...] Increased engine power meant that many existing fighter designs could carry useful bomb loads, and adapt to the fighter-bomber role. Notable examples include the Focke-Wulf Fw 190, Hawker Typhoon and Republic P-47 Thunderbolt. -->
+<!-- Light bomber: This gave rise to the fighter-bomber type, notably the Fw 190 F and G models, Hawker Typhoon and Republic P-47 Thunderbolt. -->
+<!-- Attack aircraft: Conversely, some mid-war attack types emerged as adaptations of fighters, including several versions of the German Focke-Wulf Fw 190, the British Hawker Typhoon and the US Republic P-47 Thunderbolt. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur et bombardier" >}}
 {{< exemplaires 20051 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Intercepteur" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>Un des deux principaux avions de supériorité aérienne allemand.<br />
+Bon chasseur-bombardier.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -408,9 +446,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Kawasaki" "Ki-45" "1941" "chasseur lourd" >}}
 {{< exemplaires 1701 >}}
+{{< caracteristique "Chasseur-bombardier" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -427,10 +467,19 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Fighter-bomber: [...] Increased engine power meant that many existing fighter designs could carry useful bomb loads, and adapt to the fighter-bomber role. Notable examples include the Focke-Wulf Fw 190, Hawker Typhoon and Republic P-47 Thunderbolt. -->
 <!-- Fighter-bomber: The Typhoon disappointed as a fighter, especially at altitude but found its true niche as a fighter bomber from September 1942. -->
+<!-- Light bomber: This gave rise to the fighter-bomber type, notably the Fw 190 F and G models, Hawker Typhoon and Republic P-47 Thunderbolt. -->
+<!-- Strafing: For the RAF, the best ground attack plane was the Hawker Hurricane II. It was armed with four 20 mm (0.79 in) wing-mounted cannon.[5] The Hawker Typhoon was used in the later stages of the war. It had four "60 lb" RP-3 rockets -->
+<!-- Attack aircraft: The Typhoon, which was disappointing as a fighter, due to poor high altitude performance, was very fast at low altitudes and thus became the RAF's premier ground attack fighter. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur bombardier" >}}
 {{< exemplaires 3317 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>
+Décevant en chasseur, il se révélera excellent en chasseur-bombardier.
+L'un des deux meilleurs avions de mitraillage au sol britannique.
+</p>
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -448,6 +497,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
 {{< exemplaires 6258 >}}
+<p>Inférieur au Bf 109.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -465,7 +515,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-3" "1941" >}}
 {{< exemplaires 3422 >}}
-<p>Basé sur le MiG-1.</p>
+<p>
+Basé sur le MiG-1.<br />
+Inférieur au Bf 109.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -519,11 +572,21 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Fighter-bomber: [...] Increased engine power meant that many existing fighter designs could carry useful bomb loads, and adapt to the fighter-bomber role. Notable examples include the Focke-Wulf Fw 190, Hawker Typhoon and Republic P-47 Thunderbolt. -->
+<!-- Escort fighter: The successes of the P-47N and P-51 gave the impression that the escort fighter was a concept worth continuing after the end of the war. -->
+<!-- Light bomber: This gave rise to the fighter-bomber type, notably the Fw 190 F and G models, Hawker Typhoon and Republic P-47 Thunderbolt. -->
+<!-- Strafing: For the US, the Republic P-47 Thunderbolt was one of the key ground attack planes. It was armed with eight .50 calibre (12.7 mm) machine guns. Another aircraft that was important in that role was the North American B-25 Mitchell. It was used for low-altitude strafing runs in the Pacific War. -->
+<!-- Attack aircraft: Likewise the P-47 was designed and intended for use as a high altitude bomber escort, but gradually found that role filled by the North American P-51 Mustang (because of its much longer range and greater manoeuvrability). The P-47 was also heavier and more robust than the P-51 and regarded therefore, as an "energy fighter": ideal for high-speed dive-and-climb tactics, including strafing attacks. Its armament of eight 0.50 caliber machine guns was effective against Axis infantry and light vehicles in both Europe and the Pacific. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur lourd et bombardier" >}}
 {{< exemplaires 15660 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
-<p>Aspect massif.</p>
+{{< caracteristique "Avion d'escorte" >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>
+D'aspect massif, l'avion est robuste.<br />
+Un avion clé d'attaque au sol. Bon chasseur-bombardier.<br />
+Utilisé en escorte avant d'être remplacé par le P-51.<br />
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -544,11 +607,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
 <!-- Fighter aircraft: Laminar flow wings, which improved high speed performance, also came into use on fighters such as the P-51 Mustang, -->
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
+<!-- Escort fighter: Finally, the extremely high efficiency of the laminar-flow wing on the Merlin-powered North American P-51 Mustang gave it unparalleled range even on internal fuel, and with external tanks, it could cover most of Europe. Although not designed for the escort role, the P-51 remains the canonical example of the class. -->
+<!-- Escort fighter: The successes of the P-47N and P-51 gave the impression that the escort fighter was a concept worth continuing after the end of the war. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur, chasseur bombardier" >}}
 {{< exemplaires 15586 >}}
 {{< caracteristique "Avion d'escorte longue distance" >}}
-<p>Souvent utilisé en escorteur grâce à son long rayon d'action.</p>
+{{< caracteristique "Ailes à écoulement laminaire, réduisant la consommation" >}}
+<p>Le meilleur avion d'escorte de la période.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -566,12 +632,18 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
+<!-- Close air support: The American Navy and Marine Corps used CAS in conjunction with or as a substitute for the lack of available artillery or naval gunfire in the Pacific theater. Navy and Marine F6F Hellcats and F4U Corsairs used a variety of ordnance such as conventional bombs, rockets and napalm to dislodge or attack Japanese troops using cave complexes in the latter part of the Second World War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur bombardier embarqué" >}}
 {{< exemplaires 12571 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
-<p>Aile en mouette inversée (W).</p>
+{{< caracteristique "Attaque au sol" >}}
+<p>
+Aile en mouette inversée (W). <br />
+Supérieur à l'A6M Zéro sur tous les aspects à part la maneuverabilité.<br />
+Un des trois avions de supériorité aérienne américain.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -608,6 +680,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" >}}
 {{< exemplaires 16769 >}}
+<p>Un appareil rattrapant le retard soviétique, équivalent aux Bf 109 ou Fw 190.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -625,7 +698,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-5" "1942" >}}
 {{< exemplaires 9920 >}}
-<p>Basé sur le LaGG-3.</p>
+<p>
+Basé sur le LaGG-3.<br />
+Un appareil rattrapant le retard soviétique, équivalent aux Bf 109 ou Fw 190.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -642,10 +718,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: Several factors contributed to this shift. First, the Lockheed P-38 Lightning and second-generation Allied fighters such as the Grumman F6 Hellcat and later the Vought F4 Corsair, the Republic P-47 Thunderbolt and the North American P-51 Mustang, began arriving in numbers. These fighters outperformed Japanese fighters in all respects except maneuverability. -->
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <!-- Air supremacy: The Hellcat shot down 5,168 enemy aircraft (the second highest number), while the land-based Lockheed P-38 was third, shooting down 3,785 in all theaters. -->
+<!-- Close air support: The American Navy and Marine Corps used CAS in conjunction with or as a substitute for the lack of available artillery or naval gunfire in the Pacific theater. Navy and Marine F6F Hellcats and F4U Corsairs used a variety of ordnance such as conventional bombs, rockets and napalm to dislodge or attack Japanese troops using cave complexes in the latter part of the Second World War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "embarqué" >}}
 {{< exemplaires 12275 >}}
 {{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>
+Supérieur à l'A6M Zéro sur tous les aspects à part la maneuverabilité.<br />
+Un des trois avions de supériorité aérienne américain.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -683,6 +765,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
 {{< exemplaires 1702 >}}
+<p>Basé sur le Typhoon.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -699,7 +782,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasse" >}}
 {{< exemplaires 5753 >}}
-<p>Basé sur le La-5.</p>
+<p>Basé sur le La-5, un grain en vitesse.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -716,7 +799,10 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-3" "1944" "chasseur léger" >}}
 {{< exemplaires 4848 >}}
-<p>Très léger et maniable, excellent en dogfight.</p>
+<p>
+Très léger et maniable, excellent en dogfight.<br />
+Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -732,9 +818,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <!-- Fighter aircraft: Late in the war, Japan began to produce new fighters such as the Nakajima Ki-84 and the Kawanishi N1K to replace the Zero, but only in small numbers, and by then Japan lacked the trained pilots or sufficient fuel to mount an effective challenge to Allied attacks. -->
+<!-- Ki-84: The Ki-84 is generally considered the best Japanese fighter to operate in large numbers during the conflict. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "Ki-84" "1944" >}}
 {{< exemplaires 3514 >}}
+<p>Excellent chasseur mais arrivé trop tard dans le conflit.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -771,10 +859,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <h3>Bombardiers en piqué</h3>
 </div>
 
+<!-- Strafing: The Luftwaffe's best strafing plane was the Junkers Ju 87 Stuka. The Ju 87 G variant had two Rheinmetall-Borsig 37 mm (1.5 in) Flak 18 guns each mounted under the wing. -->
+<!-- Attack aircraft: The Junkers Ju 87s of the German Luftwaffe became virtually synonymous with close air support during the early months of World War II. -->
+<!-- Attack aircraft: [...]The Germans and Soviets also used light bombers in this role: cannon-armed versions of the Junkers Ju 87 Stuka greatly outnumbered the Hs 129, while the Petlyakov Pe-2 was used for this role in spite of not being specifically designed for it.  -->
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 87 Stuka" "1936" "bombardier en piqué" >}}
 {{< exemplaires 6000 >}}
-<p>Une sirène pour terroriser les populations lors du piqué.</p>
+{{< caracteristique "Attaque au sol" >}}
+<p>Le meilleur avion allemand de mitraillage au sol.<br />
+Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gunship.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -810,9 +903,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Close air support: In 1944, USAAF commander Lt. Gen. Henry ("Hap") Arnold acquired 2 groups of A-24 dive bombers, the army version of the Navy's SBD-2, in response to the success of the Stuka and German CAS. Later, the USAAF developed a modification of the North American P-51 Mustang with dive brakes – the North American A-36 Apache. -->
 <div class="aeronef">
-{{< aeronef ":us:" "Douglas" "SDB Dauntless" "1940" "bombardier en piqué embarqué" >}}
+{{< aeronef ":us:" "Douglas" "SDB Dauntless / A-24 Banshee" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 5936 >}}
+{{< caracteristique "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -826,9 +921,12 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Light bomber: Conversely, the Petlyakov Pe-3, which had been designed as a night fighter, was often used a light bomber. -->
+<!-- Attack aircraft: [...]The Germans and Soviets also used light bombers in this role: cannon-armed versions of the Junkers Ju 87 Stuka greatly outnumbered the Hs 129, while the Petlyakov Pe-2 was used for this role in spite of not being specifically designed for it.  -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier en piqué" >}}
 {{< exemplaires 11427 >}}
+{{< caracteristique "Attaque au sol" >}}
 <p>Variante Pe-3 chasseur de nuit.</p>
 </div>
 <div class="ressources">
@@ -843,9 +941,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Close air support: In 1944, USAAF commander Lt. Gen. Henry ("Hap") Arnold acquired 2 groups of A-24 dive bombers, the army version of the Navy's SBD-2, in response to the success of the Stuka and German CAS. Later, the USAAF developed a modification of the North American P-51 Mustang with dive brakes – the North American A-36 Apache. -->
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-36 Invader/Apache" "1941" "attaque au sol, bombardier en piqué" >}}
 {{< exemplaires 500 >}}
+{{< caracteristique "Attaque au sol" >}}
 <p>Version d'attaque du P-51 Mustang.</p>
 </div>
 <div class="ressources">
@@ -876,9 +976,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Light bomber: and the Curtiss SB2C Helldiver (a U.S. Navy dive bomber adopted later in World War II when that design role was beginning to disappear) also was assigned to ground attack sorties using its cannon, bombs and rockets. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué, embarqué" >}}
 {{< exemplaires 7140 >}}
+{{< caracteristique "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -912,9 +1014,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Light bomber: Twin-engine light bombers were successful when converted into airborne radar-equipped night fighters during World War II; examples include the Bristol Blenheim, Douglas A-20 Havoc (as the P-70), and Dornier Do 17. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 {{< exemplaires 4422 >}}
+{{< caracteristique "Chasseur de nuit" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -930,9 +1034,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <!-- Heavy-fighter: Due to their relatively large size, these were mostly used as night fighter-bomber destroyers, as there was ample room to install airborne intercept radar systems as well as heavy armament. Bombers utilized in such a role included the Junkers Ju 88 and Ju 388; the Heinkel He 219; and the Dornier Do 215 and Do 217. -->
+<!-- Light bomber: Twin-engine light bombers were successful when converted into airborne radar-equipped night fighters during World War II; examples include the Bristol Blenheim, Douglas A-20 Havoc (as the P-70), and Dornier Do 17. -->
+<!-- High level bombing: Nazi Germany used high level bombers such as the Heinkel He 111, the Dornier Do 17 and multi-role aircraft such as the Junkers Ju 88 against the Allies in the Battle of Britain,[4] both for carpet bombing and for precision attacks on British radar stations as part of Operation Eagle.[5] -->
 <div class="aeronef">
 {{< aeronef ":de:" "Dornier" "Do 17" "1937" "bombardier léger, chasseur de nuit, reconnaissance" >}}
 {{< exemplaires 1994 >}}
+{{< caracteristique "Chasseur de nuit" >}}
+{{< caracteristique "Bombardier haute altitude" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -947,12 +1055,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
+<!-- Attack aircraft: In the United States and Britain attack aircraft were generally light bombers or medium bombers, sometimes carrying heavier forward-firing weapons like the North American B-25G Mitchell and de Havilland Mosquito Tsetse. -->
+<!-- Multirole Combat aircraft: In particular, the Junkers Ju 88 was renowned in Germany for being a "jack-of-all-trades", capable of performing as a bomber, dive bomber, night fighter, and so on, much as the British de Havilland Mosquito did as a fast bomber/strike aircraft, reconnaissance, and night fighter. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger, chasseur" >}}
 {{< exemplaires 7781 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Faible emprunte radar" >}}
-<p>Bimoteur. Difficile à intercepter car très rapide.</p>
+{{< caracteristique "Attaque au sol" >}}
+<p>Difficile à intercepter car très rapide.<br />Des versions Gunship.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -970,9 +1082,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <h3>Avions d'attaque au sol</h3>
 </div>
 
+<!-- Light bomber: Light attack aircraft such as the Breda Ba.65, Ilyushin Il-2 Šturmovík, Northrop A-17, and Vultee V-11 initially differed little in armament and operational role from light bombers. -->
+<!-- Strafing: For the US, the Republic P-47 Thunderbolt was one of the key ground attack planes. It was armed with eight .50 calibre (12.7 mm) machine guns. Another aircraft that was important in that role was the North American B-25 Mitchell. It was used for low-altitude strafing runs in the Pacific War. -->
+<!-- Attack aircraft:  had forced the Soviet air forces to quickly expand their army support capacity, such as the Ilyushin Il-2 Sturmovik -->
+<!-- Attack aircraft: In Germany and the USSR, where they were known as Schlachtflugzeug ("battle aircraft") or sturmovik ("storm trooper") respectively, this role was carried out by purpose-designed and heavily armored aircraft such as the Henschel Hs 129 and Ilyushin Il-2 -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "avion d'attaque ou bombardier torpilleur" >}}
 {{< exemplaires 36183 >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>Blindé. Un des avions clés soviétique pour l'attaque au sol.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -987,10 +1105,13 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
+<!-- Light bomber: Twin-engine light bombers were successful when converted into airborne radar-equipped night fighters during World War II; examples include the Bristol Blenheim, Douglas A-20 Havoc (as the P-70), and Dornier Do 17. -->
+<!-- Light bomber: the A-20 and B-25 Mitchell (type-classed as a medium bomber) each had variants with 8 or more forward-firing machine guns for ground strafing missions. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-20 Havoc / DB-7" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
 {{< caracteristique "Chasseur de nuit" >}}
+{{< caracteristique "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1004,9 +1125,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Attack aircraft: The ultimate development of the cannon-armed light attack aircraft was the small production run in 1944 of the Henschel Hs 129B-3, armed with a modified PAK 40 75 mm anti-tank gun. This weapon, the Bordkanone BK 7,5, was the most powerful forward-firing weapon fitted to a production military aircraft during World War II. -->
+<!-- Attack aircraft: In Germany and the USSR, where they were known as Schlachtflugzeug ("battle aircraft") or sturmovik ("storm trooper") respectively, this role was carried out by purpose-designed and heavily armored aircraft such as the Henschel Hs 129 and Ilyushin Il-2 -->
+<!-- Attack aircraft: [...]The Germans and Soviets also used light bombers in this role: cannon-armed versions of the Junkers Ju 87 Stuka greatly outnumbered the Hs 129, while the Petlyakov Pe-2 was used for this role in spite of not being specifically designed for it.  -->
 <div class="aeronef">
 {{< aeronef ":de:" "Henschel" "Hs 129" "1942" "avion d'attaque" >}}
 {{< exemplaires 865 >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>Blindé, un canon très puissant.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1020,9 +1146,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- Light bomber: One of the last light bombers to be introduced in World War II, the U.S. Douglas A-26 Invader, replaced the earlier A-20 Havoc type and also was designated by the USAAF as a replacement for its Martin B-26 Marauder (which had the same engines and a similar bomb load as the Invader) medium bomber. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
 {{< exemplaires 2450 >}}
+{{< caracteristique "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1073,9 +1201,11 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 </div>
 
+<!-- High level bombing: Nazi Germany used high level bombers such as the Heinkel He 111, the Dornier Do 17 and multi-role aircraft such as the Junkers Ju 88 against the Allies in the Battle of Britain,[4] both for carpet bombing and for precision attacks on British radar stations as part of Operation Eagle.[5] -->
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 111" "1937" "bombardier moyen" >}}
 {{< exemplaires 7300 >}}
+{{< caracteristique "Bombardier haute altitude" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1108,10 +1238,15 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <!-- Heavy-fighter: Due to their relatively large size, these were mostly used as night fighter-bomber destroyers, as there was ample room to install airborne intercept radar systems as well as heavy armament. Bombers utilized in such a role included the Junkers Ju 88 and Ju 388; the Heinkel He 219; and the Dornier Do 215 and Do 217. -->
+<!-- High level bombing: Nazi Germany used high level bombers such as the Heinkel He 111, the Dornier Do 17 and multi-role aircraft such as the Junkers Ju 88 against the Allies in the Battle of Britain,[4] both for carpet bombing and for precision attacks on British radar stations as part of Operation Eagle.[5] -->
+<!-- Multirole Combat aircraft: In particular, the Junkers Ju 88 was renowned in Germany for being a "jack-of-all-trades", capable of performing as a bomber, dive bomber, night fighter, and so on, much as the British de Havilland Mosquito did as a fast bomber/strike aircraft, reconnaissance, and night fighter. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen" >}}
 {{< exemplaires 15183 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "Chasseur de nuit" >}}
+{{< caracteristique "Bombardier haute altitude" >}}
+<p>Des versions Gunship.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1126,9 +1261,14 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 </div>
 
 
+<!-- Light bomber: the A-20 and B-25 Mitchell (type-classed as a medium bomber) each had variants with 8 or more forward-firing machine guns for ground strafing missions. -->
+<!-- Strafing: For the US, the Republic P-47 Thunderbolt was one of the key ground attack planes. It was armed with eight .50 calibre (12.7 mm) machine guns. Another aircraft that was important in that role was the North American B-25 Mitchell. It was used for low-altitude strafing runs in the Pacific War. -->
+<!-- Attack aircraft: In the United States and Britain attack aircraft were generally light bombers or medium bombers, sometimes carrying heavier forward-firing weapons like the North American B-25G Mitchell and de Havilland Mosquito Tsetse. -->
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "B-25 Mitchell" "1941" "bombardier moyen" >}}
 {{< exemplaires 9984 >}}
+{{< caracteristique "Attaque au sol" >}}
+<p>Un avion clé d'attaque au sol.<br />Des versions Gunship.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1369,6 +1509,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 177 Greif" "1942" "bombardier lourd longue distance" >}}
 {{< exemplaires 1169 >}}
+<p>Le seul bombardier stratégique allemand.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2080,6 +2221,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< ressource-video-youtube "ztEONZIFNeQ" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "W1ILwzgkCXk" >}} <!-- Les ailes de legende -->
 {{< ressource-video-youtube "iX2oCqcvYzQ" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "2yl7NlrBkDk" >}} <!-- défense insider -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "m06uWM_tABM" >}}

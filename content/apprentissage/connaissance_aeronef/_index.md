@@ -15,6 +15,11 @@ weight = 2
     grid-column: 1 / 4;
   }
 
+  .titre_generation img {
+    float: left;
+    height: 15em;
+  }
+
   .aeronef {
     grid-column: 1;
   }
@@ -99,6 +104,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 
 <div class="titre_generation">
 <h3>Chasseurs</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/4/42/Formation_of_No.19_Squadron_RAF_Supermarine_Spitfire_Mk.Is_in_1938_over_Cambridgeshire.jpg title="RAF official photographer, Public domain, via Wikimedia Commons" />
 </div>
 
 <!-- Fighter aircraft : oubli des italiens G50 Freccia, CR42 Falco, macchi mc 200 -->
@@ -884,6 +890,7 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 
 <div class="titre_generation">
 <h3>Bombardiers en piqué</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/b/b7/Curtiss_SB2C-1_Helldiver_dropping_bomb%2C_circa_in_1943.png title="Ad Meskens, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" />
 </div>
 
 <!-- Strafing: The Luftwaffe's best strafing plane was the Junkers Ju 87 Stuka. The Ju 87 G variant had two Rheinmetall-Borsig 37 mm (1.5 in) Flak 18 guns each mounted under the wing. -->
@@ -1066,6 +1073,7 @@ Variante Pe-3 chasseur de nuit.
 
 <div class="titre_generation">
 <h3>Bombardiers légers / rapides</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/2/24/Bristol_Blenheim_Mk_IVFs_of_No._254_Squadron_RAF_flying_from_Aldergrove_in_Northern_Ireland%2C_May_1941._CH2992.jpg title="Daventry B J (Mr), Royal Air Force official photographer, Public domain, via Wikimedia Commons" />
 </div>
 
 <div class="aeronef">
@@ -1170,6 +1178,7 @@ Des versions Gunship.</p>
 
 <div class="titre_generation">
 <h3>Avions d'attaque au sol</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/a/a1/Royal_Air_Force_1939-1945-_Coastal_Command_C4944.jpg title="HQ Coastal Command, Royal Air Force official photographer, Public domain, via Wikimedia Commons" />
 </div>
 
 <!-- Light bomber: Light attack aircraft such as the Breda Ba.65, Ilyushin Il-2 Šturmovík, Northrop A-17, and Vultee V-11 initially differed little in armament and operational role from light bombers. -->
@@ -1276,6 +1285,7 @@ Des versions Gunship.</p>
 
 <div class="titre_generation">
 <h3>Bombardiers moyens</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/c/c7/9_Squadron_in_Formation_1939-45.jpg title="RAF photographer https://www.iwm.org.uk/collections/item/object/205210912, Public domain, via Wikimedia Commons" />
 </div>
 
 <div class="aeronef">
@@ -1462,7 +1472,9 @@ Des versions Gunship.</p>
 
 <div class="titre_generation">
 <h3>Bombardiers torpilleurs, patrouille maritime</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/0/09/Bristol_Beaufort_-_North_Coates_-_Royal_Air_Force_Coastal_Command%2C_1939-1945._CH1851.jpg title="Royal Air Force official photographer, Daventry B J (Mr), Public domain, via Wikimedia Commons" />
 </div>
+
 
 <!-- Maritime Patrol Aircraft: A number of special-purpose aircraft were also used in the conflict, including the American-made twin-engine Consolidated PBY Catalina flying boats,[21][22] and the large, four-engine British Short Sunderland flying boats of the Allies.[23][24] In the Pacific theatre, the Catalina was gradually superseded by the longer-ranged Martin PBM Mariner flying boat. -->
 <!-- Anti submarine warfare: Many different aircraft from airships to four-engined sea- and land-planes were used. Some of the more successful were the Lockheed Ventura, PBY (Catalina or Canso, in British service), Consolidated B-24 Liberator (VLR Liberator, in British service), Short Sunderland, and Vickers Wellington. -->
@@ -1597,6 +1609,7 @@ Des versions Gunship.</p>
 
 <div class="titre_generation">
 <h3>Bombardiers lourds</h3>
+<img src=https://upload.wikimedia.org/wikipedia/commons/a/a5/Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg title="Richard R. Ganczak (1924—2014). Ganczak served radio operator and later a bombardier in the Fifteenth Air Force, flying 70 combat missions. This photograph was taken during his second tour.[2][3], Public domain, via Wikimedia Commons" />
 </div>
 
 <div class="aeronef">

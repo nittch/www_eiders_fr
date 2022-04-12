@@ -242,7 +242,7 @@ Version embarquée : Seafire.
 <!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <div class="aeronef">
-{{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur-bombardier léger, embarqué" >}}
+{{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur léger, embarqué" >}}
 {{< exemplaires 10939 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 <p>Le principal avion de supériorité aérienne japonais. Un modèle de maniabilité. Excellent au début de la guerre, mais à la fin de celle-ci, son manque de puissance de feu et de blindage lui coutera cher.</p>
@@ -323,7 +323,7 @@ Version embarquée : Seafire.
 <!-- Escort fighter: From that point onwards, the Bf 110 was mostly withdrawn from the escort role, in part that so many had been lost that sufficient numbers could no longer be fielded in the short term; when it did return, it was largely used as a light bomber,[19][20] and night fighter instead. -->
 <!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
 <div class="aeronef">
-{{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd et bombardier" >}}
+{{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd" >}}
 {{< exemplaires 6150 >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
@@ -344,12 +344,16 @@ Version embarquée : Seafire.
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
 <!-- Attack aircraft: The Bristol Beaufighter, based on an obsolescent RAF bomber, became a versatile twin-engine attack aircraft and served in almost every theatre of the war, in the maritime strike and ground attack roles as well as that of night fighter. -->
+<!-- Heavy fighter: Armed with six .303 inch (7.7 mm) machine guns, four 20 mm cannon and rockets, bombs or torpedoes, the Beaufighter was potent in the anti-ship and ground attack role in the Pacific and Europe. -->
+<!-- Torpedo bomber: Other twin-engine or three-engined aircraft designed or used as torpedo bombers include the Mitsubishi Ki-67, the Savoia-Marchetti SM.79 "Sparviero", the CANT Z.1007, the Bristol Beaufort and Bristol Beaufighter ("Torbeau"), the Junkers Ju 88, the Heinkel He 111, the B-25 Mitchell and many others. -->
+<!-- Torpedo bomber: Multi-role designs were often adapted from either: single-engined, carrier-based dive-bombers like the Aichi B7A Ryusei, Curtiss SB2C Helldiver and Fairey Barracuda, or; land-based twin-engined light bombers/attack aircraft, such as the Bristol Beaufighter, Douglas A-20C (Boston IIIA), Junkers Ju 88, and Tupolev Tu-2. -->
 <div class="aeronef">
-{{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd et torpillage, assaut, chasseur de nuit" >}}
+{{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd" >}}
 {{< exemplaires 5928 >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
 {{< caracteristique "Attaque au sol" >}}
+{{< caracteristique "Torpilleur" >}}
 <p>Basé sur le torpilleur Beaufort.</p>
 </div>
 <div class="ressources">
@@ -391,6 +395,7 @@ Efficace en basse altitude sur le front soviétique, dépassé par l'A6M Zéro d
 <!-- Air supremacy: The Hellcat shot down 5,168 enemy aircraft (the second highest number), while the land-based Lockheed P-38 was third, shooting down 3,785 in all theaters. -->
 <!-- Escort Fighter: Unlike earlier twin-engine designs like the Bf 110, the Lightning proved to be competitive with the German fighters it faced, permitting it to be easily adapted to the escort role through the use of drop tanks. -->
 <!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
+<!-- Heavy fighter: The P-38 proved adaptable enough to undertake multiple roles including escort fighter, reconnaissance (as the F-4 and F-5 variants of which over 1,200 were built), night fighter (as the radar-equipped P-38M variant), and as a fighter-bomber. -->
 <!-- P-38: the P-38 was the primary long-range fighter of United States Army Air Forces until the introduction of large numbers of P-51D Mustangs toward the end of the war. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-38 Lightning" "1941" "chasseur lourd" >}}
@@ -577,7 +582,7 @@ Inférieur au Bf 109.
 <!-- Strafing: For the US, the Republic P-47 Thunderbolt was one of the key ground attack planes. It was armed with eight .50 calibre (12.7 mm) machine guns. Another aircraft that was important in that role was the North American B-25 Mitchell. It was used for low-altitude strafing runs in the Pacific War. -->
 <!-- Attack aircraft: Likewise the P-47 was designed and intended for use as a high altitude bomber escort, but gradually found that role filled by the North American P-51 Mustang (because of its much longer range and greater manoeuvrability). The P-47 was also heavier and more robust than the P-51 and regarded therefore, as an "energy fighter": ideal for high-speed dive-and-climb tactics, including strafing attacks. Its armament of eight 0.50 caliber machine guns was effective against Axis infantry and light vehicles in both Europe and the Pacific. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur lourd et bombardier" >}}
+{{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur et bombardier" >}}
 {{< exemplaires 15660 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
 {{< caracteristique "Avion d'escorte" >}}
@@ -610,7 +615,7 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 <!-- Escort fighter: Finally, the extremely high efficiency of the laminar-flow wing on the Merlin-powered North American P-51 Mustang gave it unparalleled range even on internal fuel, and with external tanks, it could cover most of Europe. Although not designed for the escort role, the P-51 remains the canonical example of the class. -->
 <!-- Escort fighter: The successes of the P-47N and P-51 gave the impression that the escort fighter was a concept worth continuing after the end of the war. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur, chasseur bombardier" >}}
+{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur" >}}
 {{< exemplaires 15586 >}}
 {{< caracteristique "Avion d'escorte longue distance" >}}
 {{< caracteristique "Ailes à écoulement laminaire, réduisant la consommation" >}}
@@ -780,7 +785,7 @@ Un des trois avions de supériorité aérienne américain.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasse" >}}
+{{< aeronef ":ru:" "Lavotchkine" "La-7" "1944" "chasseur" >}}
 {{< exemplaires 5753 >}}
 <p>Basé sur le La-5, un grain en vitesse.</p>
 </div>
@@ -862,11 +867,15 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 <!-- Strafing: The Luftwaffe's best strafing plane was the Junkers Ju 87 Stuka. The Ju 87 G variant had two Rheinmetall-Borsig 37 mm (1.5 in) Flak 18 guns each mounted under the wing. -->
 <!-- Attack aircraft: The Junkers Ju 87s of the German Luftwaffe became virtually synonymous with close air support during the early months of World War II. -->
 <!-- Attack aircraft: [...]The Germans and Soviets also used light bombers in this role: cannon-armed versions of the Junkers Ju 87 Stuka greatly outnumbered the Hs 129, while the Petlyakov Pe-2 was used for this role in spite of not being specifically designed for it.  -->
+<!-- Dive bomber: The most famous examples are the Junkers Ju 87 Stuka, which was widely used during the opening stages of World War II, the Aichi D3A "Val" dive bomber, which sank more Allied warships during the war than any other Axis aircraft,[1][2][3] and the Douglas SBD Dauntless, which sank more Japanese shipping than any other allied aircraft type.[4] The SBD Dauntless helped win the Battle of Midway, was instrumental in the victory at the Battle of the Coral Sea, and fought in every US battle involving carrier aircraft. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 87 Stuka" "1936" "bombardier en piqué" >}}
 {{< exemplaires 6000 >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< caracteristique "Attaque au sol" >}}
-<p>Le meilleur avion allemand de mitraillage au sol.<br />
+<p>
+Utilisé massivement à l'ouverture de la guerre.<br />
+Le meilleur avion allemand de mitraillage au sol.<br />
 Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gunship.</p>
 </div>
 <div class="ressources">
@@ -887,9 +896,16 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Dive bomber: The most famous examples are the Junkers Ju 87 Stuka, which was widely used during the opening stages of World War II, the Aichi D3A "Val" dive bomber, which sank more Allied warships during the war than any other Axis aircraft,[1][2][3] and the Douglas SBD Dauntless, which sank more Japanese shipping than any other allied aircraft type.[4] The SBD Dauntless helped win the Battle of Midway, was instrumental in the victory at the Battle of the Coral Sea, and fought in every US battle involving carrier aircraft. -->
+<!-- Dive bomber: Japan started the war with a very good design, the carrier-borne Aichi D3A ("Val"). As the war progressed, the design became outdated due to its limited speed, due in part to the limited horsepower of its power plant and to the greater drag of its fixed main landing gear (a shortcoming shared by the Stuka).  -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Aichi" "D3A Val" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 1495 >}}
+{{< caracteristique "Bombardier en piqué" >}}
+<p>
+A coulé plus de navire que n'importe quel autre avion de l'axe.<br />
+Limité en vitesse.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -904,10 +920,17 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 
 <!-- Close air support: In 1944, USAAF commander Lt. Gen. Henry ("Hap") Arnold acquired 2 groups of A-24 dive bombers, the army version of the Navy's SBD-2, in response to the success of the Stuka and German CAS. Later, the USAAF developed a modification of the North American P-51 Mustang with dive brakes – the North American A-36 Apache. -->
+<!-- Dive bomber: The most famous examples are the Junkers Ju 87 Stuka, which was widely used during the opening stages of World War II, the Aichi D3A "Val" dive bomber, which sank more Allied warships during the war than any other Axis aircraft,[1][2][3] and the Douglas SBD Dauntless, which sank more Japanese shipping than any other allied aircraft type.[4] The SBD Dauntless helped win the Battle of Midway, was instrumental in the victory at the Battle of the Coral Sea, and fought in every US battle involving carrier aircraft. -->
+<!-- Dive bomber: The main American dive bomber, the Douglas SBD Dauntless, had similar performance to the D3A Val.  -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "SDB Dauntless / A-24 Banshee" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 5936 >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< caracteristique "Attaque au sol" >}}
+<p>
+A coulé plus de navire que n'importe quel autre avion allié.<br />
+Limité en vitesse.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -923,10 +946,12 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 
 <!-- Light bomber: Conversely, the Petlyakov Pe-3, which had been designed as a night fighter, was often used a light bomber. -->
 <!-- Attack aircraft: [...]The Germans and Soviets also used light bombers in this role: cannon-armed versions of the Junkers Ju 87 Stuka greatly outnumbered the Hs 129, while the Petlyakov Pe-2 was used for this role in spite of not being specifically designed for it.  -->
+<!-- Dive bomber: The crews of multi-engined dive-bombers, such as variants of the Junkers Ju 88 and Petlyakov Pe-2, frequently used this technique. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier en piqué" >}}
 {{< exemplaires 11427 >}}
 {{< caracteristique "Attaque au sol" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 <p>Variante Pe-3 chasseur de nuit.</p>
 </div>
 <div class="ressources">
@@ -976,11 +1001,32 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Dive bomber: The Japanese Yokosuka D4Y Suisei, code-name Judy, began to replace the Vals after a very troublesome development on surviving larger Japanese carriers from March 1943. With a sleek fuselage, retracting landing gear and a powerful licensed Daimler-Benz 601 engine, it could outpace pursuing Grumman F4F Wildcats. -->
+<div class="aeronef">
+{{< aeronef ":jp:" "Yokosuka" "D4Y Judy" "1942" "bombardier en piqué, embarqué" >}}
+{{< exemplaires 2038 >}}
+<p>Le bombardier en piqué le plus rapide de la guerre.</p>
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Yokosuka_D4Y_Suisei"
+  "https://en.wikipedia.org/wiki/Yokosuka_D4Y"
+  "https://www.avionslegendaires.net/avion-militaire/yokosuka-d4y-suisei-judy/"
+  "https://upload.wikimedia.org/wikipedia/commons/4/4e/D4Y3_pulling_up.jpg"
+  "See page for author, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
 <!-- Light bomber: and the Curtiss SB2C Helldiver (a U.S. Navy dive bomber adopted later in World War II when that design role was beginning to disappear) also was assigned to ground attack sorties using its cannon, bombs and rockets. -->
+<!-- Torpedo bomber: Multi-role designs were often adapted from either: single-engined, carrier-based dive-bombers like the Aichi B7A Ryusei, Curtiss SB2C Helldiver and Fairey Barracuda, or; land-based twin-engined light bombers/attack aircraft, such as the Bristol Beaufighter, Douglas A-20C (Boston IIIA), Junkers Ju 88, and Tupolev Tu-2. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué, embarqué" >}}
 {{< exemplaires 7140 >}}
 {{< caracteristique "Attaque au sol" >}}
+{{< caracteristique "Torpilleur" >}}
+<p>Rapide.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1015,6 +1061,7 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 
 <!-- Light bomber: Twin-engine light bombers were successful when converted into airborne radar-equipped night fighters during World War II; examples include the Bristol Blenheim, Douglas A-20 Havoc (as the P-70), and Dornier Do 17. -->
+<!-- Dive bomber: The RAF had chosen the single-engined Fairey Battle and the twin-engined Bristol Blenheim as its tactical bombers. Both were level bombers with similar bomb-loads and entered service in 1937. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 {{< exemplaires 4422 >}}
@@ -1030,6 +1077,23 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
   "Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "KSLXszp2lYM" >}} <!-- Imineo -->
+</div>
+</div>
+
+<!-- Dive bomber: The RAF had chosen the single-engined Fairey Battle and the twin-engined Bristol Blenheim as its tactical bombers. Both were level bombers with similar bomb-loads and entered service in 1937. -->
+<div class="aeronef">
+{{< aeronef ":gb:" "Fairey" "Battle" "1937" "bombardier léger" >}}
+{{< exemplaires 2201 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Fairey_Battle"
+  "https://en.wikipedia.org/wiki/Fairey_Battle"
+  "https://www.avionslegendaires.net/avion-militaire/fairey-battle/"
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Fairey_Battles_in_formation.jpg"
+  "Devon S A (F/O), Royal Air Force official photographer, Public domain, via Wikimedia Commons"
+>}}
 </div>
 </div>
 
@@ -1058,13 +1122,15 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <!-- Attack aircraft: In the United States and Britain attack aircraft were generally light bombers or medium bombers, sometimes carrying heavier forward-firing weapons like the North American B-25G Mitchell and de Havilland Mosquito Tsetse. -->
 <!-- Multirole Combat aircraft: In particular, the Junkers Ju 88 was renowned in Germany for being a "jack-of-all-trades", capable of performing as a bomber, dive bomber, night fighter, and so on, much as the British de Havilland Mosquito did as a fast bomber/strike aircraft, reconnaissance, and night fighter. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger, chasseur" >}}
+{{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger / multirôle" >}}
 {{< exemplaires 7781 >}}
 {{< caracteristique "Multirôle" >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Faible emprunte radar" >}}
 {{< caracteristique "Attaque au sol" >}}
-<p>Difficile à intercepter car très rapide.<br />Des versions Gunship.</p>
+<p>
+Difficile à intercepter car très rapide.<br />
+Des versions Gunship.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1107,11 +1173,13 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <!-- Light bomber: Twin-engine light bombers were successful when converted into airborne radar-equipped night fighters during World War II; examples include the Bristol Blenheim, Douglas A-20 Havoc (as the P-70), and Dornier Do 17. -->
 <!-- Light bomber: the A-20 and B-25 Mitchell (type-classed as a medium bomber) each had variants with 8 or more forward-firing machine guns for ground strafing missions. -->
+<!-- Torpedo bomber: Multi-role designs were often adapted from either: single-engined, carrier-based dive-bombers like the Aichi B7A Ryusei, Curtiss SB2C Helldiver and Fairey Barracuda, or; land-based twin-engined light bombers/attack aircraft, such as the Bristol Beaufighter, Douglas A-20C (Boston IIIA), Junkers Ju 88, and Tupolev Tu-2. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-20 Havoc / DB-7" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Attaque au sol" >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1168,6 +1236,7 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <div class="aeronef">
 {{< aeronef ":ru:" "Iliouchine" "Il-10 Beast" "1944" "attaque au sol" >}}
 {{< exemplaires 6166 >}}
+<p>Principalement utilisé pendant la guerre de Corée.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1202,10 +1271,12 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 
 <!-- High level bombing: Nazi Germany used high level bombers such as the Heinkel He 111, the Dornier Do 17 and multi-role aircraft such as the Junkers Ju 88 against the Allies in the Battle of Britain,[4] both for carpet bombing and for precision attacks on British radar stations as part of Operation Eagle.[5] -->
+<!-- Torpedo bomber: Other twin-engine or three-engined aircraft designed or used as torpedo bombers include the Mitsubishi Ki-67, the Savoia-Marchetti SM.79 "Sparviero", the CANT Z.1007, the Bristol Beaufort and Bristol Beaufighter ("Torbeau"), the Junkers Ju 88, the Heinkel He 111, the B-25 Mitchell and many others. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 111" "1937" "bombardier moyen" >}}
 {{< exemplaires 7300 >}}
 {{< caracteristique "Bombardier haute altitude" >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1219,9 +1290,12 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Maritime patrol aircraft: The British in particular used obsolete bombers to supplement purpose-built aircraft for maritime patrol, such as the Vickers Wellington and Armstrong-Whitworth Whitley,[ -->
+<!-- Anti submarine warfare: Many different aircraft from airships to four-engined sea- and land-planes were used. Some of the more successful were the Lockheed Ventura, PBY (Catalina or Canso, in British service), Consolidated B-24 Liberator (VLR Liberator, in British service), Short Sunderland, and Vickers Wellington. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Vickers" "Wellington" "1938" "bombardier moyen, patrouilleur maritime" >}}
 {{< exemplaires 11461 >}}
+{{< caracteristique "Patrouille maritime" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1240,12 +1314,17 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <!-- Heavy-fighter: Due to their relatively large size, these were mostly used as night fighter-bomber destroyers, as there was ample room to install airborne intercept radar systems as well as heavy armament. Bombers utilized in such a role included the Junkers Ju 88 and Ju 388; the Heinkel He 219; and the Dornier Do 215 and Do 217. -->
 <!-- High level bombing: Nazi Germany used high level bombers such as the Heinkel He 111, the Dornier Do 17 and multi-role aircraft such as the Junkers Ju 88 against the Allies in the Battle of Britain,[4] both for carpet bombing and for precision attacks on British radar stations as part of Operation Eagle.[5] -->
 <!-- Multirole Combat aircraft: In particular, the Junkers Ju 88 was renowned in Germany for being a "jack-of-all-trades", capable of performing as a bomber, dive bomber, night fighter, and so on, much as the British de Havilland Mosquito did as a fast bomber/strike aircraft, reconnaissance, and night fighter. -->
+<!-- Dive bomber: The crews of multi-engined dive-bombers, such as variants of the Junkers Ju 88 and Petlyakov Pe-2, frequently used this technique. -->
+<!-- Torpedo bomber: Other twin-engine or three-engined aircraft designed or used as torpedo bombers include the Mitsubishi Ki-67, the Savoia-Marchetti SM.79 "Sparviero", the CANT Z.1007, the Bristol Beaufort and Bristol Beaufighter ("Torbeau"), the Junkers Ju 88, the Heinkel He 111, the B-25 Mitchell and many others. -->
+<!-- Torpedo bomber: Multi-role designs were often adapted from either: single-engined, carrier-based dive-bombers like the Aichi B7A Ryusei, Curtiss SB2C Helldiver and Fairey Barracuda, or; land-based twin-engined light bombers/attack aircraft, such as the Bristol Beaufighter, Douglas A-20C (Boston IIIA), Junkers Ju 88, and Tupolev Tu-2. -->
 <div class="aeronef">
-{{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen" >}}
+{{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen / multirôle" >}}
 {{< exemplaires 15183 >}}
 {{< caracteristique "Multirôle" >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Bombardier haute altitude" >}}
+{{< caracteristique "Bombardier en piqué" >}}
+{{< caracteristique "Torpilleur" >}}
 <p>Des versions Gunship.</p>
 </div>
 <div class="ressources">
@@ -1264,10 +1343,12 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <!-- Light bomber: the A-20 and B-25 Mitchell (type-classed as a medium bomber) each had variants with 8 or more forward-firing machine guns for ground strafing missions. -->
 <!-- Strafing: For the US, the Republic P-47 Thunderbolt was one of the key ground attack planes. It was armed with eight .50 calibre (12.7 mm) machine guns. Another aircraft that was important in that role was the North American B-25 Mitchell. It was used for low-altitude strafing runs in the Pacific War. -->
 <!-- Attack aircraft: In the United States and Britain attack aircraft were generally light bombers or medium bombers, sometimes carrying heavier forward-firing weapons like the North American B-25G Mitchell and de Havilland Mosquito Tsetse. -->
+<!-- Torpedo bomber: Other twin-engine or three-engined aircraft designed or used as torpedo bombers include the Mitsubishi Ki-67, the Savoia-Marchetti SM.79 "Sparviero", the CANT Z.1007, the Bristol Beaufort and Bristol Beaufighter ("Torbeau"), the Junkers Ju 88, the Heinkel He 111, the B-25 Mitchell and many others. -->
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "B-25 Mitchell" "1941" "bombardier moyen" >}}
 {{< exemplaires 9984 >}}
 {{< caracteristique "Attaque au sol" >}}
+{{< caracteristique "Torpilleur" >}}
 <p>Un avion clé d'attaque au sol.<br />Des versions Gunship.</p>
 </div>
 <div class="ressources">
@@ -1283,9 +1364,11 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Torpedo bomber: Multi-role designs were often adapted from either: single-engined, carrier-based dive-bombers like the Aichi B7A Ryusei, Curtiss SB2C Helldiver and Fairey Barracuda, or; land-based twin-engined light bombers/attack aircraft, such as the Bristol Beaufighter, Douglas A-20C (Boston IIIA), Junkers Ju 88, and Tupolev Tu-2. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-2 Bat" "1941" "bombardier moyen" >}}
 {{< exemplaires 2257 >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1316,9 +1399,11 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Torpedo bomber: While many torpedo bombers were single-engine aircraft, some multi-engined aircraft have also been used as torpedo bombers, with the Mitsubishi G3M Nell and Mitsubishi G4M Betty being used in the sinking of HMS Prince of Wales and Repulse. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Mitsubishi" "G4M Betty" "1941" "bombardier moyen, torpilleur" >}}
 {{< exemplaires 2435 >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1354,9 +1439,12 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <h3>Bombardiers torpilleurs, patrouille maritime</h3>
 </div>
 
+<!-- Maritime Patrol Aircraft: A number of special-purpose aircraft were also used in the conflict, including the American-made twin-engine Consolidated PBY Catalina flying boats,[21][22] and the large, four-engine British Short Sunderland flying boats of the Allies.[23][24] In the Pacific theatre, the Catalina was gradually superseded by the longer-ranged Martin PBM Mariner flying boat. -->
+<!-- Anti submarine warfare: Many different aircraft from airships to four-engined sea- and land-planes were used. Some of the more successful were the Lockheed Ventura, PBY (Catalina or Canso, in British service), Consolidated B-24 Liberator (VLR Liberator, in British service), Short Sunderland, and Vickers Wellington. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
 {{< exemplaires 3308 >}}
+{{< caracteristique "Patrouille maritime" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1371,9 +1459,30 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Maritime Patrol Aircraft: A number of special-purpose aircraft were also used in the conflict, including the American-made twin-engine Consolidated PBY Catalina flying boats,[21][22] and the large, four-engine British Short Sunderland flying boats of the Allies.[23][24] In the Pacific theatre, the Catalina was gradually superseded by the longer-ranged Martin PBM Mariner flying boat. -->
+<!-- Anti submarine warfare: Many different aircraft from airships to four-engined sea- and land-planes were used. Some of the more successful were the Lockheed Ventura, PBY (Catalina or Canso, in British service), Consolidated B-24 Liberator (VLR Liberator, in British service), Short Sunderland, and Vickers Wellington. -->
+<div class="aeronef">
+{{< aeronef ":gb:" "Short" "S.25 Sunderland" "1938" "hydravion de patrouille et de bombardement" >}}
+{{< exemplaires 749 >}}
+{{< caracteristique "Patrouille maritime" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Short_S.25_Sunderland"
+  "https://en.wikipedia.org/wiki/Short_Sunderland"
+  "https://www.avionslegendaires.net/avion-militaire/short-s-26-sunderland/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c8/Short_Sunderland_3_of_Aquila_Airways.jpg"
+  "RuthAS, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Torpedo bomber: During the war, Japanese torpedo bombers (mainly the Nakajima B5N) played a key role in the fatal crippling of the carriers USS Lexington (scuttled as a result of an internal explosion), USS Yorktown (sunk by a Japanese submarine while being towed), and USS Hornet (abandoned and finished off by US and Japanese surface ships). -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "B5N Kate" "1939" "bombardier-torpilleur embarqué" >}}
 {{< exemplaires 1149 >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1387,9 +1496,11 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Torpedo bomber: Other twin-engine or three-engined aircraft designed or used as torpedo bombers include the Mitsubishi Ki-67, the Savoia-Marchetti SM.79 "Sparviero", the CANT Z.1007, the Bristol Beaufort and Bristol Beaufighter ("Torbeau"), the Junkers Ju 88, the Heinkel He 111, the B-25 Mitchell and many others. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufort" "1939" "torpilleur" >}}
 {{< exemplaires 1121 >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1403,9 +1514,29 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Maritime Patrol Aircraft: A number of special-purpose aircraft were also used in the conflict, including the American-made twin-engine Consolidated PBY Catalina flying boats,[21][22] and the large, four-engine British Short Sunderland flying boats of the Allies.[23][24] In the Pacific theatre, the Catalina was gradually superseded by the longer-ranged Martin PBM Mariner flying boat. -->
+<div class="aeronef">
+{{< aeronef ":us:" "Martin" "PBM Mariner" "1940" "hydravion de patrouille et de bombardement" >}}
+{{< exemplaires 1366 >}}
+{{< caracteristique "Patrouille maritime" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Martin_PBM_Mariner"
+  "https://en.wikipedia.org/wiki/Martin_PBM_Mariner"
+  "https://www.avionslegendaires.net/avion-militaire/martin-pbm-mariner/"
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Martin_PBM-5_Mariner_in_flight_c1945.jpeg"
+  "U.S. Navy, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Torpedo bomber: Avengers became more successful as tactics improved and crews became more skilled. On 24 August 1942, 24 Avengers sank the light carrier Ryūjō at the Battle of the Eastern Solomons. At Guadalcanal, Avengers from the Navy and Marine Corps helped to finished off the battleship Hiei, which had lost steering after being damaged the prior night.[19] -->
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "TBF Avenger" "1942" "bombardier torpilleur embarqué" >}}
 {{< exemplaires 9836 >}}
+{{< caracteristique "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1415,6 +1546,26 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
   "https://www.avionslegendaires.net/avion-militaire/grumman-tbf-tbm-avenger/"
   "https://upload.wikimedia.org/wikipedia/commons/d/db/TBM3_Avenger_-_Chino_Airshow_2014_%2814344070442%29.jpg"
   "Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Dive bomber: were replaced by Fairey Barracuda torpedo-dive bombers, which made repeated diving attacks on the German battleship Tirpitz which lay protected by torpedo nets in a Norwegian fjord during 1944. -->
+<!-- Torpedo bomber: Multi-role designs were often adapted from either: single-engined, carrier-based dive-bombers like the Aichi B7A Ryusei, Curtiss SB2C Helldiver and Fairey Barracuda, or; land-based twin-engined light bombers/attack aircraft, such as the Bristol Beaufighter, Douglas A-20C (Boston IIIA), Junkers Ju 88, and Tupolev Tu-2. -->
+<div class="aeronef">
+{{< aeronef ":gb:" "Fairey" "Barracuda" "1943" "bombardier torpilleur, bombardier en piqué, embarqué" >}}
+{{< exemplaires 2602 >}}
+{{< caracteristique "Bombardier en piqué" >}}
+{{< caracteristique "Torpilleur" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Fairey_Barracuda"
+  "https://en.wikipedia.org/wiki/Fairey_Barracuda"
+  "https://www.avionslegendaires.net/avion-militaire/fairey-barracuda/"
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fairey_Barracuda.jpg"
+  "Lt. S.J. Beadell, Royal Navy official photographer, Public domain, via Wikimedia Commons"
 >}}
 </div>
 </div>
@@ -1473,9 +1624,12 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Maritime Patrol aircraft: To finally close the Mid-Atlantic gap, or "Black Gap", a space in which Axis submarines could prey of Allied shipping historically out of reach of MPAs, the British Royal Air Force, the Royal Canadian Air Force, and the US Army Air Forces introduced the American Consolidated B-24 Liberator bomber, which had a very long range for the era. -->
+<!-- Anti submarine warfare: Many different aircraft from airships to four-engined sea- and land-planes were used. Some of the more successful were the Lockheed Ventura, PBY (Catalina or Canso, in British service), Consolidated B-24 Liberator (VLR Liberator, in British service), Short Sunderland, and Vickers Wellington. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "B-24 Liberator" "1941" "bombardier lourd, chasseur de sous marin" >}}
 {{< exemplaires 18482 >}}
+{{< caracteristique "Patrouille maritime" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1506,9 +1660,11 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 </div>
 </div>
 
+<!-- Dive bomber: The heaviest aircraft to have dive-bombing included in its design and development, the four-engined Heinkel He 177, also utilised a glide-bombing approach; the requirement that the He 177 be able to dive/glide-bomb delayed its development and impaired its overall performance. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 177 Greif" "1942" "bombardier lourd longue distance" >}}
 {{< exemplaires 1169 >}}
+{{< caracteristique "Bombardier en piqué" >}}
 <p>Le seul bombardier stratégique allemand.</p>
 </div>
 <div class="ressources">

@@ -93,6 +93,8 @@ weight = 2
 
 </style>
 
+<img src=https://upload.wikimedia.org/wikipedia/commons/b/b8/Formation_of_a_Legacy%2C_Hertiage_flight_merges_aviation_past_and_present_86-16-51-22.jpg title="U.S. Air Force photo by J.M. Eddins Jr, Public domain, via Wikimedia Commons" width=40% />
+
 Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat), ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).
 
 <div class="grille">
@@ -105,10 +107,20 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <div class="titre_generation">
 <h3>Chasseurs</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/4/42/Formation_of_No.19_Squadron_RAF_Supermarine_Spitfire_Mk.Is_in_1938_over_Cambridgeshire.jpg title="RAF official photographer, Public domain, via Wikimedia Commons" />
+En Europe, les deux chasseurs principaux allemands sont les excellents Bf 109 et Fw 190. Côté britannique il s'agit des très bon Spitfire et Hurricane, à peu près équivalents.
+
+Sur le front soviétique, il y a eu de très grosses pertes avant l'arrivée des Yak-9 et La-5 qui ont remis l'armée jour à un niveau égal.
+
+Dans le pacifique, au début du conflit la domination japonaise est très forte avec le très maniable A6M Zéro, malgré certaines stratégies du P-40 et du F4F Wildcat. A noter toutefois le très bon chasseur lourd P-38 qui remplira nombre de missions.
+Le ciel passera sous domination américaine avec l'arrivée des chasseurs embarqués F4U Corsair et F6F hellcat.
+
+Un certain nombre des missions de chasse seront des missions d'escortes de bombardiers avec la problématique la distance franchissable avec les chasseurs. Le chasseur lourd P-38 et surtout le chasseur léger P-51 Mustang pourront suivre les bombardiers et affronter des chasseurs maniables.
+
+La chasse de nuit nécessitait en ce temps là d'énormes radars, voir un membre d'équipage dédié. Ce rôle est donc assura par les chasseurs lourds, voir un certain nombre de bombardiers légers ou moyens adaptés.
+
+A l'inverse, des chasseurs seront adaptés en chasseur-bombardiers, ne nécessitant pas d'escortes car ils peuvent abandonner leurs emports pour se battre.
+De même, les rôles d'attaque au sol seront également assurés par une partie des chasseurs.
 </div>
-
-<!-- Fighter aircraft : oubli des italiens G50 Freccia, CR42 Falco, macchi mc 200 -->
-
 
 <!-- Fighter aircraft: In the dogfights over Spain, the latest Messerschmitt Bf 109 fighters did well, as did the Soviet Polikarpov I-16. -->
 <!-- Fighter aircraft: The Russians failed to keep up and despite newer models coming into service, I-16s remaining the most common Soviet front-line fighter into 1942 despite being outclassed by the improved Bf 109s in World War II. -->
@@ -891,6 +903,11 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 <div class="titre_generation">
 <h3>Bombardiers en piqué</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/b/b7/Curtiss_SB2C-1_Helldiver_dropping_bomb%2C_circa_in_1943.png title="Ad Meskens, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" />
+Au début de la guerre, le bombardement en piqué était le moyen le plus précis pour effectuer des frappes de précision, et donc les attaques de tanks ou l'appui tactique de troupes. Le Ju 87 Stuka se démarqua particulièrement, ainsi que dans le pacifique le D3A Val ou le SDB Dauntless.
+
+Les armées allemandes, américaines et japonaises ont en particulier beaucoup inverti dans ce domaine.
+
+Les évolutions techniques, en particulier l'arrivée des roquettes et des viseurs gyroscopiques pour le bombardement en pallier ont toutefois réduit le besoin de ce type de bombardiers à la fin de la guerre.
 </div>
 
 <!-- Strafing: The Luftwaffe's best strafing plane was the Junkers Ju 87 Stuka. The Ju 87 G variant had two Rheinmetall-Borsig 37 mm (1.5 in) Flak 18 guns each mounted under the wing. -->
@@ -1057,7 +1074,7 @@ Variante Pe-3 chasseur de nuit.
 {{< exemplaires 7140 >}}
 {{< caracteristique "Attaque au sol" >}}
 {{< caracteristique "Torpilleur" >}}
-<p>Rapide.</p>
+<p>Rapide. Arrivé tard dans la guerre, à un moment où les bombardiers en piqués étaient moins importants.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1074,6 +1091,11 @@ Variante Pe-3 chasseur de nuit.
 <div class="titre_generation">
 <h3>Bombardiers légers / rapides</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/2/24/Bristol_Blenheim_Mk_IVFs_of_No._254_Squadron_RAF_flying_from_Aldergrove_in_Northern_Ireland%2C_May_1941._CH2992.jpg title="Daventry B J (Mr), Royal Air Force official photographer, Public domain, via Wikimedia Commons" />
+Au début de la guerre il s'agissait d'avions légers et rapides, emportant de petites charges (classe une tonne).
+
+Cependant les progrès techniques ont amenés des chaseurs-bombardiers pouvant emporter des charges comparables, et des bombardiers moyens de plus en plus performants.
+
+Leur rôle de bombardier tactique a aussi évolué et se dirigea de plus en plus vers des avions d'attaque au sol.
 </div>
 
 <div class="aeronef">
@@ -1179,6 +1201,11 @@ Des versions Gunship.</p>
 <div class="titre_generation">
 <h3>Avions d'attaque au sol</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/a/a1/Royal_Air_Force_1939-1945-_Coastal_Command_C4944.jpg title="HQ Coastal Command, Royal Air Force official photographer, Public domain, via Wikimedia Commons" />
+L'attaque au sol nécessite une grande puissance de feu et de la précision. Il s'agit généralement d'attaques à basse altitude, au canon, à la bombe ou à la roquette.
+
+On parle de mitraillage au sol ou d'appui tactique.
+
+Ce rôle sera assuré par des avions spécialisés, en particulier avec du blindage, mais aussi des bombardiers légers, des bombardiers en piqués (ne plongeants cette fois), ou même des chasseurs.
 </div>
 
 <!-- Light bomber: Light attack aircraft such as the Breda Ba.65, Ilyushin Il-2 Šturmovík, Northrop A-17, and Vultee V-11 initially differed little in armament and operational role from light bombers. -->
@@ -1286,6 +1313,9 @@ Des versions Gunship.</p>
 <div class="titre_generation">
 <h3>Bombardiers moyens</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/c/c7/9_Squadron_in_Formation_1939-45.jpg title="RAF photographer https://www.iwm.org.uk/collections/item/object/205210912, Public domain, via Wikimedia Commons" />
+
+<!-- Medium bomber: A medium bomber is a military bomber aircraft designed to operate with medium-sized bombloads over medium range distances; the name serves to distinguish this type from larger heavy bombers and smaller light bombers. Mediums generally carried about two tons of bombs, compared to light bombers that carried one ton, and heavies that carried four or more. -->
+La classe deux tonnes de charge.
 </div>
 
 <div class="aeronef">
@@ -1473,6 +1503,9 @@ Des versions Gunship.</p>
 <div class="titre_generation">
 <h3>Bombardiers torpilleurs, patrouille maritime</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/Bristol_Beaufort_-_North_Coates_-_Royal_Air_Force_Coastal_Command%2C_1939-1945._CH1851.jpg title="Royal Air Force official photographer, Daventry B J (Mr), Public domain, via Wikimedia Commons" />
+Le rôle de torpillage a été effectué à la fin de la guerre par des avions généralistes (chasseurs lourds, bombardiers moyens...), nécessitant moins des avions spécialisés.
+
+Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou des avions de lignes convertis.
 </div>
 
 
@@ -1574,6 +1607,7 @@ Des versions Gunship.</p>
 {{< aeronef ":us:" "Grumman" "TBF Avenger" "1942" "bombardier torpilleur embarqué" >}}
 {{< exemplaires 9836 >}}
 {{< caracteristique "Torpilleur" >}}
+<p>Il a participé au torpillage des cuirassés Yamato et Musashi.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1610,6 +1644,10 @@ Des versions Gunship.</p>
 <div class="titre_generation">
 <h3>Bombardiers lourds</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/a/a5/Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg title="Richard R. Ganczak (1924—2014). Ganczak served radio operator and later a bombardier in the Fifteenth Air Force, flying 70 combat missions. This photograph was taken during his second tour.[2][3], Public domain, via Wikimedia Commons" />
+Une stratégie massive de tapissage de bombe a été employée pendant la guerre.
+
+Les bombardiers lourds disposaient de tourelles d'autodéfense et étaient souvent quadrimoteurs.
+On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 
 <div class="aeronef">

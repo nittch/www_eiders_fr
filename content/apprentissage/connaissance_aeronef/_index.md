@@ -15,9 +15,12 @@ weight = 2
     grid-column: 1 / 4;
   }
 
-  .titre_generation img {
+  #body div .titre_generation img {
     float: left;
+
     height: 15em;
+    margin: 0;
+    margin-right: 1em;
   }
 
   .aeronef {

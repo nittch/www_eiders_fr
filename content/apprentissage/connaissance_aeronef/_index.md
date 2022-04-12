@@ -108,7 +108,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: The Russians failed to keep up and despite newer models coming into service, I-16s remaining the most common Soviet front-line fighter into 1942 despite being outclassed by the improved Bf 109s in World War II. -->
 <!-- Fighter aircraft: [...] and the general inferiority of Soviet designs at the time, such as the obsolescent Polikarpov I-15 biplane and the I-16. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":ru:" "Polikarpov" "I-16" "1935" >}}
+{{< aeronef ":ru:" "Polikarpov" "I-16" "1935" "chasseur léger" >}}
 {{< exemplaires 10292 >}}
 <p>Testé avec succès pendant la guerre civile espagnole et jugé bon dogfighter. Déjà obsolète au début du front soviétique.</p>
 </div>
@@ -128,7 +128,7 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft:  The Imperial Japanese Navy Air Service primarily operated the Mitsubishi A6M Zero, and the Imperial Japanese Army Air Service flew the Nakajima Ki-27 and the Nakajima Ki-43, initially enjoying great success, as these fighters generally had better range, maneuverability, speed and climb rates than their Allied counterparts. -->
 <!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
 <div class="aeronef">
-{{< aeronef ":jp:" "Nakajima" "Ki-27" "1937" >}}
+{{< aeronef ":jp:" "Nakajima" "Ki-27" "1937" "chasseur léger" >}}
 {{< exemplaires 3368 >}}
 <p>L'avion de chasse principal de l'armée impériale.</p>
 </div>
@@ -148,8 +148,9 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Fighter aircraft: During the invasion of Poland and the Battle of France, Luftwaffe fighters—primarily the Messerschmitt Bf 109—held air superiority, and the Luftwaffe played a major role in German victories in these campaigns. -->
 <!-- Fighter aircraft: Unescorted Consolidated B-24 Liberators and Boeing B-17 Flying Fortress bombers, however, proved unable to fend off German interceptors (primarily Bf 109s and Fw 190s). -->
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
+<!-- Light fighter: The German Messerschmitt Bf 109 entered service in 1937 as a high speed interceptor and became the most-produced fighter in history, with nearly 34,000 built.  -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" >}}
+{{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" "chasseur léger" >}}
 {{< exemplaires 34852 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Intercepteur" >}}
@@ -173,13 +174,16 @@ Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wi
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <!-- Strafing: For the RAF, the best ground attack plane was the Hawker Hurricane II. It was armed with four 20 mm (0.79 in) wing-mounted cannon.[5] The Hawker Typhoon was used in the later stages of the war. It had four "60 lb" RP-3 rockets -->
 <!-- Attack aircraft: to emphasise the attack role, usually in the form of single-engine Hawker Hurricane and Curtiss P-40 fighter-bombers or specialized "tank-busters", such as the Hurricane Mk IID, armed with two 40 mm Vickers S guns -->
+<!-- Light fighter: The Royal Air Force entered World War II with two modern single-engined fighters forming the majority of the fighter force of the RAF – the Supermarine Spitfire and the Hawker Hurricane. Initially introduced as bomber interceptors, both started with eight machine gun armament but changed to cannons in the course of the war. -->
+<!-- Light fighter: The Hawker Hurricane played an important role in the Battle of Britain, but its performance was inferior to the Spitfire and during the war was removed from frontline duty as a fighter and used for ground attack. -->
 <div class="aeronef">
-{{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur bombardier" >}}
+{{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur léger" >}}
 {{< exemplaires 14583 >}}
 {{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Intercepteur" >}}
 {{< caracteristique "Attaque au sol" >}}
 <p>Un des deux principaux avions de supériorité aérienne britannique.<br />
-L'Hurricane II était l'un des deux meilleurs avions de mitraillage au sol britannique.</p>
+Moins performant que le Spitfire, en seconde partie du conflit il a été relégué à l'attaque au sol mais devint ainsi l'un des deux meilleurs avions de mitraillage au sol britannique.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -196,12 +200,16 @@ L'Hurricane II était l'un des deux meilleurs avions de mitraillage au sol brita
 
 <!-- Fighter aircraft: During the Battle of Britain, however, British Hurricanes and Spitfires proved roughly equal to Luftwaffe fighters. -->
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
+<!-- Light fighter: The Royal Air Force entered World War II with two modern single-engined fighters forming the majority of the fighter force of the RAF – the Supermarine Spitfire and the Hawker Hurricane. Initially introduced as bomber interceptors, both started with eight machine gun armament but changed to cannons in the course of the war. -->
+<!-- Light fighter: The Spitfire, designed by R. J. Mitchell, entered service in 1938 and remained in production throughout the war.-->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" >}}
+{{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" "chasseur léger" >}}
 {{< exemplaires 20351 >}}
 {{< caracteristique "Supériorité aérienne" >}}
+{{< caracteristique "Intercepteur" >}}
 <p>
 Un des deux principaux avions de supériorité aérienne britannique. <br />
+Il a été produit pendant toute la guerre.<br />
 Version embarquée : Seafire.
 </p>
 </div>
@@ -221,7 +229,7 @@ Version embarquée : Seafire.
 
 <!-- Fighter aircraft: By mid-1942, the Allies began to regroup and while some Allied aircraft such as the Brewster Buffalo and the P-39 Airacobra were hopelessly outclassed by fighters like Japan's Mitsubishi A6M Zero, -->
 <div class="aeronef">
-{{< aeronef ":us:" "Brewster" "F2A Buffalo" "1939" "embarqué" >}}
+{{< aeronef ":us:" "Brewster" "F2A Buffalo" "1939" "chasseur léger, embarqué" >}}
 {{< exemplaires 509 >}}
 <p>Dépassé au début du conflit dans le pacifique.</p>
 </div>
@@ -241,11 +249,12 @@ Version embarquée : Seafire.
 <!-- Fighter aircraft:  The Imperial Japanese Navy Air Service primarily operated the Mitsubishi A6M Zero, and the Imperial Japanese Army Air Service flew the Nakajima Ki-27 and the Nakajima Ki-43, initially enjoying great success, as these fighters generally had better range, maneuverability, speed and climb rates than their Allied counterparts. -->
 <!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
+<!-- Light fighter: The lightest major fighter of World War II was the Japanese Mitsubishi A6M Zero naval fighter. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur léger, embarqué" >}}
 {{< exemplaires 10939 >}}
 {{< caracteristique "Supériorité aérienne" >}}
-<p>Le principal avion de supériorité aérienne japonais. Un modèle de maniabilité. Excellent au début de la guerre, mais à la fin de celle-ci, son manque de puissance de feu et de blindage lui coutera cher.</p>
+<p>Le principal avion de supériorité aérienne japonais. Un modèle de maniabilité, il est le meilleur chasseur léger de la période. Excellent au début de la guerre, mais à la fin de celle-ci, son manque de puissance de feu et de blindage lui coutera cher.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -262,7 +271,7 @@ Version embarquée : Seafire.
 
 <!-- Fighter aircraft: others such as the Army's Curtiss P-40 Warhawk and the Navy's Grumman F4F Wildcat possessed attributes such as superior firepower, ruggedness and dive speed, and the Allies soon developed tactics (such as the Thach Weave) to take advantage of these strengths. These changes soon paid dividends, as the Allied ability to deny Japan air superiority was critical to their victories at Coral Sea, Midway, Guadalcanal and New Guinea. -->
 <div class="aeronef">
-{{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "embarqué" >}}
+{{< aeronef ":us:" "Grumman" "F4F Wildcat" "1940" "chasseur embarqué" >}}
 {{< exemplaires 7885 >}}
 <p>D'avantage de puissance de feu et de blindage que l'A6M zéro.</p>
 </div>
@@ -280,7 +289,7 @@ Version embarquée : Seafire.
 
 <!-- Fighter aircraft: More modern Soviet designs, including the Mikoyan-Gurevich MiG-3, LaGG-3 and Yakolev Yak-1, had not yet arrived in numbers and in any case were still inferior to the Messerschmitt Bf 109. -->
 <div class="aeronef">
-{{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" >}}
+{{< aeronef ":ru:" "Yakovlev" "Yak-1" "1940" "chasseur" >}}
 {{< exemplaires 8734 >}}
 <p>Inférieur au Bf 109.</p>
 </div>
@@ -300,7 +309,7 @@ Version embarquée : Seafire.
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Attack aircraft: to emphasise the attack role, usually in the form of single-engine Hawker Hurricane and Curtiss P-40 fighter-bombers or specialized "tank-busters", such as the Hurricane Mk IID, armed with two 40 mm Vickers S guns -->
 <div class="aeronef">
-{{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" >}}
+{{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" "chasseur" >}}
 {{< exemplaires 13738 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
 {{< caracteristique "Attaque au sol" >}}
@@ -322,11 +331,13 @@ Version embarquée : Seafire.
 <!-- Fighter aircraft: Because of the bulkiness of these radar sets, they could not be carried on conventional single-engined fighters and instead were typically retrofitted to larger heavy fighters or light bombers such as Germany's Messerschmitt Bf 110 and Junkers Ju 88, Britain's de Havilland Mosquito and Bristol Beaufighter, and America's Douglas A-20, which then served as night fighters -->
 <!-- Escort fighter: From that point onwards, the Bf 110 was mostly withdrawn from the escort role, in part that so many had been lost that sufficient numbers could no longer be fielded in the short term; when it did return, it was largely used as a light bomber,[19][20] and night fighter instead. -->
 <!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
+<!-- Heavy fighter: Eventually Bf 110s were converted to interceptors, and were particularly successful in the later marks of the Bf 110G series from 1942 to 1943 onwards as night fighters, serving as the primary aircraft of the Luftwaffe Nachtjagdgeschwader night fighter wings, using various versions of the Lichtenstein radar for nocturnal interception of RAF Bomber Command heavy bombers, as well as finding some use as ground-attack aircraft. -->
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd" >}}
 {{< exemplaires 6150 >}}
 {{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
+{{< caracteristique "Attaque au sol" >}}
 <p>Destiné à l'escorte, il sera moins performant que les Hurricane et Spitfire. Son rôle sera donc principalement la chasse de nuit et le bombardement léger.</p>
 </div>
 <div class="ressources">
@@ -370,8 +381,9 @@ Version embarquée : Seafire.
 
 <!-- Fighter aircraft: Also, significant numbers of British, and later U.S., fighter aircraft were supplied to aid the Soviet war effort as part of Lend-Lease, with the Bell P-39 Airacobra proving particularly effective in the lower-altitude combat typical of the Eastern Front. -->
 <!-- Fighter aircraft: By mid-1942, the Allies began to regroup and while some Allied aircraft such as the Brewster Buffalo and the P-39 Airacobra were hopelessly outclassed by fighters like Japan's Mitsubishi A6M Zero, -->
+<!-- Heavy fighter: [...] the Lockheed P-38 Lightning. It was designed as a twin-engine bomber interceptor to climb quickly and carry heavy armament at high speed, with the lighter Bell P-39 Airacobra meeting the single-engine version of the same requirement. -->
 <div class="aeronef">
-{{< aeronef ":us:" "Bell" "P-39 Airacobra" "1941" >}}
+{{< aeronef ":us:" "Bell" "P-39 Airacobra" "1941" "chasseur léger" >}}
 {{< exemplaires 9584 >}}
 <p>
 Efficace en basse altitude sur le front soviétique, dépassé par l'A6M Zéro dans le pacifique.
@@ -429,7 +441,7 @@ Version P-38M : chasseur de nuit.
 <!-- Light bomber: This gave rise to the fighter-bomber type, notably the Fw 190 F and G models, Hawker Typhoon and Republic P-47 Thunderbolt. -->
 <!-- Attack aircraft: Conversely, some mid-war attack types emerged as adaptations of fighters, including several versions of the German Focke-Wulf Fw 190, the British Hawker Typhoon and the US Republic P-47 Thunderbolt. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur et bombardier" >}}
+{{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur" >}}
 {{< exemplaires 20051 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Intercepteur" >}}
@@ -452,10 +464,12 @@ Bon chasseur-bombardier.</p>
 </div>
 
 <!-- Light bomber: Types designed before the war as heavy fighters were also frequently adapted as light bombers, including the Messerschmitt Bf 110, Potez 633, Fokker G.I, Kawasaki Ki-45, Bristol Beaufighter, and Lockheed P-38 Lightning. -->
+<!-- Heavy fighter: Following the example set by the Bf 110, the Japanese built the broadly similar Kawasaki Ki-45 Toryu. -->
 <div class="aeronef">
 {{< aeronef ":jp:" "Kawasaki" "Ki-45" "1941" "chasseur lourd" >}}
 {{< exemplaires 1701 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
+<p>L'équivalent japonais du Bf 110.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -476,7 +490,7 @@ Bon chasseur-bombardier.</p>
 <!-- Strafing: For the RAF, the best ground attack plane was the Hawker Hurricane II. It was armed with four 20 mm (0.79 in) wing-mounted cannon.[5] The Hawker Typhoon was used in the later stages of the war. It had four "60 lb" RP-3 rockets -->
 <!-- Attack aircraft: The Typhoon, which was disappointing as a fighter, due to poor high altitude performance, was very fast at low altitudes and thus became the RAF's premier ground attack fighter. -->
 <div class="aeronef">
-{{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur bombardier" >}}
+{{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur" >}}
 {{< exemplaires 3317 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
 {{< caracteristique "Attaque au sol" >}}
@@ -500,7 +514,7 @@ L'un des deux meilleurs avions de mitraillage au sol britannique.
 
 <!-- Fighter aircraft: More modern Soviet designs, including the Mikoyan-Gurevich MiG-3, LaGG-3 and Yakolev Yak-1, had not yet arrived in numbers and in any case were still inferior to the Messerschmitt Bf 109. -->
 <div class="aeronef">
-{{< aeronef ":ru:" "Lavotchkine-Gorbunov-Gudkov" "LaGG-3" "1941" >}}
+{{< aeronef ":ru:" "Lavotchkine-Gorbunov-Gudkov" "LaGG-3" "1941" "chasseur" >}}
 {{< exemplaires 6258 >}}
 <p>Inférieur au Bf 109.</p>
 </div>
@@ -518,7 +532,7 @@ L'un des deux meilleurs avions de mitraillage au sol britannique.
 
 <!-- Fighter aircraft: More modern Soviet designs, including the Mikoyan-Gurevich MiG-3, LaGG-3 and Yakolev Yak-1, had not yet arrived in numbers and in any case were still inferior to the Messerschmitt Bf 109. -->
 <div class="aeronef">
-{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-3" "1941" >}}
+{{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-3" "1941" "chasseur" >}}
 {{< exemplaires 3422 >}}
 <p>
 Basé sur le MiG-1.<br />
@@ -541,7 +555,7 @@ Inférieur au Bf 109.
 <!-- Fighter aircraft:  The Imperial Japanese Navy Air Service primarily operated the Mitsubishi A6M Zero, and the Imperial Japanese Army Air Service flew the Nakajima Ki-27 and the Nakajima Ki-43, initially enjoying great success, as these fighters generally had better range, maneuverability, speed and climb rates than their Allied counterparts. -->
 <!-- Fighter aircraft: Other problems with Japan's fighter aircraft also became apparent as the war progressed, such as their lack of armor and light armament, which had been typical of all pre-war fighters worldwide, but the problem was particularly difficult to rectify on the Japanese designs. This made them inadequate as either bomber-interceptors or ground-attack aircraft, roles Allied fighters were still able to fill. -->
 <div class="aeronef">
-{{< aeronef ":jp:" "Nakajima" "Ki-43" "1941" >}}
+{{< aeronef ":jp:" "Nakajima" "Ki-43" "1941" "chasseur léger" >}}
 {{< exemplaires 5919 >}}
 <p>Basé sur le Ki-27.</p>
 </div>
@@ -558,7 +572,7 @@ Inférieur au Bf 109.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":jp:" "Kawasaki" "Ki-61" "1942" >}}
+{{< aeronef ":jp:" "Kawasaki" "Ki-61" "1942" "chasseur" >}}
 {{< exemplaires 3078 >}}
 <p>Refroidissement liquide.</p>
 </div>
@@ -582,7 +596,7 @@ Inférieur au Bf 109.
 <!-- Strafing: For the US, the Republic P-47 Thunderbolt was one of the key ground attack planes. It was armed with eight .50 calibre (12.7 mm) machine guns. Another aircraft that was important in that role was the North American B-25 Mitchell. It was used for low-altitude strafing runs in the Pacific War. -->
 <!-- Attack aircraft: Likewise the P-47 was designed and intended for use as a high altitude bomber escort, but gradually found that role filled by the North American P-51 Mustang (because of its much longer range and greater manoeuvrability). The P-47 was also heavier and more robust than the P-51 and regarded therefore, as an "energy fighter": ideal for high-speed dive-and-climb tactics, including strafing attacks. Its armament of eight 0.50 caliber machine guns was effective against Axis infantry and light vehicles in both Europe and the Pacific. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur et bombardier" >}}
+{{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur" >}}
 {{< exemplaires 15660 >}}
 {{< caracteristique "Chasseur-bombardier" >}}
 {{< caracteristique "Avion d'escorte" >}}
@@ -614,8 +628,9 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 <!-- Air supremacy: Germany's most important air superiority fighters were the Messerschmitt Bf 109 and Focke-Wulf Fw 190, while the Supermarine Spitfire and Hawker Hurricane were the primary ones on the British side. Performance and range made the P-51 Mustang the outstanding escort fighter which permitted American bombers to operate over Germany during daylight hours. -->
 <!-- Escort fighter: Finally, the extremely high efficiency of the laminar-flow wing on the Merlin-powered North American P-51 Mustang gave it unparalleled range even on internal fuel, and with external tanks, it could cover most of Europe. Although not designed for the escort role, the P-51 remains the canonical example of the class. -->
 <!-- Escort fighter: The successes of the P-47N and P-51 gave the impression that the escort fighter was a concept worth continuing after the end of the war. -->
+<!-- Light fighter: Instead, the US developed a number of standard pursuit fighters, the most efficient being the relatively lightweight North American P-51 Mustang. The P-51 was more economical, costing less per air-to-air kill than any other American aircraft. -->
 <div class="aeronef avec_module_dcs">
-{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur" >}}
+{{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur léger" >}}
 {{< exemplaires 15586 >}}
 {{< caracteristique "Avion d'escorte longue distance" >}}
 {{< caracteristique "Ailes à écoulement laminaire, réduisant la consommation" >}}
@@ -639,7 +654,7 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <!-- Close air support: The American Navy and Marine Corps used CAS in conjunction with or as a substitute for the lack of available artillery or naval gunfire in the Pacific theater. Navy and Marine F6F Hellcats and F4U Corsairs used a variety of ordnance such as conventional bombs, rockets and napalm to dislodge or attack Japanese troops using cave complexes in the latter part of the Second World War. -->
 <div class="aeronef">
-{{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur bombardier embarqué" >}}
+{{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur embarqué" >}}
 {{< exemplaires 12571 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Chasseur-bombardier" >}}
@@ -666,7 +681,7 @@ Un des trois avions de supériorité aérienne américain.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":ru:" "Yakovlev" "Yak-7" "1942" >}}
+{{< aeronef ":ru:" "Yakovlev" "Yak-7" "1942" "chasseur" >}}
 {{< exemplaires 6399 >}}
 </div>
 <div class="ressources">
@@ -682,10 +697,14 @@ Un des trois avions de supériorité aérienne américain.
 </div>
 
 <!-- Fighter aircraft: By 1942 Soviet designs such as the Yakovlev Yak-9 and Lavochkin La-5 had performance comparable to the German Bf 109 and Focke-Wulf Fw 190. -->
+<!-- Light fighter: The Soviet Yakovlev Yak-9 was also a lightweight fighter, initially using the M-105 engine. With an empty weight 2,350 kg (5,170 lb), it was among the lighter major fighters of World War II. A development of the Yakovlev Yak-7, it entered combat in late 1942 and was the Soviet Union's most-produced fighter with 16,769 built. At low altitudes, the Yak-9 was faster and more maneuverable than the Bf 109. However, its armament of one cannon and one machine gun was relatively light. -->
 <div class="aeronef">
-{{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" >}}
+{{< aeronef ":ru:" "Yakovlev" "Yak-9" "1942" "chasseur léger" >}}
 {{< exemplaires 16769 >}}
-<p>Un appareil rattrapant le retard soviétique, équivalent aux Bf 109 ou Fw 190.</p>
+<p>
+Un appareil rattrapant le retard soviétique, équivalent aux Bf 109 ou Fw 190. <br />
+Très manœvrant à basse altitude, il aura toutefois une puissance de feu limitée.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -701,7 +720,7 @@ Un des trois avions de supériorité aérienne américain.
 
 <!-- Fighter aircraft: By 1942 Soviet designs such as the Yakovlev Yak-9 and Lavochkin La-5 had performance comparable to the German Bf 109 and Focke-Wulf Fw 190. -->
 <div class="aeronef">
-{{< aeronef ":ru:" "Lavotchkine" "La-5" "1942" >}}
+{{< aeronef ":ru:" "Lavotchkine" "La-5" "1942" "chasseur" >}}
 {{< exemplaires 9920 >}}
 <p>
 Basé sur le LaGG-3.<br />
@@ -725,7 +744,7 @@ Un appareil rattrapant le retard soviétique, équivalent aux Bf 109 ou Fw 190.
 <!-- Air supremacy: The Hellcat shot down 5,168 enemy aircraft (the second highest number), while the land-based Lockheed P-38 was third, shooting down 3,785 in all theaters. -->
 <!-- Close air support: The American Navy and Marine Corps used CAS in conjunction with or as a substitute for the lack of available artillery or naval gunfire in the Pacific theater. Navy and Marine F6F Hellcats and F4U Corsairs used a variety of ordnance such as conventional bombs, rockets and napalm to dislodge or attack Japanese troops using cave complexes in the latter part of the Second World War. -->
 <div class="aeronef">
-{{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "embarqué" >}}
+{{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "chasseur embarqué" >}}
 {{< exemplaires 12275 >}}
 {{< caracteristique "Supériorité aérienne" >}}
 {{< caracteristique "Attaque au sol" >}}
@@ -750,7 +769,7 @@ Un des trois avions de supériorité aérienne américain.
 
 <!-- Fighter aircraft: Late in the war, Japan began to produce new fighters such as the Nakajima Ki-84 and the Kawanishi N1K to replace the Zero, but only in small numbers, and by then Japan lacked the trained pilots or sufficient fuel to mount an effective challenge to Allied attacks. -->
 <div class="aeronef">
-{{< aeronef ":jp:" "Kawanishi" "N1K1-J Rex" "1943" "chasse" >}}
+{{< aeronef ":jp:" "Kawanishi" "N1K1-J Rex" "1943" "chasseur" >}}
 {{< exemplaires 1532 >}}
 <p>Basé sur l'hydravion de chasse N1K.</p>
 </div>
@@ -768,7 +787,7 @@ Un des trois avions de supériorité aérienne américain.
 
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <div class="aeronef">
-{{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur bombardier" >}}
+{{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur" >}}
 {{< exemplaires 1702 >}}
 <p>Basé sur le Typhoon.</p>
 </div>
@@ -801,11 +820,14 @@ Un des trois avions de supériorité aérienne américain.
 </div>
 </div>
 
+<!-- Light fighter: The Soviet Yakovlev Yak-3, which entered service in 1944, was an attempt to develop the smallest and lightest fighter around the 1,600 hp (1,200 kW) V-12 Klimov M-107 engine. -->
+<!-- Light fighter:  The Yak-3 could out-turn the German Bf 109 and Fw 190. German pilots were ordered to avoid dogfights with the Yak-3 at low level. -->
+<!-- Soviet air force: [...]many Luftwaffe pilots deliberately avoided combat with the last and best variant, the out-of-sequence numbered Yak-3. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Yakovlev" "Yak-3" "1944" "chasseur léger" >}}
 {{< exemplaires 4848 >}}
 <p>
-Très léger et maniable, excellent en dogfight.<br />
+Un des chasseurs les plus légers de la période, il sera très maniable et excellent en dogfight. La Luftwaffe l'évitera à basse altitude.<br />
 Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 </p>
 </div>
@@ -825,7 +847,7 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 <!-- Fighter aircraft: Late in the war, Japan began to produce new fighters such as the Nakajima Ki-84 and the Kawanishi N1K to replace the Zero, but only in small numbers, and by then Japan lacked the trained pilots or sufficient fuel to mount an effective challenge to Allied attacks. -->
 <!-- Ki-84: The Ki-84 is generally considered the best Japanese fighter to operate in large numbers during the conflict. -->
 <div class="aeronef">
-{{< aeronef ":jp:" "Nakajima" "Ki-84" "1944" >}}
+{{< aeronef ":jp:" "Nakajima" "Ki-84" "1944" "chasseur" >}}
 {{< exemplaires 3514 >}}
 <p>Excellent chasseur mais arrivé trop tard dans le conflit.</p>
 </div>
@@ -843,7 +865,7 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 
 <!-- Fighter aircraft: The Northrop P-61 Black Widow, a purpose-built night fighter, was the only fighter of the war that incorporated radar into its original design. -->
 <div class="aeronef">
-{{< aeronef ":us:" "Northrop" "P-61 Black Widow" "1944" "chasseur de nuit">}}
+{{< aeronef ":us:" "Northrop" "P-61 Black Widow" "1944" "chasseur lourd">}}
 {{< exemplaires 706 >}}
 {{< caracteristique "Chasseur de nuit" >}}
 <p>Premier chasseur américain conçu pour être un chasseur de nuit.</p>
@@ -2906,6 +2928,22 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://www.avionslegendaires.net/avion-militaire/ilyushin-il-28-beagle/"
   "https://upload.wikimedia.org/wikipedia/commons/f/f9/Egyptian_Il-28_Beagle.JPEG"
   "Staff Sgt. Bill Thompson, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "English Electric" "Canberra" "1951" "bombardier moyen / reconnaissance" >}}
+{{< exemplaires 949 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/English_Electric_Canberra"
+  "https://en.wikipedia.org/wiki/English_Electric_Canberra"
+  "https://www.avionslegendaires.net/avion-militaire/english-electric-canberra/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/77/Canberra_T_4_MOD_45144929_%28cropped%29.jpg"
+  "SAC A K Benson, OGL v1.0OGL v1.0, via Wikimedia Commons"
 >}}
 </div>
 </div>

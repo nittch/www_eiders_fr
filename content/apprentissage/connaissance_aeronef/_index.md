@@ -974,7 +974,9 @@ Limité en vitesse.
 {{< exemplaires 11427 >}}
 {{< caracteristique "Attaque au sol" >}}
 {{< caracteristique "Bombardier en piqué" >}}
-<p>Variante Pe-3 chasseur de nuit.</p>
+<p>
+Variante Pe-3 chasseur de nuit.
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1175,7 +1177,7 @@ Des versions Gunship.</p>
 <!-- Attack aircraft:  had forced the Soviet air forces to quickly expand their army support capacity, such as the Ilyushin Il-2 Sturmovik -->
 <!-- Attack aircraft: In Germany and the USSR, where they were known as Schlachtflugzeug ("battle aircraft") or sturmovik ("storm trooper") respectively, this role was carried out by purpose-designed and heavily armored aircraft such as the Henschel Hs 129 and Ilyushin Il-2 -->
 <div class="aeronef">
-{{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "avion d'attaque ou bombardier torpilleur" >}}
+{{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "attaque au sol" >}}
 {{< exemplaires 36183 >}}
 {{< caracteristique "Attaque au sol" >}}
 <p>Blindé. Un des avions clés soviétique pour l'attaque au sol.</p>
@@ -1219,7 +1221,7 @@ Des versions Gunship.</p>
 <!-- Attack aircraft: In Germany and the USSR, where they were known as Schlachtflugzeug ("battle aircraft") or sturmovik ("storm trooper") respectively, this role was carried out by purpose-designed and heavily armored aircraft such as the Henschel Hs 129 and Ilyushin Il-2 -->
 <!-- Attack aircraft: [...]The Germans and Soviets also used light bombers in this role: cannon-armed versions of the Junkers Ju 87 Stuka greatly outnumbered the Hs 129, while the Petlyakov Pe-2 was used for this role in spite of not being specifically designed for it.  -->
 <div class="aeronef">
-{{< aeronef ":de:" "Henschel" "Hs 129" "1942" "avion d'attaque" >}}
+{{< aeronef ":de:" "Henschel" "Hs 129" "1942" "attaque au sol" >}}
 {{< exemplaires 865 >}}
 {{< caracteristique "Attaque au sol" >}}
 <p>Blindé, un canon très puissant.</p>
@@ -1318,6 +1320,7 @@ Des versions Gunship.</p>
 {{< aeronef ":gb:" "Vickers" "Wellington" "1938" "bombardier moyen, patrouilleur maritime" >}}
 {{< exemplaires 11461 >}}
 {{< caracteristique "Patrouille maritime" >}}
+<p>Une fois devenu obsolète, il sera utilisé en patrouilleur maritime.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1652,6 +1655,7 @@ Des versions Gunship.</p>
 {{< aeronef ":us:" "Consolidated" "B-24 Liberator" "1941" "bombardier lourd, chasseur de sous marin" >}}
 {{< exemplaires 18482 >}}
 {{< caracteristique "Patrouille maritime" >}}
+<p>Sa grande autonomie pour l'époque en fera un bon patrouilleur maritime.</p>
 </div>
 <div class="ressources">
 <div class="reportages">

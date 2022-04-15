@@ -191,6 +191,7 @@ De même, les rôles d'attaque au sol seront également assurés par une partie 
 >}}
 {{< ressource-video-youtube "LfklgwVE0TA" >}} <!-- Yataka -->
 {{< ressource-video-youtube "22tVIa2BPu8" >}} <!-- La 2nd Guerre Mondiale -->
+{{< ressource-video-youtube "cxoSq4wweFY" >}} <!-- Légendes du ciel -->
 </div>
 </div>
 
@@ -218,6 +219,7 @@ Moins performant que le Spitfire, en seconde partie du conflit il a été relég
   "https://upload.wikimedia.org/wikipedia/commons/d/de/Hawker_Hurricane%2C_Battle_of_Britain_Memorial_Flight_Members%27_day_2018_%28cropped%29.jpg"
   "Cpl Phil Major ABIPP, OGL v1.0OGL v1.0, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "VHPPpAZ5PaY" >}} <!-- Légendes du ciel -->
 {{< ressource-video-youtube "DO2cqqm1y0c" >}} <!-- Cap Aviation -->
 </div>
 </div>
@@ -247,6 +249,7 @@ Version embarquée : Seafire.
   "Airwolfhound, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "5OzJw4u5bRw" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "OIQj33AgmZs" >}} <!-- Aviation - Documentaires entiers -->
 {{< ressource-video-youtube "hgI4Y8yTpds" >}} <!-- Yataka -->
 </div>
 </div>
@@ -942,6 +945,7 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 {{< ressource-video-youtube "l8ox3PFd_qU" >}} <!-- Yataka -->
 {{< ressource-video-youtube "6uvsgObrJx0" >}} <!-- Cap Aviation -->
 {{< ressource-video-youtube "PpRfvKx2ouE" >}} <!-- Imineo -->
+{{< ressource-video-youtube "4-p0RRIc5vM" >}} <!-- Poudre & Acier -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "2JdcyGGby0Y" >}}
@@ -1551,6 +1555,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
   "https://upload.wikimedia.org/wikipedia/commons/c/c8/Short_Sunderland_3_of_Aquila_Airways.jpg"
   "RuthAS, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "kWdUeI7vr18" >}} <!-- Aviation - Documentaires entiers -->
 </div>
 </div>
 
@@ -1703,6 +1708,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "https://upload.wikimedia.org/wikipedia/commons/1/1d/Halifax_Bomber_2_ExCC.jpg"
   "George Woodbine, Public domain, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "oEHmI2gE41Q" >}} <!-- Aviation - Documentaires complets -->
 </div>
 </div>
 
@@ -1740,6 +1746,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "https://upload.wikimedia.org/wikipedia/commons/8/83/Battle_of_Britain_Memorial_flight_Avro_Lancaster_%28cropped%29.jpg"
   "Cpl Phil Major ABIPP, OGL v1.0OGL v1.0, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "7mXpBlr9uls" >}} <!-- Légendes du ciel -->
 </div>
 </div>
 
@@ -1778,6 +1785,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "https://upload.wikimedia.org/wikipedia/commons/d/d3/B-29_in_flight.jpg"
   "See page for author, Public domain, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "4KYmgH5zWNo" >}} <!-- Poudre & acier -->
 </div>
 </div>
 
@@ -1819,6 +1827,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Messerschmitt_Me_262A_at_the_National_Museum_of_the_USAF.jpg"
   "USAF museum, Public domain, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "X1Cq5qTVyaU" >}} <!-- Les ailes de légende -->
 </div>
 </div>
 
@@ -2996,6 +3005,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <div class="aeronef">
 {{< aeronef ":gb:" "English Electric" "Canberra" "1951" "bombardier moyen / reconnaissance" >}}
 {{< exemplaires 949 >}}
+<p>Martin B-57 Canberra sous licence.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3006,6 +3016,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://upload.wikimedia.org/wikipedia/commons/7/77/Canberra_T_4_MOD_45144929_%28cropped%29.jpg"
   "SAC A K Benson, OGL v1.0OGL v1.0, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "ypfjgWSc38s" >}}
 </div>
 </div>
 
@@ -3277,6 +3288,7 @@ Géométrie variable.
 >}}
 </div>
 <div class="images">
+{{< ressource-video-youtube "VT_mQ0ZCi6c" >}} <!-- Les ailes de légende -->
 {{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee -->
 </div>
 </div>
@@ -3534,6 +3546,7 @@ Géométrie variable.
   "https://upload.wikimedia.org/wikipedia/commons/9/91/Vickers_Valiant_B%28K%29.1_1962.png"
   "https://upload.wikimedia.org/wikipedia/commons/9/91/Vickers_Valiant_B%28K%29.1_1962.png"
 >}}
+{{< ressource-video-youtube "NvY5Dly5RkM" >}}
 </div>
 </div>
 
@@ -3756,6 +3769,7 @@ Géométrie variable.
 >}}
 {{< ressource-video-youtube "-IOL12P7dy0" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "fzzOGg-ocdE" >}} <!-- aeronewstv -->
+{{< ressource-video-youtube "VavSuj-sx6c" >}}
 </div>
 </div>
 
@@ -3777,6 +3791,7 @@ Géométrie variable.
 {{< canal-youtube "id" "UCJ9tHJbCa8ZoMbapfJLy0ZQ" >}} <!-- imineo Documentaires -->
 {{< ressource-playlist-youtube "PLs4hJjnTBQLo9eQFXL94h4voK9SzD4xNR" >}} <!-- Autre chaine (Documentaire Aviation), mais toujours Imineo... -->
 {{< ressource-playlist-youtube "PLC4siPTFsziQCo_C47HQhSenISgrXZC07" >}}
+{{< ressource-playlist-youtube "PLs4hJjnTBQLqsv30mH8ziDb7_iMwq1tck" >}} <!-- Documentaire Aviation : Légendes du ciel -->
 </div>
 
 <div class="contenu">
@@ -3804,6 +3819,11 @@ Géométrie variable.
 {{< canal-youtube "byUserId" "fabgenius" >}}
 {{< ressource-playlist-youtube "PLE4C78820C58A36BA" >}}
 {{< ressource-playlist-youtube "PL1A7D6CE9E921D72F" >}}
+</div>
+
+<div class="contenu">
+{{< canal-youtube "id" "UCYja6AQ-XxBzraQ5y9vLuBg" >}} <!-- Poudre & Acier -->
+{{< ressource-playlist-youtube "PLYlY-Hc3On9COS9Bcu34PolXFr2cr4wKc" >}}
 </div>
 
 <div class="contenu">

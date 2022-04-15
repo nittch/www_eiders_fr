@@ -24,7 +24,7 @@ Phase d'attaque                       | pas de changement (leaving IP charlie 8 
 BDA (Battle Damage Assessment)        | en type 1 et 2, le JTAC annonce ce qui a été détruit ou ce que fait l'ennemi
 
 ## 22 décembre 2020 - exercices libres
-<img src=/mission_01/session3_f18.png width=50% />
+<img src=/mission_01/session3_f18.png class=decoration />
 Pas un entraînement à proprement parler.
 
 Nous avons décollé de Lar. Nous avions 3 waypoints et des cibles à détruire à la bombe à sous-munitions ou au canon à chaque waypoint. Nous étions deux : l'un attaquait pendant que l'autre orbitait à une altitude plus élevée pour surveiller d'éventuels départs de missiles.
@@ -32,7 +32,7 @@ Nous avons décollé de Lar. Nous avions 3 waypoints et des cibles à détruire 
 Au final, nous étions Winchester après les deux premiers waypoints et sommes rentrés à Shiraz.
 
 ## 29 décembre 2020 - révisions
-<img src=/mission_01/session3_roquette.png width=50% />
+<img src=/mission_01/session3_roquette.png class=decoration />
 Suite à un crash d'hélicoptère, une équipe de secours est sur place (VBL médicaux + tanks alliés).
 Ils demandent un appui aérien.
 
@@ -40,7 +40,7 @@ Des camions ennemis sons stationnés non loin du lieu, à attaquer aux roquettes
 En fin d'entrainement des renforts arrivent une colonne de camions sur une route, à attaquer au canon (révision du type 2 sur coordonnées).
 
 ## 05 janvier 2021 - entraînement 3 - type 3, TOT, 9-LINE
-<img src=/mission_01/session4_f18.png width=50% />
+<img src=/mission_01/session4_f18.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | -----------------------------------------------------------------------------
@@ -49,7 +49,7 @@ type 3                                | <ul><li>le jtac autorise une attaque sur
 Phase d'attaque                       | <ul><li>Si on rejoint l'IP, On va préférer "IP Inbound" à "Typping In" qui semble plus utilisé<li>On garde "Leaving IP" si on y est déjà</ul>
 
 ## 12 janvier 2021 - entraînement 4 - FENCE-IN, révisions 9-LINE
-<img src=/mission_01/session5_f18_m2k.png width=50% />
+<img src=/mission_01/session5_f18_m2k.png class=decoration />
 
 
 objectif                              | détails
@@ -74,7 +74,7 @@ Pour maximiser l'utilisation de l'emport :
 Chaque atelier consistait à réviser le FENCE-IN et ensuite tirer au waypoint 2. (fichier de mission : <a href=/mission_01/lei-cas-6.miz>lei-cas-6.miz</a>)
 
 ## 26 janvier 2021 - entraînement 6 - Vol en formation
-<img src=/mission_01/session7_desert.png width=50% />
+<img src=/mission_01/session7_desert.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | -----------------------------------------------------------------------------
@@ -88,7 +88,7 @@ CAS et 9-Lines                        | <ul><li>Le vol dans son ensemble note le
 Je me suis inspiré de [FFW-01 Formation à deux](https://www.ffw-01.fr/images/documentation/interne/divers/Formationa%20deux.pdf) et [C6 - Vol en formation](http://www.checksix-fr.com/files/F4AF/EDC/1-2-4%20Vol%20en%20formation.pdf)
 
 ## 2 et 3 février 2021 - entraînement 7 - Révisions
-<img src=/mission_01/session8_ps.png width=50% />
+<img src=/mission_01/session8_ps.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | -----------------------------------------------------------------------------
@@ -96,7 +96,7 @@ PS                                    | <ul><li>Régulation aux gaz<li>Plan des 
 FMO                                   | <ul><li>600 ft, 45°<li>étagement<li>RPM fixes et imitation</ul>
 FMD                                   | <ul><li>parallèles<li>surveillance mutuelle</ul>
 
-<img src=/mission_01/Screen_210203_222548.png width=50% />
+<img src=/mission_01/Screen_210203_222548.png class=decoration />
 
 Révisions générales (radio, plan de vol, décollage en patrouille, contact jtac, 9-LINE et tir, RTB). Type 2 et 3, TOT...
 
@@ -115,7 +115,7 @@ Les forces en présences sont les suivantes :
 - support aérien à l'est et interdiction aérienne: Russie
 - troupes au sol: USA, France, Pays-bas, Portugal
 
-<img src=/mission_01/mission_briefing.png width=50% />
+<img src=/mission_01/mission_briefing.png class=decoration />
 
 La mission:
 - Callsigns Uzi et Dodge

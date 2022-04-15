@@ -4,15 +4,26 @@ weight = 2
 +++
 
 <style>
-  .grille{
-    display: grid;
-    grid-template-columns: 20% 80%;
-
-    grid-row-gap: 1em;
-  }
-
-  .titre_generation {
-    grid-column: 1 / 4;
+  @media only all and (min-width: 90em) 
+  {
+    .grille {
+      display: grid;
+      grid-template-columns: 20% 80%;
+  
+      grid-row-gap: 1em;
+    }
+  
+    .titre_generation {
+      grid-column: 1 / 4;
+    }
+  
+    .aeronef {
+      grid-column: 1;
+    }
+  
+    .ressources {
+      grid-column: 2;
+    }
   }
 
   #body div .titre_generation img {
@@ -21,10 +32,6 @@ weight = 2
     height: 15em;
     margin: 0;
     margin-right: 1em;
-  }
-
-  .aeronef {
-    grid-column: 1;
   }
 
   .aeronef .titre .drapeau{
@@ -77,10 +84,6 @@ weight = 2
     vertical-align: top;
   }
 
-  .ressources {
-    grid-column: 2;
-  }
-
   .reportages {
     display: inline-block;
     padding: 0.2em;
@@ -96,7 +99,7 @@ weight = 2
 
 </style>
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/b/b8/Formation_of_a_Legacy%2C_Hertiage_flight_merges_aviation_past_and_present_86-16-51-22.jpg title="U.S. Air Force photo by J.M. Eddins Jr, Public domain, via Wikimedia Commons" width=40% />
+<img src=https://upload.wikimedia.org/wikipedia/commons/b/b8/Formation_of_a_Legacy%2C_Hertiage_flight_merges_aviation_past_and_present_86-16-51-22.jpg title="U.S. Air Force photo by J.M. Eddins Jr, Public domain, via Wikimedia Commons" class=decoration />
 
 Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat), ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).
 

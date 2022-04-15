@@ -43,7 +43,7 @@ SEAD                                  | Tirs SEAD en Self-Protect, en pallier ha
 Strike                                | Largage JDAM en pallier haute altitude sur coordonnées PP. BDA au pod sur un waypoint.
 
 ## 8 et 15 juin 2021 - entraînement 4 - Plan de vol
-<img src=/mission_03/entr4_hip2.png width=50% />
+<img src=/mission_03/entr4_hip2.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | ----------
@@ -52,7 +52,7 @@ Gérer le temps : en gagner            | Il est très difficile (presque impossi
 Gérer le temps : en perdre            | <img src=/mission_03/entr4_hip.png width=30% style="float: right; margin: 0 0 0 0;"/>Il est plus facile d'en perdre. On peut bien sûr ralentir (et pourquoi pas chercher le mode Endurance), mais attention à ne pas se mettre en danger en cas d'attaque surprise, la lenteur empêchant toute manœuvre. Souvent le plus raisonnable et de conserver une vitesse efficace et d'effectuer des figures (serpentins, triangles équilatéraux, tour complet, hippodromes). Un tour complet en taux standard dure 2 minutes. Un hippodrome standard est de 4 minutes : 1 minute par demi tour en taux standard, et 1 minute par arrête.
 
 ## 22 juin 2021 - entraînement 5 - Plan de vol, révisions
-<img src=/mission_03/entr5_turquie.png width=50% />
+<img src=/mission_03/entr5_turquie.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | ----------
@@ -60,7 +60,7 @@ Révisions                             | Suivre le FPAS (Range, Endurance, Climb
 Différentes altitudes                 | Le plan de vol comportait différentes altitudes, l'attention était portée sur la consommation calculée par le FPAS durant le vol.
 
 ## 29 juin 2021 - entraînement 6
-<img src=/mission_03/entr6_chypre.png width=50% />
+<img src=/mission_03/entr6_chypre.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | ----------

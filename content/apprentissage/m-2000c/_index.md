@@ -3,7 +3,7 @@ title = "Mirage 2000C"
 weight = 6
 +++
 
-<img src=/apprentissage/m2k_soleil.png width=50% />
+<img src=/apprentissage/m2k_soleil.png class=decoration />
 
 <div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
@@ -82,5 +82,5 @@ weight = 6
 {{< ressource-video-youtube "0lZgD_thj9Y" >}}
 </div>
 
-<img src=/apprentissage/m2k_pc.png width=50% />
+<img src=/apprentissage/m2k_pc.png class=decoration />
 

@@ -2,7 +2,7 @@
 title = "SU-25T Frogfoot"
 weight = 4
 +++
-<img src=/apprentissage/su25t_formation2.png width=50% />
+<img src=/apprentissage/su25t_formation2.png class=decoration />
 
 <div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
@@ -57,6 +57,6 @@ tableau récapitulatif des emports, aussi sur
 excellent !
 </div>
 
-<img src=/apprentissage/su25t_nuit_sur_piste.png width=50% />
+<img src=/apprentissage/su25t_nuit_sur_piste.png class=decoration />
 
-<img src=/apprentissage/su25t_formation.png width=50% />
+<img src=/apprentissage/su25t_formation.png class=decoration />

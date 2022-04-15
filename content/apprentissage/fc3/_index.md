@@ -21,7 +21,7 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 </div>
 
 ## SU-27, SU-33, J-11A, MiG-29A, MiG-29S, MiG-29G
-<img src=/apprentissage/su27_mer.png width=50% />
+<img src=/apprentissage/su27_mer.png class=decoration />
 
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
@@ -70,7 +70,7 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 </div>
 
 ## F-15C
-<img src=/apprentissage/f15c_feu.png width=50% />
+<img src=/apprentissage/f15c_feu.png class=decoration />
 
 <div class="contenu de_qualite"> <!-- Photun //-->
 {{< canal-youtube "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}

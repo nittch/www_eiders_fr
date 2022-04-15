@@ -6,7 +6,7 @@ weight = 1
 Seconde mission organisée par furiml.
 
 ## 23 février 2021 - entraînement 1
-<img src=/mission_02/commodore.png width=50% />
+<img src=/mission_02/commodore.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | ----------
@@ -16,7 +16,7 @@ Exercice 2                            | À faire entre les waypoints 2 et 3 (Dod
 
 
 ## 3 mars 2021 - entraînement 2
-<img src=/mission_02/baseturn.png width=50% />
+<img src=/mission_02/baseturn.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | ----------
@@ -26,7 +26,7 @@ Exercice                              | <img src=/mission_02/onspeed_45deg.png w
 
 
 ## 9 mars 2021 - entraînement 3
-<img src=/mission_02/toolow.png width=50% />
+<img src=/mission_02/toolow.png class=decoration />
 <center><i>Power... Power...</i></center>
 
 objectif                              | détails
@@ -35,7 +35,7 @@ Appontage simple (longue finale)      | <img src=/mission_02/carrier_names_nobg.
 Assistances et LSO                    | Les pilotes disposent de plusieurs aides afin de se placer sur la bonne trajectoire pour apponter : <br/><ul><li>IFLOLS (Improved Fresnel Lens Optical Landing System) :<ul><li>L'IFLOLS est un système situé à babord du navire et qui apporte de l'information sur la pente de l'avion. Il est constitué de deux lignes horizontales vertes, et de "the Ball" :<li>La Ball est un ensemble de lampes colorées situé entre les lignes vertes. Si la Ball est au dessus des lignes vertes, l'avion est au dessus de la pente idéale. Si la Ball est en dessous des lignes vertes, l'avion est en dessous de la pente idéale. Les deux lampes les plus basses sont rouges, ce qui signifie que l'avion est dangeureusement bas.<li>Cut lights, Waveoff lights (non implémenté).<li>L'IFLOLS est dynamiquement stabilisé pour compenser le tangage du navire.<li>Sur DCS, un overlay s'affiche pour assister le pilote lors de la pente finale.</ul><li>LRLLS (Long Range Laser Lineup System) :<ul><li>Le LRLLS est un laser multicolore de faible intensité installé à la proue du navire dont la fonction est d'indiquer aux pilotes leur aligner horizontal avec la piste avec un code couleur :<ul><li>Ambre fixe : 0,5° autour de l'axe<li>Vert fixe : 0,5° à 0,7° à droite de l'axe<li>Vert intermittent lent : 0,75° à 4° à droite de l'axe<li>Vert intermittent rapide : 4° à 6° à droite de l'axe<li>Rouge fixe : 0,5° 0,75° à gauche de l'axe<li>Rouge intermittent lent : 0,75° à 4° à gauche de l'axe<li>Rouge intermittent rapide : 4° à 6° à gauche de l'axe</ul><li>Le LRLLS est visible jusqu'à 10 nautiques la nuit.</ul><li><img src=/mission_02/navylso.jpeg width=30% style="float: right; margin: 0 0 0 0;">LSO (Landing Signal Officer)<ul><li>Le LSO est un pilote expérimenté en appontage qui donne à la radio des instructions au pilote en cours d'approche pour corriger sa pente ou son alignement<li>Il contrôle les cut lights et waveoff lights de l'IFLOLS ainsi que quelques lumières sur le pont<li>Suite à l'appontage, le LSO doit attribuer une note au pilote selon ses performances</ul></ul>
 
 ## 16 mars 2021 - entraînement 4
-<img src=/mission_02/yellowdog.png width=50% />
+<img src=/mission_02/yellowdog.png class=decoration />
 
 objectif                              | détails
 ------------------------------------- | ----------
@@ -44,7 +44,7 @@ CASE 1                                | Procédure CASE 1 réaliste décomposée
 Phraséologie                          | Dans un CASE 1, les avions ne sont pas identifiés par leur callsign mais par leur immatriculation. Celle-ci figure sur l'empennage et le nez des appareils. Ici, 025 pour exemple. Le porte avion porte le callsign Shamrock.<img src=/mission_02/lsophone.jpeg width=30% style="float: right; margin: 50 0 0 0"/><ul><li>Phase d'approche :<ul><li>A(vion) : Shamrock, 025, en approche dans vos 191° pour 56 nautiques. En patrouille avec 026 et 027, pétrole 6.2<br/><dd><i>On annonce le pétrole le plus bas du vol, en milliers de galons.</i></dd><li>Ap(proche) : 025, visibilité excellente. Quelques nuage épars à 12000 pieds. QNH 29.93, case 1, BRC prévu 091. Avisez en vue à 10</ul><li>Phase de contact visuel :<ul><li>A : Shamrock, 025, en vue à 10<li>Ap : 025, actualisez statut et passez avec la tour<li>A : 025, 5.7</ul><li>Phase de marshall :<ul><li>A : Tour, 025, overhead angels 5, en patrouille avec 026 et 027. Pétrole 5.5<br/><dd><i>Overhead signifie point n°1, mais on peut rejoindre le marshall depuis la direction que l'on préfère, tant qu'elle est tangeante au marshall.</i></dd><li>T(our) : Tour, reçu. BRC 091, signal Charlie</ul><li>Phase Charlie, communication interactive avec le LSO.</ul>
 
 ## 23 mars 2021 - entraînement 5
-<img src=/mission_02/magnum.png width=50% />
+<img src=/mission_02/magnum.png class=decoration />
 
 <b>Mission abort en raison d'un shortage d'avions.</b>
 

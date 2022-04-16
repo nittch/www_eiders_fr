@@ -2740,6 +2740,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 {{< ressource-video-youtube "DTQlsmkmFp4" >}} <!-- Chasse Embarquee -->
 {{< ressource-playlist-youtube "PLkToWNixl-3MKDli84ARCklq1aNiqvvLz" >}} <!-- Chasse Embarquee -->
 {{< ressource-video-youtube "vRVQw1vRgZY" >}}
+{{< ressource-video-youtube "iJw9jHGjH1w" >}} <!-- JG Marty Martinez -->
 </div>
 </div>
 

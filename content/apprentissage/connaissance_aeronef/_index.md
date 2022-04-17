@@ -3267,6 +3267,7 @@ Géométrie variable.
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
 {{< ressource-video-youtube "gHsxwaPDza8" >}}
 {{< ressource-video-youtube "PSwNVJYUXtw" >}}
+{{< ressource-video-youtube "UH07uffv26M" >}} <!-- 3D Mil-Tech -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "gEokB_9N0Aw" >}}

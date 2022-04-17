@@ -673,6 +673,7 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
   "U.S. Air Force, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende -->
+{{< ressource-video-youtube "hjsrqMe0B3s" >}} <!-- les ailes de legende -->
 </div>
 </div>
 

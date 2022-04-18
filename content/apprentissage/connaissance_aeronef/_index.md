@@ -176,8 +176,8 @@ De même, les rôles d'attaque au sol seront également assurés par une partie 
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":de:" "Messerschmitt" "Bf 109" "1937" "chasseur léger" >}}
 {{< exemplaires 34852 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Intercepteur" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Intercepteur" >}}
 <p>Testé avec succès pendant la guerre civile espagnole et jugé bon dogfighter. Un des deux principaux avions de supériorité aérienne allemand.</p>
 </div>
 <div class="ressources">
@@ -204,9 +204,9 @@ De même, les rôles d'attaque au sol seront également assurés par une partie 
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Hurricane" "1937" "chasseur léger" >}}
 {{< exemplaires 14583 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Intercepteur" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Intercepteur" >}}
+{{< role "Attaque au sol" >}}
 <p>Un des deux principaux avions de supériorité aérienne britannique.<br />
 Moins performant que le Spitfire, en seconde partie du conflit il a été relégué à l'attaque au sol mais devint ainsi l'un des deux meilleurs avions de mitraillage au sol britannique.</p>
 </div>
@@ -231,8 +231,8 @@ Moins performant que le Spitfire, en seconde partie du conflit il a été relég
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":gb:" "Supermarine" "Spitfire" "1938" "chasseur léger" >}}
 {{< exemplaires 20351 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Intercepteur" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Intercepteur" >}}
 <p>
 Un des deux principaux avions de supériorité aérienne britannique. <br />
 Il a été produit pendant toute la guerre.<br />
@@ -280,7 +280,7 @@ Version embarquée : Seafire.
 <div class="aeronef">
 {{< aeronef ":jp:" "Mitsubishi" "A6M Zéro" "1940" "chasseur léger, embarqué" >}}
 {{< exemplaires 10939 >}}
-{{< caracteristique "Supériorité aérienne" >}}
+{{< role "Supériorité aérienne" >}}
 <p>Le principal avion de supériorité aérienne japonais. Un modèle de maniabilité, il est le meilleur chasseur léger de la période. Excellent au début de la guerre, mais à la fin de celle-ci, son manque de puissance de feu et de blindage lui coutera cher.</p>
 </div>
 <div class="ressources">
@@ -338,8 +338,8 @@ Version embarquée : Seafire.
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "P-40 Warhawk" "1940" "chasseur" >}}
 {{< exemplaires 13738 >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Attaque au sol" >}}
 <p>D'avantage de puissance de feu et de blindage que l'A6M zéro.</p>
 </div>
 <div class="ressources">
@@ -362,9 +362,9 @@ Version embarquée : Seafire.
 <div class="aeronef">
 {{< aeronef ":de:" "Messerschmitt" "Bf 110" "1940" "chasseur lourd" >}}
 {{< exemplaires 6150 >}}
-{{< caracteristique "Chasseur de nuit" >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Chasseur de nuit" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Attaque au sol" >}}
 <p>Destiné à l'escorte, il sera moins performant que les Hurricane et Spitfire. Son rôle sera donc principalement la chasse de nuit et le bombardement léger.</p>
 </div>
 <div class="ressources">
@@ -388,10 +388,10 @@ Version embarquée : Seafire.
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufighter" "1940" "chasseur lourd" >}}
 {{< exemplaires 5928 >}}
-{{< caracteristique "Chasseur de nuit" >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Attaque au sol" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Chasseur de nuit" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Attaque au sol" >}}
+{{< role "Torpilleur" >}}
 <p>Basé sur le torpilleur Beaufort.</p>
 </div>
 <div class="ressources">
@@ -439,9 +439,9 @@ Efficace en basse altitude sur le front soviétique, dépassé par l'A6M Zéro d
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "P-38 Lightning" "1941" "chasseur lourd" >}}
 {{< exemplaires 10037 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Avion d'escorte longue distance" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Avion d'escorte longue distance" >}}
 <p>
 Maniable malgré sa taille, il est polyvalent.<br />
 Un des trois avions de supériorité aérienne américains.<br />
@@ -470,10 +470,10 @@ Version P-38M : chasseur de nuit.
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":de:" "Focke-Wulf" "Fw 190" "1941" "chasseur" >}}
 {{< exemplaires 20051 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Intercepteur" >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Intercepteur" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Attaque au sol" >}}
 <p>Un des deux principaux avions de supériorité aérienne allemand.<br />
 Bon chasseur-bombardier.</p>
 </div>
@@ -495,7 +495,7 @@ Bon chasseur-bombardier.</p>
 <div class="aeronef">
 {{< aeronef ":jp:" "Kawasaki" "Ki-45" "1941" "chasseur lourd" >}}
 {{< exemplaires 1701 >}}
-{{< caracteristique "Chasseur-bombardier" >}}
+{{< role "Chasseur-bombardier" >}}
 <p>L'équivalent japonais du Bf 110.</p>
 </div>
 <div class="ressources">
@@ -519,8 +519,8 @@ Bon chasseur-bombardier.</p>
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Typhoon" "1941" "chasseur" >}}
 {{< exemplaires 3317 >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Attaque au sol" >}}
 <p>
 Décevant en chasseur, il se révélera excellent en chasseur-bombardier.
 L'un des deux meilleurs avions de mitraillage au sol britannique.
@@ -625,9 +625,9 @@ Inférieur au Bf 109.
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Republic" "P-47 Thunderbolt" "1942" "chasseur" >}}
 {{< exemplaires 15660 >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Avion d'escorte" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Avion d'escorte" >}}
+{{< role "Attaque au sol" >}}
 <p>
 D'aspect massif, l'avion est robuste.<br />
 Un avion clé d'attaque au sol. Bon chasseur-bombardier.<br />
@@ -659,7 +659,7 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "North American" "P-51 Mustang" "1942" "chasseur léger" >}}
 {{< exemplaires 15586 >}}
-{{< caracteristique "Avion d'escorte longue distance" >}}
+{{< role "Avion d'escorte longue distance" >}}
 {{< caracteristique "Ailes à écoulement laminaire, réduisant la consommation" >}}
 <p>Le meilleur avion d'escorte de la période.</p>
 </div>
@@ -681,12 +681,13 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 <!-- Fighter aircraft: Heavily armed fighters such as Germany's Focke-Wulf Fw 190, Britain's Hawker Typhoon and Hawker Tempest, and America's Curtiss P-40, F4 Corsair, P-47 Thunderbolt and P-38 Lightning all excelled as fighter-bombers, and since the Second World War ground attack has become an important secondary capability of many fighters. -->
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <!-- Close air support: The American Navy and Marine Corps used CAS in conjunction with or as a substitute for the lack of available artillery or naval gunfire in the Pacific theater. Navy and Marine F6F Hellcats and F4U Corsairs used a variety of ordnance such as conventional bombs, rockets and napalm to dislodge or attack Japanese troops using cave complexes in the latter part of the Second World War. -->
+<!-- Close air support: The Royal Navy Hawker Sea Fury fighters and the U.S. Vought F4U Corsair and Douglas A-1 Skyraider were operated in a ground attack capacity during the Korean War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur embarqué" >}}
 {{< exemplaires 12571 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Chasseur-bombardier" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "Attaque au sol" >}}
 <p>
 Aile en mouette inversée (W). <br />
 Supérieur à l'A6M Zéro sur tous les aspects à part la maneuverabilité.<br />
@@ -774,8 +775,8 @@ Un appareil rattrapant le retard soviétique, équivalent aux Bf 109 ou Fw 190.
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "F6F Hellcat" "1943" "chasseur embarqué" >}}
 {{< exemplaires 12275 >}}
-{{< caracteristique "Supériorité aérienne" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Attaque au sol" >}}
 <p>
 Supérieur à l'A6M Zéro sur tous les aspects à part la maneuverabilité.<br />
 Un des trois avions de supériorité aérienne américain.
@@ -895,7 +896,7 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 <div class="aeronef">
 {{< aeronef ":us:" "Northrop" "P-61 Black Widow" "1944" "chasseur lourd">}}
 {{< exemplaires 706 >}}
-{{< caracteristique "Chasseur de nuit" >}}
+{{< role "Chasseur de nuit" >}}
 <p>Premier chasseur américain conçu pour être un chasseur de nuit.</p>
 </div>
 <div class="ressources">
@@ -927,8 +928,8 @@ Les évolutions techniques, en particulier l'arrivée des roquettes et des viseu
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 87 Stuka" "1936" "bombardier en piqué" >}}
 {{< exemplaires 6000 >}}
-{{< caracteristique "Bombardier en piqué" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Bombardier en piqué" >}}
+{{< role "Attaque au sol" >}}
 <p>
 Utilisé massivement à l'ouverture de la guerre.<br />
 Le meilleur avion allemand de mitraillage au sol.<br />
@@ -958,7 +959,7 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <div class="aeronef">
 {{< aeronef ":jp:" "Aichi" "D3A Val" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 1495 >}}
-{{< caracteristique "Bombardier en piqué" >}}
+{{< role "Bombardier en piqué" >}}
 <p>
 A coulé plus de navire que n'importe quel autre avion de l'axe.<br />
 Limité en vitesse.
@@ -982,8 +983,8 @@ Limité en vitesse.
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "SDB Dauntless / A-24 Banshee" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 5936 >}}
-{{< caracteristique "Bombardier en piqué" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Bombardier en piqué" >}}
+{{< role "Attaque au sol" >}}
 <p>
 A coulé plus de navire que n'importe quel autre avion allié.<br />
 Limité en vitesse.
@@ -1007,8 +1008,8 @@ Limité en vitesse.
 <div class="aeronef">
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier en piqué" >}}
 {{< exemplaires 11427 >}}
-{{< caracteristique "Attaque au sol" >}}
-{{< caracteristique "Bombardier en piqué" >}}
+{{< role "Attaque au sol" >}}
+{{< role "Bombardier en piqué" >}}
 <p>
 Variante Pe-3 chasseur de nuit.
 </p>
@@ -1029,7 +1030,7 @@ Variante Pe-3 chasseur de nuit.
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-36 Invader/Apache" "1941" "attaque au sol, bombardier en piqué" >}}
 {{< exemplaires 500 >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Attaque au sol" >}}
 <p>Version d'attaque du P-51 Mustang.</p>
 </div>
 <div class="ressources">
@@ -1083,8 +1084,8 @@ Variante Pe-3 chasseur de nuit.
 <div class="aeronef">
 {{< aeronef ":us:" "Curtiss" "SB2C Helldiver" "1943" "bombardier en piqué, embarqué" >}}
 {{< exemplaires 7140 >}}
-{{< caracteristique "Attaque au sol" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Attaque au sol" >}}
+{{< role "Torpilleur" >}}
 <p>Rapide. Arrivé tard dans la guerre, à un moment où les bombardiers en piqués étaient moins importants.</p>
 </div>
 <div class="ressources">
@@ -1130,7 +1131,7 @@ Leur rôle de bombardier tactique a aussi évolué et se dirigea de plus en plus
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Blenheim" "1937" "bombardier rapide" >}}
 {{< exemplaires 4422 >}}
-{{< caracteristique "Chasseur de nuit" >}}
+{{< role "Chasseur de nuit" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1168,8 +1169,8 @@ Leur rôle de bombardier tactique a aussi évolué et se dirigea de plus en plus
 <div class="aeronef">
 {{< aeronef ":de:" "Dornier" "Do 17" "1937" "bombardier léger, chasseur de nuit, reconnaissance" >}}
 {{< exemplaires 1994 >}}
-{{< caracteristique "Chasseur de nuit" >}}
-{{< caracteristique "Bombardier haute altitude" >}}
+{{< role "Chasseur de nuit" >}}
+{{< role "Bombardier haute altitude" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1190,9 +1191,9 @@ Leur rôle de bombardier tactique a aussi évolué et se dirigea de plus en plus
 {{< aeronef ":gb:" "de Havilland" "DH.98 Mosquito" "1941" "bombardier léger / multirôle" >}}
 {{< exemplaires 7781 >}}
 {{< caracteristique "Multirôle" >}}
-{{< caracteristique "Chasseur de nuit" >}}
 {{< caracteristique "Faible emprunte radar" >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Chasseur de nuit" >}}
+{{< role "Attaque au sol" >}}
 <p>
 Difficile à intercepter car très rapide.<br />
 Des versions Gunship.</p>
@@ -1226,7 +1227,7 @@ Ce rôle sera assuré par des avions spécialisés, en particulier avec du blind
 <div class="aeronef">
 {{< aeronef ":ru:" "Iliouchine" "Il-2 Chtourmovik" "1941" "attaque au sol" >}}
 {{< exemplaires 36183 >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Attaque au sol" >}}
 <p>Blindé. Un des avions clés soviétique pour l'attaque au sol.</p>
 </div>
 <div class="ressources">
@@ -1248,9 +1249,9 @@ Ce rôle sera assuré par des avions spécialisés, en particulier avec du blind
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-20 Havoc / DB-7" "1941" "attaque au sol, bombardier léger, chasseur nocturne" >}}
 {{< exemplaires 7476 >}}
-{{< caracteristique "Chasseur de nuit" >}}
-{{< caracteristique "Attaque au sol" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Chasseur de nuit" >}}
+{{< role "Attaque au sol" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1270,7 +1271,7 @@ Ce rôle sera assuré par des avions spécialisés, en particulier avec du blind
 <div class="aeronef">
 {{< aeronef ":de:" "Henschel" "Hs 129" "1942" "attaque au sol" >}}
 {{< exemplaires 865 >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Attaque au sol" >}}
 <p>Blindé, un canon très puissant.</p>
 </div>
 <div class="ressources">
@@ -1289,7 +1290,7 @@ Ce rôle sera assuré par des avions spécialisés, en particulier avec du blind
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-26 Invader" "1944" "attaque au sol" >}}
 {{< exemplaires 2450 >}}
-{{< caracteristique "Attaque au sol" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1350,8 +1351,8 @@ La classe deux tonnes de charge.
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 111" "1937" "bombardier moyen" >}}
 {{< exemplaires 7300 >}}
-{{< caracteristique "Bombardier haute altitude" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Bombardier haute altitude" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1370,7 +1371,7 @@ La classe deux tonnes de charge.
 <div class="aeronef">
 {{< aeronef ":gb:" "Vickers" "Wellington" "1938" "bombardier moyen, patrouilleur maritime" >}}
 {{< exemplaires 11461 >}}
-{{< caracteristique "Patrouille maritime" >}}
+{{< role "Patrouille maritime" >}}
 <p>Une fois devenu obsolète, il sera utilisé en patrouilleur maritime.</p>
 </div>
 <div class="ressources">
@@ -1397,10 +1398,10 @@ La classe deux tonnes de charge.
 {{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen / multirôle" >}}
 {{< exemplaires 15183 >}}
 {{< caracteristique "Multirôle" >}}
-{{< caracteristique "Chasseur de nuit" >}}
-{{< caracteristique "Bombardier haute altitude" >}}
-{{< caracteristique "Bombardier en piqué" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Chasseur de nuit" >}}
+{{< role "Bombardier haute altitude" >}}
+{{< role "Bombardier en piqué" >}}
+{{< role "Torpilleur" >}}
 <p>Des versions Gunship.</p>
 </div>
 <div class="ressources">
@@ -1423,8 +1424,8 @@ La classe deux tonnes de charge.
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "B-25 Mitchell" "1941" "bombardier moyen" >}}
 {{< exemplaires 9984 >}}
-{{< caracteristique "Attaque au sol" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Attaque au sol" >}}
+{{< role "Torpilleur" >}}
 <p>Un avion clé d'attaque au sol.<br />Des versions Gunship.</p>
 </div>
 <div class="ressources">
@@ -1444,7 +1445,7 @@ La classe deux tonnes de charge.
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-2 Bat" "1941" "bombardier moyen" >}}
 {{< exemplaires 2257 >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1479,7 +1480,7 @@ La classe deux tonnes de charge.
 <div class="aeronef">
 {{< aeronef ":jp:" "Mitsubishi" "G4M Betty" "1941" "bombardier moyen, torpilleur" >}}
 {{< exemplaires 2435 >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1497,7 +1498,7 @@ La classe deux tonnes de charge.
 <div class="aeronef">
 {{< aeronef ":de:" "Dornier" "Do 217" "1941" "bombardier moyen, lourd, chasseur de nuit" >}}
 {{< exemplaires 1925 >}}
-{{< caracteristique "Chasseur de nuit" >}}
+{{< role "Chasseur de nuit" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1525,7 +1526,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "PBY Catalina" "1936" "hydravion de patrouille et de bombardement" >}}
 {{< exemplaires 3308 >}}
-{{< caracteristique "Patrouille maritime" >}}
+{{< role "Patrouille maritime" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1545,7 +1546,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":gb:" "Short" "S.25 Sunderland" "1938" "hydravion de patrouille et de bombardement" >}}
 {{< exemplaires 749 >}}
-{{< caracteristique "Patrouille maritime" >}}
+{{< role "Patrouille maritime" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1564,7 +1565,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":jp:" "Nakajima" "B5N Kate" "1939" "bombardier-torpilleur embarqué" >}}
 {{< exemplaires 1149 >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1582,7 +1583,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":gb:" "Bristol" "Beaufort" "1939" "torpilleur" >}}
 {{< exemplaires 1121 >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1600,7 +1601,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":us:" "Martin" "PBM Mariner" "1940" "hydravion de patrouille et de bombardement" >}}
 {{< exemplaires 1366 >}}
-{{< caracteristique "Patrouille maritime" >}}
+{{< role "Patrouille maritime" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1618,7 +1619,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":us:" "Grumman" "TBF Avenger" "1942" "bombardier torpilleur embarqué" >}}
 {{< exemplaires 9836 >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Torpilleur" >}}
 <p>Il a participé au torpillage des cuirassés Yamato et Musashi.</p>
 </div>
 <div class="ressources">
@@ -1638,8 +1639,8 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":gb:" "Fairey" "Barracuda" "1943" "bombardier torpilleur, bombardier en piqué, embarqué" >}}
 {{< exemplaires 2602 >}}
-{{< caracteristique "Bombardier en piqué" >}}
-{{< caracteristique "Torpilleur" >}}
+{{< role "Bombardier en piqué" >}}
+{{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -1718,7 +1719,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 <div class="aeronef">
 {{< aeronef ":us:" "Consolidated" "B-24 Liberator" "1941" "bombardier lourd, chasseur de sous marin" >}}
 {{< exemplaires 18482 >}}
-{{< caracteristique "Patrouille maritime" >}}
+{{< role "Patrouille maritime" >}}
 <p>Sa grande autonomie pour l'époque en fera un bon patrouilleur maritime.</p>
 </div>
 <div class="ressources">
@@ -1755,7 +1756,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 177 Greif" "1942" "bombardier lourd longue distance" >}}
 {{< exemplaires 1169 >}}
-{{< caracteristique "Bombardier en piqué" >}}
+{{< role "Bombardier en piqué" >}}
 <p>Le seul bombardier stratégique allemand.</p>
 </div>
 <div class="ressources">
@@ -2073,11 +2074,13 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 </div>
 
+<!-- Interceptor aircraft: Examples of classic interceptors of this era include the Convair F-106 Delta Dart, Sukhoi Su-15, and English Electric Lightning. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Convair" "F-106 Delta Dart" "1959" "intercepteur" >}}
 {{< mach 2.39 >}}
 {{< caracteristique "missiles air-air nucléaires" >}}
 {{< caracteristique "Datalink SAGE" >}}
+{{< role "Intercepteur" >}}
 <p>Utilisation d'une aile delta, mach 2.3.</p>
 </div>
 <div class="ressources">
@@ -2153,9 +2156,11 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 </div>
 
+<!-- Interceptor aircraft: Examples of classic interceptors of this era include the Convair F-106 Delta Dart, Sukhoi Su-15, and English Electric Lightning. -->
 <div class="aeronef">
 {{< aeronef ":gb:" "English Electric" "Lightning" "1960" "intercepteur" >}}
 {{< mach 2.3 >}}
+{{< role "Intercepteur" >}}
 <p>Biréacteur, l'un au dessus de l'autre.</p>
 </div>
 <div class="ressources">
@@ -2278,9 +2283,11 @@ Neuf points d'emports.</p>
 </div>
 </div>
 
+<!-- Interceptor aircraft: Examples of classic interceptors of this era include the Convair F-106 Delta Dart, Sukhoi Su-15, and English Electric Lightning. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-15 Flagon" "1967" "intercepteur" >}}
 {{< mach 2.5 >}}
+{{< role "Intercepteur" >}}
 <p>Delta. Basé sur le Su-9. Bi-réacteur.</p>
 </div>
 <div class="ressources">
@@ -2321,9 +2328,11 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
+<!-- Interceptor aircraft: Dedicated interceptor designs became rare, with the only widely used examples designed after the 1960s being the Panavia Tornado ADV, Mikoyan MiG-25, Mikoyan MiG-31, and the Shenyang J-8. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-25 Foxbat" "1972" "interception et reconnaissance" >}}
 {{< mach 3.2 >}}
+{{< role "Intercepteur" >}}
 <p>Très rapide.</p>
 </div>
 <div class="ressources">
@@ -2342,10 +2351,12 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":sweden:" "Saab" "37 Viggen" "1972" "attaque, chasse, reconnaissance" >}}
 {{< mach 2.1 >}}
 {{< caracteristique "atterrissage court (inversion de poussée)" >}}
+{{< role "Avion d'interdiction" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2453,9 +2464,11 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" "multirôle, supériorité aérienne" >}}
 {{< mach 2.05 >}}
+{{< role "Attaque au sol" >}}
 <p>Commandes de vol électriques</p>
 </div>
 <div class="ressources">
@@ -2479,9 +2492,11 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
+<!-- Interceptor aircraft: Dedicated interceptor designs became rare, with the only widely used examples designed after the 1960s being the Panavia Tornado ADV, Mikoyan MiG-25, Mikoyan MiG-31, and the Shenyang J-8. -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-31 Foxhound" "1981" "intercepteur et attaque" >}}
 {{< mach 2.83 >}}
+{{< role "Intercepteur" >}}
 <p>
 Basé sur le MiG-25, très rapide.<br />
 Premier avion avec radar PESA<br />
@@ -2529,9 +2544,11 @@ Variante MiG-29K : embarqué.</p>
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué, multirôle" >}}
 {{< mach 1.8 >}}
+{{< role "Attaque au sol" >}}
 <p>Commandes de vol électriques</p>
 </div>
 <div class="ressources">
@@ -2551,9 +2568,13 @@ Variante MiG-29K : embarqué.</p>
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage 2000" "1984" "intercepteur, puis multirôle" >}}
 {{< mach 2.2 >}}
+{{< role "Attaque au sol" >}}
+{{< role "Avion d'interdiction" >}}
 <p>Commandes de vol électriques</p>
 </div>
 <div class="ressources">
@@ -2615,9 +2636,11 @@ Variantes : <ul>
 </div>
 </div>
 
+<!-- Interceptor aircraft: Dedicated interceptor designs became rare, with the only widely used examples designed after the 1960s being the Panavia Tornado ADV, Mikoyan MiG-25, Mikoyan MiG-31, and the Shenyang J-8. -->
 <div class="aeronef">
 {{< aeronef ":gb:/:de:" "Panavia" "Tornado ADV" "1985" "intercepteur" >}}
 {{< mach 2.2 >}}
+{{< role "Intercepteur" >}}
 <p>
 Géométrie variable. Basé sur le Tornado.<br />
 <i>ADV = Air Defense Variant.</i>
@@ -2668,9 +2691,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </ul>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "F/A-18E/F Super Hornet" "1995" "embarqué" >}}
 {{< mach 1.8 >}}
+{{< role "Attaque au sol" >}}
 <p>Basé sur le F/A-18.</p>
 </div>
 <div class="ressources">
@@ -2972,8 +2997,10 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 <h2>Avions d'attaque au sol et d'interdiction (bombardiers tactiques)</h2>
 </div>
 
+<!-- Close air support: The Royal Navy Hawker Sea Fury fighters and the U.S. Vought F4U Corsair and Douglas A-1 Skyraider were operated in a ground attack capacity during the Korean War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-1 Skyraider / AD Skyraider" "1946" "attaque au sol et appui tactique, embarqué" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3004,9 +3031,11 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef">
 {{< aeronef ":gb:" "English Electric" "Canberra" "1951" "bombardier moyen / reconnaissance" >}}
 {{< exemplaires 949 >}}
+{{< role "Avion d'interdiction" >}}
 <p>Martin B-57 Canberra sous licence.</p>
 </div>
 <div class="ressources">
@@ -3038,9 +3067,11 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Republic" "F-105 Thunderchief" "1958" "chasseur bombardier" >}}
 {{< mach 2.08 >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3072,8 +3103,10 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Étendard IV" "1962" "embarqué" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3087,9 +3120,10 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
-
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-6 Intruder" "1963" "embarqué" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3103,10 +3137,30 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Close air support: [...]Some commentators have remarked on the high effectiveness of the AC-47 in the CAS role.[48][49] The USAF developed several other platforms following on from the AC-47, including the Fairchild AC-119 and the Lockheed AC-130. -->
+<div class="aeronef">
+{{< aeronef ":us:" "Douglas" "AC-47 Spooky" "1965" "gunship d'attaque au sol" >}}
+{{< role "Attaque au sol" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Douglas_AC-47_Spooky"
+  "https://en.wikipedia.org/wiki/Douglas_AC-47_Spooky"
+  "https://www.avionslegendaires.net/avion-militaire/douglas-ac-47-spooky/"
+  "https://upload.wikimedia.org/wikipedia/commons/a/af/Douglas_AC-47D_4SOS_Sep1968.jpg"
+  "U.S. Air Force, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef">
 {{< aeronef ":us:" "General Dynamics" "F-111 Aardvark" "1967" "bombardier tout-temps" >}}
 {{< mach 2.5 >}}
+{{< role "Avion d'interdiction" >}}
+{{< role "Attaque au sol" >}}
 <p>géométrie variable, radar de suivi de terrain automatique</p>
 </div>
 <div class="ressources">
@@ -3122,8 +3176,10 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Ling-Temco-Vought" "A-7 Corsair II" "1967" "embarqué" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3153,8 +3209,27 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Close air support: [...]Some commentators have remarked on the high effectiveness of the AC-47 in the CAS role.[48][49] The USAF developed several other platforms following on from the AC-47, including the Fairchild AC-119 and the Lockheed AC-130. -->
+<div class="aeronef">
+{{< aeronef ":us:" "Fairchild" "AC-119G Shadow/AC-119K Stinger" "1968" "gunship d'attaque au sol" >}}
+{{< role "Attaque au sol" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Fairchild_AC-119"
+  "https://en.wikipedia.org/wiki/Fairchild_AC-119"
+  "https://www.avionslegendaires.net/avion-militaire/fairchild-ac-119-shadow-stinger/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/AC-119G_of_17th_SOS_over_Tan_Son_Nhut_Air_Base_1969.jpg"
+  "U.S. Air Force photo 342-C-KE-37296, Public domain, via Wikimedia Commons"
+>}}
+</div>
+</div>
+
+<!-- Close air support: [...]Some commentators have remarked on the high effectiveness of the AC-47 in the CAS role.[48][49] The USAF developed several other platforms following on from the AC-47, including the Fairchild AC-119 and the Lockheed AC-130. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "AC-130 Spectre" "1968" "gunship d'attaque au sol et appui aérien rapproché" >}}
+{{< role "Attaque au sol" >}}
 <p>variante du C-130 Hercules</p>
 </div>
 <div class="ressources">
@@ -3170,10 +3245,12 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker Siddeley" "Harrier" "1969" "embarqué" >}}
 {{< caracteristique "manœvrabilité (VIFFing = Vector in Forward Flight)" >}}
 {{< caracteristique "decollage vertical" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3209,9 +3286,11 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef">
 {{< aeronef ":fr:/:gb:" "SEPECAT" "Jaguar" "1973" "avion d'attaque" >}}
 {{< mach 1.6 >}}
+{{< role "Avion d'interdiction" >}}
 <p>attaque au sol</p>
 </div>
 <div class="ressources">
@@ -3228,9 +3307,11 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-24 Fencer" "1974" "bombardier supersonique" >}}
 {{< mach 1.6 >}}
+{{< role "Avion d'interdiction" >}}
 <p>
 Premier appareil soviétique équipé d'un système de navigation et d'attaque numérique.<br />
 Géométrie variable.
@@ -3248,8 +3329,13 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Strafing: The A-10 Thunderbolt II is an American twin-engine, straight-wing jet aircraft developed by Fairchild-Republic in the early 1970s which is the only United States Air Force aircraft designed solely for close air support of ground forces. The A-10 was built to attack tanks, armored vehicles, and other ground targets with limited air defenses, often through strafing. -->
+<!-- Close air support: Usually close support is thought to be only carried out by fighter-bombers or dedicated ground-attack aircraft, such as the A-10 Thunderbolt II (Warthog) or Su-25 (Frogfoot), but even large high-altitude bombers have successfully filled close support roles using precision-guided munitions. During Operation Enduring Freedom, the lack of fighter aircraft forced military planners to rely heavily on US bombers, particularly the B-1B Lancer, to fill the CAS role. -->
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Fairchild Republic" "A-10 Thunderbold II / Warthog" "1975" "attaque au sol et appui tactique" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3275,9 +3361,11 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Super Étendard" "1978" "embarqué" >}}
 {{< mach 1.3 >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3295,8 +3383,11 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Close air support: Usually close support is thought to be only carried out by fighter-bombers or dedicated ground-attack aircraft, such as the A-10 Thunderbolt II (Warthog) or Su-25 (Frogfoot), but even large high-altitude bombers have successfully filled close support roles using precision-guided munitions. During Operation Enduring Freedom, the lack of fighter aircraft forced military planners to rely heavily on US bombers, particularly the B-1B Lancer, to fill the CAS role. -->
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":ru:" "Soukhoï" "Su-25 Frogfoot" "1981" >}}
+{{< role "Attaque au sol" >}}
 <p>Une variante Su-39...</p>
 </div>
 <div class="ressources">
@@ -3315,9 +3406,14 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":de:/:it:/:gb:" "Panavia" "Tornado" "1982" >}}
 {{< mach 2.34 >}}
+{{< role "Attaque au sol" >}}
+{{< role "Avion d'interdiction" >}}
 <p>géométrie variable</p>
 </div>
 <div class="ressources">
@@ -3333,11 +3429,13 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "AV-8B Harrier II" "1983" "embarqué" >}}
 {{< caracteristique "manœvrabilité (VIFFing = Vector in Forward Flight)" >}}
 {{< caracteristique "decollage vertical" >}}
 {{< caracteristique "FLIR" >}}
+{{< role "Attaque au sol" >}}
 <p>évolution du Hawker Siddeley Harrier</p>
 </div>
 <div class="ressources">
@@ -3352,9 +3450,11 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-117 Nighthawk" "1983" "attaque au sol" >}}
 {{< caracteristique "furtif" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3370,8 +3470,10 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":it:/:brazil:" "AMX International" "AMX" "1988" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3385,9 +3487,11 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
+{{< role "Attaque au sol" >}}
 <p>Basé sur le F-15.</p>
 </div>
 <div class="ressources">
@@ -3402,9 +3506,11 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
 {{< mach 1.8 >}}
+{{< role "Avion d'interdiction" >}}
 <p>Basé sur le Su-27.</p>
 </div>
 <div class="ressources">
@@ -3518,8 +3624,10 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_de_p%C3%A9n%C3%A9tration -->
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "B-52 Stratofortress" "1955" "bombardier stratégique lourd à long rayon d'action" >}}
+{{< role "Avion de pénétration" >}}
 <p>Huit réacteurs.</p>
 </div>
 <div class="ressources">
@@ -3552,8 +3660,10 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "A-3 Skywarrior" "1956" "bombardier stratégique embarqué" >}}
+{{< role "Attaque au sol" >}}
 <p>Bombe atomique, guerre électronique, ravitailleur.</p>
 </div>
 <div class="ressources">
@@ -3634,8 +3744,12 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "A-5 Vigilante" "1961" "embarqué, dissuasion nucléaire et reconnaissance" >}}
+{{< role "Avion d'interdiction" >}}
+{{< role "Attaque au sol" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3699,8 +3813,10 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_de_p%C3%A9n%C3%A9tration -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-22M Backfire (Tu-26)" "1972" "bombardier lourd supersonique à long rayon d'action" >}}
+{{< role "Avion de pénétration" >}}
 <p>géométrie variable.</p>
 </div>
 <div class="ressources">
@@ -3717,8 +3833,12 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_de_p%C3%A9n%C3%A9tration -->
+<!-- Close air support: Usually close support is thought to be only carried out by fighter-bombers or dedicated ground-attack aircraft, such as the A-10 Thunderbolt II (Warthog) or Su-25 (Frogfoot), but even large high-altitude bombers have successfully filled close support roles using precision-guided munitions. During Operation Enduring Freedom, the lack of fighter aircraft forced military planners to rely heavily on US bombers, particularly the B-1B Lancer, to fill the CAS role. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Rockwell" "B-1 Lancer" "1986" "bombardier stratégique supersonique à long rayon d'action" >}}
+{{< role "Avion de pénétration" >}}
+{{< role "Attaque au sol" >}}
 <p>géométrie variable</p>
 </div>
 <div class="ressources">
@@ -3736,8 +3856,10 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_de_p%C3%A9n%C3%A9tration -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Tupolev" "Tu-160 Blackjack" "1987" "bombardier stratégique supersonique lourd" >}}
+{{< role "Avion de pénétration" >}}
 <p>le plus gros et lourd avion de combat au monde, mach 2.1</p>
 </div>
 <div class="ressources">
@@ -3755,9 +3877,12 @@ Géométrie variable.
 </div>
 </div>
 
+<!-- Cité sur https://fr.wikipedia.org/wiki/Avion_de_p%C3%A9n%C3%A9tration -->
+<!-- Avion de pénétration: Des conceptions plus modernes, comme le bombardier furtif Northrop B-2 Spirit peuvent techniquement être qualifiés de pénétrateurs, mais ce terme ne leur est que rarement attribué. Toutefois, la mission de son successeur programmé, le Next-Generation Bomber (en) a été décrite comme étant « pénétrer et persister » (en anglais : « penetrate and persist »)4. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Northrop" "B-2 Spirit" "1997" "bombardier stratégique" >}}
 {{< caracteristique "furtif" >}}
+{{< role "Avion de pénétration" >}}
 <p>aile volante, l'avion le plus cher au monde</p>
 </div>
 <div class="ressources">

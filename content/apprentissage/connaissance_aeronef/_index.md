@@ -818,6 +818,7 @@ Un des trois avions de supériorité aérienne américain.
 <div class="aeronef">
 {{< aeronef ":gb:" "Hawker" "Tempest" "1944" "chasseur" >}}
 {{< exemplaires 1702 >}}
+{{< role "Chasseur-bombardier" >}}
 <p>Basé sur le Typhoon.</p>
 </div>
 <div class="ressources">
@@ -928,7 +929,7 @@ Les évolutions techniques, en particulier l'arrivée des roquettes et des viseu
 <div class="aeronef">
 {{< aeronef ":de:" "Junkers" "Ju 87 Stuka" "1936" "bombardier en piqué" >}}
 {{< exemplaires 6000 >}}
-{{< role "Bombardier en piqué" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< role "Attaque au sol" >}}
 <p>
 Utilisé massivement à l'ouverture de la guerre.<br />
@@ -959,7 +960,7 @@ Une sirène pour terroriser les populations lors du piqué.<br />Des versions Gu
 <div class="aeronef">
 {{< aeronef ":jp:" "Aichi" "D3A Val" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 1495 >}}
-{{< role "Bombardier en piqué" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 <p>
 A coulé plus de navire que n'importe quel autre avion de l'axe.<br />
 Limité en vitesse.
@@ -983,7 +984,7 @@ Limité en vitesse.
 <div class="aeronef">
 {{< aeronef ":us:" "Douglas" "SDB Dauntless / A-24 Banshee" "1940" "bombardier en piqué embarqué" >}}
 {{< exemplaires 5936 >}}
-{{< role "Bombardier en piqué" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< role "Attaque au sol" >}}
 <p>
 A coulé plus de navire que n'importe quel autre avion allié.<br />
@@ -1008,8 +1009,8 @@ Limité en vitesse.
 <div class="aeronef">
 {{< aeronef ":ru:" "Petliakov" "Pe-2 Buck" "1941" "bombardier en piqué" >}}
 {{< exemplaires 11427 >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< role "Attaque au sol" >}}
-{{< role "Bombardier en piqué" >}}
 <p>
 Variante Pe-3 chasseur de nuit.
 </p>
@@ -1398,9 +1399,9 @@ La classe deux tonnes de charge.
 {{< aeronef ":de:" "Junkers" "Ju 88" "1939" "bombardier moyen / multirôle" >}}
 {{< exemplaires 15183 >}}
 {{< caracteristique "Multirôle" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< role "Chasseur de nuit" >}}
 {{< role "Bombardier haute altitude" >}}
-{{< role "Bombardier en piqué" >}}
 {{< role "Torpilleur" >}}
 <p>Des versions Gunship.</p>
 </div>
@@ -1639,7 +1640,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 <div class="aeronef">
 {{< aeronef ":gb:" "Fairey" "Barracuda" "1943" "bombardier torpilleur, bombardier en piqué, embarqué" >}}
 {{< exemplaires 2602 >}}
-{{< role "Bombardier en piqué" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 {{< role "Torpilleur" >}}
 </div>
 <div class="ressources">
@@ -1756,7 +1757,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 <div class="aeronef">
 {{< aeronef ":de:" "Heinkel" "He 177 Greif" "1942" "bombardier lourd longue distance" >}}
 {{< exemplaires 1169 >}}
-{{< role "Bombardier en piqué" >}}
+{{< caracteristique "Bombardier en piqué" >}}
 <p>Le seul bombardier stratégique allemand.</p>
 </div>
 <div class="ressources">

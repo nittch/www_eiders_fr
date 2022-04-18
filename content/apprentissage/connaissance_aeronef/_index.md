@@ -103,6 +103,61 @@ weight = 2
 
 Il est commun de classer les jets par [génération](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_des_avions_de_combat), ici nous suivons la classification Wikipédia (inspirée d'Aerospaceweb).
 
+Pour le nomage des appareils, voici ce qui est suivi (chaque catégorie pouvant être légère, moyenne, lourde... furtive... embarquée... de nuit, tout temps...) :
+
+<table>
+<tr>
+<th>Type</th>
+<th>Mission</th>
+<th>Nommage de l'avion</th>
+</tr>
+
+<tr>
+<td rowspan=3>chasse = air-air</td>
+<td>combat aérien (manœvrabilité, puissance de feu)</td>
+<td>avion de supériorité aérienne</td>
+</tr>
+
+<tr>
+<td>interception (vitesse pure, altitude maximale, vitesse ascensionnelle)</td>
+<td>intercepteur</td>
+</tr>
+
+<tr>
+<td>protéger les bombardiers amis (autonomie importante)</td>
+<td>chasseur stratégique :<ul><li>escorteur (si proche des bombardiers amis)<li> chasseur de pénétration (si cherchant les intercepteurs ennemis)</ul></td>
+</tr>
+
+<tr>
+<td rowspan=4>bombardement de cibles au sol militaires</td>
+<td>bombardement de cibles menaçantes :<ul><li>Appui tactique = CAS<li>mitraillage au sol = strafing</ul></td>
+<td><ul><li>avion d'attaque au sol<li>avion d'appui tactique<li>avion de lutte anti-guérilla = lutte anti-insurrectionnelle = COIN aircraft (si faible intensité)</ul></td>
+</tr>
+
+<tr>
+<td>bombardement de cibles logistiques = interdiction, ou frappes aériennes ciblées = strike</td>
+<td>bombardier tactique :<ul><li>avion d'interdiction (si vol en très basse altitude)<li>chasseur d'attaque = strike aircraft (si supériorité air-air)</li></td>
+</tr>
+
+<tr>
+<td>attaque de défenses anti-aériennes = SEAD</td>
+<td>avion de guerre électronique (FIXME)</td>
+</tr>
+
+<tr>
+<td>attaque de navires ou cibles de surface</td>
+<td><ul><li>torpilleur<li>avion de lute anti-sous-marine<li>patrouilleur maritime (quelque fois avec capacité d'engagement)</ul></td>
+</tr>
+
+<tr>
+<td rowspan=2>bombardement de cibles au sol civiles</td>
+<td>bombardement massif (tapis de bombes = carpet bombing) ou non conventionnel</td>
+<td>bombardier stratégique : <ul><li>avion de pénétration (si l'avion est de grande taille et vole en très basse altitude)</ul>
+</td>
+</tr>
+
+</table>
+
 <div class="grille">
 
 <div class="titre_generation">

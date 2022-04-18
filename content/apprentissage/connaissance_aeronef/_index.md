@@ -3260,12 +3260,11 @@ Géométrie variable.
   "https://upload.wikimedia.org/wikipedia/commons/1/14/A-10_Thunderbolt_9875.JPG"
   "Konflikty.pl (Attribution or Attribution), via Wikimedia Commons"
 >}}
-{{< ressource-video-youtube "k0Iz78EaylY" >}} <!-- les ailes de legende -->
+{{< ressource-video-youtube "gHsxwaPDza8" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "_xaugfhbmp0" >}} <!-- Yataka -->
 {{< ressource-video-youtube "BVmiaNhxLHE" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "wk6Qr6OO5Xo" >}}
 {{< ressource-video-youtube "EXgTrpPU9Rk" >}}
-{{< ressource-video-youtube "gHsxwaPDza8" >}}
 {{< ressource-video-youtube "PSwNVJYUXtw" >}}
 {{< ressource-video-youtube "UH07uffv26M" >}} <!-- 3D Mil-Tech -->
 </div>
@@ -3289,9 +3288,9 @@ Géométrie variable.
   "https://upload.wikimedia.org/wikipedia/commons/a/af/CdG-photo173.jpg"
   "Guillaume Rueda, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "VT_mQ0ZCi6c" >}} <!-- Les ailes de légende -->
 </div>
 <div class="images">
-{{< ressource-video-youtube "VT_mQ0ZCi6c" >}} <!-- Les ailes de légende -->
 {{< ressource-video-youtube "svORBbmnZMc" >}} <!-- Chasse embarquee -->
 </div>
 </div>

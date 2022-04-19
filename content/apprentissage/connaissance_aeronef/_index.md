@@ -2284,9 +2284,14 @@ On peut citer différents aspects : <ul>
 </p>
 </div>
 
+<!-- Multirole Combat aircraft: The US joint forces F-4 Phantom II built by McDonnell-Douglas also fits the definition of a multi-role aircraft in its various configurations of the basic airframe design. The various F-4 Phantom II configurations were used in air-to-air, fighter bomber, reconnaissance, and suppression of enemy air defenses (SEAD) mission roles to name a few. -->
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur, supériorité aérienne" >}}
 {{< mach 2.23 >}}
+{{< caracteristique "Multirôle" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Chasseur-bombardier" >}}
+{{< role "SEAD" >}}
 <p>F-4J au début des années 1970s : premier radar opérationnel look-down/shoot-down.<br />
 Neuf points d'emports.</p>
 </div>
@@ -2503,8 +2508,10 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
+<!-- Escort fighter: The advent of the air superiority fighter, such as the F-15 Eagle, meant that high value assets like tankers, AEW&C, command platforms, bombers and attack aircraft would be protected by air superiority fighters, sometimes flying far afield and ahead of them, engaging distant enemy air units, rather than by direct escorts staying in sight nearby. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15 Eagle" "1976" "chasseur lourd, supériorité aérienne" >}}
+{{< role "Supériorité aérienne" >}}
 {{< mach 2.5 >}}
 </div>
 <div class="ressources">
@@ -2521,9 +2528,11 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "General Dynamics" "F-16 Fighting Falcon" "1978" "multirôle, supériorité aérienne" >}}
 {{< mach 2.05 >}}
+{{< caracteristique "Multirôle" >}}
 {{< role "Attaque au sol" >}}
 <p>Commandes de vol électriques</p>
 </div>
@@ -2601,9 +2610,11 @@ Variante MiG-29K : embarqué.</p>
 </div>
 
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- Escort fighter: The development of the multirole fighter, such as F/A-18 Hornet, also decreased the need for escorts, as the aircraft on air strike mission became capable of effectively defending themselves. -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F/A-18 Hornet" "1983" "embarqué, multirôle" >}}
 {{< mach 1.8 >}}
+{{< caracteristique "Multirôle" >}}
 {{< role "Attaque au sol" >}}
 <p>Commandes de vol électriques</p>
 </div>
@@ -2714,9 +2725,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-30 Flanker-C/G/H" "1996" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "super-manœuvrabilité (cobra, kulbit)" >}}
 <p>Basé sur le Su-27. Biplace.</p>
 </div>
@@ -2748,9 +2761,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "F/A-18E/F Super Hornet" "1995" "embarqué" >}}
 {{< mach 1.8 >}}
+{{< caracteristique "Multirôle" >}}
 {{< role "Attaque au sol" >}}
 <p>Basé sur le F/A-18.</p>
 </div>
@@ -2771,9 +2786,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":sweden:" "Saab" "JAS 39 Gripen" "1996" "intercepteur" >}}
 {{< mach 2 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "supercroisière mach 1.1" >}}
 </div>
 <div class="ressources">
@@ -2793,9 +2810,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":fr:" "Dassault" "Rafale" "2002" "embarqué" >}}
 {{< mach 1.8 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "supercroisière mach 1.4" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
@@ -2826,9 +2845,11 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.0 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 <p>
 Basé sur le Su-27/Su-30.<br />
@@ -2847,9 +2868,11 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":eu:" "Eurofighter" "Typhoon" "2004" "multirôle et supériorité aérienne" >}}
 {{< mach 2.0 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
 </div>
@@ -2868,9 +2891,11 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef avec_module_dcs">
 {{< aeronef ":cn:/:pakistan:" "Chengdu" "JF-17 Thunder" "2010" >}}
 {{< mach 1.8 >}}
+{{< caracteristique "Multirôle" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2906,8 +2931,10 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":india:" "HAL" "Tejas" "2015" "chasseur léger multirôle" >}}
+{{< caracteristique "Multirôle" >}}
 {{< mach 1.6 >}}
 <p>Des caractéristiques de furtivité : matériaux composites.</p>
 </div>
@@ -2956,12 +2983,14 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </ul>
 </div>
 
+<!-- Multirole Combat aircraft: The F-35's design goal can be compared to its larger and more air superiority-focused cousin, the F-22 Raptor. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-22 Raptor" "2005" "supériorité aérienne" >}}
 {{< mach 2.25 >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
 {{< caracteristique "supercroisière mach 1.5" >}}
 {{< caracteristique "furtif" >}}
+{{< role "Supériorité aérienne" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2979,12 +3008,17 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
+<!-- Multirole Combat aircraft: The newest fighter jet that fits the definition of 'multi-role' is the Lockheed Martin F-35 Lightning II/Joint Strike Fighter, designed to perform stealth-based ground/naval strike, fighter, reconnaissance and electronic warfare roles. Like a modern-day F-4, 3 variants of this aircraft fulfill the various strike and air defense roles among its joint service requirements: the standard variant is intended to eventually replace the F-16 and A-10 in the USAF and other Western air forces, a STOVL version intended to replace the Harrier in US Marine Corps, British Royal Air Force and Royal Navy service, and a carrier variant intended to eventually replace the older F/A-18C/D for the US Navy and other F/A-18 operators. -->
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
 {{< mach 1.4 >}}
+{{< caracteristique "Multirôle" >}}
 {{< caracteristique "furtif" >}}
 {{< caracteristique "décollage vertical" >}}
 {{< caracteristique "veille infrarouge + FLIR" >}}
+{{< role "Chasseur d'attaque (et avion d'interdiction)" >}}
+{{< role "Avion de guerre électronique" >}}
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3465,12 +3499,21 @@ Géométrie variable.
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
 <!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->
+<!-- Multirole Combat aircraft: The first use of the term was by the multinational European project named Multi-Role Combat Aircraft, which was formed in 1968 to produce an aircraft capable of tactical strike, aerial reconnaissance, air defense, and maritime roles.[citation needed] The design was aimed to replace a multitude of different types in the cooperating air forces. The project produced the Panavia Tornado, which used the same basic design to undertake a variety of roles, the Tornado IDS (Interdictor/Strike) variant and later the Panavia Tornado ADV (Air Defence Variant). -->
 <div class="aeronef">
 {{< aeronef ":de:/:it:/:gb:" "Panavia" "Tornado" "1982" >}}
 {{< mach 2.34 >}}
+{{< caracteristique "Multirôle" >}}
 {{< role "Attaque au sol" >}}
 {{< role "Avion d'interdiction" >}}
-<p>géométrie variable</p>
+<p>
+Géométrie variable.<br />
+Variantes : <i>
+IDS = "Interdictor/Strike",
+ECR = "Electronic Combat / Reconnaissance",
+ADV = "Air Defense Variant" (plus haut)
+</i>
+</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -3544,9 +3587,11 @@ Géométrie variable.
 </div>
 
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
+<!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
+{{< caracteristique "Multirôle" >}}
 {{< role "Attaque au sol" >}}
 <p>Basé sur le F-15.</p>
 </div>

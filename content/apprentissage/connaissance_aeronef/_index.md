@@ -2015,9 +2015,11 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </p>
 </div>
 
+<!-- Fighter bomber: Fighter-bombers became increasingly important in the 1950s and 1960s, as new jet engines dramatically improved the power of even the smallest fighter designs. Many aircraft initially designed as fighters or interceptors found themselves in the fighter-bomber role at some point in their career. Notable among these is the Lockheed F-104 Starfighter, first designed as a high-performance day fighter and then adapted to the nuclear strike role for European use. Other U.S. examples include the North American F-100 Super Sabre and (perhaps most famously) the McDonnell Douglas F-4 Phantom II, each of which was widely used during the Vietnam War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "North American" "F-100 Super Sabre" "1954" "chasseur bombardier" >}}
 {{< mach 1.4 >}}
+{{< role "Chasseur-bombardier" >}}
 <p>Premier avion de l'USAF à franchir le mur du son en pallier.</p>
 </div>
 <div class="ressources">
@@ -2108,9 +2110,11 @@ Premier avion soviétique passant le mur du son en pallier.
 </div>
 </div>
 
+<!-- Fighter bomber: Fighter-bombers became increasingly important in the 1950s and 1960s, as new jet engines dramatically improved the power of even the smallest fighter designs. Many aircraft initially designed as fighters or interceptors found themselves in the fighter-bomber role at some point in their career. Notable among these is the Lockheed F-104 Starfighter, first designed as a high-performance day fighter and then adapted to the nuclear strike role for European use. Other U.S. examples include the North American F-100 Super Sabre and (perhaps most famously) the McDonnell Douglas F-4 Phantom II, each of which was widely used during the Vietnam War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed" "F-104 Starfighter" "1958" "intercepteur" >}}
 {{< mach 2.2 >}}
+{{< role "Chasseur-bombardier" >}}
 <p>
 Premier avion de combat capable d'aller à mach 2.<br />
 Le seul avion de l'histoire à détenir simultanément le record de vitesse et d'altitude.
@@ -2285,6 +2289,7 @@ On peut citer différents aspects : <ul>
 </div>
 
 <!-- Multirole Combat aircraft: The US joint forces F-4 Phantom II built by McDonnell-Douglas also fits the definition of a multi-role aircraft in its various configurations of the basic airframe design. The various F-4 Phantom II configurations were used in air-to-air, fighter bomber, reconnaissance, and suppression of enemy air defenses (SEAD) mission roles to name a few. -->
+<!-- Fighter bomber: Fighter-bombers became increasingly important in the 1950s and 1960s, as new jet engines dramatically improved the power of even the smallest fighter designs. Many aircraft initially designed as fighters or interceptors found themselves in the fighter-bomber role at some point in their career. Notable among these is the Lockheed F-104 Starfighter, first designed as a high-performance day fighter and then adapted to the nuclear strike role for European use. Other U.S. examples include the North American F-100 Super Sabre and (perhaps most famously) the McDonnell Douglas F-4 Phantom II, each of which was widely used during the Vietnam War. -->
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur, supériorité aérienne" >}}
 {{< mach 2.23 >}}
@@ -2726,11 +2731,13 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 
 <!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
+<!-- cité sur https://en.wikipedia.org/wiki/Strike_fighter -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-30 Flanker-C/G/H" "1996" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2 >}}
 {{< caracteristique "Multirôle" >}}
 {{< caracteristique "super-manœuvrabilité (cobra, kulbit)" >}}
+{{< role "Chasseur d'attaque (et avion d'interdiction)" >}}
 <p>Basé sur le Su-27. Biplace.</p>
 </div>
 <div class="ressources">
@@ -2762,11 +2769,13 @@ Géométrie variable. Basé sur le Tornado.<br />
 
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
+<!-- Strike fighter: Examples of contemporary American strike fighters are the McDonnell Douglas F-15E Strike Eagle, Boeing F/A-18E/F Super Hornet, and Lockheed Martin F-35 Lightning II. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Boeing" "F/A-18E/F Super Hornet" "1995" "embarqué" >}}
 {{< mach 1.8 >}}
 {{< caracteristique "Multirôle" >}}
 {{< role "Attaque au sol" >}}
+{{< role "Chasseur d'attaque (et avion d'interdiction)" >}}
 <p>Basé sur le F/A-18.</p>
 </div>
 <div class="ressources">
@@ -2846,11 +2855,13 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 
 <!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
+<!-- cité sur https://en.wikipedia.org/wiki/Strike_fighter -->
 <div class="aeronef">
 {{< aeronef ":ru:/:india:" "Soukhoï" "Su-30-MKI Flanker-H" "2002" "chasseur lourd, supériorité aérienne" >}}
 {{< mach 2.0 >}}
 {{< caracteristique "Multirôle" >}}
 {{< caracteristique "super-manœuvrabilité (poussée vectorielle, cobra, herbst, kulbit)" >}}
+{{< role "Chasseur d'attaque (et avion d'interdiction)" >}}
 <p>
 Basé sur le Su-27/Su-30.<br />
 Avionique occidentale (française et israélienne), ajout de canards et poussée vectorielle.
@@ -3010,6 +3021,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 
 <!-- Multirole Combat aircraft: The newest fighter jet that fits the definition of 'multi-role' is the Lockheed Martin F-35 Lightning II/Joint Strike Fighter, designed to perform stealth-based ground/naval strike, fighter, reconnaissance and electronic warfare roles. Like a modern-day F-4, 3 variants of this aircraft fulfill the various strike and air defense roles among its joint service requirements: the standard variant is intended to eventually replace the F-16 and A-10 in the USAF and other Western air forces, a STOVL version intended to replace the Harrier in US Marine Corps, British Royal Air Force and Royal Navy service, and a carrier variant intended to eventually replace the older F/A-18C/D for the US Navy and other F/A-18 operators. -->
 <!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
+<!-- Strike fighter: Examples of contemporary American strike fighters are the McDonnell Douglas F-15E Strike Eagle, Boeing F/A-18E/F Super Hornet, and Lockheed Martin F-35 Lightning II. -->
 <div class="aeronef">
 {{< aeronef ":us:" "Lockheed Martin" "F-35 Lightning II" "2015" "embarqué" >}}
 {{< mach 1.4 >}}
@@ -3588,10 +3600,14 @@ ADV = "Air Defense Variant" (plus haut)
 
 <!-- Close air support: This resulted in a great number of CAS operations being undertaken by aircraft from Belgium (F-16 Fighting Falcon), Denmark (F-16), France (Mirage 2000D), the Netherlands (F-16), Norway (F-16), the United Kingdom (Harrier GR7s, GR9s and Tornado GR4s) and the United States (A-10, F-16, AV-8B Harrier II, F-15E Strike Eagle, F/A-18 Hornet, F/A-18E/F Super Hornet, UH-1Y Venom). -->
 <!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
+<!-- Multirole Combat aircraft: By contrast, the F-15 Eagle which was another fighter aircraft of that era was designed for air superiority and interception, with the mantra "not a pound, air to ground", although the F-15C did have a rarely used secondary ground attack capability. That program eventually evolved into the F-15E Strike Eagle interdictor/strike derivative which retained the air-to-air combat lethality of earlier F-15s. -->
+<!-- Strike fighter: Examples of contemporary American strike fighters are the McDonnell Douglas F-15E Strike Eagle, Boeing F/A-18E/F Super Hornet, and Lockheed Martin F-35 Lightning II. -->
 <div class="aeronef">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
 {{< caracteristique "Multirôle" >}}
+{{< role "Supériorité aérienne" >}}
+{{< role "Chasseur d'attaque (et avion d'interdiction)" >}}
 {{< role "Attaque au sol" >}}
 <p>Basé sur le F-15.</p>
 </div>
@@ -3608,10 +3624,11 @@ ADV = "Air Defense Variant" (plus haut)
 </div>
 
 <!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->
+<!-- cité sur https://en.wikipedia.org/wiki/Strike_fighter -->
 <div class="aeronef">
 {{< aeronef ":ru:" "Soukhoï" "Su-34 Fullback" "1990" "chasseur bombardier" >}}
 {{< mach 1.8 >}}
-{{< role "Avion d'interdiction" >}}
+{{< role "Chasseur d'attaque (et avion d'interdiction)" >}}
 <p>Basé sur le Su-27.</p>
 </div>
 <div class="ressources">

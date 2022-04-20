@@ -13,7 +13,7 @@ weight = 2
       grid-row-gap: 1em;
     }
   
-    .titre_generation {
+    .infos_generales {
       grid-column: 1 / 4;
     }
   
@@ -26,7 +26,7 @@ weight = 2
     }
   }
 
-  #body div .titre_generation img {
+  #body div .infos_generales img {
     float: left;
 
     height: 15em;
@@ -160,12 +160,12 @@ Pour le nomage des appareils, voici ce qui est suivi (chaque catégorie pouvant 
 
 <div class="grille">
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Coucous 1935&mdash;1952 (Warbirds)</h2>
 <p>1935-1952 : avions militaires à hélices.</p>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h3>Chasseurs</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/4/42/Formation_of_No.19_Squadron_RAF_Supermarine_Spitfire_Mk.Is_in_1938_over_Cambridgeshire.jpg title="RAF official photographer, Public domain, via Wikimedia Commons" />
 En Europe, les deux chasseurs principaux allemands sont les excellents Bf 109 et Fw 190. Côté britannique il s'agit des très bon Spitfire et Hurricane, à peu près équivalents.
@@ -967,7 +967,11 @@ Le groupe de chasse Normandie-Niémen l'utilisera au côté des soviétiques.
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
+<h4>Après guerre</h4>
+</div>
+
+<div class="infos_generales">
 <h3>Bombardiers en piqué</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/b/b7/Curtiss_SB2C-1_Helldiver_dropping_bomb%2C_circa_in_1943.png title="Ad Meskens, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" />
 Au début de la guerre, le bombardement en piqué était le moyen le plus précis pour effectuer des frappes de précision, et donc les attaques de tanks ou l'appui tactique de troupes. Le Ju 87 Stuka se démarqua particulièrement, ainsi que dans le pacifique le D3A Val ou le SDB Dauntless.
@@ -1156,7 +1160,7 @@ Variante Pe-3 chasseur de nuit.
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h3>Bombardiers légers / rapides</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/2/24/Bristol_Blenheim_Mk_IVFs_of_No._254_Squadron_RAF_flying_from_Aldergrove_in_Northern_Ireland%2C_May_1941._CH2992.jpg title="Daventry B J (Mr), Royal Air Force official photographer, Public domain, via Wikimedia Commons" />
 Au début de la guerre il s'agissait d'avions légers et rapides, emportant de petites charges (classe une tonne).
@@ -1266,7 +1270,7 @@ Des versions Gunship.</p>
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h3>Avions d'attaque au sol</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/a/a1/Royal_Air_Force_1939-1945-_Coastal_Command_C4944.jpg title="HQ Coastal Command, Royal Air Force official photographer, Public domain, via Wikimedia Commons" />
 L'attaque au sol nécessite une grande puissance de feu et de la précision. Il s'agit généralement d'attaques à basse altitude, au canon, à la bombe ou à la roquette.
@@ -1378,7 +1382,7 @@ Ce rôle sera assuré par des avions spécialisés, en particulier avec du blind
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h3>Bombardiers moyens</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/c/c7/9_Squadron_in_Formation_1939-45.jpg title="RAF photographer https://www.iwm.org.uk/collections/item/object/205210912, Public domain, via Wikimedia Commons" />
 
@@ -1568,7 +1572,7 @@ La classe deux tonnes de charge.
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h3>Bombardiers torpilleurs, patrouille maritime</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/Bristol_Beaufort_-_North_Coates_-_Royal_Air_Force_Coastal_Command%2C_1939-1945._CH1851.jpg title="Royal Air Force official photographer, Daventry B J (Mr), Public domain, via Wikimedia Commons" />
 Le rôle de torpillage a été effectué à la fin de la guerre par des avions généralistes (chasseurs lourds, bombardiers moyens...), nécessitant moins des avions spécialisés.
@@ -1710,7 +1714,7 @@ Les avions de patrouille maritime étaient souvent des hydravions-bombardiers ou
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h3>Bombardiers lourds</h3>
 <img src=https://upload.wikimedia.org/wikipedia/commons/a/a5/Bombing_of_Concordia_Vega_oil_refinery_in_Ploe%C8%99ti_by_USAAF_B-24s%2C_31_May_1944_%E2%80%94_restored.jpg title="Richard R. Ganczak (1924—2014). Ganczak served radio operator and later a bombardier in the Fifteenth Air Force, flying 70 combat missions. This photograph was taken during his second tour.[2][3], Public domain, via Wikimedia Commons" />
 Une stratégie massive de tapissage de bombe a été employée pendant la guerre.
@@ -1847,7 +1851,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Chasseurs jets première génération</h2>
 <p>1942-1950 : semblable aux chasseurs à motopropulseurs à explosions, poussée limitée des premiers moteurs à réaction, subsoniques, radar rares, armement classique ou conventionnel (canons, bombes, roquettes). <ul>
 <li />Utilisation d'ailes en flèche pour approcher le mur du son (mais sans grande manœvrabilité), dédiés à l'interception ou la supériorité aérienne (exemples: MiG-15 ou F-86).</p>
@@ -1903,6 +1907,10 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "Chris Phutully, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
 </div>
+</div>
+
+<div class="infos_generales">
+<h4>Après guerre</h4>
 </div>
 
 <div class="aeronef">
@@ -2005,7 +2013,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Chasseurs jets seconde génération</h2>
 <p>1950-1960 : après la guerre de Corée, il a fallu adapter de nombreuses stratégies. <ul>
 <li />supersoniques en palier
@@ -2275,7 +2283,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Chasseurs jets troisième génération</h2>
 <p>1960-1975 : des chasseurs pensés pour être multi-rôles dès la conception.
 On peut citer différents aspects : <ul>
@@ -2462,6 +2470,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 <div class="images">
 {{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace -->
+{{< ressource-video-youtube "q3YOgqUPnII" >}}
 </div>
 </div>
 
@@ -2482,7 +2491,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Chasseurs jets quatrième génération</h2>
 <p>1975-2005 : accent mis sur la maniabilité plutôt que sur la vitesse. On peut citer certains aspects : <ul>
 <li />grande manœvrabilité avec des avions instables par design, ceci rendu possible grâce aux commandes de vol électriques (exemple: F-16)
@@ -2671,6 +2680,7 @@ Variante MiG-29K : embarqué.</p>
 {{< ressource-video-youtube "lBJ01alfMjc" >}}
 {{< ressource-video-youtube "T5DrtgXX7qQ" >}} <!-- Armee de l'air et de l'espace -->
 {{< ressource-video-youtube "JEPhz2E41pw" >}} <!-- Armee de l'air et de l'espace -->
+{{< ressource-video-youtube "nnQ3VIPRWwU" >}} <!-- Armee de l'air et de l'espace -->
 </div>
 </div>
 
@@ -2752,7 +2762,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Chasseurs jets génération 4.5</h2>
 <p>La génération 4.5 correspond souvent aux nouveaux avions, ou aux versions mises à jours au début des années 90. Ils comprennent certaines capacités de cinquième génération, sans toutes les avoir. Ces capacités peuvent comprendre : <ul>
 <li />généralisation des commandes de vol électriques
@@ -2980,7 +2990,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Chasseurs jets cinquième génération</h2>
 <p>depuis 2005 : on peut citer plusieurs aspects : <ul>
 <li />furtivité, avec les munitions dans une soute interne
@@ -3095,7 +3105,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Avions d'attaque au sol et d'interdiction (bombardiers tactiques)</h2>
 </div>
 
@@ -3658,7 +3668,7 @@ ADV = "Air Defense Variant" (plus haut)
 </div>
 </div>
 
-<div class="titre_generation">
+<div class="infos_generales">
 <h2>Bombardiers stratégiques</h2>
 </div>
 
@@ -3992,6 +4002,9 @@ ADV = "Air Defense Variant" (plus haut)
 {{< ressource-video-youtube "E1OxXdQ-OUo" >}} <!-- Defense Insider -->
 {{< ressource-video-youtube "BLY6vWl2FXA" >}} <!-- aeronewstv -->
 {{< ressource-video-youtube "MnhyzGlEYEo" >}}
+</div>
+<div class="images">
+{{< ressource-video-youtube "P5zdHFtsjnA" >}}
 </div>
 </div>
 

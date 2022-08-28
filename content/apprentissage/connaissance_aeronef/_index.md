@@ -2568,6 +2568,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 {{< ressource-video-youtube "m06uWM_tABM" >}}
 {{< ressource-video-youtube "tdczvix3EiE" >}}
 {{< ressource-video-youtube "C-WgHooZ7-Y" >}}
+{{< ressource-video-youtube "vRcepB16b5I" >}}
 </div>
 </div>
 

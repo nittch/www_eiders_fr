@@ -3319,6 +3319,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://upload.wikimedia.org/wikipedia/commons/3/36/NASA_OV-10.jpg"
   "NASA, Public domain, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "jWi7xYE2JWg" >}} <!-- Erik Johnston -->
 </div>
 </div>
 

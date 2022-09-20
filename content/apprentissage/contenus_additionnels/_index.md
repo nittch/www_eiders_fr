@@ -67,6 +67,7 @@ UN Vehicule Pack                   | - [Forum Eagle](https://forums.eagle.ru/for
 E-3A NATO Skins                    | - [DCS](https://www.digitalcombatsimulator.com/fr/files/3313130/)
 476 vFG                            | [Air Weapons Range Objects](https://www.476vfightergroup.com/downloads.php?do=file&id=287)
 Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.com/en/files/filter/user-is-CORSAIR%20veaf/apply/)
+Aerodrome data and frequencies     | [Forum Eagle](https://forum.dcs.world/topic/269908-aerodrome-data-and-frequencies-updated-24-august-2022/)
 
 
 # Logiciels Tiers

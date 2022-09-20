@@ -28,6 +28,11 @@ weight = 8
 {{< ressource-playlist-youtube "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjUNBp6K5JLeoH-yXLrOYJ1R" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Zanck //-->
 {{< canal-youtube "id" "UCkNVbomjoHZom13dxjJWm3g" >}}
 {{< ressource-playlist-youtube "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" >}}
@@ -83,11 +88,6 @@ weight = 8
 <div class="contenu"> <!-- Banana Mayo //-->
 {{< canal-youtube "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}
 {{< ressource-playlist-youtube "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" >}}
-</div>
-
-<div class="contenu"> <!-- Deephack //-->
-{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
-{{< ressource-playlist-youtube "PLLY_KGBSBGjUNBp6K5JLeoH-yXLrOYJ1R" >}}
 </div>
 
 <div class="contenu"> <!-- Boyington //-->

@@ -1473,6 +1473,7 @@ La classe deux tonnes de charge.
   "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bundesarchiv_Bild_101I-417-1766-03A%2C_Flugzeug_Junkers_Ju_88.jpg"
   "Bundesarchiv, Bild 101I-417-1766-03A / Ellerbrock / CC-BY-SA 3.0, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "Hit-N70_9ZA" >}} <!-- Cap Aviation -->
 </div>
 </div>
 
@@ -2471,6 +2472,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 <div class="images">
 {{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace -->
 {{< ressource-video-youtube "q3YOgqUPnII" >}}
+{{< ressource-video-youtube "K7PzWA5iUpc" >}}
 </div>
 </div>
 
@@ -2603,8 +2605,8 @@ Datalink.
 {{< aeronef ":ru:" "Mikoyan-Gourevitch" "MiG-29 Fulcrum" "1983" "multirôle, supériorité aérienne" >}}
 {{< mach 2.3 >}}
 {{< caracteristique "super-manœuvrabilité (cobra)" >}}
-<p>Variante MiG-29M : modernisé.<br />
-Variante MiG-29K : embarqué.</p>
+<p>Variante MiG-29M : modernisée.<br />
+Variante MiG-29K : embarquée.</p>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2616,6 +2618,7 @@ Variante MiG-29K : embarqué.</p>
   "Dmitriy Pichugin, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "8R0XFjDR-j0" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "zLzplmMOG7g" >}} <!-- aeronewstv -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "iXRSyj_mNis" >}}

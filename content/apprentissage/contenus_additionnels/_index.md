@@ -36,15 +36,9 @@ weight = 25
 {{< ressource-video-youtube "vgWFDP8s3Bw" >}}
 </div>
 
-## Hercules C-130 by Anubis
-<div class="contenu">
-{{< canal-web "Forum ED" >}}
-{{< ressource-web "https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/" "Forum Eagle" >}}
-</div>
-
 ## UH-60L
 
-## Codename Flanker SU-30
+## OV-10 Bronco (by Split-air)
 
 ## French Pack (via Combined Arms)
 <div class="contenu">

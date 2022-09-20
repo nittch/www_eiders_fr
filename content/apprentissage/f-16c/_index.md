@@ -13,6 +13,11 @@ weight = 9
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-16c-viper/" "Chuck’s Guides – DCS F-16C VIPER" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjWoTGjsGuU7IyPc7mC-FviK" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Marco //-->
 {{< canal-youtube "id" "UCMMg-l1qYhOk958PrqQdDkQ" >}}
 {{< ressource-playlist-youtube "PLEwJiAWHYbriCO0RJ5x4QxtUdDrKx5hwC" >}}
@@ -63,11 +68,6 @@ Principalement sur le F-16.
 <div class="contenu"> <!-- Banana Mayo //-->
 {{< canal-youtube "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}
 {{< ressource-playlist-youtube "PLmL0WZQili6AIkufnprW4yg8uzcUfz6iH" >}}
-</div>
-
-<div class="contenu"> <!-- Deephack //-->
-{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
-{{< ressource-playlist-youtube "PLLY_KGBSBGjWoTGjsGuU7IyPc7mC-FviK" >}}
 </div>
 
 ## Sur BMS

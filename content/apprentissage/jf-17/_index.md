@@ -1,0 +1,37 @@
++++
+title = "JF-17 Thunder"
+weight = 14
++++
+
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "oOFfXSXfOPk" >}}
+{{< ressource-playlist-youtube "PLKG5Jw_s7ikz75OT8TTo_AC14oYWay6hW" >}}
+</div>
+
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-chucksguide >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-jf-17-thunder/" "Chuck’s Guides – DCS JF-17 Thunder" >}}
+</div>
+
+<div class="contenu"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjXGtFaZR_nnlQ9nNZ7F7hZR" >}}
+</div>
+
+<div class="contenu"> <!-- Zanck //-->
+{{< canal-youtube "id" "UCkNVbomjoHZom13dxjJWm3g" >}}
+{{< ressource-playlist-youtube "PLT-PAUSaoTg2_WLcvjRCjYviiUfI4TGhj" >}}
+</div>
+
+<div class="contenu"> <!-- EFPV //-->
+{{< canal-youtube "forUsername" "ecolepilotefrance" >}}
+{{< ressource-playlist-youtube "PLxeAPpKC04wvjynpY_j7fpQnAAA85YrqU" >}}
+</div>
+
+<div class="contenu"> <!-- 26th Division //-->
+{{< canal-youtube "id" "UCzVTizd2qe4DAkCgtHzJabg" >}}
+{{< ressource-playlist-youtube "PLdjbN8WGLKnxapQ9_wqZRS2TNNA788M_p" >}}
+{{< ressource-web "https://wiki.3rd-wing.net/index.php?title=26th" "Wiki JF-17 3rd Wing" >}}
+</div>
+

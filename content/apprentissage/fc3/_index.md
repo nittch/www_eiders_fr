@@ -15,6 +15,11 @@ Chasseur léger (intercepteur multirôle)        | **MiG-29G Fulcrum-G**: versio
 
 Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_difference_between_the_mig29a_mig29g/), [Hoggitworld](https://wiki.hoggitworld.com/view/Flaming_Cliffs), [Forum Eagle](https://forums.eagle.ru/forum/english/digital-combat-simulator/dcs-flaming-cliffs-3/177396-mig-29s-v-mig-29a-v-mig-29g?p=4327701#post4327701)
 
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "L2yxebCwNeI" >}}
+</div>
+
 <div class="contenu"> <!-- WellerMan //-->
 {{< canal-youtube "id" "UC8TlpJkLwhSOeifiEObfBFA" >}}
 {{< ressource-playlist-youtube "PL2ThvynKpSrnwYIXnmsitbiP_S8cSpTVo" >}} (tous les modules FC3)

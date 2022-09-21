@@ -23,3 +23,8 @@ weight = 12
 {{< ressource-playlist-youtube "PLUuRIAn89oXLD2jBUN6J7Mbv7v_nLefoJ" >}}
 </div>
 
+<div class="contenu"> <!-- Groupement de Chasse 22 //-->
+{{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
+{{< ressource-playlist-youtube "PLIGR26sb4iVXdEl2KUY4YbQ57REkyznXt" >}}
+</div>
+

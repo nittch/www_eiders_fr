@@ -26,6 +26,11 @@ weight = 6
 {{< ressource-playlist-youtube "PLr1uSwrHettrmZEO55NBGHceYEClWu1UO" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Groupement de Chasse 22 //-->
+{{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
+{{< ressource-playlist-youtube "PLIGR26sb4iVWOa_0PVDmtWU74_h_OVzy_" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Association VEAF //-->
 {{< canal-youtube "id" "UCEF1A_q8Cnw9JLW_Rlig3OQ" >}}
 {{< ressource-playlist-youtube "PLalR1_JFFm_79RbK-8seDMPBrP5IWFD6l" >}}

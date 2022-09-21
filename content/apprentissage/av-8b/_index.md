@@ -38,6 +38,11 @@ weight = 11
 {{< ressource-playlist-youtube "PLvzF0eq1q93nSoy6NaOCEgAd3zT5ez3Xh" >}}
 </div>
 
+<div class="contenu"> <!-- Marcel Glandier //-->
+{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
+{{< ressource-playlist-youtube "PLUuRIAn89oXIwQSMM7QxIJDMsZNnL64kX" >}}
+</div>
+
 <div class="contenu"> <!-- Growling Sidewinder //-->
 {{< canal-youtube "id" "UCh2rDh7vXGeoh1LlzL3QEwg" >}}
 {{< ressource-video-youtube "r1cxN2_geYg" >}}

@@ -39,6 +39,12 @@ weight = 25
 ## UH-60L
 
 ## OV-10 Bronco (by Split-air)
+<div class="contenu de_qualite"> <!-- Ian Christie //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-video-youtube "bZ_1K324Yy0" >}}
+{{< ressource-video-youtube "CC1NcQzInYw" >}}
+</div>
+
 
 ## French Pack (via Combined Arms)
 <div class="contenu">

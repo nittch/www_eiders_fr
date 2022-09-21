@@ -18,9 +18,16 @@ weight = 15
 {{< ressource-playlist-youtube "PLHX49UqNq5KV7_PrHVt4U_SQUPy9ih_dY" >}}
 </div>
 
+<div class="contenu"> <!-- Volk //-->
+{{< canal-youtube "id" "UC-LgdvOGP3SSNUGVN95b8Bw" >}}
+{{< ressource-playlist-youtube "PL0oWakEJrJF5kkoKIP1Jllrd_3bH24jha" >}}
+{{< ressource-playlist-youtube "PL0oWakEJrJF4vEVu0NWiv8tZGJ77k6j3n" >}}
+{{< ressource-playlist-youtube "PL0oWakEJrJF68g8-lGu4KiV0qz6xsuqJp" >}}
+{{< ressource-playlist-youtube "PL0oWakEJrJF6zS9Tz1YVJ4Vernga_ID-h" >}}
+</div>
+
 <div class="contenu"> <!-- clubby37 //-->
 {{< canal-youtube "id" "UCbRpH2t1-IODmoE395IZjwg" >}}
 {{< ressource-playlist-youtube "PL7pn4rQD0F5Y9Y_MVqDdIhtZWcBIz_cN0" >}}
 du même auteur que la série sur l'AJS-37 Viggen. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que celle-ci.
 </div>
-

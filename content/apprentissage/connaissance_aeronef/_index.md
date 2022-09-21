@@ -2931,6 +2931,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pakistan_JF-17_%28modified%29.jpg"
   "Shimin Gu, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "ZthdDd1Qj6A" >}} <!-- PAF JF 17 Promotional Video (HD) -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "-4qLGbSEZ6s" >}} <!-- aeronewstv -->

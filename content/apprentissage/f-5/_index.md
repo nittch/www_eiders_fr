@@ -13,3 +13,7 @@ weight = 14
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-5e-tiger-ii/" "Chuck’s Guides – DCS F-5 Tiger II" >}}
 </div>
 
+<div class="contenu"> <!-- Marcel Glandier //-->
+{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
+{{< ressource-playlist-youtube "PLUuRIAn89oXJnqdKXAwzGtZ_ecN15TQRc" >}}
+</div>

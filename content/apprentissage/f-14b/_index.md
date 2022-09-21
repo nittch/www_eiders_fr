@@ -17,3 +17,9 @@ weight = 12
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKweaNlfW8vZExcyKDl8BSM1" >}}
 </div>
+
+<div class="contenu"> <!-- Marcel Glandier //-->
+{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
+{{< ressource-playlist-youtube "PLUuRIAn89oXLD2jBUN6J7Mbv7v_nLefoJ" >}}
+</div>
+

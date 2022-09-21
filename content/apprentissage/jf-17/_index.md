@@ -35,3 +35,8 @@ weight = 14
 {{< ressource-web "https://wiki.3rd-wing.net/index.php?title=26th" "Wiki JF-17 3rd Wing" >}}
 </div>
 
+<div class="contenu"> <!-- Marcel Glandier //-->
+{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
+{{< ressource-playlist-youtube "PLUuRIAn89oXIZS0AfwEbSj4Sjk4XiTYfe" >}}
+</div>
+

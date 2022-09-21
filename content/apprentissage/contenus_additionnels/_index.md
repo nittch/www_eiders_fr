@@ -5,11 +5,6 @@ weight = 25
 
 # Mods jouables
 ## Community A-4E-C Skyhawk
-<div class="contenu">
-{{< canal-web "Forum ED" >}}
-{{< ressource-web "https://forums.eagle.ru/topic/207102-community-a-4e-c/" "Forum Eagle" >}}
-</div>
-
 <div class="contenu de_qualite"> <!-- Ian Christie //-->
 {{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
 {{< ressource-playlist-youtube "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
@@ -26,17 +21,27 @@ weight = 25
 </div>
 
 ## VNAO T-45 Goshawk
-<div class="contenu">
-{{< canal-web "Forum ED" >}}
-{{< ressource-web "https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/" "Forum Eagle" >}}
-</div>
-
-<div class="contenu"> <!-- RedKite //-->
-{{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
-{{< ressource-video-youtube "vgWFDP8s3Bw" >}}
+<div class="contenu"> <!-- Commander Steinsch //-->
+{{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
+{{< ressource-video-youtube "JRr0MI6i8NI" >}}
 </div>
 
 ## UH-60L
+<div class="contenu"> <!-- the air warfare group //-->
+{{< canal-youtube "id" "UCdz6fNb-V-h2iZ_daWNoaTQ" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90vA2uqp1eg6hO2zt8wTx03D" >}}
+</div>
+
+<div class="contenu"> <!-- EFPV Section Civile //-->
+{{< canal-youtube "id" "UCY-B1uxOUM4wAR304cH-2Yw" >}}
+{{< ressource-video-youtube "7gGyOEAfHss" >}}
+{{< ressource-video-youtube "Ekjb1p_yLMc" >}}
+</div>
+
+<div class="contenu"> <!-- nazradu //-->
+{{< canal-youtube "id" "UCTtzk7r9iAsNSjbeLUC5-_w" >}}
+{{< ressource-playlist-youtube "PLN_dChu0spFFWDGgWiYBpn8igBkE12scI" >}}
+</div>
 
 ## OV-10 Bronco (by Split-air)
 <div class="contenu de_qualite"> <!-- Ian Christie //-->
@@ -45,17 +50,15 @@ weight = 25
 {{< ressource-video-youtube "CC1NcQzInYw" >}}
 </div>
 
+## A-29B Super Tucano
+<div class="contenu"> <!-- 311Griffon //-->
+{{< canal-youtube "id" "UCR0ojtQ0Srh2y2O4pelFrDA" >}}
+{{< ressource-playlist-youtube "PLo5YmN6D-iCADAvM0M1KvUKSfJjQYg4gF" >}}
+</div>
+
+## SU-30
 
 ## French Pack (via Combined Arms)
-<div class="contenu">
-{{< canal-web "Forum ED" >}}
-{{< ressource-web "https://forums.eagle.ru/topic/257437-frenchpack-v48-update-on-01102021/" "Forum Eagle" >}}
-</div>
-
-<div class="contenu"> <!-- TheSkyline35 //-->
-{{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
-{{< ressource-video-youtube "qnqmmsY1-Do" >}}
-</div>
 
 # Mods non jouables
 source                             | description

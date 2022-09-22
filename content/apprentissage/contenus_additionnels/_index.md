@@ -63,12 +63,6 @@ weight = 25
 # Mods non jouables
 source                             | description
 ---------------------------------- | -----------
-Civil Aircraft Mod                 | [CAM](https://cam.em-key.de/)
-Military aircraft Mod              | - [Mod](https://www.digitalcombatsimulator.com/en/files/3307071/)<br /> - [Liveries](https://www.digitalcombatsimulator.com/en/files/3310355/?sphrase_id=2689228)
-Civilian Objects And Vehicles      | [Forum Eagle](https://forums.eagle.ru/topic/270558-civilian-objects-and-vehicles/)
-UN Vehicule Pack                   | - [Forum Eagle](https://forums.eagle.ru/forum/english/dcs-world-topics/mods-and-apps/liveries-skinning/combined-arms-aa/183967-un-vehicles-pack?t=183782)
-E-3A NATO Skins                    | - [DCS](https://www.digitalcombatsimulator.com/fr/files/3313130/)
-476 vFG                            | [Air Weapons Range Objects](https://www.476vfightergroup.com/downloads.php?do=file&id=287)
 Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.com/en/files/filter/user-is-CORSAIR%20veaf/apply/)
 Aerodrome data and frequencies     | [Forum Eagle](https://forum.dcs.world/topic/269908-aerodrome-data-and-frequencies-updated-24-august-2022/)
 

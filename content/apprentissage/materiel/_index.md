@@ -4,24 +4,23 @@ weight = 30
 +++
 
 # Fabriquants et fournisseurs
-Rangés en 3 tiers selon si le matériel est répendu chez les simmeurs.
-## Tiers 1
+## Pour débuter
 - [Thrustmaster](https://www.thrustmaster.com/fr_FR/)
 - [Logitech - Saitek](https://www.logitechg.com/fr-fr/products/flight.html)
 
-## Tiers 2
-- [Honeycomb](https://flyhoneycomb.com/)
+## Du meilleur matériel
 - [VIRPIL Controls](https://virpil-controls.eu/)
+- [Winwing](https://www.winwing.cn/en/JOYSTICK)
 - [Milan Flight Gear](https://mfg-sim.com/en/)
 - [VKB FSC](https://flightsimcontrols.com/)
 - [MONSTERTECH](https://www.monstertech.de/fr/)
 - [Stream Deck](https://www.elgato.com/fr/gaming/stream-deck)
 - [Buddy-Fox Simulations](https://www.buddy-fox.com/)
+- [Honeycomb](https://flyhoneycomb.com/)
 
-## Tiers 3
+## Parts...
 - [Cubesim](http://www.cubesim.com.cn/)
 - [Vipergear](https://vipergear.eu/)
-- [Winwing](https://www.winwing.cn/en/JOYSTICK)
 - [Tek Creations](https://tekcreations.space/)
 - [VRinsight](http://www.vrinsight.com/)
 - [RealSimGear](https://realsimgear.com/)
@@ -41,3 +40,4 @@ Rangés en 3 tiers selon si le matériel est répendu chez les simmeurs.
 - [DELANCLiP](https://delanengineering.com/)
 - [TrackHat](https://www.trackhat.org/)
 - [TrackIMU](https://www.trackimu.net/) et [Doc](https://www.hackster.io/movsensllc/trackimu-head-tracking-for-video-games-using-imu-7b6daf)
+- [Tobii Eye Tracker](https://gaming.tobii.com/product/eye-tracker-5/)

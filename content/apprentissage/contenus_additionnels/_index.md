@@ -93,10 +93,10 @@ Aerodrome data and frequencies     | [Forum Eagle](https://forum.dcs.world/topic
 </div>
 
 ## Tacview
-[Site tacview](https://www.tacview.net/)
+Un soft permettant d'analyser ses parties après coup... [Site tacview](https://www.tacview.net/)
 
 ## LotATC
 (Voir Apprentissage/Rôles humains)
 
 # Installation (Repository OvGME)
-TODO
+Pour gérer ses mods, il est conseillé d'utiliser un gestionnaire de mods type OvGME.

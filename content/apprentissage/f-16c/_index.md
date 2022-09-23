@@ -29,6 +29,11 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLIGR26sb4iVU0Zb3R-7Oee8jrqoVKNz7m" >}}
 </div>
 
+<div class="contenu"> <!-- Gaffer DCS //-->
+{{< canal-youtube "id" "UCbX5Rz6cH_4XoovFOATgwtA" >}}
+{{< ressource-playlist-youtube "PLlrB2czNQh1YXERWJiL-BpoueifYwvf_Q" >}}
+</div>
+
 <div class="contenu"> <!-- Spudknocker //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblNAFn4chmZmnRPINvWWItT" >}}

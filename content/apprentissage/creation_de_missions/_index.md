@@ -36,6 +36,7 @@ Virpil.com, voc                                                                 
 Suntsag                                                                                                                         | [Nato personnel and items](https://forum.dcs.world/topic/190965-nato-personnel-and-items)<br />[Marston Mat mod](https://forum.dcs.world/topic/233670-suntsag-lockdown-modsliveries-collection-new-and-revised/?tab=comments#comment-4272504)<br />[Farp v3](https://forum.dcs.world/topic/186925-desert-farp-mod/?tab=comments#comment-3614555)
 [Auranis](https://github.com/Auranis/)                                                                                          | [High digit SAMs](https://github.com/Auranis/HighDigitSAMs)
 Dimitriov                                                                                                                       | [French Pack](https://forum.dcs.world/topic/257437-frenchpack-v491-update-on-27042022/#comment-4525169)
+Massun92                                                                                                                        | [Massun92 Asset Pack](https://massun92.gumroad.com/l/VTreS)
 
 ## Éditeur de mission
 <div class="contenu de_qualite"> <!-- Suntsag ancient gamer //-->

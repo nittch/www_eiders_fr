@@ -14,6 +14,11 @@ weight = 14
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-jf-17-thunder/" "Chuck’s Guides – DCS JF-17 Thunder" >}}
 </div>
 
+<div class="contenu"> <!-- Deka Ironwork //-->
+{{< canal-youtube "id" "UCOaRp90VE9Lhif1dbFWIuOQ" >}}
+{{< ressource-playlist-youtube "PLpEU7kYTYExgrub0_lhoq4neVV6QzRXlD" >}}
+</div>
+
 <div class="contenu"> <!-- Deephack //-->
 {{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
 {{< ressource-playlist-youtube "PLLY_KGBSBGjXGtFaZR_nnlQ9nNZ7F7hZR" >}}

@@ -48,6 +48,11 @@ weight = 11
 {{< ressource-playlist-youtube "PLUuRIAn89oXIwQSMM7QxIJDMsZNnL64kX" >}}
 </div>
 
+<div class="contenu"> <!-- Tricker //-->
+{{< canal-youtube "id" "UCcSm9zitjaWrfJxfM-Q-djQ" >}}
+{{< ressource-playlist-youtube "PL4a4myRJ63Xt5-0eA9m7ClyOabtAxEYpy" >}}
+</div>
+
 <div class="contenu"> <!-- Growling Sidewinder //-->
 {{< canal-youtube "id" "UCh2rDh7vXGeoh1LlzL3QEwg" >}}
 {{< ressource-video-youtube "r1cxN2_geYg" >}}

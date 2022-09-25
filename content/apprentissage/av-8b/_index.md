@@ -13,6 +13,11 @@ weight = 11
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-av-8b-harrier-ii/" "Chuck’s Guides – DCS AV-8B Harrier II" >}}
 </div>
 
+<div class="contenu"> <!-- Razbam //-->
+{{< canal-youtube "forUsername" "RadZamb" >}}
+{{< ressource-playlist-youtube "PLwKSNTU2afuC2tS61G2uqZ6Nw48QY1yBA" >}}
+</div>
+
 <div class="contenu"> <!-- Olivier Gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKz0sjUDMfPf5Bxx1MQxtmKT" >}}

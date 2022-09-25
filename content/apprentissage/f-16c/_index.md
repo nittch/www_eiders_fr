@@ -29,7 +29,7 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLIGR26sb4iVU0Zb3R-7Oee8jrqoVKNz7m" >}}
 </div>
 
-<div class="contenu"> <!-- Gaffer DCS //-->
+<div class="contenu de_qualite"> <!-- Gaffer DCS //-->
 {{< canal-youtube "id" "UCbX5Rz6cH_4XoovFOATgwtA" >}}
 {{< ressource-playlist-youtube "PLlrB2czNQh1YXERWJiL-BpoueifYwvf_Q" >}}
 </div>

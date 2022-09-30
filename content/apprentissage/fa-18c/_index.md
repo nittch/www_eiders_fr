@@ -60,6 +60,7 @@ weight = 8
 
 <div class="contenu"> <!-- Spudknocker //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdblDLcu8PN-J-ydPw1aZw9S4" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}}
 {{< ressource-video-youtube "rfdmWaSUrv8" >}}
 </div>

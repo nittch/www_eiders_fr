@@ -2650,6 +2650,8 @@ Variante MiG-29K : embarquée.</p>
 <div class="images">
 {{< ressource-video-youtube "JYUm5Nl6318" >}}
 {{< ressource-web "https://www.youtube.com/c/HornetVids/videos" "Youtube HornetVids" >}}
+{{< ressource-video-youtube "Vj_eJxy8ojk" >}}
+{{< ressource-video-youtube "QinpOPtR39Q" >}}
 </div>
 </div>
 

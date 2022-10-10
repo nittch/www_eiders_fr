@@ -63,7 +63,7 @@ weight = 25
 # Mods non jouables
 source                             | description
 ---------------------------------- | -----------
-Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.com/en/files/filter/user-is-CORSAIR%20veaf/apply/)
+Corsair (VEAF) Aircraft Approaches | [DCS](https://www.digitalcombatsimulator.com/en/files/filter/user-is-CORSAIR%20V.E.A.F/apply/)
 Aerodrome data and frequencies     | [Forum Eagle](https://forum.dcs.world/topic/269908-aerodrome-data-and-frequencies-updated-24-august-2022/)
 
 

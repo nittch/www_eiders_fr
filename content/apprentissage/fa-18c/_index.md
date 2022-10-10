@@ -3,6 +3,8 @@ title = "F/A-18C Hornet + Supercarrier"
 weight = 8
 +++
 
+<img src=/apprentissage/fa18c_formation.png class=decoration />
+
 <div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "G0h2gdFPzYQ" >}}

@@ -50,6 +50,13 @@ weight = 8
 {{< ressource-video-youtube "xyLS_XBLJd4" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314313/" "F/A-18C Kneeboard Suite - Checklists, Quickstart, Ordnance" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314314/" "F/A-18C Kneeboard Suite - CASE I/II/III, ACL, Overhead Break, LSO Grades" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314315/" "F/A-18C Kneeboard Suite - RWR Threats, HARM Radar Codes" >}}
+</div>
+
 <div class="contenu"> <!-- Doc //-->
 {{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
 {{< ressource-playlist-youtube "PLjV7iPvvdDf6Zl5sG9Cc9T4kqjS4HVxQc" >}}

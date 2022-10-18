@@ -81,7 +81,7 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 {{< ressource-web "https://bullseye-francophone.fr/infos-server#phraseology" "Phraseology BFR" >}}
 </div>
 
-# Contrôle (ATC, AWACS, JTAC...)
+# Contrôle (ATC, CGI/AWACS, JTAC...)
 
 <div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
@@ -98,6 +98,16 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 {{< ressource-playlist-youtube "PLAxeoQ7uDhjJ_4LhT4JtqGjrmrWN0mzWV" >}}
 {{< ressource-playlist-youtube "PLAxeoQ7uDhjJLHL-Fj56vMcVkn239VeEN" >}}
 {{< ressource-playlist-youtube "PLAxeoQ7uDhjLAHcSXhD3RRo-8GyvGpVHF" >}}
+</div>
+
+<div class="contenu"> <!-- Apollo's AWACS //-->
+{{< canal-youtube "id" "UCq0BTMsHvbmlb1ENkhVFv8g" >}}
+{{< ressource-playlist-youtube "PLFWGAA7RHKBeyZqvO6ArQbtY4G_DK8lUm" >}}
+</div>
+
+<div class="contenu"> <!-- Tacticale Pascale //-->
+{{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
+{{< ressource-playlist-youtube "PLnLWWfulBNpthfMHYzM9lQjvfqNltQuh5" >}}
 </div>
 
 <div class="contenu">

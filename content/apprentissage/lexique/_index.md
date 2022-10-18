@@ -83,6 +83,11 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 
 # Contrôle (ATC, AWACS, JTAC...)
 
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "Vb15QnK61LY" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Doc //-->
 {{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
 {{< ressource-video-youtube "P7rXt0xvCQM" >}}

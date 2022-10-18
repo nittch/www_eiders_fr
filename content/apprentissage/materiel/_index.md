@@ -17,6 +17,7 @@ weight = 30
 - [Stream Deck](https://www.elgato.com/fr/gaming/stream-deck)
 - [Buddy-Fox Simulations](https://www.buddy-fox.com/)
 - [Honeycomb](https://flyhoneycomb.com/)
+- [AuthentiKit](https://authentikit.org/)
 
 ## Parts...
 - [Cubesim](http://www.cubesim.com.cn/)

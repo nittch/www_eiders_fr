@@ -102,3 +102,8 @@ Airgoons     | [Tasking](https://www.airgoons.com/w/Tasking)
 
 ## Scripts
 Il est possible d'utiliser des scripts lua pour simplifier la création de mission (MOOSE, MIST, CTLD, Skynet IADS)...
+
+<div class="contenu"> <!-- AnyTimeBaby //-->
+{{< canal-youtube "id" "UCKxIMitMOzl7W86CI--5bRw" >}}
+{{< ressource-playlist-youtube "PLLkY2GByvtC2ME0Q9wrKRDE6qnXJYV3iT" >}}
+</div>

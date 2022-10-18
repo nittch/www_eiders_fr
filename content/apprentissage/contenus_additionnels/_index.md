@@ -21,6 +21,11 @@ weight = 25
 </div>
 
 ## VNAO T-45 Goshawk
+<div class="contenu"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3316508/" "T-45C Checklist and Cockpit Diagram" >}}
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-video-youtube "JRr0MI6i8NI" >}}

@@ -29,6 +29,11 @@ weight = 8
 {{< ressource-playlist-youtube "PLYA7v8u34qu89mbs4TGGEIhkwJ8kgFRWr" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3313817/" "A-10C and A-10C II Kneeboard Suite" >}}
+</div>
+
 <div class="contenu"> <!-- TheSkyline35 //-->
 {{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
 {{< ressource-video-youtube "qCTxnhETvu4" >}}

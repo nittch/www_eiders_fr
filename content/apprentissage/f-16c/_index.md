@@ -34,6 +34,11 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLlrB2czNQh1YXERWJiL-BpoueifYwvf_Q" >}}
 </div>
 
+<div class="contenu"> <!-- DCS hughlb2@gmail.com //-->
+{{< canal-web "hughlb2@gmail.com" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3306479/" "DCS F-16CM Viper Day/Night Kneeboard for Normal/Scramble Operations" >}}
+</div>
+
 <div class="contenu"> <!-- Spudknocker //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblNAFn4chmZmnRPINvWWItT" >}}

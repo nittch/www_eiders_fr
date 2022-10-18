@@ -3639,6 +3639,9 @@ ADV = "Air Defense Variant" (plus haut)
   "Staff Sgt. Sean Carnes, Public domain, via Wikimedia Commons"
 >}}
 </div>
+<div class="images">
+{{< ressource-video-youtube "osFNW14QBHw" >}}
+</div>
 </div>
 
 <!-- Cité sur https://fr.wikipedia.org/wiki/Avion_d%27interdiction -->

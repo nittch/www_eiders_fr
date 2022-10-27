@@ -3577,6 +3577,9 @@ ADV = "Air Defense Variant" (plus haut)
   "D. Miller from IL. USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
 </div>
+<div class="images">
+{{< ressource-video-youtube "Ay7z7bepS9M" >}}
+</div>
 </div>
 
 <!-- Attack aircraft: Jet attack aircraft were designed and employed during the Cold War era, such as the carrier-based nuclear strike Douglas A-3 Skywarrior and North American A-5 Vigilante, while the Grumman A-6 Intruder, F-105 Thunderchief, F-111, F-117 Nighthawk, LTV A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Étendard, Super Étendard and others were designed specifically for ground-attack, strike, close support and anti-armor work, with little or no air-to-air capability. -->

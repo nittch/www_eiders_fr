@@ -32,6 +32,11 @@ weight = 25
 </div>
 
 ## UH-60L
+<div class="contenu de_qualite"> <!-- Erik Scott //-->
+{{< canal-youtube "id" "UCc9zyZ-Ji74F3zJVB3eb8JQ" >}}
+{{< ressource-video-youtube "IixkS8R4Z8w" >}}
+</div>
+
 <div class="contenu"> <!-- the air warfare group //-->
 {{< canal-youtube "id" "UCdz6fNb-V-h2iZ_daWNoaTQ" >}}
 {{< ressource-playlist-youtube "PLroS5xjXW90vA2uqp1eg6hO2zt8wTx03D" >}}

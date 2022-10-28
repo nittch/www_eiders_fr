@@ -5,6 +5,6 @@ https://www.eiders.fr : Site des Eiders Implacables (ZR)
 
 # Générer le site
 ```shell
-git clone --recursive https://github.com/nittch/dcs_linkea_org # hugo utilise des submodules git
+git clone --recursive https://github.com/nittch/www_eiders_fr # hugo utilise des submodules git
 hugo server
 ```

@@ -18,6 +18,11 @@ weight = 11
 {{< ressource-playlist-youtube "PLwKSNTU2afuC2tS61G2uqZ6Nw48QY1yBA" >}}
 </div>
 
+<div class="contenu">
+{{< canal-web "Shiroka" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318285/" "AV-8B N/A Harrier II - Kneeboard Suite" >}}
+</div>
+
 <div class="contenu"> <!-- Olivier Gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKz0sjUDMfPf5Bxx1MQxtmKT" >}}

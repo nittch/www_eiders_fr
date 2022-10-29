@@ -19,6 +19,7 @@ weight = 6
 <div class="contenu de_qualite"> <!-- Dilixo //-->
 {{< canal-youtube "id" "UCvS0HT1Xga7H_ACuhrGhEOg" >}}
 {{< ressource-playlist-youtube "PL1k_s5S44l5vn9YB-gjPcvghXRfprpnus" >}}
+{{< ressource-web "https://docs.google.com/document/d/1149__rFz5wON-xjUacqir9NeZz4kUJXrpL7WTtG4LaU/" "CheckLists DCS Mirage 2000-C" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Photun //-->
@@ -31,7 +32,12 @@ weight = 6
 {{< ressource-playlist-youtube "PLIGR26sb4iVWOa_0PVDmtWU74_h_OVzy_" >}}
 </div>
 
-<div class="contenu de_qualite"> <!-- Association VEAF //-->
+<div class="contenu">
+{{< canal-web "Shiroka" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318306/" "Mirage M-2000C Kneeboard Suite" >}}
+</div>
+
+<div class="contenu"> <!-- Association VEAF //-->
 {{< canal-youtube "id" "UCEF1A_q8Cnw9JLW_Rlig3OQ" >}}
 {{< ressource-playlist-youtube "PLalR1_JFFm_79RbK-8seDMPBrP5IWFD6l" >}}
 </div>

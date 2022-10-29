@@ -10,7 +10,7 @@ weight = 9
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-16c-viper/" "Chuck’s Guides – DCS F-16C VIPER" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-16c-viper/" "Chuck’s Guides – DCS F-16C VIPER" "tuto" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Deephack //-->
@@ -36,7 +36,7 @@ Principalement sur le F-16.
 
 <div class="contenu"> <!-- DCS hughlb2@gmail.com //-->
 {{< canal-web "hughlb2@gmail.com" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3306479/" "DCS F-16CM Viper Day/Night Kneeboard for Normal/Scramble Operations" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3306479/" "DCS F-16CM Viper Day/Night Kneeboard for Normal/Scramble Operations" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Spudknocker //-->

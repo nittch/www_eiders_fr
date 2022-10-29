@@ -1,5 +1,5 @@
 <a href="{{ .Get 0 }}" target=_blank>
-  <div class="ressource ressource-web-{{ .Get 0 }}">
+  <div class="ressource ressource-web-{{ .Get 0 }} {{ .Get 2 }}">
     <div class="vignette">{{ ":page_facing_up:" | emojify }}</div>
     <div class="titre">{{ .Get 1 }}</div>
   </div>

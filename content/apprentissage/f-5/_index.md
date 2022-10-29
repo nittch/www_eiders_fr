@@ -10,7 +10,7 @@ weight = 14
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-5e-tiger-ii/" "Chuck’s Guides – DCS F-5 Tiger II" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-5e-tiger-ii/" "Chuck’s Guides – DCS F-5 Tiger II" "tuto" >}}
 </div>
 
 <div class="contenu"> <!-- Tricker //-->

@@ -10,7 +10,7 @@ weight = 12
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-14b-tomcat/" "Chuck’s Guides – DCS F-14B Tomcat" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-14b-tomcat/" "Chuck’s Guides – DCS F-14B Tomcat" "tuto" >}}
 </div>
 
 <div class="contenu"> <!-- Olivier Gaming //-->

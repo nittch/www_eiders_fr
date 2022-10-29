@@ -10,7 +10,7 @@ weight = 11
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-av-8b-harrier-ii/" "Chuck’s Guides – DCS AV-8B Harrier II" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-av-8b-harrier-ii/" "Chuck’s Guides – DCS AV-8B Harrier II" "tuto" >}}
 </div>
 
 <div class="contenu"> <!-- Razbam //-->
@@ -20,7 +20,7 @@ weight = 11
 
 <div class="contenu">
 {{< canal-web "Shiroka" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318285/" "AV-8B N/A Harrier II - Kneeboard Suite" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318285/" "AV-8B N/A Harrier II - Kneeboard Suite" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Olivier Gaming //-->

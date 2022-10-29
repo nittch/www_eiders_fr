@@ -60,18 +60,18 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 
 <div class="contenu">
 {{< canal-web "Eagle Dynamics - Forums" >}}
-{{< ressource-web "https://forums.eagle.ru/showthread.php?t=120007&page=2" "SU-27 instruments fonctions" >}}
+{{< ressource-web "https://forums.eagle.ru/showthread.php?t=120007&page=2" "SU-27 instruments fonctions" "forum" >}}
 , le vrai hotas du SU-27 pour donner des idées
 </div>
 
 <div class="contenu">
 {{< canal-web "Check-Six - Forums" >}}
-{{< ressource-web "http://www.checksix-forums.com/viewtopic.php?t=200347" "Réglages avancés radar Mig 29A/G/S et SU-27/33" >}}
+{{< ressource-web "http://www.checksix-forums.com/viewtopic.php?t=200347" "Réglages avancés radar Mig 29A/G/S et SU-27/33" "forum" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "Multisim Project" >}}
-{{< ressource-web "https://memorial76-vols-virtuels.blogspot.com/p/documentation.html" "Checklists SU-27 / SU-25" >}}
+{{< ressource-web "https://memorial76-vols-virtuels.blogspot.com/p/documentation.html" "Checklists SU-27 / SU-25" "planchette" >}}
 </div>
 
 ## F-15C

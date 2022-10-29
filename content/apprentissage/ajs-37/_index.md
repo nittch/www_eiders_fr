@@ -12,13 +12,13 @@ N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-ajs-37-viggen/" "Chuck’s Guides – DCS AJS 37 VIGGEN" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-ajs-37-viggen/" "Chuck’s Guides – DCS AJS 37 VIGGEN" "tuto" >}}
 </div>
 
 <div class="contenu de_qualite">
 Une documentation en français.
 {{< canal-web "Zedroopy" >}}
-{{< ressource-web "http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen" "AJS-37 Viggen" >}}
+{{< ressource-web "http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen" "AJS-37 Viggen" "wiki" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- TrakDah //-->
@@ -75,7 +75,7 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 
 <div class="contenu">
 {{< canal-web "renhanxue (forum DCS)" >}}
-{{< ressource-web "https://forums.eagle.ru/topic/150023-rb-04e-the-viggens-signature-weapon/" "Rb 04E: the Viggen's signature weapon" >}}
+{{< ressource-web "https://forums.eagle.ru/topic/150023-rb-04e-the-viggens-signature-weapon/" "Rb 04E: the Viggen's signature weapon" "forum" >}}
 </div>
 
 <div class="contenu"> <!-- Marcel Glandier //-->

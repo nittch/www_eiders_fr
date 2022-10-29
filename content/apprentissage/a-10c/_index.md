@@ -10,12 +10,12 @@ weight = 8
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-a-10c-warthog/" "Chuck’s Guides – DCS A-10C Warthog" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-a-10c-warthog/" "Chuck’s Guides – DCS A-10C Warthog" "tuto" >}}
 </div>
 
 <div class="contenu"> <!-- Hoggitworld //-->
 {{< canal-hoggitworld >}}
-{{< ressource-web "https://wiki.hoggitworld.com/view/A-10C" "A-10C" >}}
+{{< ressource-web "https://wiki.hoggitworld.com/view/A-10C" "A-10C" "wiki" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Doc //-->
@@ -31,7 +31,7 @@ weight = 8
 
 <div class="contenu de_qualite"> <!-- Minsky //-->
 {{< canal-web "Minsky" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3313817/" "A-10C and A-10C II Kneeboard Suite" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3313817/" "A-10C and A-10C II Kneeboard Suite" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- TheSkyline35 //-->

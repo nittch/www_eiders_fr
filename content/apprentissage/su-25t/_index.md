@@ -32,6 +32,11 @@ weight = 4
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEoKqbggsaovILMmaMePeQj2" >}}
 </div>
 
+<div class="contenu"> <!-- ralfidude //-->
+{{< canal-youtube "forUsername" "ralfidude" >}}
+{{< ressource-playlist-youtube "PLYA7v8u34qu_LHSgylMs2_ww6KcKc_pis" >}}
+</div>
+
 <div class="contenu"> <!-- Banana Mayo //-->
 {{< canal-youtube "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}
 {{< ressource-playlist-youtube "PLmL0WZQili6ASRpJEKd0iwaf_M5q9gIrl" >}}

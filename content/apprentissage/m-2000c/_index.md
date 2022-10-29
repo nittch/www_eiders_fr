@@ -13,13 +13,13 @@ weight = 6
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/" "Chuck’s Guides – DCS Mirage 2000C" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-mirage-2000c/" "Chuck’s Guides – DCS Mirage 2000C" "tuto" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Dilixo //-->
 {{< canal-youtube "id" "UCvS0HT1Xga7H_ACuhrGhEOg" >}}
 {{< ressource-playlist-youtube "PL1k_s5S44l5vn9YB-gjPcvghXRfprpnus" >}}
-{{< ressource-web "https://docs.google.com/document/d/1149__rFz5wON-xjUacqir9NeZz4kUJXrpL7WTtG4LaU/" "CheckLists DCS Mirage 2000-C" >}}
+{{< ressource-web "https://docs.google.com/document/d/1149__rFz5wON-xjUacqir9NeZz4kUJXrpL7WTtG4LaU/" "CheckLists DCS Mirage 2000-C" "planchette" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Photun //-->
@@ -34,7 +34,7 @@ weight = 6
 
 <div class="contenu">
 {{< canal-web "Shiroka" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318306/" "Mirage M-2000C Kneeboard Suite" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318306/" "Mirage M-2000C Kneeboard Suite" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Association VEAF //-->
@@ -83,7 +83,7 @@ weight = 6
 
 <div class="contenu"> <!-- Reddit //-->
 {{< canal-web "Reddit" >}}
-{{< ressource-web "https://www.reddit.com/r/hoggit/comments/7se6n0/what_is_the_mirage_ideal_landing_speed_i_keep/dt47th2/" "What is the Mirage ideal landing speed..." >}}
+{{< ressource-web "https://www.reddit.com/r/hoggit/comments/7se6n0/what_is_the_mirage_ideal_landing_speed_i_keep/dt47th2/" "What is the Mirage ideal landing speed..." "forum" >}}
 </div>
 
 <div class="contenu"> <!-- n8d0g //-->

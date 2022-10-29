@@ -58,7 +58,7 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 
 <div class="contenu">
 {{< canal-hoggitworld >}}
-{{< ressource-web "https://wiki.hoggitworld.com/view/Brevity_List" "Brevity List" >}}
+{{< ressource-web "https://wiki.hoggitworld.com/view/Brevity_List" "Brevity List" "wiki">}}
 </div>
 
 <div class="contenu">
@@ -68,12 +68,12 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 
 <div class="contenu">
 {{< canal-web "Wikipédia" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Multiservice_tactical_brevity_code" "Multiservice tactical brevity code" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Multiservice_tactical_brevity_code" "Multiservice tactical brevity code" "wiki" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "Reddit" >}}
-{{< ressource-web "https://www.reddit.com/r/hoggit/comments/2mzt62/helpful_lingo_for_noobs/" "Helpful lingo for noobs" >}}
+{{< ressource-web "https://www.reddit.com/r/hoggit/comments/2mzt62/helpful_lingo_for_noobs/" "Helpful lingo for noobs" "forum" >}}
 </div>
 
 <div class="contenu">
@@ -112,8 +112,8 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 
 <div class="contenu">
 {{< canal-web "Wiki 3rd-wing" >}}
-{{< ressource-web "http://wiki.3rd-wing.net/index.php?title=9-Line" "Le 9-LINE" >}}
+{{< ressource-web "http://wiki.3rd-wing.net/index.php?title=9-Line" "Le 9-LINE" "wiki" >}}
 détaillée ici
-{{< ressource-web "https://www.3rd-wing.net/index.php?showtopic=15000&st=30" "Training JTAC" >}}
+{{< ressource-web "https://www.3rd-wing.net/index.php?showtopic=15000&st=30" "Training JTAC" "forum" >}}
 </div>
 

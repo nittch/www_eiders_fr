@@ -117,6 +117,22 @@
   vertical-align: middle;
 }
 
+.ressource.forum .vignette:after {
+  content: " Forum";
+}
+
+.ressource.planchette .vignette:after {
+  content: " Planchettes";
+}
+
+.ressource.tuto .vignette:after {
+  content: " Tutos";
+}
+
+.ressource.wiki .vignette:after {
+  content: " Wiki";
+}
+
 .ressource .titre
 {
   text-align: center;

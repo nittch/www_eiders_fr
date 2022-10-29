@@ -10,7 +10,7 @@ weight = 15
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-ka-50-black-shark/" "Chuck’s Guides – DCS Ka-50 Black Shark" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-ka-50-black-shark/" "Chuck’s Guides – DCS Ka-50 Black Shark" "tuto" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- 131st Death Vipers //-->

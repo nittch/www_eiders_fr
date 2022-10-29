@@ -3031,7 +3031,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 >}}
 </div>
 <div class="images">
-{{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." >}}
+{{< ressource-web "https://www.reddit.com/r/aviation/comments/tqgc2c/f22_pilot_demonstrates_a_minimum_radius_turn/" "F-22 pilot demonstrates a minimum radius turn followed by J-turn reposition a.k.a Herbst Maneuver..." "forum" >}}
 {{< ressource-video-youtube "GUlHhKvIX3w" >}}
 </div>
 </div>
@@ -3382,7 +3382,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Lt. Cmdr.John Leenhouts, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel -->
-{{< ressource-web "https://www.quora.com/How-effective-is-viffing-in-a-Harrier" "How effective is VIFFing in a Harrier" >}}
+{{< ressource-web "https://www.quora.com/How-effective-is-viffing-in-a-Harrier" "How effective is VIFFing in a Harrier" "forum" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "8UE9i82Kc_Y" >}} <!-- harrier viffing -->
@@ -4100,15 +4100,15 @@ ADV = "Air Defense Variant" (plus haut)
 
 <div class="contenu">
 {{< canal-web "Wikipédia" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack aircraft" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Bomber" "Bomber" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Fighter_aircraft" "Fighter aircraft" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Century_Series" "Century_Series" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Teen_Series" "Teen Series" >}}
-{{< ressource-web "ttps://en.wikipedia.org/wiki/Jet_fighter_generations" "Jet fighter generations" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Fourth-generation_fighter" "Fourth generation fighter" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Fifth-generation_fighter" "Fifth generation fighter" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Look-down/shoot-down" "Look-down/shoot-down" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack aircraft" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Bomber" "Bomber" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fighter_aircraft" "Fighter aircraft" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Century_Series" "Century_Series" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Teen_Series" "Teen Series" "wiki" >}}
+{{< ressource-web "ttps://en.wikipedia.org/wiki/Jet_fighter_generations" "Jet fighter generations" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fourth-generation_fighter" "Fourth generation fighter" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fifth-generation_fighter" "Fifth generation fighter" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Look-down/shoot-down" "Look-down/shoot-down" "wiki" >}}
 </div>

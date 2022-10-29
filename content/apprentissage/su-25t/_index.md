@@ -19,7 +19,7 @@ weight = 4
 <div class="contenu"> <!-- Ailes Virtuelles //-->
 {{< canal-youtube "id" "UCZqj667nR2Jo51kapi59Tzg" >}}
 {{< ressource-playlist-youtube "PLXUS5xgdov37N99wQoXV4yqcg2X1bDKJ4" >}}
-{{< ressource-web "http://www.ailesvirtuelles.com/assets/pdf-files/Armement-SU-25T.pdf?" "[PDF]Armement SU-25T" >}}
+{{< ressource-web "http://www.ailesvirtuelles.com/assets/pdf-files/Armement-SU-25T.pdf?" "[PDF]Armement SU-25T" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Wolf5 //-->
@@ -49,16 +49,16 @@ weight = 4
 
 <div class="contenu">
 {{< canal-web "EVAC - Ecole Virtuelle d'Aviation de Chasse" >}}
-{{< ressource-web "http://evacfr.free.fr/PUBLIC/LOCKON/BIBLIO/C2/checklistSU25T.pdf" "[PDF]Checklist SU-25T" >}}
+{{< ressource-web "http://evacfr.free.fr/PUBLIC/LOCKON/BIBLIO/C2/checklistSU25T.pdf" "[PDF]Checklist SU-25T" "planchette" >}}
 pour lock-on
 </div>
 
 <div class="contenu">
 {{< canal-web "Eagle Dynamics - Forum" >}}
-{{< ressource-web "https://forums.eagle.ru/showthread.php?t=248923" "Su-25 T Weapons list with descriptions" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/670535/?sphrase_id=2874759" "SU-25T Loadout Quick Reference" >}}
+{{< ressource-web "https://forums.eagle.ru/showthread.php?t=248923" "Su-25 T Weapons list with descriptions" "forum" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/670535/?sphrase_id=2874759" "SU-25T Loadout Quick Reference" "planchette">}}
 tableau récapitulatif des emports, aussi sur 
-{{< ressource-web "https://forums.eagle.ru/showthread.php?t=110779" "SU-25T operation: A beginner's tip for beginners" >}}
+{{< ressource-web "https://forums.eagle.ru/showthread.php?t=110779" "SU-25T operation: A beginner's tip for beginners" "forum" >}}
 excellent !
 </div>
 

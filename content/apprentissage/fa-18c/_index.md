@@ -12,12 +12,12 @@ weight = 8
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/" "Chuck’s Guides – DCS F/A-18C HORNET" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/" "Chuck’s Guides – DCS F/A-18C HORNET" "tuto" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Hoggitworld //-->
 {{< canal-hoggitworld >}}
-{{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" >}}
+{{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" "wiki" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- EFPV //-->
@@ -52,9 +52,9 @@ weight = 8
 
 <div class="contenu de_qualite"> <!-- Minsky //-->
 {{< canal-web "Minsky" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314313/" "F/A-18C Kneeboard Suite - Checklists, Quickstart, Ordnance" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314314/" "F/A-18C Kneeboard Suite - CASE I/II/III, ACL, Overhead Break, LSO Grades" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314315/" "F/A-18C Kneeboard Suite - RWR Threats, HARM Radar Codes" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314313/" "F/A-18C Kneeboard Suite - Checklists, Quickstart, Ordnance" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314314/" "F/A-18C Kneeboard Suite - CASE I/II/III, ACL, Overhead Break, LSO Grades" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314315/" "F/A-18C Kneeboard Suite - RWR Threats, HARM Radar Codes" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Doc //-->
@@ -102,21 +102,21 @@ weight = 8
 
 <div class="contenu"> <!-- Boyington //-->
 {{< canal-web "Boyington" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3315085/" "F/A-18C Weapons and Loadout" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3315085/" "F/A-18C Weapons and Loadout" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- asherao //-->
 {{< canal-web "asherao" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3305134/" "F18 Hornet Fuzing and Armament Quicklook Kneeboard" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3305134/" "F18 Hornet Fuzing and Armament Quicklook Kneeboard" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- IceCat //-->
 {{< canal-web "IceCat" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3300721/" "F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3300721/" "F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- kengou //-->
 {{< canal-web "kengou" >}}
-{{< ressource-web "https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/" "Hornet weight/balance/trim/takeoff calculator spreadsheet" >}}
+{{< ressource-web "https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/" "Hornet weight/balance/trim/takeoff calculator spreadsheet" "forum" >}}
 </div>
 

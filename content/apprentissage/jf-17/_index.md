@@ -11,7 +11,7 @@ weight = 14
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-jf-17-thunder/" "Chuck’s Guides – DCS JF-17 Thunder" >}}
+{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-jf-17-thunder/" "Chuck’s Guides – DCS JF-17 Thunder" "tuto" >}}
 </div>
 
 <div class="contenu"> <!-- Deka Ironwork //-->
@@ -37,7 +37,7 @@ weight = 14
 <div class="contenu"> <!-- 26th Division //-->
 {{< canal-youtube "id" "UCzVTizd2qe4DAkCgtHzJabg" >}}
 {{< ressource-playlist-youtube "PLdjbN8WGLKnxapQ9_wqZRS2TNNA788M_p" >}}
-{{< ressource-web "https://wiki.3rd-wing.net/index.php?title=26th" "Wiki JF-17 3rd Wing" >}}
+{{< ressource-web "https://wiki.3rd-wing.net/index.php?title=26th" "Wiki JF-17 3rd Wing" "wiki" >}}
 </div>
 
 <div class="contenu"> <!-- Marcel Glandier //-->

@@ -23,3 +23,8 @@ weight = 12
 {{< ressource-playlist-youtube "PLIGR26sb4iVXdEl2KUY4YbQ57REkyznXt" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjWn46S_favLwJjK2aZQD5bs" >}}
+</div>
+

@@ -78,8 +78,3 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 {{< ressource-web "https://forums.eagle.ru/topic/150023-rb-04e-the-viggens-signature-weapon/" "Rb 04E: the Viggen's signature weapon" "forum" >}}
 </div>
 
-<div class="contenu"> <!-- Marcel Glandier //-->
-{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
-{{< ressource-playlist-youtube "PLUuRIAn89oXJYL13IlXgDxjcTIR6Fss8H" >}}
-</div>
-

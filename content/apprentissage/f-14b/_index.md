@@ -18,11 +18,6 @@ weight = 12
 {{< ressource-playlist-youtube "PLpbLV3TvMUKweaNlfW8vZExcyKDl8BSM1" >}}
 </div>
 
-<div class="contenu"> <!-- Marcel Glandier //-->
-{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
-{{< ressource-playlist-youtube "PLUuRIAn89oXLD2jBUN6J7Mbv7v_nLefoJ" >}}
-</div>
-
 <div class="contenu"> <!-- Groupement de Chasse 22 //-->
 {{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
 {{< ressource-playlist-youtube "PLIGR26sb4iVXdEl2KUY4YbQ57REkyznXt" >}}

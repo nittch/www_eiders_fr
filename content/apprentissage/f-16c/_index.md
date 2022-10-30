@@ -59,11 +59,6 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLpbLV3TvMUKyQUWf4GtBKdTkgweZB27YS" >}}
 </div>
 
-<div class="contenu"> <!-- Marcel Glandier //-->
-{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
-{{< ressource-playlist-youtube "PLUuRIAn89oXIb0PjvpZIE0-cKawmTexbe" >}}
-</div>
-
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" >}}

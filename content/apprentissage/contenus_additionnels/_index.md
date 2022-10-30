@@ -15,11 +15,6 @@ weight = 25
 {{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
 </div>
 
-<div class="contenu"> <!-- Marcel Glandier //-->
-{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
-{{< ressource-playlist-youtube "PLUuRIAn89oXIJcWZlzxBv27-ClegGml_w" >}}
-</div>
-
 ## VNAO T-45 Goshawk
 <div class="contenu"> <!-- Minsky //-->
 {{< canal-web "Minsky" >}}

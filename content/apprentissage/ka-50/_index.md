@@ -32,7 +32,3 @@ weight = 15
 du même auteur que la série sur l'AJS-37 Viggen. On manque de recul sur le contenu, mais on ne doute pas que ce soit aussi bien que celle-ci.
 </div>
 
-<div class="contenu"> <!-- Marcel Glandier //-->
-{{< canal-youtube "id" "UCUbQynnr5PbDvur6nAKUMpQ" >}}
-{{< ressource-playlist-youtube "PLUuRIAn89oXIyUKRMkGUAg6Ip1EklLRmc" >}}
-</div>

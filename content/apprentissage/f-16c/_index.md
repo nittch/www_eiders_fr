@@ -54,6 +54,11 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PL4a4myRJ63XtpEgvAjYlPru-kFjKquxCK" >}}
 </div>
 
+<div class="contenu"> <!-- Fox 3 DCS //-->
+{{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
+{{< ressource-playlist-youtube "PLqGY49W4jCyKxHgZfZM4BsFXcuZcUX6AK" >}}
+</div>
+
 <div class="contenu"> <!-- Olivier Gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKyQUWf4GtBKdTkgweZB27YS" >}}

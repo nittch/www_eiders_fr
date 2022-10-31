@@ -57,6 +57,11 @@ weight = 8
 {{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314315/" "F/A-18C Kneeboard Suite - RWR Threats, HARM Radar Codes" "planchette" >}}
 </div>
 
+<div class="contenu"> <!-- Fox 3 DCS //-->
+{{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
+{{< ressource-playlist-youtube "PLqGY49W4jCyLkxpHmvvmYoa0DoK4ccK_r" >}}
+</div>
+
 <div class="contenu"> <!-- Doc //-->
 {{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
 {{< ressource-playlist-youtube "PLjV7iPvvdDf6Zl5sG9Cc9T4kqjS4HVxQc" >}}

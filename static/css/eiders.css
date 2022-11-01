@@ -100,7 +100,7 @@
   background-repeat: no-repeat;
 
   text-align: center;
-  font-size: xx-large;
+  font-size: 5em;
 
   position: absolute;
   width: 100%;
@@ -115,22 +115,6 @@
   display: inline-block;
   height: 100%;
   vertical-align: middle;
-}
-
-.ressource.forum .vignette:after {
-  content: " Forum";
-}
-
-.ressource.planchette .vignette:after {
-  content: " Planchettes";
-}
-
-.ressource.tuto .vignette:after {
-  content: " Tutos";
-}
-
-.ressource.wiki .vignette:after {
-  content: " Wiki";
 }
 
 .ressource .titre

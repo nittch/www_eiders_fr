@@ -105,7 +105,7 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 {{< ressource-playlist-youtube "PLFWGAA7RHKBeyZqvO6ArQbtY4G_DK8lUm" >}}
 </div>
 
-<div class="contenu"> <!-- Tacticale Pascale //-->
+<div class="contenu"> <!-- Tactical Pascale //-->
 {{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
 {{< ressource-playlist-youtube "PLnLWWfulBNpthfMHYzM9lQjvfqNltQuh5" >}}
 </div>

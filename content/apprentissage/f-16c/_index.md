@@ -64,6 +64,16 @@ Principalement sur le F-16.
 {{< ressource-playlist-youtube "PLpbLV3TvMUKyQUWf4GtBKdTkgweZB27YS" >}}
 </div>
 
+<div class="contenu"> <!-- Bogey Dope //-->
+{{< canal-youtube "id" "UClQ_AP0MsmKH8abhP58lBnA" >}}
+{{< ressource-playlist-youtube "PLmKZwgrxRmasAT5Spt9HBBjpy93_9vZbm" >}}
+</div>
+
+<div class="contenu"> <!-- RedKite //-->
+{{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
+{{< ressource-playlist-youtube "PLml_c09ciucucGNhd843UNNJMeXwhS8t6" >}} (Beaucoup de vidéo de Waggs également)
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEr06bGAo2FP3iFfMPIYO7FB" >}}

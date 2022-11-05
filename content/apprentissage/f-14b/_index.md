@@ -23,8 +23,18 @@ weight = 12
 {{< ressource-playlist-youtube "PLIGR26sb4iVXdEl2KUY4YbQ57REkyznXt" >}}
 </div>
 
+<div class="contenu"> <!-- Jabbers //-->
+{{< canal-youtube "id" "UCvXXUrGCF3wV3bbZ6pFQ00g" >}}
+{{< ressource-playlist-youtube "PLbEi2nhCxrDVOAgxR59UgR0TnmC4qHkAi" >}}
+</div>
+
 <div class="contenu"> <!-- Deephack //-->
 {{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
 {{< ressource-playlist-youtube "PLLY_KGBSBGjWn46S_favLwJjK2aZQD5bs" >}}
+</div>
+
+<div class="contenu"> <!-- RedKite //-->
+{{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
+{{< ressource-playlist-youtube "PLml_c09ciucs3Q2SsJ2HDHBGpTbfkDwE4" >}} (Beaucoup de vidéos de Jabbers également)
 </div>
 

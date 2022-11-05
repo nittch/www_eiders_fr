@@ -71,7 +71,7 @@ Principalement sur le F-16.
 
 <div class="contenu"> <!-- RedKite //-->
 {{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
-{{< ressource-playlist-youtube "PLml_c09ciucucGNhd843UNNJMeXwhS8t6" >}} (Beaucoup de vidéo de Waggs également)
+{{< ressource-playlist-youtube "PLml_c09ciucucGNhd843UNNJMeXwhS8t6" >}} (Beaucoup de vidéos de Waggs également)
 </div>
 
 <div class="contenu"> <!-- Commander Steinsch //-->

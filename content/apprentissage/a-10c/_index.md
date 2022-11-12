@@ -34,9 +34,13 @@ weight = 8
 {{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3313817/" "A-10C and A-10C II Kneeboard Suite" "planchette" >}}
 </div>
 
+<div class="contenu">
+{{< canal-youtube "forUsername" "Tricker" >}}
+{{< ressource-video-youtube "xo2ov_jjfLs" >}}
+</div>
+
 <div class="contenu"> <!-- TheSkyline35 //-->
 {{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
 {{< ressource-video-youtube "qCTxnhETvu4" >}}
 {{< ressource-video-youtube "CSSP9sDeqJk" >}}
 </div>
-

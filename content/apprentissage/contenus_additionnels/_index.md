@@ -10,7 +10,7 @@ weight = 25
 {{< ressource-playlist-youtube "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}
 </div>
 
-<div class="contenu"> <!-- DCS Sport //-->
+<div class="contenu de_qualite"> <!-- DCS Sport //-->
 {{< canal-youtube "id" "UCgUBgZHmefvLvZnsbBKcjhg" >}}
 {{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
 </div>
@@ -107,6 +107,11 @@ weight = 25
 
 ## Tacview
 Un soft permettant d'analyser ses parties après coup... [Site tacview](https://www.tacview.net/)
+
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "-iuo-Ol2vL8" >}}
+</div>
 
 ## LotATC
 (Voir Apprentissage/Rôles humains)

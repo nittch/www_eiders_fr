@@ -3953,6 +3953,7 @@ ADV = "Air Defense Variant" (plus haut)
   "Mike Freer - Touchdown-aviation (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "s6z5VvmAi4w" >}} <!-- Drole de machines -->
 </div>
 </div>
 

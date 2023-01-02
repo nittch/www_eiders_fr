@@ -54,6 +54,12 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 {{< ressource-playlist-youtube "PLF4aNS2kgI4IWpsrB1V_n_zE6EiNVLWcw" >}}
 </div>
 
+<div class="contenu"> <!-- Iain Christie / Sidekick65 //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-video-youtube "bEnmXGnxGck" >}}
+{{< ressource-video-youtube "J2bgp3mxkiY" >}}
+</div>
+
 <div class="contenu">
 {{< canal-youtube "forUsername" "Badjoe117" >}}
 {{< ressource-playlist-youtube "PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh" >}}
@@ -77,4 +83,3 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 {{< canal-web "renhanxue (forum DCS)" >}}
 {{< ressource-web "https://forums.eagle.ru/topic/150023-rb-04e-the-viggens-signature-weapon/" "Rb 04E: the Viggen's signature weapon" "forum" >}}
 </div>
-

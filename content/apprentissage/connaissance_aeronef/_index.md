@@ -513,6 +513,7 @@ Version P-38M : chasseur de nuit.
   "See page for author, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "V3ZEiCpdxf8" >}} <!-- Yataka -->
+{{< ressource-video-youtube "Jpxrl-RtVwQ" >}} <!-- Tortue CH - Air Ambulance -->
 </div>
 </div>
 
@@ -2688,6 +2689,7 @@ Variante MiG-29K : embarquée.</p>
 {{< ressource-video-youtube "T5DrtgXX7qQ" >}} <!-- Armee de l'air et de l'espace -->
 {{< ressource-video-youtube "JEPhz2E41pw" >}} <!-- Armee de l'air et de l'espace -->
 {{< ressource-video-youtube "nnQ3VIPRWwU" >}} <!-- Armee de l'air et de l'espace -->
+{{< ressource-video-youtube "Y8RPZNsYIEQ" >}}
 </div>
 </div>
 
@@ -2833,6 +2835,7 @@ Géométrie variable. Basé sur le Tornado.<br />
 <div class="images">
 {{< ressource-video-youtube "BnOOxKD3uD4" >}}
 {{< ressource-video-youtube "eXaPfUs6sQw" >}}
+{{< ressource-video-youtube "X0PAO3fKCUk" >}}
 </div>
 </div>
 

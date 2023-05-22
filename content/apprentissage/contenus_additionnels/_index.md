@@ -5,6 +5,11 @@ weight = 25
 
 # Mods jouables
 ## Community A-4E-C Skyhawk
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "6BQ-oVf0_GY" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Ian Christie //-->
 {{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
 {{< ressource-playlist-youtube "PL0jjGRFQGC0quifoSs2mrxqTzdx_QjgVz" >}}

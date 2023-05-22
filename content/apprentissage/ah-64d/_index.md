@@ -3,6 +3,11 @@ title = "AH-64D Apache"
 weight = 20
 +++
 
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "P8bS0v7VOHU" >}}
+</div>
+
 <div class="contenu"> <!-- Fox 3 DCS //-->
 {{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
 {{< ressource-playlist-youtube "PLqGY49W4jCyLv0IyjPbWcxSpbEqW_Rg8D" >}}

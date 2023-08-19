@@ -2523,6 +2523,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
   "U.S. Navy photo, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "AHtAdp3Kei0" >}} <!-- Les ailes de legende -->
+{{< ressource-video-youtube "6yaqw3IOSDE" >}} <!-- Cap Aviation -->
 </div>
 </div>
 
@@ -2597,6 +2598,7 @@ Datalink.
   "Dmitriy Pichugin (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html>), via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "79DeCalsI-I" >}}
+{{< ressource-video-youtube "g0lZZucunzQ" >}} <!--// AeronewsTV //-->
 </div>
 <div class="images">
 {{< ressource-video-youtube "KP-EvqlCSJo" >}}
@@ -3386,6 +3388,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "Lt. Cmdr.John Leenhouts, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel -->
+{{< ressource-video-youtube "-d0xr7dx6_0" >}} <!-- Drole de machines //-->
 {{< ressource-web "https://www.quora.com/How-effective-is-viffing-in-a-Harrier" "How effective is VIFFing in a Harrier" "forum" >}}
 </div>
 <div class="images">
@@ -3583,6 +3586,7 @@ ADV = "Air Defense Variant" (plus haut)
 </div>
 <div class="images">
 {{< ressource-video-youtube "Ay7z7bepS9M" >}}
+{{< ressource-video-youtube "y80Cd08BvKI" >}}
 </div>
 </div>
 

@@ -31,9 +31,7 @@ Une documentation en français.
 <div class="contenu"> <!-- Saker chez Spudknocker //-->
 À voir pour débuter et se mettre dans l'ambiance.
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
-{{< ressource-video-youtube "2s95ZffnXV0" >}}
-{{< ressource-video-youtube "zo2do99MvpM" >}}
-{{< ressource-video-youtube "Z8YhmaBAuGE" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdbmhukmv1CwfEyhSLGh89dA3" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- clubby37 //-->
@@ -56,10 +54,17 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 
 <div class="contenu"> <!-- Iain Christie / Sidekick65 //-->
 {{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
-{{< ressource-video-youtube "bEnmXGnxGck" >}}
-{{< ressource-video-youtube "J2bgp3mxkiY" >}}
-{{< ressource-video-youtube "Ic0YYaeb-7o" >}}
 {{< ressource-playlist-youtube "PL0jjGRFQGC0rSsMhQqN6ssqmjlKA3jf_F" >}}
+</div>
+
+<div class="contenu"> <!-- CasmoTV//-->
+{{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
+{{< ressource-playlist-youtube "PLNtUtkZqN36lorFXbfQie6A3_OrVElCkO" >}}
+</div>
+
+<div class="contenu"> <!-- Matt Waggner //-->
+{{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
+{{< ressource-playlist-youtube "PLer9oF4AanvHX8x1qkjiVT92hmFS_ozFP" >}}
 </div>
 
 <div class="contenu">

@@ -56,6 +56,11 @@ Visual                  | "I see you/it" (friendly) / contact visuel sur un aér
 
 ## Sources
 
+<div class="contenu"> <!-- ralfidude //-->
+{{< canal-youtube "forUsername" "ralfidude" >}}
+{{< ressource-playlist-youtube "PLYA7v8u34qu8sRgFXGK2-bjepphe7V3Fa" >}}
+</div>
+
 <div class="contenu">
 {{< canal-hoggitworld >}}
 {{< ressource-web "https://wiki.hoggitworld.com/view/Brevity_List" "Brevity List" "wiki">}}

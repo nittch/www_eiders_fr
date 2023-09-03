@@ -20,6 +20,11 @@ weight = 6
 {{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
 </div>
 
+<div class="contenu"> <!-- Heinlein //-->
+{{< canal-youtube "id" "UCQyDyxc788zaDfTtqnChAoQ" >}}
+{{< ressource-playlist-youtube "PLLnxK6CJYwVdz1-2fPtgf6qYrUMW78Mud" >}}
+</div>
+
 ## VNAO T-45 Goshawk
 <div class="contenu"> <!-- Minsky //-->
 {{< canal-web "Minsky" >}}
@@ -56,11 +61,15 @@ weight = 6
 ## OV-10 Bronco (by Split-air)
 <div class="contenu de_qualite"> <!-- Ian Christie //-->
 {{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
-{{< ressource-video-youtube "bZ_1K324Yy0" >}}
-{{< ressource-video-youtube "CC1NcQzInYw" >}}
+{{< ressource-playlist-youtube "PL0jjGRFQGC0q2Ca1aRCvygkAMwljI9PpU" >}}
 </div>
 
 ## A-29B Super Tucano
+<div class="contenu"> <!-- CasmoTV//-->
+{{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
+{{< ressource-playlist-youtube "PLNtUtkZqN36koUy1Z_uYhdg44FS9j33IF" >}}
+</div>
+
 <div class="contenu"> <!-- 311Griffon //-->
 {{< canal-youtube "id" "UCR0ojtQ0Srh2y2O4pelFrDA" >}}
 {{< ressource-playlist-youtube "PLo5YmN6D-iCADAvM0M1KvUKSfJjQYg4gF" >}}

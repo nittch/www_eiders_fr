@@ -12,7 +12,7 @@ weight = 52
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/" "Chuck’s Guides – DCS F/A-18C HORNET" "tuto" >}}
+{{< ressource-chucksguide "fa-18c" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- AVM //-->

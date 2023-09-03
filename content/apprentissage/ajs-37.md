@@ -12,7 +12,7 @@ N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-ajs-37-viggen/" "Chuck’s Guides – DCS AJS 37 VIGGEN" "tuto" >}}
+{{< ressource-chucksguide "ajs-37" >}}
 </div>
 
 <div class="contenu de_qualite">

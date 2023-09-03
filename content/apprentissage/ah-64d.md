@@ -8,6 +8,11 @@ weight = 84
 {{< ressource-video-youtube "P8bS0v7VOHU" >}}
 </div>
 
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-chucksguide >}}
+{{< ressource-chucksguide "ah-64d" >}}
+</div>
+
 <div class="contenu"> <!-- Fox 3 DCS //-->
 {{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
 {{< ressource-playlist-youtube "PLqGY49W4jCyLv0IyjPbWcxSpbEqW_Rg8D" >}}

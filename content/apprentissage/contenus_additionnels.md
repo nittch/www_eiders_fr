@@ -1,6 +1,6 @@
 +++
 title = "Contenus additionnels (Mods)"
-weight = 25
+weight = 6
 +++
 
 # Mods jouables

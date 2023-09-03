@@ -1,6 +1,6 @@
 +++
 title = "Au sol (unités et Combined Arms)"
-weight = 2
+weight = 8
 +++
 
 # Unités au sol

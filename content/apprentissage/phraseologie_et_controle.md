@@ -1,6 +1,6 @@
 +++
 title = "Phraséologie (Lexique) et contrôle"
-weight = 4
+weight = 5
 +++
 
 # Phraséologie

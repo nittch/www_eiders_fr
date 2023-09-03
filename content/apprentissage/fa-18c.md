@@ -1,6 +1,6 @@
 +++
 title = "F/A-18C Hornet + Supercarrier"
-weight = 8
+weight = 52
 +++
 
 <img src=/apprentissage/fa18c_formation.png class=decoration />

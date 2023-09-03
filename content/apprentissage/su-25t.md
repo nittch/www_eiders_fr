@@ -1,6 +1,6 @@
 +++
 title = "SU-25T Frogfoot"
-weight = 4
+weight = 6
 +++
 <img src=/apprentissage/su25t_formation2.png class=decoration />
 

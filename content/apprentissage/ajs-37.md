@@ -55,6 +55,9 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 <div class="contenu"> <!-- Iain Christie / Sidekick65 //-->
 {{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
 {{< ressource-playlist-youtube "PL0jjGRFQGC0rSsMhQqN6ssqmjlKA3jf_F" >}}
+{{< ressource-video-youtube "bEnmXGnxGck" >}}
+{{< ressource-video-youtube "J2bgp3mxkiY" >}}
+{{< ressource-video-youtube "Ic0YYaeb-7o" >}}
 </div>
 
 <div class="contenu"> <!-- CasmoTV//-->

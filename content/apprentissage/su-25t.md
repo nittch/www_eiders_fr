@@ -9,6 +9,11 @@ weight = 6
 {{< ressource-video-youtube "CJFvlYNIPuQ" >}}
 </div>
 
+<div class="contenu"> <!-- Ian Christie //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-playlist-youtube "PL0jjGRFQGC0rWEYKBBOcVxZ6jBDtp12rw" >}} Su-25/Su-25T
+</div>
+
 <div class="contenu"> <!-- TheSkyline35 //-->
 {{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
 {{< ressource-video-youtube "YMbTgGdD_Go" >}}

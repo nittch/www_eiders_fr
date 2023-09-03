@@ -15,6 +15,11 @@ weight = 52
 {{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-f-a-18c-hornet/" "Chuck’s Guides – DCS F/A-18C HORNET" "tuto" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- AVM //-->
+{{< canal-web "Académie de vol militaire" >}}
+{{< ressource-web "https://avm-fr.com/" "AVM" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Hoggitworld //-->
 {{< canal-hoggitworld >}}
 {{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" "wiki" >}}
@@ -76,7 +81,6 @@ weight = 52
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblDLcu8PN-J-ydPw1aZw9S4" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}}
-{{< ressource-video-youtube "rfdmWaSUrv8" >}}
 </div>
 
 <div class="contenu"> <!-- RedKite //-->
@@ -92,6 +96,26 @@ weight = 52
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" >}}
+</div>
+
+<div class="contenu"> <!-- Tactical Pascale //-->
+{{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
+{{< ressource-playlist-youtube "PLnLWWfulBNpse3iPNFlyKfJun1cqoe3kP" >}}
+</div>
+
+<div class="contenu"> <!-- Fox 3 DCS //-->
+{{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
+{{< ressource-playlist-youtube "PLqGY49W4jCyLkxpHmvvmYoa0DoK4ccK_r" >}}
+</div>
+
+<div class="contenu"> <!-- Groupement de Chasse 22 //-->
+{{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
+{{< ressource-playlist-youtube "PLIGR26sb4iVXfOECl4wlpBmmDn9F7zBPY" >}}
+</div>
+
+<div class="contenu"> <!-- Dilixo //-->
+{{< canal-youtube "id" "UCvS0HT1Xga7H_ACuhrGhEOg" >}}
+{{< ressource-playlist-youtube "PL1k_s5S44l5sA1xKNWP1azfrKDl_63Vsy" >}}
 </div>
 
 <div class="contenu"> <!-- Grim Reapers //-->

@@ -1,6 +1,6 @@
 +++
 title = "AJS-37 Viggen"
-weight = 7
+weight = 41
 +++
 
 N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen fin 2021. Attention donc aux éventuels changements.

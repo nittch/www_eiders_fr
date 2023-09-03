@@ -8,6 +8,11 @@ weight = 43
 {{< ressource-video-youtube "e-IYOBJ2Qxk" >}}
 </div>
 
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-chucksguide >}}
+{{< ressource-chucksguide "mirage-f1" >}}
+</div>
+
 <div class="contenu"> <!-- Groupement de Chasse 22 //-->
 {{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
 {{< ressource-playlist-youtube "PLIGR26sb4iVVbkxHVJe5WMQTUvWAHYh_-" >}}

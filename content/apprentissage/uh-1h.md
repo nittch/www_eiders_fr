@@ -8,6 +8,11 @@ weight = 80
 {{< ressource-video-youtube "SqWCAlFEdw8" >}}
 </div>
 
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-chucksguide >}}
+{{< ressource-chucksguide "uh-1h" >}}
+</div>
+
 <div class="contenu"> <!-- Everything DCS //-->
 {{< canal-youtube "id" "UCc2R0EtClEcOZwo_IMFty0A" >}}
 {{< ressource-playlist-youtube "PL3gpnUxYrQr2CcKyYRSNEl0HZ_dx8xhEz" >}}

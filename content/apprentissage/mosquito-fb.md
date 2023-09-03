@@ -1,7 +1,12 @@
 +++
-title = "Mosquito FB VI"
+title = "DH.98 Mosquito FB VI"
 weight = 14
 +++
+
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-chucksguide >}}
+{{< ressource-chucksguide "dh98" >}}
+</div>
 
 <div class="contenu"> <!-- Suntsag ancient gamer //-->
 {{< canal-youtube "id" "UCnMdglLzp7KBkLiaNiq9N-Q" >}}

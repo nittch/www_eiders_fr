@@ -11,7 +11,7 @@ weight = 71
 
 <div class="contenu"> <!-- Chuck's guide //-->
 {{< canal-chucksguide >}}
-{{< ressource-web "https://www.mudspike.com/chucks-guides-dcs-av-8b-harrier-ii/" "Chuck’s Guides – DCS AV-8B Harrier II" "tuto" >}}
+{{< ressource-chucksguide "av-8b" >}}
 </div>
 
 <div class="contenu"> <!-- Razbam //-->

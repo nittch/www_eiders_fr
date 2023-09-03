@@ -3,6 +3,11 @@ title = "MiG-21bis Fishbed"
 weight = 31
 +++
 
+<div class="contenu"> <!-- Chuck's guide //-->
+{{< canal-chucksguide >}}
+{{< ressource-chucksguide "mig-21bis" >}}
+</div>
+
 <div class="contenu"> <!-- Tactical Pascale //-->
 {{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
 {{< ressource-playlist-youtube "PLnLWWfulBNpsPLMyth14MWm1Z-lMPFLjM" >}}

@@ -18,6 +18,11 @@ weight = 20
 {{< ressource-playlist-youtube "PLNtUtkZqN36l4Tj9tvQxPxwSVC4mBjB7l" >}}
 </div>
 
+<div class="contenu"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3331003/" "AH-64D Kneeboard Suite" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Volk //-->
 {{< canal-youtube "id" "UC-LgdvOGP3SSNUGVN95b8Bw" >}}
 {{< ressource-playlist-youtube "PL0oWakEJrJF4nOpapEY7THKyXCYc_MYTL" >}}

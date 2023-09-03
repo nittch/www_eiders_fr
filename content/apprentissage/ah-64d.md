@@ -13,7 +13,7 @@ weight = 84
 {{< ressource-playlist-youtube "PLqGY49W4jCyLv0IyjPbWcxSpbEqW_Rg8D" >}}
 </div>
 
-<div class="contenu"> <!-- CasmoTV//-->
+<div class="contenu de_qualite"> <!-- CasmoTV//-->
 {{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
 {{< ressource-playlist-youtube "PLNtUtkZqN36l4Tj9tvQxPxwSVC4mBjB7l" >}}
 </div>

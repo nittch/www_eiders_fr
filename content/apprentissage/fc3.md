@@ -1,6 +1,6 @@
 +++
 title = "Flaming Cliffs 3"
-weight = 5
+weight = 7
 +++
 
 ## Description des modules

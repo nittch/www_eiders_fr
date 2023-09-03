@@ -1,6 +1,6 @@
 +++
 title = "AV-8B Harrier II"
-weight = 11
+weight = 71
 +++
 
 <div class="contenu"> <!-- le hangar de Sklang //-->

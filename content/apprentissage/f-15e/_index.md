@@ -19,6 +19,12 @@ weight = 10
 {{< ressource-playlist-youtube "PLqGY49W4jCyI8cRsviKh397SBw4W8RF5p" >}}
 </div>
 
+<div class="contenu"> <!-- CasmoTV//-->
+{{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
+{{< ressource-playlist-youtube "PLNtUtkZqN36k0iFi0AfWjfeC295z3rCw-" >}}
+</div>
+
+
 <div class="contenu"> <!-- Spudknocker //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdbnp8aIGrrRHKT3SDlsLFnyq" >}}

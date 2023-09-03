@@ -118,6 +118,11 @@ weight = 52
 {{< ressource-playlist-youtube "PL1k_s5S44l5sA1xKNWP1azfrKDl_63Vsy" >}}
 </div>
 
+<div class="contenu"> <!-- 104th Maverick //-->
+{{< canal-youtube "id" "UCrO8sHQ6LyYaXTikpLHjSmA" >}}
+{{< ressource-playlist-youtube "PLs_fmO8gyoeEWAkryoPpALDgkOvUR-YPv" >}}
+</div>
+
 <div class="contenu"> <!-- Grim Reapers //-->
 {{< canal-youtube "id" "UCZuXjkFY00p1ga3UyCBbR2w" >}}
 {{< ressource-playlist-youtube "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" >}}

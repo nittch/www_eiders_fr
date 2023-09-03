@@ -8,6 +8,16 @@ weight = 14
 {{< ressource-chucksguide "dh98" >}}
 </div>
 
+<div class="contenu"> <!-- Reflected Simulations//-->
+{{< canal-youtube "id" "UCcR8pQnQrw2atotgqDRwaKg" >}}
+{{< ressource-video-youtube "tGXSLLKSiRk" >}}
+{{< ressource-video-youtube "7sMmFTOnH3E" >}}
+{{< ressource-video-youtube "tGXSLLKSiRk" >}}
+{{< ressource-video-youtube "Vb0aa5nSbeU" >}}
+{{< ressource-video-youtube "16o9ZyqP-_g" >}}
+{{< ressource-video-youtube "RZbvk8ZhLKM" >}}
+</div>
+
 <div class="contenu"> <!-- Suntsag ancient gamer //-->
 {{< canal-youtube "id" "UCnMdglLzp7KBkLiaNiq9N-Q" >}}
 {{< ressource-playlist-youtube "PL56M8zQ0bxUPDYc5O9yFmewanpR3jILF-" >}}

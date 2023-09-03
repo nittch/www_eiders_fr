@@ -29,6 +29,11 @@ weight = 71
 {{< ressource-playlist-youtube "PLpbLV3TvMUKz0sjUDMfPf5Bxx1MQxtmKT" >}}
 </div>
 
+<div class="contenu"> <!-- Dilixo //-->
+{{< canal-youtube "id" "UCvS0HT1Xga7H_ACuhrGhEOg" >}}
+{{< ressource-playlist-youtube "PL1k_s5S44l5u5IwA9BC6zGwzu8jJaYkJi" >}}
+</div>
+
 <div class="contenu"> <!-- Spudknocker //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdbkF8GMh5as36v70H_OnbMcI" >}}

@@ -28,6 +28,11 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 ## SU-27, SU-33, J-11A, MiG-29A, MiG-29S, MiG-29G
 <img src=/apprentissage/su27_mer.png class=decoration />
 
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-video-youtube "2FV4lAU15yI" >}}
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEovI7DKPdJ2EOzXMIQlb0vk" >}}
@@ -110,6 +115,11 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 </div>
 
 ## SU-25A
+
+<div class="contenu"> <!-- le hangar de Sklang //-->
+{{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
+{{< ressource-playlist-youtube "PLKG5Jw_s7ikyuEKdEfxbCWjmk_V8hWn_7" >}}
+</div>
 
 <div class="contenu"> <!-- Loulou de DCS World //-->
 {{< canal-youtube "id" "UCbNRGPeNjUke5pIzBZGOrig" >}}

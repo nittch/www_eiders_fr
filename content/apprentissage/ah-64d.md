@@ -53,6 +53,11 @@ weight = 84
 {{< ressource-playlist-youtube "PLnLWWfulBNpsIYUCcz5uE4nVrEbc1TcmM" >}}
 </div>
 
+<div class="contenu"> <!-- DCS Helicopter flight training by Grizzly //-->
+{{< canal-youtube "id" "UCP4rHedsEUs9-a6pbNs04Og" >}}
+{{< ressource-playlist-youtube "PLZWz0N5U-Szu8W-JNzyLHpakyls6HqobO" >}}
+</div>
+
 <div class="contenu"> <!-- Tricker //-->
 {{< canal-youtube "id" "UCcSm9zitjaWrfJxfM-Q-djQ" >}}
 {{< ressource-playlist-youtube "PL4a4myRJ63Xum-Dc-wgC92DwKmBCI7V3t" >}}

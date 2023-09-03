@@ -13,6 +13,11 @@ weight = 12
 {{< ressource-chucksguide "spitfire-lf-mk-ix" >}}
 </div>
 
+<div class="contenu"> <!-- Reflected Simulations//-->
+{{< canal-youtube "id" "UCcR8pQnQrw2atotgqDRwaKg" >}}
+{{< ressource-video-youtube "7Xpbk-6Fa2U" >}}
+</div>
+
 <div class="contenu"> <!-- Matt Waggner //-->
 {{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
 {{< ressource-playlist-youtube "PLer9oF4AanvGNxrsZJuaewrKxKMRym2LF" >}}

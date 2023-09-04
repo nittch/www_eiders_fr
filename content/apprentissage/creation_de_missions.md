@@ -44,6 +44,11 @@ Massun92                                                                        
 {{< ressource-playlist-youtube "PL56M8zQ0bxUMIJuD4D1Ijr-8bTvh36am5" >}}
 </div>
 
+<div class="contenu"> <!-- 06th MHR //-->
+{{< canal-youtube "id" "UCs28xiUR7voASieAwP57l9A" >}}
+{{< ressource-playlist-youtube "PLlj0T4bn3PrKZwUEAUUmdjw1uOwsuD9ou" >}}
+</div>
+
 <div class="contenu"> <!-- Alias //-->
 {{< canal-youtube "forUsername" "cedryx1" >}}
 {{< ressource-playlist-youtube "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}

@@ -13,6 +13,11 @@ weight = 12
 {{< ressource-chucksguide "spitfire-lf-mk-ix" >}}
 </div>
 
+<div class="contenu"> <!-- The Prodigy (easter egg) //-->
+{{< canal-youtube "id" "UC7IZbkKDd20v6Ni_vFX63rQ" >}}
+{{< ressource-video-youtube "aQZDbBGBJsM" >}}
+</div>
+
 <div class="contenu"> <!-- Reflected Simulations//-->
 {{< canal-youtube "id" "UCcR8pQnQrw2atotgqDRwaKg" >}}
 {{< ressource-video-youtube "7Xpbk-6Fa2U" >}}
@@ -27,3 +32,4 @@ weight = 12
 {{< canal-youtube "id" "UCbRpH2t1-IODmoE395IZjwg" >}}
 {{< ressource-playlist-youtube "PL7pn4rQD0F5aXFllJr5V86M9_GCPTTpoy" >}}
 </div>
+

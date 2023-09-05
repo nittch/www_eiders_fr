@@ -33,3 +33,7 @@ weight = 80
 {{< ressource-playlist-youtube "PLDv3SYR9vGXm7TYQLoGL9r1M7UVzkgYfj" >}}
 </div>
 
+<div class="contenu"> <!-- Commander Steinsch //-->
+{{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
+{{< ressource-playlist-youtube "PL_uZ9_tQvzEqkS0d3ZpwowFWqbrPTvY-9" >}}
+</div>

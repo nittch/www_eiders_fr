@@ -25,6 +25,11 @@ weight = 6
 {{< ressource-playlist-youtube "PLLnxK6CJYwVdz1-2fPtgf6qYrUMW78Mud" >}}
 </div>
 
+<div class="contenu"> <!-- Commander Steinsch //-->
+{{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
+{{< ressource-playlist-youtube "PL_uZ9_tQvzEoYw4k1xhQ7n7Pg5KGkAHTc" >}}
+</div>
+
 ## VNAO T-45 Goshawk
 <div class="contenu"> <!-- Minsky //-->
 {{< canal-web "Minsky" >}}
@@ -33,7 +38,7 @@ weight = 6
 
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
-{{< ressource-video-youtube "JRr0MI6i8NI" >}}
+{{< ressource-playlist-youtube "PL_uZ9_tQvzEqoj0Mf3MP7xHpFF9p-Gnvg" >}}
 </div>
 
 ## UH-60L
@@ -73,31 +78,6 @@ weight = 6
 <div class="contenu"> <!-- 311Griffon //-->
 {{< canal-youtube "id" "UCR0ojtQ0Srh2y2O4pelFrDA" >}}
 {{< ressource-playlist-youtube "PLo5YmN6D-iCADAvM0M1KvUKSfJjQYg4gF" >}}
-</div>
-
-## SU-30
-
-## French Pack (via Combined Arms)
-
-# Cartes
-<div class="contenu de_qualite"> <!-- Minsky //-->
-{{< canal-web "Minsky" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320860/" "Marianas Smart Pack" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3312200/" "Aerodrome Data and Frequencies" "planchette" >}}
-</div>
-
-<div class="contenu"> <!-- Corsair VEAF //-->
-{{< canal-web "Corsair VEAF" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320451/" "CORSAIR airports approach charts Persian Gulf n°1" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320452/" "CORSAIR airports approach charts Persian Gulf n°2" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320455/" "CORSAIR airports approach charts Syria 1/1" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3321384/" "CORSAIR airports approach charts Marianas n°1/1" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3324821/" "Cartes d'approche des aéroports CORSAIR South Atlantic n°1/1" "planchette" >}}
-</div>
-
-<div class="contenu"> <!-- Baileywa //-->
-{{< canal-web "Baileywa" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/filter/type-is-document/unit-is-other/sort-is-downloads/user-is-Baileywa/apply/" "High Detail Maps" >}}
 </div>
 
 # Logiciels Tiers

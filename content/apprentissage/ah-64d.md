@@ -38,6 +38,11 @@ weight = 84
 {{< ressource-playlist-youtube "PLer9oF4AanvF7CTss44TU4aDOxb5A9Jic" >}}
 </div>
 
+<div class="contenu"> <!-- EFPV //-->
+{{< canal-youtube "forUsername" "ecolepilotefrance" >}}
+{{< ressource-playlist-youtube "PLxeAPpKC04wuKpEsuk2eN5cxkSpAp9yVL" >}}
+</div>
+
 <div class="contenu"> <!-- Olivier Gaming //-->
 {{< canal-youtube "id" "UCvghcDSMWXUjLEjFcBBumVw" >}}
 {{< ressource-playlist-youtube "PLpbLV3TvMUKxU49-aPPkFy9jfhhAVtmzO" >}}

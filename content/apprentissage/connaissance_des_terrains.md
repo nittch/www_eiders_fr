@@ -3,6 +3,28 @@ title = "Connaissance des terrains"
 weight = 2
 +++
 
+## Cartes
+<div class="contenu de_qualite"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320860/" "Marianas Smart Pack" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3312200/" "Aerodrome Data and Frequencies" "planchette" >}}
+</div>
+
+<div class="contenu"> <!-- Corsair VEAF //-->
+{{< canal-web "Corsair VEAF" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320451/" "CORSAIR airports approach charts Persian Gulf n°1" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320452/" "CORSAIR airports approach charts Persian Gulf n°2" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320455/" "CORSAIR airports approach charts Syria 1/1" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3321384/" "CORSAIR airports approach charts Marianas n°1/1" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3324821/" "Cartes d'approche des aéroports CORSAIR South Atlantic n°1/1" "planchette" >}}
+</div>
+
+<div class="contenu"> <!-- Baileywa //-->
+{{< canal-web "Baileywa" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/filter/type-is-document/unit-is-other/sort-is-downloads/user-is-Baileywa/apply/" "High Detail Maps" >}}
+</div>
+
+
 ## Moyen-Orient : Caucause / Golfe persique / Syrie
 
 <div class="contenu"> <!-- Le dessous des cartes //-->

@@ -123,6 +123,16 @@ weight = 52
 {{< ressource-playlist-youtube "PLs_fmO8gyoeEWAkryoPpALDgkOvUR-YPv" >}}
 </div>
 
+<div class="contenu"> <!-- Alias //-->
+{{< canal-youtube "forUsername" "cedryx1" >}}
+{{< ressource-playlist-youtube "PLbn9xVtwPNEQMMzuHj96AfJMMf00xX4nC" >}}
+</div>
+
+<div class="contenu"> <!-- Association VEAF //-->
+{{< canal-youtube "id" "UCEF1A_q8Cnw9JLW_Rlig3OQ" >}}
+{{< ressource-playlist-youtube "PLalR1_JFFm_4raz4_QCmp7CiQGR2AqsDG" >}}
+</div>
+
 <div class="contenu"> <!-- Grim Reapers //-->
 {{< canal-youtube "id" "UCZuXjkFY00p1ga3UyCBbR2w" >}}
 {{< ressource-playlist-youtube "PL3kOAM2N1YJc5x-z99XdX-XxWg4I0Of-a" >}}
@@ -132,6 +142,11 @@ weight = 52
 <div class="contenu"> <!-- Banana Mayo //-->
 {{< canal-youtube "id" "UCvQ980BmIRjwVh6veB5lO9g" >}}
 {{< ressource-playlist-youtube "PLmL0WZQili6CZtZbOYXnBV1eEnp1NjRmq" >}}
+</div>
+
+<div class="contenu"> <!-- Empnicolas LzT //-->
+{{< canal-youtube "id" "UCdzYmqc6g789zNyXBcBpPeg" >}}
+{{< ressource-playlist-youtube "PLwWsAperJSsoClN3kRcenIRmkVO5Anw_S" >}} Tutos minute
 </div>
 
 <div class="contenu"> <!-- Boyington //-->

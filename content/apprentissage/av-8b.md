@@ -64,3 +64,8 @@ weight = 71
 {{< ressource-video-youtube "r1cxN2_geYg" >}}
 </div>
 
+<div class="contenu"> <!-- Empnicolas LzT //-->
+{{< canal-youtube "id" "UCdzYmqc6g789zNyXBcBpPeg" >}}
+{{< ressource-playlist-youtube "PLwWsAperJSsre4LOHeSbcjFgHYx00xi_A" >}}
+</div>
+

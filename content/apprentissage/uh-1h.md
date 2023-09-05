@@ -27,3 +27,9 @@ weight = 80
 {{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
 {{< ressource-playlist-youtube "PLLY_KGBSBGjX67SpWutFj93vakeWs4glW" >}}
 </div>
+
+<div class="contenu"> <!-- Loulou de DCS World //-->
+{{< canal-youtube "id" "UCbNRGPeNjUke5pIzBZGOrig" >}}
+{{< ressource-playlist-youtube "PLDv3SYR9vGXm7TYQLoGL9r1M7UVzkgYfj" >}}
+</div>
+

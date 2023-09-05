@@ -66,6 +66,6 @@ weight = 71
 
 <div class="contenu"> <!-- Empnicolas LzT //-->
 {{< canal-youtube "id" "UCdzYmqc6g789zNyXBcBpPeg" >}}
-{{< ressource-playlist-youtube "PLwWsAperJSsre4LOHeSbcjFgHYx00xi_A" >}}
+{{< ressource-playlist-youtube "PLwWsAperJSsqK-SSsEz3QBts7dJk8c-AO" >}}
 </div>
 

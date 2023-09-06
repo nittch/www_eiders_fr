@@ -2199,6 +2199,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "Robert Sullivan, PDM-owner, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "LhCSSlfNJk8" >}}
+{{< ressource-video-youtube "oy_Y0_BH9fs" >}}
 </div>
 <div class="images">
 {{< ressource-video-youtube "vay7gVojgy0" >}}
@@ -2242,6 +2243,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lightning.inflight.arp.750pix.jpg"
   "Arpingstone, Public domain, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "YukWP8g2BjA" >}}
 </div>
 </div>
 

@@ -1908,6 +1908,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gloster_Meteor_Centenary_of_Military_Aviation_2014_%28cropped%29.jpg"
   "Chris Phutully, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 >}}
+{{< ressource-video-youtube "Ig4NYGgjaao" >}} <!-- Cap Aviation -->
 </div>
 </div>
 

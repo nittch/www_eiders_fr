@@ -6,6 +6,7 @@ weight = 43
 <div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
 {{< ressource-video-youtube "e-IYOBJ2Qxk" >}}
+{{< ressource-video-youtube "itGdeHhqueg" >}}
 </div>
 
 <div class="contenu"> <!-- Chuck's guide //-->

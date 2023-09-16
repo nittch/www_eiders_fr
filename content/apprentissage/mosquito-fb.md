@@ -23,8 +23,9 @@ weight = 14
 {{< ressource-playlist-youtube "PL56M8zQ0bxUPDYc5O9yFmewanpR3jILF-" >}}
 </div>
 
-<div class="contenu"> <!-- Tactical Pascale //-->
+<div class="contenu de_qualite"> <!-- Tactical Pascale //-->
 {{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
+{{< ressource-playlist-youtube "PLnLWWfulBNpsAbGsbkqRs_dINYnjXG-VX" >}}
 {{< ressource-playlist-youtube "PLnLWWfulBNpt7QY_NjlBMMW53YrYh4WKr" >}}
 </div>
 

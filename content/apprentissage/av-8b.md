@@ -14,14 +14,19 @@ weight = 71
 {{< ressource-chucksguide "av-8b" >}}
 </div>
 
-<div class="contenu"> <!-- Razbam //-->
-{{< canal-youtube "forUsername" "RadZamb" >}}
-{{< ressource-playlist-youtube "PLwKSNTU2afuC2tS61G2uqZ6Nw48QY1yBA" >}}
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3320125/" "AV-8B Kneeboard Checklists" "planchette" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "Shiroka" >}}
 {{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318285/" "AV-8B N/A Harrier II - Kneeboard Suite" "planchette" >}}
+</div>
+
+<div class="contenu"> <!-- Razbam //-->
+{{< canal-youtube "forUsername" "RadZamb" >}}
+{{< ressource-playlist-youtube "PLwKSNTU2afuC2tS61G2uqZ6Nw48QY1yBA" >}}
 </div>
 
 <div class="contenu"> <!-- Olivier Gaming //-->

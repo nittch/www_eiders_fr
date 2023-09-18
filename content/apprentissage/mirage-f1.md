@@ -14,6 +14,11 @@ weight = 43
 {{< ressource-chucksguide "mirage-f1" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3325093/" "Mirage F1 Kneeboard Checklists" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Groupement de Chasse 22 //-->
 {{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
 {{< ressource-playlist-youtube "PLIGR26sb4iVVbkxHVJe5WMQTUvWAHYh_-" >}}

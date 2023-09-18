@@ -13,6 +13,16 @@ weight = 84
 {{< ressource-chucksguide "ah-64d" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3331003/" "AH-64D Kneeboard Suite" "planchette" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3321322/" "AH-64D Kneeboard Checklists" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Fox 3 DCS //-->
 {{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
 {{< ressource-playlist-youtube "PLqGY49W4jCyLv0IyjPbWcxSpbEqW_Rg8D" >}}
@@ -21,11 +31,6 @@ weight = 84
 <div class="contenu de_qualite"> <!-- CasmoTV//-->
 {{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
 {{< ressource-playlist-youtube "PLNtUtkZqN36l4Tj9tvQxPxwSVC4mBjB7l" >}}
-</div>
-
-<div class="contenu"> <!-- Minsky //-->
-{{< canal-web "Minsky" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3331003/" "AH-64D Kneeboard Suite" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Volk //-->

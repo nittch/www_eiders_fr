@@ -15,6 +15,11 @@ N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen
 {{< ressource-chucksguide "ajs-37" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3322422/" "AJS-37 Kneeboard Checklists" "planchette" >}}
+</div>
+
 <div class="contenu de_qualite">
 Une documentation en français.
 {{< canal-web "Zedroopy" >}}

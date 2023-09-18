@@ -8,6 +8,11 @@ weight = 14
 {{< ressource-chucksguide "dh98" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318469/" "Mosquito FB Mk. VI Kneeboard Checklists & Limitations" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Reflected Simulations//-->
 {{< canal-youtube "id" "UCcR8pQnQrw2atotgqDRwaKg" >}}
 {{< ressource-video-youtube "tGXSLLKSiRk" >}}

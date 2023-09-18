@@ -8,6 +8,11 @@ weight = 31
 {{< ressource-chucksguide "mig-21bis" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318008/" "MiG-21bis Kneeboard Checklists" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Tactical Pascale //-->
 {{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
 {{< ressource-playlist-youtube "PLnLWWfulBNpsPLMyth14MWm1Z-lMPFLjM" >}}

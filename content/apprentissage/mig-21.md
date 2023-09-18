@@ -11,6 +11,7 @@ weight = 31
 <div class="contenu de_qualite"> <!-- Minky7 //-->
 {{< canal-web "Minky7" >}}
 {{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318008/" "MiG-21bis Kneeboard Checklists" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3311651/" "MiG-21bis Weapons Reference Kneeboard Page" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Tactical Pascale //-->

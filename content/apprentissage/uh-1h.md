@@ -13,6 +13,11 @@ weight = 80
 {{< ressource-chucksguide "uh-1h" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3316784/" "UH-1H Checklists" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Everything DCS //-->
 {{< canal-youtube "id" "UCc2R0EtClEcOZwo_IMFty0A" >}}
 {{< ressource-playlist-youtube "PL3gpnUxYrQr2CcKyYRSNEl0HZ_dx8xhEz" >}}

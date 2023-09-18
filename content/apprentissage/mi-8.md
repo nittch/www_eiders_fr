@@ -13,6 +13,11 @@ weight = 81
 {{< ressource-chucksguide "mi-8" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3319820/" "Mi-8MTV2 Kneeboard Checklists" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Flo_The_Schlapen //-->
 {{< canal-youtube "forUsername" "FloLac130184" >}}
 {{< ressource-playlist-youtube "PLRtNZW3_ft4Wkb3J9Fe25gfsFfXG52EOV" >}}

@@ -15,6 +15,23 @@ weight = 52
 {{< ressource-chucksguide "fa-18c" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Minsky //-->
+{{< canal-web "Minsky" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314313/" "F/A-18C Kneeboard Suite - Checklists, Quickstart, Ordnance" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314314/" "F/A-18C Kneeboard Suite - CASE I/II/III, ACL, Overhead Break, LSO Grades" "planchette" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314315/" "F/A-18C Kneeboard Suite - RWR Threats, HARM Radar Codes" "planchette" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Minky7 //-->
+{{< canal-web "Minky7" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3317292/" "F/A-18C Kneeboard Checklists" "planchette" >}}
+</div>
+
+<div class="contenu"> <!-- IceCat //-->
+{{< canal-web "IceCat" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3300721/" "F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2" "planchette" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- AVM //-->
 {{< canal-web "Académie de vol militaire" >}}
 {{< ressource-web "https://avm-fr.com/" "AVM" >}}
@@ -53,13 +70,6 @@ weight = 52
 <div class="contenu de_qualite"> <!-- Tigrou //-->
 {{< canal-youtube "id" "UCeRUIB2wmQQRTRrdwFTdIdQ" >}}
 {{< ressource-video-youtube "xyLS_XBLJd4" >}}
-</div>
-
-<div class="contenu de_qualite"> <!-- Minsky //-->
-{{< canal-web "Minsky" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314313/" "F/A-18C Kneeboard Suite - Checklists, Quickstart, Ordnance" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314314/" "F/A-18C Kneeboard Suite - CASE I/II/III, ACL, Overhead Break, LSO Grades" "planchette" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3314315/" "F/A-18C Kneeboard Suite - RWR Threats, HARM Radar Codes" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Fox 3 DCS //-->
@@ -157,11 +167,6 @@ weight = 52
 <div class="contenu"> <!-- asherao //-->
 {{< canal-web "asherao" >}}
 {{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3305134/" "F18 Hornet Fuzing and Armament Quicklook Kneeboard" "planchette" >}}
-</div>
-
-<div class="contenu"> <!-- IceCat //-->
-{{< canal-web "IceCat" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/fr/files/3300721/" "F/A-18C Printable A5 Normal Checklist based on the NATOPS document v1.2" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- kengou //-->

@@ -2475,7 +2475,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 </div>
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 {{< aeronef ":fr:" "Dassault" "Mirage F1" "1973" "reconnaissance et attaque" >}}
 {{< mach 2.2 >}}
 <p>Basé sur le Mirage III, utilisation d'une aile en flèche pour une vitesse d'approche plus faible.
@@ -3197,7 +3197,7 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
 </div>
 </div>
 
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Douglas" "A-4 Skyhawk" "1956" "embarqué" >}}
 </div>
 <div class="ressources">
@@ -3652,7 +3652,7 @@ ADV = "Air Defense Variant" (plus haut)
 <!-- cité sur https://en.wikipedia.org/wiki/Multirole_combat_aircraft -->
 <!-- Multirole Combat aircraft: By contrast, the F-15 Eagle which was another fighter aircraft of that era was designed for air superiority and interception, with the mantra "not a pound, air to ground", although the F-15C did have a rarely used secondary ground attack capability. That program eventually evolved into the F-15E Strike Eagle interdictor/strike derivative which retained the air-to-air combat lethality of earlier F-15s. -->
 <!-- Strike fighter: Examples of contemporary American strike fighters are the McDonnell Douglas F-15E Strike Eagle, Boeing F/A-18E/F Super Hornet, and Lockheed Martin F-35 Lightning II. -->
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F-15E Strike Eagle" "1989" "chasseur bombardier" >}}
 {{< mach 2.15 >}}
 {{< caracteristique "Multirôle" >}}

@@ -1932,6 +1932,24 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 
 <div class="aeronef">
+{{< aeronef ":gb:" "de Havilland" "Vampire" "1946" >}}
+{{< exemplaires 4569 >}}
+<p>Premier avion à réaction à avoir traversé l'océan Atlantique, et le premier avion à réaction capable d'opérer depuis un porte-avions..</p>
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/De_Havilland_Vampire"
+  "https://en.wikipedia.org/wiki/De_Havilland_Vampire"
+  "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-100-vampire/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/0d/De_Havilland_DH115_Vampire_banking_with_the_sun_reflecting_off_its_silver_wings_%28cropped%29.jpg"
+  "Pseudopanax, Public domain, via Wikimedia Commons"
+>}}
+{{< ressource-video-youtube "EGOXdEZcTaY" >}} <!-- Cap Aviation -->
+</div>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":us:" "Republic" "F-84 Thunderjet" "1947" >}}
 {{< exemplaires 7524 >}}
 <P>Version F-84F Thunderstreak : ailes en flèches. Version RF-84F Thunderflash : reconnaissance.</p>

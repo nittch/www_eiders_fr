@@ -5,67 +5,155 @@ weight = 8
 
 # PvE
 
-## Bullseye Francophone (BFR)
-- Francophone
-- [site](https://bullseye-francophone.fr/)
-- Grosse communauté ATC
+## Bullseye Francophone
 
-## Grayflag
-- Hosté par la communauté Death From Above (DFA)
-- [Présentation](https://forum.dcs.world/topic/300983-death-from-above-grayflag-syria-new-persistent-semi-dynamic-multiplayer-campaign-pve-pvp-ctld-srs/)
-- 3 serveurs : Syrie, Persian Golf et Marrianes
-- Mods : UH-60L et C130
+Communauté francophone proposant un serveur PvE. Événements réguliers.
 
-## Flashpoint Levant
-- Hosté par la communauté LimaKilo
-- [site](https://limakilo.net)
-- Anciennement Syria at War
+Importance du contrôle aérien et de la communication via SRS.
+
+Différentes opérations selon les périodes :
+- Opération Bluestorm (Caucase)
+- Opération Sea Sheperd v2 (Mariannes)
+- Opération SandBlast (Syrie)
+
+<div class="contenu">
+{{< canal-web "Communauté BFR" >}}
+{{< ressource-web "https://bullseye-francophone.fr" >}}
+{{< ressource-web "https://discord.gg/8mpyQxPaZf" >}}
+</div>
+
+<div class="contenu"> <!-- Romain Ferchat //-->
+{{< canal-youtube "id" "UCdegNX8cX1HqUCdUsUGSTtg" >}}
+{{< ressource-video-youtube "XisGx9JcWEY" >}}
+{{< ressource-video-youtube "XsjQsCc4dBA" >}}
+</div>
+
+## Lima Kiko : Flashpoint Levant
+
+La communauté Lima Kiko gère deux serveurs (EU et NA) sur l'opération Flashpoint Levant (qu'elle développe). Il s'agit d'une campagne en syrie dans les années 80.
+
+Il y a un système de missions. Par soucis de réalisme et d'équilibre, certains emports sont limités ou bannis.
+
+<div class="contenu">
+{{< canal-web "Lima Kilo" >}}
+{{< ressource-video-youtube "yDrYhSLGBpg" >}}
+{{< ressource-web "https://limakilo.net" >}}
+{{< ressource-web "https://discord.gg/dPG9pNuxJc" >}}
+</div>
+
+## Death From Above : Grayflag
+
+La communauté DFA propose différents serveurs sur différentes opérations:
+- Grayflag Syria: Operation Dark Caracal (2005)
+- Grayflag Persian Gulf: Operation Black Meteor (2005)
+- Grayflag Syria: COIN (2005)
+- Grayflag Marianas (2006)
+
+Mode bac à sable, pas de limitations d'emports. Utilisation de **Combined Arms** possible.
+
+SRS, UH-60L et C130 requis.
+
+<div class="contenu">
+{{< canal-web "=DFA= Squadron" >}}
+{{< ressource-video-youtube "s3VkiNL1pWk" >}}
+{{< ressource-web "https://discord.gg/deathfromabove" >}}
+</div>
 
 # PvP
 
-## Enigma's Cold War
-- Early cold war: typiquement MiG-21 vs F-5, (bientôt F-4 vs MiG-23)
-- [Présentation](https://docs.google.com/presentation/d/1I-aD-s3zoEpV4gGu7QIrEdywkpklfT40te-mYlX3zk8/edit?usp=sharing)
-- Alterne entre Syrie et Caucase
-- Des missions de reconnaissance
-- Des missions hélicoptère
-- Mod A4
+## Enigma's Cold War (v2)
+
+Le plus gros serveur communautaire. Alterne entre Syrie et Caucase. Début-milieu de guerre froide.
+
+Système de tuiles : un décompte des unités fait basculer de camp.
+
+Des missions de reconnaissance pour localiser les dépots et usines.
+
+Des missions hélicoptères.
+
+Mod A4 requis.
+
+<div class="contenu"> <!-- Enigma //-->
+{{< canal-youtube "id" "UCyr8hMX0rLuDYkAuk86V2Uw" >}}
+{{< ressource-video-youtube "G7fTpSRoY7E" >}}
+{{< ressource-video-youtube "vEPgEZxTLZk" >}}
+{{< ressource-web "https://docs.google.com/presentation/d/1I-aD-s3zoEpV4gGu7QIrEdywkpklfT40te-mYlX3zk8/edit?usp=sharing" "Presentation" >}}
+{{< ressource-web "https://discord.gg/3ZMttnKmkh" >}}
+</div>
 
 ## Tempest Blue Flash
-- Même système qu'Enigma
-- Late 80s
-- [Présentation](https://docs.google.com/presentation/d/13V7AcoAjz_sbxji4b_KvQd8MhLh4RZHNYyxekHR_BDY)
-- Alterne entre Syrie, Persian Golf et Sinai
-- Des missions de reconnaissance
-- Des missions hélicoptère
+Spin-off d'Enigma (v2) mais en fin des années 80, alternant entre Syrie, Persian Golf et Sinai.
+
+Fox1 / Fox2 uniquement.
+
+<div class="contenu">
+{{< canal-web "Tempest Blue Flash" >}}
+{{< ressource-video-youtube "7JnlsKtWdYs" >}}
+{{< ressource-video-youtube "nfNvYVPKkQc" >}}
+{{< ressource-web "https://docs.google.com/presentation/d/13V7AcoAjz_sbxji4b_KvQd8MhLh4RZHNYyxekHR_BDY" "Presentation" >}}
+{{< ressource-web "https://discord.gg/SUwvVZXNJZ" >}}
+</div>
 
 ## S.P.Q.R.
-- Même système qu'Enigma
-- Orienté avions de 4ème générations
+Spin-off d'Enigma (v1) en période moderne.
 
-## Blueflag
-- Hosté par la commuanuté BuddySpike
-- Plusieurs environnements, 4 serveurs alternant ([Gadget](http://gadget.buddyspike.net)) :
-  - Persian Golf (cold war / moderne)
-  - Caucase (cold war / 80s)
-  - Sinai (60s)
-  - Syria (80s / moderne)
-  - Normandie (WWII)
-- Mod A4
+<div class="contenu">
+{{< canal-youtube "id" "UC5eLmn4v50oeJOcLegE_ARg" >}}
+{{< ressource-video-youtube "FxGv2pZQNvc" >}}
+{{< ressource-web "https://discord.gg/dcs-spqr" >}}
+</div>
 
-## Dynamic DCS (DDCS)
-- Les joueurs positionnent les défenses, contenu vraiment dynamique
-- [Wiki](https://ddcs.fandom.com/wiki/DDCS_Wiki)
-- Combined Arms très conseillé
-- Missions Hélicoptères (transport de troupes, ravitaillement...)
+## BuddySpike : Blueflag
+Serveur européen.
+
+Plusieurs environnements / périodes en rotation sur plusieurs serveurs.
+
+Beaucoup de logistique grâce aux hélicoptères.
+
+<div class="contenu">
+{{< canal-web "BuddySpike" >}}
+{{< ressource-video-youtube "hG0Os4l80JU" >}}
+{{< ressource-web "http://wiki.buddyspike.net" "Wiki" >}}
+{{< ressource-web "http://gadget.buddyspike.net" "Gadget" >}}
+{{< ressource-web "https://discord.gg/mckCvTc" >}}
+</div>
+
+## Dynamic DCS
+**Combined Arms très conseillé.**
+
+Missions Hélicoptères (transport de troupes, ravitaillement...).
+
+Pas de SRS mais comm via Discord.
+
+<div class="contenu">
+{{< canal-web "DDCS" >}}
+{{< ressource-web "https://ddcs.fandom.com/wiki/DDCS_Wiki" "Wiki" >}}
+{{< ressource-web "https://discord.gg/JmzkbWA" >}}
+</div>
 
 ## Strategic DCS
-- Similaire à DDCS, projet plus récent mais moins connu
-- [Doc](https://strategic-dcs.com)
+Similaire à DDCS, projet plus récent, mais moins connu.
+
+<div class="contenu">
+{{< canal-web "Strategic DCS" >}}
+{{< ressource-web "https://strategic-dcs.com" >}}
+{{< ressource-web "https://discord.gg/d7F4agGyv4" >}}
+</div>
 
 # Hélicoptères
 
 ## Rotorheads
+<div class="contenu">
+{{< canal-web "Rotorheads" >}}
+{{< ressource-video-youtube "-AYqOXyCDPw" >}}
+{{< ressource-web "https://rotorheads.fandom.com/wiki/Rotor_Heads_Wiki" "Wiki" >}}
+{{< ressource-web "https://discord.gg/zj33Xg6" >}}
+</div>
 
 ## Low Level Hell
-- Hosté par Casmo
+
+<div class="contenu">
+{{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
+{{< ressource-web "discord.gg/5mmHKHD" >}}
+</div>
+

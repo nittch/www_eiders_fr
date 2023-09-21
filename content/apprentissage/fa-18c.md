@@ -39,7 +39,7 @@ weight = 52
 
 <div class="contenu de_qualite"> <!-- Hoggitworld //-->
 {{< canal-hoggitworld >}}
-{{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" "wiki" >}}
+{{< ressource-web "https://wiki.hoggitworld.com/view/F/A-18C" "F/A-18C DCS World Wiki" "documentation" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- EFPV //-->
@@ -171,6 +171,6 @@ weight = 52
 
 <div class="contenu"> <!-- kengou //-->
 {{< canal-web "kengou" >}}
-{{< ressource-web "https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/" "Hornet weight/balance/trim/takeoff calculator spreadsheet" "forum" >}}
+{{< ressource-web "https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/" "Hornet weight/balance/trim/takeoff calculator spreadsheet" "outil" >}}
 </div>
 

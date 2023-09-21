@@ -21,7 +21,7 @@ weight = 2
 
 <div class="contenu"> <!-- Baileywa //-->
 {{< canal-web "Baileywa" >}}
-{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/filter/type-is-document/unit-is-other/sort-is-downloads/user-is-Baileywa/apply/" "High Detail Maps" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/filter/type-is-document/unit-is-other/sort-is-downloads/user-is-Baileywa/apply/" "High Detail Maps" "fichier" >}}
 </div>
 
 

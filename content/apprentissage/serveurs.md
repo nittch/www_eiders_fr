@@ -18,8 +18,8 @@ Différentes opérations selon les périodes :
 
 <div class="contenu">
 {{< canal-web "Communauté BFR" >}}
-{{< ressource-web "https://bullseye-francophone.fr" >}}
-{{< ressource-web "https://discord.gg/8mpyQxPaZf" >}}
+{{< ressource-web "https://bullseye-francophone.fr" "" "site" >}}
+{{< ressource-web "https://discord.gg/8mpyQxPaZf" "" "discord" >}}
 </div>
 
 <div class="contenu"> <!-- Romain Ferchat //-->
@@ -42,8 +42,8 @@ Il y a un système de missions. Par soucis de réalisme et d'équilibre, certain
 <div class="contenu">
 {{< canal-web "Lima Kilo" >}}
 {{< ressource-video-youtube "yDrYhSLGBpg" >}}
-{{< ressource-web "https://limakilo.net" >}}
-{{< ressource-web "https://discord.gg/dPG9pNuxJc" >}}
+{{< ressource-web "https://limakilo.net" "" "site" >}}
+{{< ressource-web "https://discord.gg/dPG9pNuxJc" "" "discord" >}}
 </div>
 
 ## Death From Above : Grayflag
@@ -63,7 +63,7 @@ SRS, UH-60L et C130 requis.
 <div class="contenu">
 {{< canal-web "=DFA= Squadron" >}}
 {{< ressource-video-youtube "s3VkiNL1pWk" >}}
-{{< ressource-web "https://discord.gg/deathfromabove" >}}
+{{< ressource-web "https://discord.gg/deathfromabove" "" "discord" >}}
 </div>
 
 # PvP
@@ -84,8 +84,8 @@ Mod A4 requis.
 {{< canal-youtube "id" "UCyr8hMX0rLuDYkAuk86V2Uw" >}}
 {{< ressource-video-youtube "G7fTpSRoY7E" >}}
 {{< ressource-video-youtube "vEPgEZxTLZk" >}}
-{{< ressource-web "https://docs.google.com/presentation/d/1I-aD-s3zoEpV4gGu7QIrEdywkpklfT40te-mYlX3zk8/edit?usp=sharing" "Presentation" >}}
-{{< ressource-web "https://discord.gg/3ZMttnKmkh" >}}
+{{< ressource-web "https://docs.google.com/presentation/d/1I-aD-s3zoEpV4gGu7QIrEdywkpklfT40te-mYlX3zk8/edit?usp=sharing" "Presentation" "presentation" >}}
+{{< ressource-web "https://discord.gg/3ZMttnKmkh" "" "discord" >}}
 </div>
 
 ## Tempest Blue Flash
@@ -97,8 +97,8 @@ Fox1 / Fox2 uniquement.
 {{< canal-web "Tempest Blue Flash" >}}
 {{< ressource-video-youtube "7JnlsKtWdYs" >}}
 {{< ressource-video-youtube "nfNvYVPKkQc" >}}
-{{< ressource-web "https://docs.google.com/presentation/d/13V7AcoAjz_sbxji4b_KvQd8MhLh4RZHNYyxekHR_BDY" "Presentation" >}}
-{{< ressource-web "https://discord.gg/SUwvVZXNJZ" >}}
+{{< ressource-web "https://docs.google.com/presentation/d/13V7AcoAjz_sbxji4b_KvQd8MhLh4RZHNYyxekHR_BDY" "Presentation" "presentation" >}}
+{{< ressource-web "https://discord.gg/SUwvVZXNJZ" "" "discord" >}}
 </div>
 
 ## S.P.Q.R.
@@ -107,7 +107,7 @@ Spin-off d'Enigma (v1) en période moderne.
 <div class="contenu">
 {{< canal-youtube "id" "UC5eLmn4v50oeJOcLegE_ARg" >}}
 {{< ressource-video-youtube "FxGv2pZQNvc" >}}
-{{< ressource-web "https://discord.gg/dcs-spqr" >}}
+{{< ressource-web "https://discord.gg/dcs-spqr" "" "discord" >}}
 </div>
 
 ## BuddySpike : Blueflag
@@ -120,9 +120,9 @@ Beaucoup de logistique grâce aux hélicoptères.
 <div class="contenu">
 {{< canal-web "BuddySpike" >}}
 {{< ressource-video-youtube "hG0Os4l80JU" >}}
-{{< ressource-web "http://wiki.buddyspike.net" "Wiki" >}}
-{{< ressource-web "http://gadget.buddyspike.net" "Gadget" >}}
-{{< ressource-web "https://discord.gg/mckCvTc" >}}
+{{< ressource-web "http://wiki.buddyspike.net" "" "documentation" >}}
+{{< ressource-web "http://gadget.buddyspike.net" "Gadget" "outil" >}}
+{{< ressource-web "https://discord.gg/mckCvTc" "" "discord" >}}
 </div>
 
 ## Dynamic DCS
@@ -134,8 +134,8 @@ Missions Hélicoptères (transport de troupes, ravitaillement...).
 
 <div class="contenu">
 {{< canal-web "DDCS" >}}
-{{< ressource-web "https://ddcs.fandom.com/wiki/DDCS_Wiki" "Wiki" >}}
-{{< ressource-web "https://discord.gg/JmzkbWA" >}}
+{{< ressource-web "https://ddcs.fandom.com/wiki/DDCS_Wiki" "" "documentation" >}}
+{{< ressource-web "https://discord.gg/JmzkbWA" "" "discord" >}}
 </div>
 
 ## Strategic DCS
@@ -145,8 +145,8 @@ Similaire à DDCS, projet plus récent, mais moins connu.
 
 <div class="contenu">
 {{< canal-web "Strategic DCS" >}}
-{{< ressource-web "https://strategic-dcs.com" >}}
-{{< ressource-web "https://discord.gg/d7F4agGyv4" >}}
+{{< ressource-web "https://strategic-dcs.com" "" "documentation" >}}
+{{< ressource-web "https://discord.gg/d7F4agGyv4" "" "discord" >}}
 </div>
 
 # Hélicoptères
@@ -155,14 +155,14 @@ Similaire à DDCS, projet plus récent, mais moins connu.
 <div class="contenu">
 {{< canal-web "Rotorheads" >}}
 {{< ressource-video-youtube "-AYqOXyCDPw" >}}
-{{< ressource-web "https://rotorheads.fandom.com/wiki/Rotor_Heads_Wiki" "Wiki" >}}
-{{< ressource-web "https://discord.gg/zj33Xg6" >}}
+{{< ressource-web "https://rotorheads.fandom.com/wiki/Rotor_Heads_Wiki" "" "documentation" >}}
+{{< ressource-web "https://discord.gg/zj33Xg6" "" "discord" >}}
 </div>
 
 ## Low Level Hell
 
 <div class="contenu">
 {{< canal-youtube "id" "UCcZauUXQ-dHSFqqqTXMLBSg" >}}
-{{< ressource-web "discord.gg/5mmHKHD" >}}
+{{< ressource-web "discord.gg/5mmHKHD" "" "discord" >}}
 </div>
 

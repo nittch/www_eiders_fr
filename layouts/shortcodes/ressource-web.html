@@ -1,11 +1,6 @@
 <a href="{{ .Get 0 }}" target=_blank>
   <div class="ressource ressource-web-{{ .Get 0 }}">
-{{      if eq ( .Get 2 ) "forum" }}     <div class="vignette">{{ ":busts_in_silhouette:" | emojify }}</div><div class="infos">Forum</div>
-{{ else if eq ( .Get 2 ) "planchette" }}<div class="vignette">{{ ":clipboard:"           | emojify }}</div><div class="infos">Planchettes</div>
-{{ else if eq ( .Get 2 ) "tuto" }}      <div class="vignette">{{ ":book:"                | emojify }}</div><div class="infos">Tutos</div>
-{{ else if eq ( .Get 2 ) "wiki" }}      <div class="vignette">{{ ":books:"               | emojify }}</div><div class="infos">Wiki</div>
-{{ else }}                              <div class="vignette">{{ ":page_facing_up:"      | emojify }}</div>
-{{ end }}
+    <div class="vignette {{ .Get 2 | default "documentation" }}"></div>
     <div class="titre">{{ .Get 1 | default (.Get 0) }}</div>
   </div>
 </a>

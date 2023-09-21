@@ -23,7 +23,7 @@ N.B. : ces liens datent pour la plupart d'avant la grande mise à jour du Viggen
 <div class="contenu de_qualite">
 Une documentation en français.
 {{< canal-web "Zedroopy" >}}
-{{< ressource-web "http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen" "AJS-37 Viggen" "wiki" >}}
+{{< ressource-web "http://wiki.zedroopy.net/doku.php?id=ajs-37_viggen" "AJS-37 Viggen" "documentation" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- TrakDah //-->

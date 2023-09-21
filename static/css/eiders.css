@@ -109,6 +109,46 @@
   z-index: -1;
 }
 
+.ressource .vignette.site
+{
+  background-image: url(/icons/www-url-svgrepo-com.svg);
+}
+
+.ressource .vignette.forum
+{
+  background-image: url(/icons/forum-svgrepo-com.svg);
+}
+
+.ressource .vignette.planchette
+{
+  background-image: url(/icons/board-with-list-svgrepo-com.svg);
+}
+
+.ressource .vignette.presentation
+{
+  background-image: url(/icons/presentation-speech-svgrepo-com.svg);
+}
+
+.ressource .vignette.fichier
+{
+  background-image: url(/icons/file-1-svgrepo-com.svg);
+}
+
+.ressource .vignette.documentation
+{
+  background-image: url(/icons/documentation-svgrepo-com.svg);
+}
+
+.ressource .vignette.outil
+{
+  background-image: url(/icons/tool-svgrepo-com.svg);
+}
+
+.ressource .vignette.discord
+{
+  background-image: url(/icons/discord-icon-svgrepo-com.svg);
+}
+
 /* https://stackoverflow.com/questions/6071987/line-height-as-a-percentage-not-working */
 .ressource .vignette:before {
   content: "";

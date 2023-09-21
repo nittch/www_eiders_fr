@@ -13,7 +13,7 @@ fiche de conversion de vitesses à imprimer
 
 <div class="contenu">
 {{< canal-web "IVAO.fr" >}}
-{{< ressource-web "https://www.ivao.fr/fr/pages/training/instruction" "documentation" >}}
+{{< ressource-web "https://www.ivao.fr/fr/pages/training/instruction" "documentation" "documentation" >}}
 </div>
 
 <div class="contenu"> <!-- WEH Videos //-->
@@ -28,13 +28,13 @@ fiche de conversion de vitesses à imprimer
 
 <div class="contenu">
 {{< canal-web "Cours BIA André PARIS" >}}
-{{< ressource-web "https://www.acriv.org/fichiers/pdf/BIA/04-Navigation-Reglementation-Aeromedecine/Fiche-400-Les_Unites_Aeronautiques.pdf" "Les unités aéronautiques" >}}
+{{< ressource-web "https://www.acriv.org/fichiers/pdf/BIA/04-Navigation-Reglementation-Aeromedecine/Fiche-400-Les_Unites_Aeronautiques.pdf" "Les unités aéronautiques" "presentation" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "Wikipédia" >}}
-{{< ressource-web "https://fr.vikidia.org/wiki/Alphabet_a%C3%A9ronautique" "Alphabet aéronautique" "wiki" >}}
-{{< ressource-web "https://fr.wikipedia.org/wiki/Code_Q" "Code Q" "wiki" >}}
+{{< ressource-web "https://fr.vikidia.org/wiki/Alphabet_a%C3%A9ronautique" "Alphabet aéronautique" "documentation" >}}
+{{< ressource-web "https://fr.wikipedia.org/wiki/Code_Q" "Code Q" "documentation" >}}
 </div>
 
 <div class="contenu"> <!-- SIM2HEAVEN //-->
@@ -103,12 +103,12 @@ fiche de conversion de vitesses à imprimer
 
 <div class="contenu">
 {{< canal-web "Aerogligli.fr" >}}
-{{< ressource-web "https://www.aerogligli.fr/assets/img/docs/fiche_signaux_interception.pdf" "Fiche signaux Interception" >}}
+{{< ressource-web "https://www.aerogligli.fr/assets/img/docs/fiche_signaux_interception.pdf" "Fiche signaux Interception" "presentation" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "Ministère de l'écologie" >}}
-{{< ressource-web "https://www.ecologie.gouv.fr/sites/default/files/LEXIQUE_final.pdf" "Lexique des situations inhabituelles français/anglais" >}}
+{{< ressource-web "https://www.ecologie.gouv.fr/sites/default/files/LEXIQUE_final.pdf" "Lexique des situations inhabituelles français/anglais" "documentation" >}}
 , une liste de termes à connaitre pour les pilotes, dans les deux langues
 </div>
 
@@ -150,37 +150,32 @@ fun.
 
 <div class="contenu">
 {{< canal-web "09th WTAC Griffons" >}}
-{{< ressource-web "http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&category=14" "docs" >}}
-{{< ressource-web "http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=500" "Approche au break" >}}
-{{< ressource-web "http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=498" "Utilisation des feux" >}}
+{{< ressource-web "http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&category=14" "docs" "documentation" >}}
+{{< ressource-web "http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=500" "Approche au break" "presentation" >}}
+{{< ressource-web "http://www.09thwtac.org/index.php?app=ccs&module=pages&section=pages&id=1&record=498" "Utilisation des feux" "presentation" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "FFW-01 Mudmovers" >}}
-{{< ressource-web "https://ffw-01.fr/formation/documentation.html" "docs" >}}
-{{< ressource-web "https://www.ffw-01.fr/images/documentation/interne/air-air/tactiques_Interception.pdf" "Tactiques d'interception" >}}
+{{< ressource-web "https://ffw-01.fr/formation/documentation.html" "docs" "documentation" >}}
+{{< ressource-web "https://www.ffw-01.fr/images/documentation/interne/air-air/tactiques_Interception.pdf" "Tactiques d'interception" "presentation" >}}
 </div>
 
 <div class="contenu">
 {{< canal-web "3rd-wing.net" >}}
-{{< ressource-web "https://www.3rd-wing.net/lofiversion/index.php?t11483.html" "Se retrouver au MSI" "tuto" >}}
+{{< ressource-web "https://www.3rd-wing.net/lofiversion/index.php?t11483.html" "Se retrouver au MSI" "forum" >}}
 technique basée sur le Bullseye
 </div>
 
 <div class="contenu">
-{{< canal-web "EVAC - Ecole Virtuelle d'Aviation de Chasse - Forums" >}}
-{{< ressource-web "http://www.evac-fr.net/forums/lofiversion/index.php?t3047.html" "Principe brouillage IR" >}}
-</div>
-
-<div class="contenu">
 {{< canal-web "Académie de vol militaire" >}}
-{{< ressource-web "http://avm-fr.com/documentations" "Bibliothèque" >}}
-{{< ressource-web "http://avm-fr.com/wiki/Fence+In+-+Fence+Out" "Fence in, Fence out" "wiki" >}}
-{{< ressource-web "http://avm-fr.com/wiki/Gestion+Carburant" "Gestion carburant" "wiki" >}}
-{{< ressource-web "http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator" "Les feux dans DCS" "wiki" >}}
-{{< ressource-web "http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf" "Communications Ailier" >}}
-{{< ressource-web "http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf" "Vol en formation" >}}
-{{< ressource-web "http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf" "Utilisation du Bull's Eye" >}}
+{{< ressource-web "http://avm-fr.com/documentations" "Bibliothèque" "documentation" >}}
+{{< ressource-web "http://avm-fr.com/wiki/Fence+In+-+Fence+Out" "Fence in, Fence out" "documentation" >}}
+{{< ressource-web "http://avm-fr.com/wiki/Gestion+Carburant" "Gestion carburant" "documentation" >}}
+{{< ressource-web "http://avm-fr.com/wiki/Les+feux+dans+Digital+Combat+Simulator" "Les feux dans DCS" "documentation" >}}
+{{< ressource-web "http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf" "Communications Ailier" "documentation" >}}
+{{< ressource-web "http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf" "Vol en formation" "documentation" >}}
+{{< ressource-web "http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf" "Utilisation du Bull's Eye" "documentation" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Ian Christie //-->
@@ -191,17 +186,17 @@ comment tirer de la bombe non-guidée
 
 <div class="contenu">
 {{< canal-web "Wikipédia" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Military_Grid_Reference_System" "Military Grid Reference System" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Military_Grid_Reference_System" "Military Grid Reference System" "documentation" >}}
 </div>
 
 <div class="contenu"> <!-- fas.org //-->
 {{< canal-web "fas.org" >}}
-{{< ressource-web "https://fas.org/man/dod-101/sys/ac/docs/16v5.pdf" "F16 Combat Aircraft Fundamentals" >}}
+{{< ressource-web "https://fas.org/man/dod-101/sys/ac/docs/16v5.pdf" "F16 Combat Aircraft Fundamentals" "documentation" >}}
 FENCE décrit page 125
 </div>
 
 ## Vol acrobatique
 <div class="contenu">
 {{< canal-web "eapisfile.com" >}}
-{{< ressource-web "https://www.eapisfile.com/Docs/Formation/PPT/Advanced%20Formation%20Clinic%20Technique%20Notes.pdf" "Advanced Formation Clinic Technique Notes" >}}
+{{< ressource-web "https://www.eapisfile.com/Docs/Formation/PPT/Advanced%20Formation%20Clinic%20Technique%20Notes.pdf" "Advanced Formation Clinic Technique Notes" "documentation" >}}
 </div>

@@ -4130,15 +4130,15 @@ ADV = "Air Defense Variant" (plus haut)
 
 <div class="contenu">
 {{< canal-web "Wikipédia" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack aircraft" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Bomber" "Bomber" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Fighter_aircraft" "Fighter aircraft" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Century_Series" "Century_Series" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Teen_Series" "Teen Series" "wiki" >}}
-{{< ressource-web "ttps://en.wikipedia.org/wiki/Jet_fighter_generations" "Jet fighter generations" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Fourth-generation_fighter" "Fourth generation fighter" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Fifth-generation_fighter" "Fifth generation fighter" "wiki" >}}
-{{< ressource-web "https://en.wikipedia.org/wiki/Look-down/shoot-down" "Look-down/shoot-down" "wiki" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Supermaneuverability" "Supermaneuverability" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Attack_aircraft" "Attack aircraft" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Bomber" "Bomber" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fighter_aircraft" "Fighter aircraft" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Supercruise" "Supercruise" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Century_Series" "Century_Series" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Teen_Series" "Teen Series" "documentation" >}}
+{{< ressource-web "ttps://en.wikipedia.org/wiki/Jet_fighter_generations" "Jet fighter generations" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fourth-generation_fighter" "Fourth generation fighter" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Fifth-generation_fighter" "Fifth generation fighter" "documentation" >}}
+{{< ressource-web "https://en.wikipedia.org/wiki/Look-down/shoot-down" "Look-down/shoot-down" "documentation" >}}
 </div>

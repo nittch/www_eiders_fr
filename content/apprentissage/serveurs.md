@@ -28,6 +28,11 @@ Différentes opérations selon les périodes :
 {{< ressource-video-youtube "XsjQsCc4dBA" >}}
 </div>
 
+<div class="contenu"> <!-- Stan Hursiak //-->
+{{< canal-youtube "id" "UC3MNmPucOU-x64t2QgAMjPw" >}}
+{{< ressource-video-youtube "FWSQ-dtnRxM" >}}
+</div>
+
 ## Lima Kiko : Flashpoint Levant
 
 La communauté Lima Kiko gère deux serveurs (EU et NA) sur l'opération Flashpoint Levant (qu'elle développe). Il s'agit d'une campagne en syrie dans les années 80.

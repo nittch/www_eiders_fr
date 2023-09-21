@@ -6,7 +6,7 @@
 {{ else if eq ( .Get 2 ) "wiki" }}      <div class="vignette">{{ ":books:"               | emojify }}</div><div class="infos">Wiki</div>
 {{ else }}                              <div class="vignette">{{ ":page_facing_up:"      | emojify }}</div>
 {{ end }}
-    <div class="titre">{{ .Get 1 }}</div>
+    <div class="titre">{{ .Get 1 | default (.Get 0) }}</div>
   </div>
 </a>
 

@@ -7,9 +7,9 @@ weight = 8
 
 ## Bullseye Francophone
 
-Communauté francophone proposant un serveur PvE. Événements réguliers.
+Aspect communautaire (francophone) important (nombreux événements réguliers : tournois dogfights, campagnes, formations...)
 
-Importance du contrôle aérien et de la communication via SRS.
+Importance du **contrôle aérien** et de la communication via SRS.
 
 Différentes opérations selon les périodes :
 - Opération Bluestorm (Caucase)
@@ -43,13 +43,15 @@ Il y a un système de missions. Par soucis de réalisme et d'équilibre, certain
 
 ## Death From Above : Grayflag
 
-La communauté DFA propose différents serveurs sur différentes opérations:
+Missions dévelopées par Graywo1f. Administration des serveurs par la communauté DFA.
+
+Différents serveurs sur différentes opérations:
 - Grayflag Syria: Operation Dark Caracal (2005)
 - Grayflag Persian Gulf: Operation Black Meteor (2005)
 - Grayflag Syria: COIN (2005)
 - Grayflag Marianas (2006)
 
-Mode bac à sable, pas de limitations d'emports. Utilisation de **Combined Arms** possible.
+**Bac à sable**, pas de limitations d'emports. Utilisation de **Combined Arms** possible.
 
 SRS, UH-60L et C130 requis.
 
@@ -67,7 +69,7 @@ Le plus gros serveur communautaire. Alterne entre Syrie et Caucase. Début-milie
 
 Système de tuiles : un décompte des unités fait basculer de camp.
 
-Des missions de reconnaissance pour localiser les dépots et usines.
+Des **missions de reconnaissance** pour localiser les dépots et usines.
 
 Des missions hélicoptères.
 
@@ -121,9 +123,9 @@ Beaucoup de logistique grâce aux hélicoptères.
 ## Dynamic DCS
 **Combined Arms très conseillé.**
 
-Missions Hélicoptères (transport de troupes, ravitaillement...).
+Contenu vraiment dynamique car géré par les joueurs.
 
-Pas de SRS mais comm via Discord.
+Missions Hélicoptères (transport de troupes, ravitaillement...).
 
 <div class="contenu">
 {{< canal-web "DDCS" >}}
@@ -132,6 +134,8 @@ Pas de SRS mais comm via Discord.
 </div>
 
 ## Strategic DCS
+**Combined Arms très conseillé.**
+
 Similaire à DDCS, projet plus récent, mais moins connu.
 
 <div class="contenu">

@@ -847,7 +847,7 @@ Un des trois avions de supériorité aérienne américain.
   "https://upload.wikimedia.org/wikipedia/commons/c/cb/Grumman_F6F-3_Hellcat_of_VF-1_in_flight_over_California_%28USA%29%2C_in_1943_%2880-G-K-605%29.jpg"
   "Naval History & Heritage Command, Public domain, via Wikimedia Commons"
 >}}
-{{< ressource-video-youtube "ka-w3--0TlA" >}} <!-- Cap Aviation -->
+{{< ressource-video-youtube "v15Xe5AMqug" >}} <!-- Cap Aviation -->
 {{< ressource-video-youtube "jBYl0WwIYLI" >}} <!-- les ailes de legende -->
 </div>
 </div>
@@ -2019,6 +2019,23 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 
 <div class="aeronef">
+{{< aeronef ":gb:" "de Havilland" "Venom" "1952" >}}
+{{< exemplaires 1431 >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/De_Havilland_Venom"
+  "https://en.wikipedia.org/wiki/De_Havilland_Venom"
+  "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-112-venom/"
+  "https://upload.wikimedia.org/wikipedia/commons/0/08/CF15_Venom_ZK-VNM_040415_02.jpg"
+  "Oren Rozen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+>}}
+{{< ressource-video-youtube "sARUK4K386k" >}} <!-- Cap Aviation -->
+</div>
+</div>
+
+<div class="aeronef">
 {{< aeronef ":canada:" "Avro Canada" "CF-100 Canuck" "1953" >}}
 </div>
 <div class="ressources">
@@ -2214,8 +2231,8 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "https://fr.wikipedia.org/wiki/Saab_35_Draken"
   "https://en.wikipedia.org/wiki/Saab_35_Draken"
   "https://www.avionslegendaires.net/avion-militaire/saab-j35-draken/"
-  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Saab_SK_35C_Draken_%28DragonKite%29_SE-DXP810.jpg"
-  "Robert Sullivan, PDM-owner, via Wikimedia Commons"
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/J_35F_1972_%28cropped%2C_removal_of_damage_and_dirt_using_clone_tool%29.jpg"
+  "Blockhaj, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "LhCSSlfNJk8" >}}
 {{< ressource-video-youtube "oy_Y0_BH9fs" >}}
@@ -2283,6 +2300,7 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
 {{< ressource-video-youtube "DueHCwa8uc8" >}} <!-- Drole de machine -->
 {{< ressource-video-youtube "Gg3Of12mJrU" >}}
 {{< ressource-video-youtube "4uM81xdS3E8" >}} <!-- Yataka -->
+{{< ressource-video-youtube "A7xY7wzQTFE" >}} <!-- Cap aviation -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "h1jT8RZSM_I" >}}
@@ -3405,8 +3423,8 @@ Avionique occidentale (française et israélienne), ajout de canards et poussée
   "https://fr.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
   "https://en.wikipedia.org/wiki/Hawker_Siddeley_Harrier"
   "https://www.avionslegendaires.net/avion-militaire/hawker-siddeley-harrier/"
-  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Spanish_AV-8S_Matador_%28cropped%29.jpg"
-  "Lt. Cmdr.John Leenhouts, Public domain, via Wikimedia Commons"
+  "https://upload.wikimedia.org/wikipedia/commons/f/fb/Spanish_Hawker_Siddeley_AV-8S_Matador_in_flight_over_the_Mediterranean_Sea%2C_1_June_1988_%286430231%29.jpg"
+  "Lieutenant Commander John R. Leenhouts, U.S. Navy; post-work FOX 52, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "xqUWERG1qqU" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "-d0xr7dx6_0" >}} <!-- Drole de machines //-->

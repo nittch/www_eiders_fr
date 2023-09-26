@@ -20,8 +20,8 @@ Découvrant DCS en même temps que Nittch, je vole actuellement sur Mirage-2000C
 </div>
 
 <div class="contenu">
-{{< canal-web "Furiml" >}}
+{{< canal-youtube "id" "UCrCnoTX9LBJuLWPmtgJdAQA" >}}
 {{< ressource-illustration "/Screen_200814_194231_crop.png" >}}
-{{< ressource-liste "Entrainements DCS" "Entrainements AMS2" >}}
-Initialement introduit à DCS par Nittch fin août 2020 sur SU-25T, je suis de retour plus motivé que jamais après une mauvaise expérience matérielle. Je vole principalement en F/A-18C, et je compte m'attaquer au F-16C prochainement.
+{{< ressource-liste "Logos" "Entraînements DCS" "Entraînements AMS2" "Entraînements ACC">}}
+Introduit au monde de la simulation mi-2020 par Nittch, j'ai commencé DCS avec les modules FC3 avant de rejoindre l'escadrille et débuter notre formation en F/A-18C. Après quelques missions en tandem, j'ai débuté l'apprentissage du F-16C et commencé à fréquenter le serveur BFR. Parallèlement, j'ai aussi débuté le simracing sur AMS2 avec Nittch et Feasil au rythme d'une course par semaine. Aujourd'hui, je n'ai pas encore repris mon cursus d'apprentissage sur DCS mais je suis assez actif dans le domaine du simracing, sur AMS2 et ACC.
 </div>

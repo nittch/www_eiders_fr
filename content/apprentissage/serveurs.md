@@ -87,6 +87,10 @@ Mod A4 requis.
 {{< ressource-video-youtube "vEPgEZxTLZk" >}}
 {{< ressource-web "https://docs.google.com/presentation/d/1I-aD-s3zoEpV4gGu7QIrEdywkpklfT40te-mYlX3zk8/edit?usp=sharing" "Presentation" "presentation" >}}
 </div>
+<div class="contenu"> <!-- Dr Jebus //-->
+{{< canal-youtube "id" "UCZ7SaBzhYOiGc9MwGIlqxJw" >}}
+{{< ressource-playlist-youtube "PL5_7yAQmhd7cXCl09_9Uc2Ur6zhbCTz26" >}}
+</div>
 
 ## Tempest Blue Flash
 Spin-off d'Enigma (v2) mais en fin des années 80, alternant entre Syrie, Persian Golf et Sinai.
@@ -157,6 +161,7 @@ Similaire à DDCS, projet plus récent, mais moins connu.
 {{< ressource-web "https://discord.gg/zj33Xg6" "" "discord" >}}
 {{< ressource-web "https://rotorheads.fandom.com/wiki/Rotor_Heads_Wiki" "" "documentation" >}}
 {{< ressource-video-youtube "-AYqOXyCDPw" >}}
+{{< ressource-video-youtube "HKh2u7au49Q" >}}
 </div>
 
 ## Low Level Hell

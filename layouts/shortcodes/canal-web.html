@@ -1,1 +1,4 @@
-<div class="canal canal-web">{{ .Get 0 }}</div>
+<div class="canal canal-youtube">
+  {{ if ne ( .Get 1 ) "" }}<img src="{{ .Get 1 }}"/>{{ end }}
+  {{ .Get 0 }}
+</div>

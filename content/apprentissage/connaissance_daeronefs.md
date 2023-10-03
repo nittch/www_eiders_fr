@@ -1932,7 +1932,7 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":gb:" "de Havilland" "Vampire" "1946" >}}
+{{< aeronef ":gb:" "de Havilland" "DH.100 Vampire" "1946" "embarqué" >}}
 {{< exemplaires 4569 >}}
 <p>Premier avion à réaction à avoir traversé l'océan Atlantique, et le premier avion à réaction capable d'opérer depuis un porte-avions..</p>
 </div>
@@ -2019,8 +2019,9 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
 </div>
 
 <div class="aeronef">
-{{< aeronef ":gb:" "de Havilland" "Venom" "1952" >}}
+{{< aeronef ":gb:" "de Havilland" "DH.112 Venom" "1952" "embarqué, chasseur bombardier" >}}
 {{< exemplaires 1431 >}}
+<P>Aquilon en France.</P>
 </div>
 <div class="ressources">
 <div class="reportages">
@@ -2217,6 +2218,22 @@ Le seul avion de l'histoire à détenir simultanément le record de vitesse et d
   "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "lQd684FwTRk" >}} <!-- Drole de machine -->
+</div>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "de Havilland" "DH.110 Sea Vixen" "1959" "embarqué" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/De_Havilland_Sea_Vixen"
+  "https://en.wikipedia.org/wiki/De_Havilland_Sea_Vixen"
+  "https://www.avionslegendaires.net/avion-militaire/de-havilland-d-h-110-sea-vixen/"
+  "https://upload.wikimedia.org/wikipedia/commons/6/65/De_Havilland_Sea_Vixen_at_Yeovilton_2009.JPG"
+  "Yeovilton_Vixen_2009-001.tif: Nigel Ishderivative work: Cobatfor, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+>}}
+{{< ressource-video-youtube "ROJPdjt49gU" >}} <!-- Cap Aviation -->
 </div>
 </div>
 

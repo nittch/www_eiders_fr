@@ -730,6 +730,7 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 >}}
 {{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende -->
 {{< ressource-video-youtube "hjsrqMe0B3s" >}} <!-- Animagraffs -->
+{{< ressource-video-youtube "XoYrMc07Vck" >}} <!-- Droles de machines -->
 </div>
 </div>
 
@@ -2049,6 +2050,22 @@ On parle de bombardier lourd pour la classe quatre tonnes et plus de charge.
   "Canadian Department of National Defence, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "j0wLQ78ZyQs" >}} <!-- Drole de machine -->
+</div>
+</div>
+
+<div class="aeronef">
+{{< aeronef ":gb:" "Hawker" "Sea Hawk" "1953" "embarqué" >}}
+</div>
+<div class="ressources">
+<div class="reportages">
+{{< ressource-encyclopedique
+  "https://fr.wikipedia.org/wiki/Hawker_Sea_Hawk"
+  "https://en.wikipedia.org/wiki/Hawker_Sea_Hawk"
+  "https://www.avionslegendaires.net/avion-militaire/hawker-sea-hawk/"
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Sea_Hawk_FGA.6_%2818809786370%29crop.jpg"
+  "Rob Schleiffert from Holland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+>}}
+{{< ressource-video-youtube "-2V4YYUe4SI" >}} <!-- Cap aviation -->
 </div>
 </div>
 

@@ -51,6 +51,11 @@ De très bons tutoriels détaillés, principalement sur l'armement.
 {{< ressource-playlist-youtube "PLcbf-Ja78Ce61RaPI3quSLgdJVOXszC1w" >}}
 </div>
 
+<div class="contenu"> <!-- deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjU-BpvdJVdkCdRPOE6tBWGG" >}}
+</div>
+
 <div class="contenu">
 Tutoriels en français et en musique. L'usage des armes dans différents cas de figure y est bien détaillé.
 {{< canal-web "Chaosengine EDS" >}}

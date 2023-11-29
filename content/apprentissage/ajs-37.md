@@ -39,16 +39,16 @@ Une documentation en français.
 {{< ressource-playlist-youtube "PLZ8X4p18pdbmhukmv1CwfEyhSLGh89dA3" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- leadnap gaming //-->
+De très bons tutoriels détaillés. La playlist commence par l'armement, mais a aussi des tutoriels plus généraux ensuite.
+{{< canal-youtube "id" "UC8qaF8V2-JV9_F8VV8AY6Bg" >}}
+{{< ressource-playlist-youtube "PLNyD4eo0ftPRgjxDu6oHrZh3xkF9_47bg" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- clubby37 //-->
 D'excellents tutos sur le Viggen, à ne pas rater.
 {{< canal-youtube "id" "UCbRpH2t1-IODmoE395IZjwg" >}}
 {{< ressource-playlist-youtube "PL7pn4rQD0F5YnST2SaCl5y90UD15_SHBc" >}}
-</div>
-
-<div class="contenu de_qualite">
-De très bons tutoriels détaillés, principalement sur l'armement.
-{{< canal-web "Leadnap Gaming" >}}
-{{< ressource-playlist-youtube "PLcbf-Ja78Ce61RaPI3quSLgdJVOXszC1w" >}}
 </div>
 
 <div class="contenu"> <!-- deephack //-->

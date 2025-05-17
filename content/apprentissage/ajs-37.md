@@ -90,7 +90,7 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 </div>
 
 <div class="contenu"> <!-- Bunyap Sims //-->
-{{< canal-youtube "forUsername" "4023446" >}}
+{{< canal-youtube "id" "UCChA7JzaWoakPbvpmUzMH5g" >}}
 {{< ressource-playlist-youtube "PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs" >}}
 </div>
 

@@ -39,3 +39,9 @@ weight = 14
 {{< ressource-playlist-youtube "PLNtUtkZqN36l2ORaZiZ1fNGscakWTvYVm" >}}
 </div>
 
+<div class="contenu"> <!-- Requiem / The Air Combat Tutorial Library //-->
+{{< canal-youtube "id" "UCwV5RLX7mkaDy5gTIiuwGmg" >}}
+{{< ressource-playlist-youtube "PLnyigzFtHeNrdYFpQIITjXnecm3w4TAvZ" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3328889/" "Requiem's Mosquito Mk.VI Cockpit Workflows" "planchette" >}}
+</div>
+

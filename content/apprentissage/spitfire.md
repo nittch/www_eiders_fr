@@ -33,3 +33,8 @@ weight = 12
 {{< ressource-playlist-youtube "PL7pn4rQD0F5aXFllJr5V86M9_GCPTTpoy" >}}
 </div>
 
+<div class="contenu"> <!-- Requiem / The Air Combat Tutorial Library //-->
+{{< canal-youtube "id" "UCwV5RLX7mkaDy5gTIiuwGmg" >}}
+{{< ressource-playlist-youtube "PLnyigzFtHeNqN0YtCzNWnLi4gy6BdDndc" >}}
+</div>
+

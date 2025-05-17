@@ -103,9 +103,10 @@ weight = 52
 {{< ressource-playlist-youtube "PL4a4myRJ63XtQbgoCP25SzVWNOxkfDIkU" >}}
 </div>
 
-<div class="contenu"> <!-- Commander Steinsch //-->
-{{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
-{{< ressource-playlist-youtube "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" >}}
+<div class="contenu"> <!-- Requiem / The Air Combat Tutorial Library //-->
+{{< canal-youtube "id" "UCwV5RLX7mkaDy5gTIiuwGmg" >}}
+{{< ressource-playlist-youtube "PLnyigzFtHeNp4Zowvj4Ht4NYFCCCZaeL0" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3318559/" "Requiem's F/A-18C Cockpit Workflows" "planchette" >}}
 </div>
 
 <div class="contenu"> <!-- Tactical Pascale //-->
@@ -126,6 +127,11 @@ weight = 52
 <div class="contenu"> <!-- Dilixo //-->
 {{< canal-youtube "id" "UCvS0HT1Xga7H_ACuhrGhEOg" >}}
 {{< ressource-playlist-youtube "PL1k_s5S44l5sA1xKNWP1azfrKDl_63Vsy" >}}
+</div>
+
+<div class="contenu"> <!-- Commander Steinsch //-->
+{{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
+{{< ressource-playlist-youtube "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" >}}
 </div>
 
 <div class="contenu"> <!-- 104th Maverick //-->

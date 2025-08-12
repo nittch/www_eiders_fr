@@ -80,6 +80,17 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-video-youtube "yLQg53ocURE" >}}
 </div>
 
+<div class="contenu"> <!-- Requiem / The Air Combat Tutorial Library //-->
+{{< canal-youtube "id" "UCwV5RLX7mkaDy5gTIiuwGmg" >}}
+{{< ressource-playlist-youtube "PLnyigzFtHeNq7NoAEMS9KSnQcTd7LOsAC" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- FlightInsight //-->
+{{< canal-youtube "id" "UCAHvg_6KCB3MgOY_PvNZCDQ" >}}
+{{< ressource-video-youtube "QcxLottMghg" >}}
+{{< ressource-video-youtube "8_faQNXGpW0" >}}
+</div>
+
 <div class="contenu"> <!-- Cindy Hollman //-->
 {{< canal-youtube "id" "UCQMrUsKrhTIx94S9JgkFM2w" >}}
 {{< ressource-playlist-youtube "PLTaK2N2T1t_dobZ_zpl70mIm7CsR9NgCn" >}}

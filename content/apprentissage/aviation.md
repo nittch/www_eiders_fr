@@ -80,6 +80,11 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-video-youtube "yLQg53ocURE" >}}
 </div>
 
+<div class="contenu"> <!-- Iain Christie / Sidekick65 //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-video-youtube "k951D_7dTtM" >}}
+</div>
+
 <div class="contenu"> <!-- Requiem / The Air Combat Tutorial Library //-->
 {{< canal-youtube "id" "UCwV5RLX7mkaDy5gTIiuwGmg" >}}
 {{< ressource-playlist-youtube "PLnyigzFtHeNq7NoAEMS9KSnQcTd7LOsAC" >}}

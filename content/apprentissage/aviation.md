@@ -144,7 +144,9 @@ fiche de conversion de vitesses à imprimer
 
 <div class="contenu"> <!-- THE AIR WARFARE GROUP //-->
 {{< canal-youtube "id" "UCdz6fNb-V-h2iZ_daWNoaTQ" >}}
-{{< ressource-playlist-youtube "PLroS5xjXW90smqJPDcIlPvXYUKxLM94bm" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90ta4RxaG_hVg1vZcRmvjTbi" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90vvaKvjvgP2k-dudquDmNWh" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90szfXwxeGVkbULXHshxDhr4" >}}
 </div>
 
 <div class="contenu"> <!-- Doc //-->

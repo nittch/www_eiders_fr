@@ -739,7 +739,7 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
 <!-- Air supremacy: In the Pacific Theater, the A6M Zero gave Japan air superiority for much of the early part of the war, but suffered against newer naval fighters such as the F6F Hellcat and F4U Corsair which exceeded the Zero in performance and durability. -->
 <!-- Close air support: The American Navy and Marine Corps used CAS in conjunction with or as a substitute for the lack of available artillery or naval gunfire in the Pacific theater. Navy and Marine F6F Hellcats and F4U Corsairs used a variety of ordnance such as conventional bombs, rockets and napalm to dislodge or attack Japanese troops using cave complexes in the latter part of the Second World War. -->
 <!-- Close air support: The Royal Navy Hawker Sea Fury fighters and the U.S. Vought F4U Corsair and Douglas A-1 Skyraider were operated in a ground attack capacity during the Korean War. -->
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "Chance Vought" "F4U Corsair" "1942" "chasseur embarqué" >}}
 {{< exemplaires 12571 >}}
 {{< role "Supériorité aérienne" >}}
@@ -2373,7 +2373,7 @@ On peut citer différents aspects : <ul>
 
 <!-- Multirole Combat aircraft: The US joint forces F-4 Phantom II built by McDonnell-Douglas also fits the definition of a multi-role aircraft in its various configurations of the basic airframe design. The various F-4 Phantom II configurations were used in air-to-air, fighter bomber, reconnaissance, and suppression of enemy air defenses (SEAD) mission roles to name a few. -->
 <!-- Fighter bomber: Fighter-bombers became increasingly important in the 1950s and 1960s, as new jet engines dramatically improved the power of even the smallest fighter designs. Many aircraft initially designed as fighters or interceptors found themselves in the fighter-bomber role at some point in their career. Notable among these is the Lockheed F-104 Starfighter, first designed as a high-performance day fighter and then adapted to the nuclear strike role for European use. Other U.S. examples include the North American F-100 Super Sabre and (perhaps most famously) the McDonnell Douglas F-4 Phantom II, each of which was widely used during the Vietnam War. -->
-<div class="aeronef">
+<div class="aeronef avec_module_dcs">
 {{< aeronef ":us:" "McDonnell Douglas" "F-4 Phantom II" "1960" "embarqué, chasseur-bombardier et intercepteur, supériorité aérienne" >}}
 {{< mach 2.23 >}}
 {{< caracteristique "Multirôle" >}}
@@ -2543,6 +2543,7 @@ Une variante MiG-27 dédiée à l'attaque au sol.
 >}}
 {{< ressource-video-youtube "u6GCimwkcx8" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "UnycNFTXXco" >}}
+{{< ressource-video-youtube "39fb9H8Lhfc" >}} <!-- Musée de l'Air et de l'Espace -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "38AEBg2ZkXs" >}} <!-- Armee de l'air et de l'espace -->
@@ -2754,6 +2755,7 @@ Variante MiG-29K : embarquée.</p>
 {{< ressource-video-youtube "bFHF9j_LvPk" >}}
 {{< ressource-video-youtube "qsbqV0rz87o" >}}
 {{< ressource-video-youtube "tXbzeEXdZpQ" >}} <!-- musee de l'air -->
+{{< ressource-video-youtube "sLXoxIXTM_A" >}} <!-- Conservatoire de l'Air et de l'Espace d'Aquitaine -->
 </div>
 <div class="images">
 {{< ressource-video-youtube "k-SlLeYRGnE" >}}
@@ -4034,6 +4036,7 @@ ADV = "Air Defense Variant" (plus haut)
 >}}
 {{< ressource-video-youtube "Y4xjSObEvFs" >}} <!-- Les guerriers du ciel -->
 {{< ressource-video-youtube "s6z5VvmAi4w" >}} <!-- Drole de machines -->
+{{< ressource-video-youtube "_pGBgSrVQXo" >}} <!-- Conservatoire de l'Air et de l'Espace d'Aquitaine -->
 </div>
 </div>
 

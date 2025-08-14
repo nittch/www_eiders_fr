@@ -20,6 +20,11 @@ weight = 6
 {{< ressource-playlist-youtube "PLD4N0spssu9dW9c9rwR8CRKamDsvVJUur" >}}
 </div>
 
+<div class="contenu"> <!-- ohyeah2389 //-->
+{{< canal-web "ohyeah2389" >}}
+{{< ressource-web "https://www.digitalcombatsimulator.com/en/files/3312132/" "A-4E Enhanced Checklist v1.0" "planchette" >}}
+</div>
+
 <div class="contenu"> <!-- Heinlein //-->
 {{< canal-youtube "id" "UCQyDyxc788zaDfTtqnChAoQ" >}}
 {{< ressource-playlist-youtube "PLLnxK6CJYwVdz1-2fPtgf6qYrUMW78Mud" >}}

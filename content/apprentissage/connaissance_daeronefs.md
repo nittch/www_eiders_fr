@@ -543,6 +543,7 @@ Bon chasseur-bombardier.</p>
   "USAAF, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "bBwTnfL6aOE" >}} <!-- Imineo -->
+{{< ressource-playlist-youtube "PLD2EcpzcvT-v4H2V4AQxwPMtCKfk9G_Pz" >}} <!-- Greg's Airplanes and Automobiles -->
 </div>
 </div>
 

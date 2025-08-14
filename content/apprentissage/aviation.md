@@ -90,6 +90,11 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-playlist-youtube "PLnyigzFtHeNq7NoAEMS9KSnQcTd7LOsAC" >}}
 </div>
 
+<div class="contenu"> <!-- Layton Soaring //-->
+{{< canal-youtube "id" "UCgTLwiG60YZcPIBZo7zUQSg" >}}
+{{< ressource-video-youtube "9_rwwfnzZB0" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- FlightInsight //-->
 {{< canal-youtube "id" "UCAHvg_6KCB3MgOY_PvNZCDQ" >}}
 {{< ressource-video-youtube "QcxLottMghg" >}}

@@ -730,8 +730,9 @@ Utilisé en escorte avant d'être remplacé par le P-51.<br />
   "U.S. Air Force, Public domain, via Wikimedia Commons"
 >}}
 {{< ressource-video-youtube "XT0qKOfhqac" >}} <!-- les ailes de legende -->
-{{< ressource-video-youtube "hjsrqMe0B3s" >}} <!-- Animagraffs -->
 {{< ressource-video-youtube "XoYrMc07Vck" >}} <!-- Droles de machines -->
+{{< ressource-playlist-youtube "PLcbf-Ja78Ce4U26Ev0Xn817P_aeHPSPU8" >}} <!-- WW2 Wayfinder -->
+{{< ressource-video-youtube "hjsrqMe0B3s" >}} <!-- Animagraffs -->
 </div>
 </div>
 

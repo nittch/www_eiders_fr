@@ -154,6 +154,18 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-playlist-youtube "PLroS5xjXW90szfXwxeGVkbULXHshxDhr4" >}}
 </div>
 
+<div class="contenu"> <!-- The Ops Center By Mike Solyom //-->
+{{< canal-youtube "id" "UCAGylbmVAkEyOibhDVUYrPA" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ltDJ8GUzSoTJFFwT01_-M" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y4IjS7i7skN938cp0MkwfaF" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y5-SDJjOzuUqV3m3mmuieTQ" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ePAmWQ4_eG596CE645sCF" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6TP1IwzndLjiPVfstiM6EK" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y7wxYI4cVxcDPdswhj_Zgpi" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6LH36D_Nlyt7yh6bZA06oB" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6Yi4vW_E8g-HV_MekhFYyk" >}}
+</div>
+
 <div class="contenu"> <!-- Doc //-->
 {{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
 {{< ressource-video-youtube "ASwPCCRoEBI" >}}

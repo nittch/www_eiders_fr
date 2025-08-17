@@ -77,3 +77,8 @@ weight = 1984
 {{< canal-youtube "id" "UCkNVbomjoHZom13dxjJWm3g" >}}
 {{< ressource-playlist-youtube "PLT-PAUSaoTg0N9vhS-ajoFE0xhIBpwpu4" >}}
 </div>
+
+<div class="contenu"> <!-- deephack //-->
+{{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
+{{< ressource-playlist-youtube "PLLY_KGBSBGjX97iXlwjTgBN8A6evb00KZ" >}}
+</div>

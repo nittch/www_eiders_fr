@@ -1,6 +1,6 @@
 +++
 title = "MiG-21bis Fishbed"
-weight = 31
+weight = 1959
 +++
 
 <div class="contenu"> <!-- Chuck's guide //-->

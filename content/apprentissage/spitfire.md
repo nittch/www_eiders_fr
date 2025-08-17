@@ -1,6 +1,6 @@
 +++
 title = "Spitfire LF Mk. IX"
-weight = 12
+weight = 1938
 +++
 
 <div class="contenu"> <!-- le hangar de Sklang //-->

@@ -1,6 +1,6 @@
 +++
 title = "MiG-15bis Fagot"
-weight = 20
+weight = 1948
 +++
 
 <div class="contenu"> <!-- Chuck's guide //-->

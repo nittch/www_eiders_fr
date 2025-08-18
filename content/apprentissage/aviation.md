@@ -166,6 +166,15 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-playlist-youtube "PLd5Qdmhmp3Y6Yi4vW_E8g-HV_MekhFYyk" >}}
 </div>
 
+<div class="contenu"> <!-- PeriscopeFilm //-->
+{{< canal-youtube "id" "UCddem5RlB3bQe99wyY49g0g" >}}
+{{< ressource-playlist-youtube "PLqqqqZrD37h7Z-HgrC2WNkSZClTUsLdL7" >}}
+{{< ressource-video-youtube "IeFxFlHSQ8Y" >}}
+{{< ressource-video-youtube "jEvXyUPDRlE" >}}
+{{< ressource-video-youtube "Df-WR6AIezc" >}}
+{{< ressource-video-youtube "FC10BxI6G7E" >}}
+</div>
+
 <div class="contenu"> <!-- Doc //-->
 {{< canal-youtube "id" "UCgmpgFZDI_FEfuAKTyYe88g" >}}
 {{< ressource-video-youtube "ASwPCCRoEBI" >}}

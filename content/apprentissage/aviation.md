@@ -26,6 +26,11 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-video-youtube "0fJyjBLIG68" >}}
 </div>
 
+<div class="contenu"> <!-- Fravaka Vernod //-->
+{{< canal-youtube "id" "UCFO4AYIdKHwXCoBBef_HHYw" >}}
+{{< ressource-playlist-youtube "PLjRmEyyNFcKPq7xVQ7B7diOWyNK6NA19G" >}}
+</div>
+
 <div class="contenu">
 {{< canal-web "Cours BIA André PARIS" >}}
 {{< ressource-web "https://www.acriv.org/fichiers/pdf/BIA/04-Navigation-Reglementation-Aeromedecine/Fiche-400-Les_Unites_Aeronautiques.pdf" "Les unités aéronautiques" "presentation" >}}
@@ -83,6 +88,12 @@ fiche de conversion de vitesses à imprimer
 <div class="contenu"> <!-- Iain Christie / Sidekick65 //-->
 {{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
 {{< ressource-video-youtube "k951D_7dTtM" >}}
+</div>
+
+<div class="contenu"> <!-- Max100 //-->
+{{< canal-youtube "id" "UC5Ew1xxol9-IajBKHB_mugQ" >}}
+{{< ressource-video-youtube "uf_UIu8ZfMc" >}}
+{{< ressource-video-youtube "GWOa8Xqf0iU" >}}
 </div>
 
 <div class="contenu"> <!-- Requiem / The Air Combat Tutorial Library //-->

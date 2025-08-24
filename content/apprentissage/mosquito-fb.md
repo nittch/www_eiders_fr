@@ -28,6 +28,11 @@ weight = 1941
 {{< ressource-playlist-youtube "PL56M8zQ0bxUPDYc5O9yFmewanpR3jILF-" >}}
 </div>
 
+<div class="contenu"> <!-- Max100 //-->
+{{< canal-youtube "id" "UC5Ew1xxol9-IajBKHB_mugQ" >}}
+{{< ressource-video-youtube "GWOa8Xqf0iU" >}} <!-- aussi dans aviation.md //-->
+</div>
+
 <div class="contenu de_qualite"> <!-- Tactical Pascale //-->
 {{< canal-youtube "id" "UC4Mwn7U1SSeaDLMVB7ERE0Q" >}}
 {{< ressource-playlist-youtube "PLnLWWfulBNpsAbGsbkqRs_dINYnjXG-VX" >}}

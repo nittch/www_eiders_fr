@@ -38,7 +38,7 @@ weight = 1981
 </div>
 
 <div class="contenu"> <!-- ralfidude //-->
-{{< canal-youtube "forUsername" "ralfidude" >}}
+{{< canal-youtube "id" "UC7lK8qHqm21bv2jW6TKdNKA" >}}
 {{< ressource-playlist-youtube "PLYA7v8u34qu_LHSgylMs2_ww6KcKc_pis" >}}
 </div>
 

@@ -44,7 +44,7 @@ weight = 1984
 </div>
 
 <div class="contenu"> <!-- EFPV //-->
-{{< canal-youtube "forUsername" "ecolepilotefrance" >}}
+{{< canal-youtube "id" "UC1TuJX4HZND3KttV-bH0aMA" >}}
 {{< ressource-playlist-youtube "PLxeAPpKC04wuKpEsuk2eN5cxkSpAp9yVL" >}}
 </div>
 

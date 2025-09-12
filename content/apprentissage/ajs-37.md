@@ -33,7 +33,7 @@ Une documentation en français.
 {{< ressource-video-youtube "guDS55EOye0" >}}
 </div>
 
-<div class="contenu"> <!-- Saker chez Spudknocker //-->
+<div class="contenu"> <!-- Saker chez Spud Spike //-->
 À voir pour débuter et se mettre dans l'ambiance.
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdbmhukmv1CwfEyhSLGh89dA3" >}}
@@ -80,8 +80,8 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 {{< ressource-playlist-youtube "PLer9oF4AanvHX8x1qkjiVT92hmFS_ozFP" >}}
 </div>
 
-<div class="contenu">
-{{< canal-youtube "forUsername" "Badjoe117" >}}
+<div class="contenu"> <!-- Badjoe117 //-->
+{{< canal-youtube "id" "UCTsEfUgDRp5IZDId67HYQ-Q" >}}
 {{< ressource-playlist-youtube "PLwzFUyfNUqJSZA4DDHld3kMwGgIVX2DHh" >}}
 {{< ressource-video-youtube "1riAGPyHwWg" >}}
 {{< ressource-video-youtube "ke93SP_jAZs" >}}

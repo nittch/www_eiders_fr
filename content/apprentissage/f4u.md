@@ -3,7 +3,7 @@ title = "F4U-1D Corsair"
 weight = 1942
 +++
 
-<div class="contenu"> <!-- Spudknocker //-->
+<div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-video-youtube "ATWVKBgIP48" >}}
 {{< ressource-video-youtube "96sWfMx9lk0" >}}

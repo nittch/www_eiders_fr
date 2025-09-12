@@ -11,7 +11,7 @@ weight = 8
 Dans une autre thématique, il est également possible de diriger des unités au sol (ou en mer) pour apporter plus de cohérence dans les mouvements des unités (et plus de challenge).
 
 <div class="contenu de_qualite"> <!-- 131st Death Vipers //-->
-{{< canal-youtube "forUsername" "whitesky545" >}}
+{{< canal-youtube "id" "UCHS41zEhx8XJnnfsnOKpRNA" >}}
 {{< ressource-video-youtube "bdzX7hsukDU" >}}
 , d'avantage une vidéo sur Combined Arms, très instructif 
 {{< ressource-playlist-youtube "PLHX49UqNq5KVQPo9iLWA1rGUlhkjpYl5m" >}}

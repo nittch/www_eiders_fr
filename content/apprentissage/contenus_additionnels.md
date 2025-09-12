@@ -94,7 +94,7 @@ weight = 6
 {{< ressource-video-youtube "XRI36163nGE" >}}
 </div>
 
-<div class="contenu"> <!-- Spudknocker //-->
+<div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-video-youtube "Q1nz7bLFQQ0" >}}
 </div>

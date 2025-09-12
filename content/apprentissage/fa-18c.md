@@ -43,12 +43,12 @@ weight = 1983
 </div>
 
 <div class="contenu de_qualite"> <!-- EFPV //-->
-{{< canal-youtube "forUsername" "ecolepilotefrance" >}}
+{{< canal-youtube "id" "UC1TuJX4HZND3KttV-bH0aMA" >}}
 {{< ressource-playlist-youtube "PLxeAPpKC04wtpEx-sMClxoum_t62ZNcih" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- CheckSix //-->
-{{< canal-youtube "forUsername" "ChecksixTV" >}}
+{{< canal-youtube "id" "UCHtP33wQCjS7xKbftifb2hw" >}}
 {{< ressource-playlist-youtube "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" >}}
 </div>
 
@@ -87,7 +87,7 @@ weight = 1983
 {{< ressource-playlist-youtube "PLer9oF4AanvFOfG4sSZSHJQZeMQx7YGr6" >}}
 </div>
 
-<div class="contenu"> <!-- Spudknocker //-->
+<div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblDLcu8PN-J-ydPw1aZw9S4" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}}
@@ -140,7 +140,7 @@ weight = 1983
 </div>
 
 <div class="contenu"> <!-- Alias //-->
-{{< canal-youtube "forUsername" "cedryx1" >}}
+{{< canal-youtube "id" "UCEhV6KOGf3HzarDqFtjM20Q" >}}
 {{< ressource-playlist-youtube "PLbn9xVtwPNEQMMzuHj96AfJMMf00xX4nC" >}}
 </div>
 

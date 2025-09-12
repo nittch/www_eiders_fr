@@ -50,7 +50,7 @@ Massun92                                                                        
 </div>
 
 <div class="contenu"> <!-- Alias //-->
-{{< canal-youtube "forUsername" "cedryx1" >}}
+{{< canal-youtube "id" "UCEhV6KOGf3HzarDqFtjM20Q" >}}
 {{< ressource-playlist-youtube "PLbn9xVtwPNESOCpvhBa9nHGiZPYX0aY49" >}}
 </div>
 
@@ -80,7 +80,7 @@ Massun92                                                                        
 </div>
 
 <div class="contenu"> <!-- 131st Death Vipers //-->
-{{< canal-youtube "forUsername" "whitesky545" >}}
+{{< canal-youtube "id" "UCHS41zEhx8XJnnfsnOKpRNA" >}}
 {{< ressource-playlist-youtube "PLHX49UqNq5KVeU0RfqbHYR0FnOkzUgYF1" >}}
 </div>
 

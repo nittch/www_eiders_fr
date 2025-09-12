@@ -145,7 +145,7 @@ fiche de conversion de vitesses à imprimer
 </div>
 
 ## Aviation militaire
-<div class="contenu"> <!-- Spudknocker //-->
+<div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-video-youtube "syAGKbW5I54" >}}
 {{< ressource-video-youtube "Zrjm6UQUDi4" >}}

@@ -25,7 +25,7 @@ weight = 1983
 </div>
 
 <div class="contenu"> <!-- Razbam //-->
-{{< canal-youtube "forUsername" "RadZamb" >}}
+{{< canal-youtube "id" "UC2dsi9lIIZREo9uYcrMx3fg" >}}
 {{< ressource-playlist-youtube "PLwKSNTU2afuC2tS61G2uqZ6Nw48QY1yBA" >}}
 </div>
 
@@ -39,7 +39,7 @@ weight = 1983
 {{< ressource-playlist-youtube "PL1k_s5S44l5u5IwA9BC6zGwzu8jJaYkJi" >}}
 </div>
 
-<div class="contenu"> <!-- Spudknocker //-->
+<div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdbkF8GMh5as36v70H_OnbMcI" >}}
 </div>

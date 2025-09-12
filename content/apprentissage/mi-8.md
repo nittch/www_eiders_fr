@@ -19,7 +19,7 @@ weight = 1967
 </div>
 
 <div class="contenu"> <!-- Flo_The_Schlapen //-->
-{{< canal-youtube "forUsername" "FloLac130184" >}}
+{{< canal-youtube "id" "UCXLSw7VSAjn0Shf1b03gPyA" >}}
 {{< ressource-playlist-youtube "PLRtNZW3_ft4Wkb3J9Fe25gfsFfXG52EOV" >}}
 </div>
 

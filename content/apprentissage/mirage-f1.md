@@ -34,7 +34,7 @@ weight = 1973
 {{< ressource-playlist-youtube "PLLnxK6CJYwVcpFm-2LN97qSeTuAwvRmys" >}}
 </div>
 
-<div class="contenu"> <!-- Spudknocker //-->
+<div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-playlist-youtube "PLZ8X4p18pdbkfhAR0tZhWMITV8GMm85Ws" >}}
 </div>

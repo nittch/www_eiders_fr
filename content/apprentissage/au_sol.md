@@ -6,7 +6,7 @@ weight = 8
 # Unités au sol
 
 ## Utilisation des véhicules (avec Combined Arms)
-<img src=/apprentissage/ca_leclerc.png class=decoration />
+<img src=/apprentissage/ca_leclerc.webp class=decoration />
 
 Dans une autre thématique, il est également possible de diriger des unités au sol (ou en mer) pour apporter plus de cohérence dans les mouvements des unités (et plus de challenge).
 

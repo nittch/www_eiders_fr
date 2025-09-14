@@ -26,7 +26,7 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 </div>
 
 ## SU-27, SU-33, J-11A, MiG-29A, MiG-29S, MiG-29G
-<img src=/apprentissage/su27_mer.png class=decoration />
+<img src=/apprentissage/su27_mer.webp class=decoration />
 
 <div class="contenu"> <!-- le hangar de Sklang //-->
 {{< canal-youtube "id" "UCd6iQyhOcUrWR6DrRoMzeQg" >}}
@@ -80,7 +80,7 @@ Sources: [Reddit](https://www.reddit.com/r/hoggit/comments/3k8789/whats_the_diff
 </div>
 
 ## F-15C
-<img src=/apprentissage/f15c_feu.png class=decoration />
+<img src=/apprentissage/f15c_feu.webp class=decoration />
 
 <div class="contenu de_qualite"> <!-- Photun //-->
 {{< canal-youtube "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}

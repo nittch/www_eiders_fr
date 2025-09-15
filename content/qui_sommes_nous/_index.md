@@ -9,7 +9,7 @@ weight = 4
 {{< canal-youtube "id" "UCDZrDaTTkTJgI1GAkbj5YtQ" >}}
 {{< ressource-illustration "/Screen_120sec_reparation.webp" >}}
 {{< ressource-liste "Conception du site" "Documentation" "Entrainements DCS" >}}
-Passionné d'aéronautique, j'ai découvert DCS en juin 2020 (SU-25T, puis SU-27, Mirage-2000C, F/A-18C...). Retrouvez moi sur mon <a href=https://www.nittch.fr target=_blank>blog</a>.
+Passionné de simulation et de réalité virtuelle, j'ai découvert DCS en juin 2020 (SU-25T, puis SU-27, Mirage-2000C, F/A-18C...). Retrouvez-moi sur mon site : <a href=https://www.nittch.fr target=_blank>www.nittch.fr</a>.
 </div>
 
 <div class="contenu">

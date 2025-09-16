@@ -52,6 +52,17 @@ weight = 1983
 {{< ressource-playlist-youtube "PLA2ONn2eqkB1e0QJeYJlCciLTMAkHKEJm" >}}
 </div>
 
+<div class="contenu de_qualite"> <!-- Photun //-->
+{{< canal-youtube "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}
+{{< ressource-playlist-youtube "PLr1uSwrHettrzHixsNiwDfxGTgjoRfYv0" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Spud Spike //-->
+{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdblDLcu8PN-J-ydPw1aZw9S4" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}}
+</div>
+
 <div class="contenu de_qualite"> <!-- Deephack //-->
 {{< canal-youtube "id" "UCF-FeKRcwo-7CH5ie337F_g" >}}
 {{< ressource-playlist-youtube "PLLY_KGBSBGjUNBp6K5JLeoH-yXLrOYJ1R" >}}
@@ -60,11 +71,6 @@ weight = 1983
 <div class="contenu de_qualite"> <!-- Zanck //-->
 {{< canal-youtube "id" "UCkNVbomjoHZom13dxjJWm3g" >}}
 {{< ressource-playlist-youtube "PLT-PAUSaoTg2hhDrAHmgM77NHRlMkfCmi" >}}
-</div>
-
-<div class="contenu de_qualite"> <!-- Photun //-->
-{{< canal-youtube "id" "UC1x5dvFQ6l421YJmaMCqCaQ" >}}
-{{< ressource-playlist-youtube "PLr1uSwrHettrzHixsNiwDfxGTgjoRfYv0" >}}
 </div>
 
 <div class="contenu de_qualite"> <!-- Tigrou //-->
@@ -85,12 +91,6 @@ weight = 1983
 <div class="contenu"> <!-- Matt Waggner //-->
 {{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
 {{< ressource-playlist-youtube "PLer9oF4AanvFOfG4sSZSHJQZeMQx7YGr6" >}}
-</div>
-
-<div class="contenu"> <!-- Spud Spike //-->
-{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
-{{< ressource-playlist-youtube "PLZ8X4p18pdblDLcu8PN-J-ydPw1aZw9S4" >}}
-{{< ressource-playlist-youtube "PLZ8X4p18pdblCyhd7JwIWW2f6sGSTYLXW" >}}
 </div>
 
 <div class="contenu"> <!-- RedKite //-->

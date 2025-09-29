@@ -8,6 +8,11 @@ weight = 1983
 {{< ressource-video-youtube "UDaC8u11y1I" >}}
 </div>
 
+<div class="contenu"> <!-- Spud Spike //-->
+{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-video-youtube "yls521vBXOk" >}}
+</div>
+
 <div class="contenu"> <!-- Matt Waggner //-->
 {{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
 {{< ressource-playlist-youtube "PLer9oF4AanvEoyQVh1gNRpJvbiFiT6_ou" >}}

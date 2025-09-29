@@ -30,6 +30,11 @@ weight = 6
 {{< ressource-playlist-youtube "PLLnxK6CJYwVdz1-2fPtgf6qYrUMW78Mud" >}}
 </div>
 
+<div class="contenu"> <!-- Tutu //-->
+{{< canal-youtube "id" "UCX3vUrlAoIvUd4YY-h_qEbg" >}}
+{{< ressource-playlist-youtube "PLODX_e0mlZ2VDqW5dvBs80_hJ_zJnPkTc" >}}
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEoYw4k1xhQ7n7Pg5KGkAHTc" >}}

@@ -129,6 +129,11 @@ weight = 1983
 {{< ressource-playlist-youtube "PL1k_s5S44l5sA1xKNWP1azfrKDl_63Vsy" >}}
 </div>
 
+<div class="contenu"> <!-- Tutu //-->
+{{< canal-youtube "id" "UCX3vUrlAoIvUd4YY-h_qEbg" >}}
+{{< ressource-playlist-youtube "PLODX_e0mlZ2XtykHa-OLxn7zU5I0JXM8C" >}}
+</div>
+
 <div class="contenu"> <!-- Commander Steinsch //-->
 {{< canal-youtube "id" "UCbfGqFOB-y52xZVS5-mgEvg" >}}
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEqRJaUYIoD31rZgOp5bit5M" >}}

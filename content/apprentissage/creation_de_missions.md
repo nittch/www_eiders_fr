@@ -89,6 +89,12 @@ Massun92                                                                        
 {{< ressource-video-youtube "wEYU_-v3yQo" >}}
 </div>
 
+<div class="contenu"> <!-- Tutu //-->
+{{< canal-youtube "id" "UCX3vUrlAoIvUd4YY-h_qEbg" >}}
+{{< ressource-playlist-youtube "PLODX_e0mlZ2VY8ws2dKP9Boa500px6FXp" >}}
+</div>
+
+
 ## Élements
 source                  | description
 ----------------------- | -----------

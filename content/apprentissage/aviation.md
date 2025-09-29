@@ -177,6 +177,11 @@ fiche de conversion de vitesses à imprimer
 {{< ressource-playlist-youtube "PLd5Qdmhmp3Y6Yi4vW_E8g-HV_MekhFYyk" >}}
 </div>
 
+<div class="contenu"> <!-- Tutu //-->
+{{< canal-youtube "id" "UCX3vUrlAoIvUd4YY-h_qEbg" >}}
+{{< ressource-playlist-youtube "PLODX_e0mlZ2VmiyZshIc9ow22Ns7HeW60" >}}
+</div>
+
 <div class="contenu"> <!-- PeriscopeFilm //-->
 {{< canal-youtube "id" "UCddem5RlB3bQe99wyY49g0g" >}}
 {{< ressource-playlist-youtube "PLqqqqZrD37h7Z-HgrC2WNkSZClTUsLdL7" >}}

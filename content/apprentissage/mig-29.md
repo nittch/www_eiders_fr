@@ -12,3 +12,8 @@ weight = 1983
 {{< canal-youtube "id" "UCHa9LMylydkT0T3qSzAVrlw" >}}
 {{< ressource-playlist-youtube "PLer9oF4AanvEoyQVh1gNRpJvbiFiT6_ou" >}}
 </div>
+
+<div class="contenu"> <!-- Tutu //-->
+{{< canal-youtube "id" "UCX3vUrlAoIvUd4YY-h_qEbg" >}}
+{{< ressource-playlist-youtube "PLODX_e0mlZ2XiplZGffBRhYmS7UUjyRsD" >}}
+</div>

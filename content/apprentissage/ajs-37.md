@@ -94,6 +94,11 @@ Tutoriels en français et en musique. L'usage des armes dans différents cas de 
 {{< ressource-playlist-youtube "PLoiMNu5jyFzTzrNVgj3fQpG1x8taECYLs" >}}
 </div>
 
+<div class="contenu"> <!-- Reiver //-->
+{{< canal-youtube "id" "UCffLEuihw5xrs_DJHTAsu2w" >}}
+{{< ressource-playlist-youtube "PL-W9Zdgk_uezbEIGPo1eacCAS8aval6nZ" >}}
+</div>
+
 <div class="contenu"> <!-- FlightSimFan //-->
 {{< canal-youtube "id" "UCxaP0BJLVUY55sXaebalW0w" >}}
 {{< ressource-playlist-youtube "PLbl3y6W7x1XaUjOrnyv1TBNyGHCNMezbh" >}}

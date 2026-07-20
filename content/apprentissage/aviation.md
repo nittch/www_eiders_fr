@@ -167,6 +167,7 @@ fiche de conversion de vitesses à imprimer
 
 <div class="contenu"> <!-- The Ops Center By Mike Solyom //-->
 {{< canal-youtube "id" "UCAGylbmVAkEyOibhDVUYrPA" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6_3hByoSL8AfNEzs60o_QI" >}}
 {{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ltDJ8GUzSoTJFFwT01_-M" >}}
 {{< ressource-playlist-youtube "PLd5Qdmhmp3Y4IjS7i7skN938cp0MkwfaF" >}}
 {{< ressource-playlist-youtube "PLd5Qdmhmp3Y5-SDJjOzuUqV3m3mmuieTQ" >}}

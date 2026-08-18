@@ -145,6 +145,33 @@ fiche de conversion de vitesses à imprimer
 </div>
 
 ## Aviation militaire
+
+<div class="contenu de_qualite"> <!-- THE AIR WARFARE GROUP //-->
+{{< canal-youtube "id" "UCdz6fNb-V-h2iZ_daWNoaTQ" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90ta4RxaG_hVg1vZcRmvjTbi" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90vvaKvjvgP2k-dudquDmNWh" >}}
+{{< ressource-playlist-youtube "PLroS5xjXW90szfXwxeGVkbULXHshxDhr4" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- The Ops Center By Mike Solyom //-->
+{{< canal-youtube "id" "UCAGylbmVAkEyOibhDVUYrPA" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6_3hByoSL8AfNEzs60o_QI" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ltDJ8GUzSoTJFFwT01_-M" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y4IjS7i7skN938cp0MkwfaF" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y5-SDJjOzuUqV3m3mmuieTQ" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ePAmWQ4_eG596CE645sCF" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6TP1IwzndLjiPVfstiM6EK" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y7wxYI4cVxcDPdswhj_Zgpi" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6LH36D_Nlyt7yh6bZA06oB" >}}
+{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6Yi4vW_E8g-HV_MekhFYyk" >}}
+</div>
+
+<div class="contenu de_qualite"> <!-- Ian Christie //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-playlist-youtube "PL0jjGRFQGC0qBEFiQXgEfduvjFzsNPKYs" >}}
+comment tirer de la bombe non-guidée
+</div>
+
 <div class="contenu"> <!-- Spud Spike //-->
 {{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
 {{< ressource-video-youtube "syAGKbW5I54" >}}
@@ -156,26 +183,6 @@ fiche de conversion de vitesses à imprimer
 <div class="contenu"> <!-- Rakuzard //-->
 {{< canal-youtube "id" "UCGtBGvSzptV1D-zjUdJmhrQ" >}}
 {{< ressource-playlist-youtube "PLgDdM7LcpPKMU7cwyNvqeIUsM1Zf-BT8S" >}}
-</div>
-
-<div class="contenu"> <!-- THE AIR WARFARE GROUP //-->
-{{< canal-youtube "id" "UCdz6fNb-V-h2iZ_daWNoaTQ" >}}
-{{< ressource-playlist-youtube "PLroS5xjXW90ta4RxaG_hVg1vZcRmvjTbi" >}}
-{{< ressource-playlist-youtube "PLroS5xjXW90vvaKvjvgP2k-dudquDmNWh" >}}
-{{< ressource-playlist-youtube "PLroS5xjXW90szfXwxeGVkbULXHshxDhr4" >}}
-</div>
-
-<div class="contenu"> <!-- The Ops Center By Mike Solyom //-->
-{{< canal-youtube "id" "UCAGylbmVAkEyOibhDVUYrPA" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6_3hByoSL8AfNEzs60o_QI" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ltDJ8GUzSoTJFFwT01_-M" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y4IjS7i7skN938cp0MkwfaF" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y5-SDJjOzuUqV3m3mmuieTQ" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6ePAmWQ4_eG596CE645sCF" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6TP1IwzndLjiPVfstiM6EK" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y7wxYI4cVxcDPdswhj_Zgpi" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6LH36D_Nlyt7yh6bZA06oB" >}}
-{{< ressource-playlist-youtube "PLd5Qdmhmp3Y6Yi4vW_E8g-HV_MekhFYyk" >}}
 </div>
 
 <div class="contenu"> <!-- Tutu //-->
@@ -237,12 +244,6 @@ technique basée sur le Bullseye
 {{< ressource-web "http://avm-fr.com/docs/file/34/1-2-1%20Communications%20ailier.pdf" "Communications Ailier" "documentation" >}}
 {{< ressource-web "http://avm-fr.com/docs/file/37/1-2-3%20Vol%20en%20formation.pdf" "Vol en formation" "documentation" >}}
 {{< ressource-web "http://avm-fr.com/docs/file/50/3-1-1%20Bullseye.pdf" "Utilisation du Bull's Eye" "documentation" >}}
-</div>
-
-<div class="contenu de_qualite"> <!-- Ian Christie //-->
-{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
-{{< ressource-playlist-youtube "PL0jjGRFQGC0qBEFiQXgEfduvjFzsNPKYs" >}}
-comment tirer de la bombe non-guidée
 </div>
 
 <div class="contenu">

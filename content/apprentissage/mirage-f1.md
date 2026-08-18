@@ -24,29 +24,9 @@ weight = 1973
 {{< ressource-playlist-youtube "PL-W9Zdgk_uexx43ihYbcR-JB5yOCfSpBN" >}}
 </div>
 
-<div class="contenu"> <!-- Groupement de Chasse 22 //-->
-{{< canal-youtube "id" "UCugjylYr7Hr-ZH8QQj5xkpw" >}}
-{{< ressource-playlist-youtube "PLIGR26sb4iVVbkxHVJe5WMQTUvWAHYh_-" >}}
-</div>
-
-<div class="contenu"> <!-- RedKite //-->
+<div class="contenu de_qualite"> <!-- RedKite //-->
 {{< canal-youtube "id" "UCmMuAwcwIi6N9gnSa81fUUg" >}}
 {{< ressource-playlist-youtube "PLml_c09ciuctWJG0X8DCMjHrZYJ85rjuD" >}}
-</div>
-
-<div class="contenu"> <!-- Heinlein //-->
-{{< canal-youtube "id" "UCQyDyxc788zaDfTtqnChAoQ" >}}
-{{< ressource-playlist-youtube "PLLnxK6CJYwVcpFm-2LN97qSeTuAwvRmys" >}}
-</div>
-
-<div class="contenu"> <!-- Spud Spike //-->
-{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
-{{< ressource-playlist-youtube "PLZ8X4p18pdbkfhAR0tZhWMITV8GMm85Ws" >}}
-</div>
-
-<div class="contenu"> <!-- Fox 3 DCS //-->
-{{< canal-youtube "id" "UC4j_os41_iqlbX6kkQMbnmw" >}}
-{{< ressource-playlist-youtube "PLqGY49W4jCyIeNwNoLwxSavE-vPKthMcp" >}}
 </div>
 
 <div class="contenu"> <!-- Deephack //-->
@@ -54,9 +34,27 @@ weight = 1973
 {{< ressource-playlist-youtube "PLLY_KGBSBGjUrqFElyaEmX0YC6laGeUqQ" >}}
 </div>
 
-<div class="contenu"> <!-- Dilixo //-->
-{{< canal-youtube "id" "UCvS0HT1Xga7H_ACuhrGhEOg" >}}
-{{< ressource-playlist-youtube "PL1k_s5S44l5teTJ73Efxsk7mqqkqOTAy-" >}}
+<div class="contenu"> <!-- Spud Spike //-->
+{{< canal-youtube "id" "UC1Rsn65d8Qzy4T9A8435sYw" >}}
+{{< ressource-playlist-youtube "PLZ8X4p18pdbkfhAR0tZhWMITV8GMm85Ws" >}}
+</div>
+
+<div class="contenu"> <!-- Heinlein //-->
+{{< canal-youtube "id" "UCQyDyxc788zaDfTtqnChAoQ" >}}
+{{< ressource-playlist-youtube "PLLnxK6CJYwVcpFm-2LN97qSeTuAwvRmys" >}}
+</div>
+
+<div class="contenu"> <!-- TheSkyline35 //-->
+{{< canal-youtube "id" "UCfipg1q2NsExNwfkPoRqZyQ" >}}
+{{< ressource-video-youtube "Ug1QUvKwP5o" >}}
+</div>
+
+<div class="contenu"> <!-- Ian Christie //-->
+{{< canal-youtube "id" "UC4kJt_8Jw9ByL10ar6b8rQg" >}}
+{{< ressource-video-youtube "f6DEwh2UMXU" >}}
+{{< ressource-video-youtube "DOaIwBgswuQ" >}}
+{{< ressource-video-youtube "tWOOSptus1s" >}}
+{{< ressource-video-youtube "t0K2ntvb5D4" >}}
 </div>
 
 <div class="contenu"> <!-- Commander Steinsch //-->
@@ -64,3 +62,13 @@ weight = 1973
 {{< ressource-playlist-youtube "PL_uZ9_tQvzEocYEjaO4jVopWE_wYT3AX3" >}}
 </div>
 
+<div class="contenu"> <!-- Don Rudi //-->
+{{< canal-web "Don Rudi" >}}
+{{< ressource-web "https://files.digitalcombatsimulator.com/en/files/3334349/" "Mirage F1 Fighter Weapons School - training campaign" "fichier" >}}
+</div>
+
+<div class="contenu"> <!-- dggoofy //-->
+{{< canal-web "dggoofy" >}}
+{{< ressource-web "https://files.digitalcombatsimulator.com/en/files/3328265/" "Mirage F1 Equilibrium 1975 Campaign" "fichier" >}}
+{{< ressource-web "https://files.digitalcombatsimulator.com/en/files/3332404/" "Mirage F1 - Ad Pacem 1985 Campaign" "fichier" >}}
+</div>

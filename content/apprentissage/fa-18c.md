@@ -185,3 +185,7 @@ weight = 1983
 {{< ressource-web "https://www.reddit.com/r/hoggit/comments/f6hey1/hornet_weightbalancetrimtakeoff_calculator/" "Hornet weight/balance/trim/takeoff calculator spreadsheet" "outil" >}}
 </div>
 
+<div class="contenu"> <!-- Gunthrek / Bagel //-->
+{{< canal-web "Gunthrek / Bagel" >}}
+{{< ressource-web "https://files.digitalcombatsimulator.com/fr/files/3344992/" "Gunthrek Academy: F/A-18 Hornet - Bagel Fixpack Edition" "fichier" >}}
+</div>
